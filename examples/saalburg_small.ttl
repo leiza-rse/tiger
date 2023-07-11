@@ -1,0 +1,40 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix sf: <http://www.opengis.net/ont/sf#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix lado: <http://archaeology.link/ontology#> .
+@prefix samian: <http://data.archaeology.link/data/samian/> .
+@prefix time: <http://www.w3.org/2006/time#> .
+
+samian:loc_ds_1000838 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000838 rdfs:label 'Echzell'@en.
+samian:loc_ds_1000838 dc:identifier 1000838.
+
+samian:loc_ds_1003439 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003439 rdfs:label 'Wien'@en.
+samian:loc_ds_1003439 dc:identifier 1003439.
+
+samian:loc_ds_1000737 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000737 lado:hasType lado:DiscoverySite .
+samian:loc_ds_1000737 rdfs:label 'Saalburg'@en.
+samian:loc_ds_1000737 dc:identifier 1000737 .
+samian:loc_ds_1000737 lado:tiger_eventname 'Saalburg'@en.
+samian:loc_ds_1000737 lado:tiger_id 1000737.
+samian:loc_ds_1000737 geosparql:hasGeometry samian:loc_ds_1000737_geom .
+samian:loc_ds_1000737_geom rdf:type sf:Point .
+samian:loc_ds_1000737_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.566659 50.271522)"^^geosparql:wktLiteral.
+samian:loc_ds_1000737 lado:tiger_cax -1.5541.
+samian:loc_ds_1000737 lado:tiger_cay 0.0468.
+samian:loc_ds_1000737 lado:tiger_cax_norm 0.08208.
+samian:loc_ds_1000737 lado:tiger_cax_hex '#2d1b75' .
+
+samian:loc_ds_1000838 time:intervalBefore samian:loc_ds_1000737.
+samian:loc_ds_1000737 time:intervalBefore samian:loc_ds_1003439.
+
+
+
+
