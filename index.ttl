@@ -798,9 +798,29 @@
         <http://data.archaeology.link/data/samian/loc_ds_1004203>,
         <http://data.archaeology.link/data/samian/loc_ds_1004310> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1000080> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.446735+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1000088> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.457009+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1000136> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.449736+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000157> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.601169+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1000209> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.458772+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000255> a prov:Activity ;
@@ -813,9 +833,19 @@
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1000327> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.450736+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000346> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.600174+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1000353> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.450736+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000372> a prov:Activity ;
@@ -823,9 +853,24 @@
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1000375> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.449736+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000376> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.604164+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1000407> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.458772+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1000455> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.445808+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000457> a prov:Activity ;
@@ -843,9 +888,29 @@
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1000595> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.457009+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1000627> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.455739+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1000651> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.449736+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000671> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.607163+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1000713> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.457764+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000737> a prov:Activity ;
@@ -883,14 +948,44 @@
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1000853> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.451736+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1000897> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.455739+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1000900> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.444734+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000913> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.611166+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1000924> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.459772+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000928> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.601169+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1000956> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.453003+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1000969> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.447740+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000983> a prov:Activity ;
@@ -913,6 +1008,11 @@
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1001046> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.448968+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001054> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.602166+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
@@ -923,9 +1023,19 @@
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1001182> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.454739+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001186> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.605166+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1001198> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.443736+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001207> a prov:Activity ;
@@ -933,9 +1043,19 @@
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1001251> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.450736+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001308> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.612165+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1001323> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.451736+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001327> a prov:Activity ;
@@ -943,9 +1063,24 @@
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1001331> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.446735+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001351> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.603164+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1001359> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.450736+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1001387> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.444734+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001392> a prov:Activity ;
@@ -956,6 +1091,11 @@
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001423> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.601169+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1001462> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.457009+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001510> a prov:Activity ;
@@ -978,6 +1118,11 @@
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1001570> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.442735+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001619> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.601169+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
@@ -988,9 +1133,39 @@
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1001764> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.448968+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1001765> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.444734+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1001778> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.449736+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001786> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.606168+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1001821> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.451736+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1001829> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.451736+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1001839> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.445808+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001870> a prov:Activity ;
@@ -1003,9 +1178,19 @@
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1001888> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.447740+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001913> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.608232+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1001921> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.455739+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001943> a prov:Activity ;
@@ -1013,9 +1198,24 @@
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1001979> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.444734+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1002001> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.457764+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1002021> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.610163+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1002034> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.457764+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1002066> a prov:Activity ;
@@ -1023,9 +1223,19 @@
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1002071> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.454739+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1002130> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.602166+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1002137> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.444734+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1002190> a prov:Activity ;
@@ -1033,9 +1243,34 @@
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1002245> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.455739+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1002275> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.612165+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1002303> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.456744+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1002306> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.457764+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1002318> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.455739+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1002343> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.446735+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1002381> a prov:Activity ;
@@ -1043,9 +1278,29 @@
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1002383> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.454739+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1002444> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.449736+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1002500> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.602166+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1002513> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.452738+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1002527> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.456744+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1002542> a prov:Activity ;
@@ -1053,9 +1308,24 @@
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1002604> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.459772+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1002698> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.612165+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1002701> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.443736+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1002706> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.453003+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1002709> a prov:Activity ;
@@ -1068,9 +1338,44 @@
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1002803> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.457764+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1002839> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.605293+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1002875> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.450736+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1002885> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.449736+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1002961> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.445808+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1003098> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.453003+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1003108> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.451736+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1003148> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.443736+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1003165> a prov:Activity ;
@@ -1093,6 +1398,16 @@
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1003419> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.457764+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1003420> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.454739+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1003421> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.615130+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
@@ -1103,9 +1418,44 @@
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1003470> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.458772+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1003475> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.443736+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1003524> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.457009+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1003531> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.609131+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1003533> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.443736+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1003671> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.445808+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1003687> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.453737+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1003699> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.447740+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1003761> a prov:Activity ;
@@ -1118,9 +1468,44 @@
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1003799> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.445808+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1003810> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.451736+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1003862> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.447740+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1003870> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.450736+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1003896> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.448739+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1003898> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.606168+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1003904> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.453737+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1003933> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.453003+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1003944> a prov:Activity ;
@@ -1138,9 +1523,34 @@
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1003975> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.444734+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1004084> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.458772+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1004100> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.448968+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1004111> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.458772+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1004136> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.609131+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1004140> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.448968+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1004142> a prov:Activity ;
@@ -1153,13 +1563,30 @@
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/activity_loc_ds_1004203> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T18:08:21.458772+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
 <http://data.archaeology.link/data/samian/activity_loc_ds_1004310> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.610163+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1000080_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.899999 51.883338)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000088_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.95378 51.60952)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000136_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.09184 51.51279)"^^geo:wktLiteral .
+
 <http://data.archaeology.link/data/samian/loc_ds_1000157_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.753502 50.341669)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000209_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.833333 52.95)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000255_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.665183 50.439681)"^^geo:wktLiteral .
@@ -1167,14 +1594,29 @@
 <http://data.archaeology.link/data/samian/loc_ds_1000293_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.65 51.45)"^^geo:wktLiteral .
 
+<http://data.archaeology.link/data/samian/loc_ds_1000327_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(1.166667 52.366667)"^^geo:wktLiteral .
+
 <http://data.archaeology.link/data/samian/loc_ds_1000346_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(9.2145 48.8048)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000353_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.3895 51.47668)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000372_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.75 48.150001)"^^geo:wktLiteral .
 
+<http://data.archaeology.link/data/samian/loc_ds_1000375_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.533333 53.233333)"^^geo:wktLiteral .
+
 <http://data.archaeology.link/data/samian/loc_ds_1000376_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(12.09556 49.014999)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000407_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.881 53.079)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000455_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.483333 52.366664)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000457_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.45297 51.65877)"^^geo:wktLiteral .
@@ -1185,8 +1627,20 @@
 <http://data.archaeology.link/data/samian/loc_ds_1000489_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(13.033329 47.799999)"^^geo:wktLiteral .
 
+<http://data.archaeology.link/data/samian/loc_ds_1000595_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.444389 52.5167)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000627_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.083333 53.96667)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000651_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.65 51.483329)"^^geo:wktLiteral .
+
 <http://data.archaeology.link/data/samian/loc_ds_1000671_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(12.483329 47.93333)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000713_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.816666 53.916667)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000737_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.566659 50.271522)"^^geo:wktLiteral .
@@ -1209,11 +1663,29 @@
 <http://data.archaeology.link/data/samian/loc_ds_1000838_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.883176 50.393087)"^^geo:wktLiteral .
 
+<http://data.archaeology.link/data/samian/loc_ds_1000853_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.65 52.666671)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000897_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.6919 55.598)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000900_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.2 52.2)"^^geo:wktLiteral .
+
 <http://data.archaeology.link/data/samian/loc_ds_1000913_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.449999 50.083332)"^^geo:wktLiteral .
 
+<http://data.archaeology.link/data/samian/loc_ds_1000924_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.471779 52.933414)"^^geo:wktLiteral .
+
 <http://data.archaeology.link/data/samian/loc_ds_1000928_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(9.064167 49.976943)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000956_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.516667 51.433334)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000969_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.783333 50.833328)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000983_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.784294 50.487393)"^^geo:wktLiteral .
@@ -1227,32 +1699,59 @@
 <http://data.archaeology.link/data/samian/loc_ds_1001033_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.95427 50.93835)"^^geo:wktLiteral .
 
+<http://data.archaeology.link/data/samian/loc_ds_1001046_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(1.333333 51.283329)"^^geo:wktLiteral .
+
 <http://data.archaeology.link/data/samian/loc_ds_1001054_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.75 50.25)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001087_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.483333 47.916671)"^^geo:wktLiteral .
 
+<http://data.archaeology.link/data/samian/loc_ds_1001182_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-4.05 51.666671)"^^geo:wktLiteral .
+
 <http://data.archaeology.link/data/samian/loc_ds_1001186_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.48213 47.74818)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001198_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.014188 50.79)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001207_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(9.82587 48.27099)"^^geo:wktLiteral .
 
+<http://data.archaeology.link/data/samian/loc_ds_1001251_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.380678 51.758438)"^^geo:wktLiteral .
+
 <http://data.archaeology.link/data/samian/loc_ds_1001308_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.4 50.43333)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001323_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.183333 51.483333)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001327_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.26667 48.45)"^^geo:wktLiteral .
 
+<http://data.archaeology.link/data/samian/loc_ds_1001331_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.2654 52.007)"^^geo:wktLiteral .
+
 <http://data.archaeology.link/data/samian/loc_ds_1001351_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(4.349213 52.060064)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001359_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.25 51.833328)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001387_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.18835 51.98781)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001392_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.9624 49.030803)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001423_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.9833 50.2167)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001462_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.49766 51.390861)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001510_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.883333 49.966667)"^^geo:wktLiteral .
@@ -1266,14 +1765,35 @@
 <http://data.archaeology.link/data/samian/loc_ds_1001539_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.399999 48.566669)"^^geo:wktLiteral .
 
+<http://data.archaeology.link/data/samian/loc_ds_1001570_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.899999 51.883335)"^^geo:wktLiteral .
+
 <http://data.archaeology.link/data/samian/loc_ds_1001619_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.866666 50.333332)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001653_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(5.168262 52.060794)"^^geo:wktLiteral .
 
+<http://data.archaeology.link/data/samian/loc_ds_1001764_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.983332 51.733329)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001765_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.9 51.7)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001778_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.32822 51.430296)"^^geo:wktLiteral .
+
 <http://data.archaeology.link/data/samian/loc_ds_1001786_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(4.916666 52.083328)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001821_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.442 50.715)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001829_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.3187 51.06513)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001839_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.52751 50.7236)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001870_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.43111 49.32083)"^^geo:wktLiteral .
@@ -1281,38 +1801,95 @@
 <http://data.archaeology.link/data/samian/loc_ds_1001873_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.31389 47.72674)"^^geo:wktLiteral .
 
+<http://data.archaeology.link/data/samian/loc_ds_1001888_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.483333 51.733329)"^^geo:wktLiteral .
+
 <http://data.archaeology.link/data/samian/loc_ds_1001913_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(9.649999 48.216667)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001921_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.716666 52.400001)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001943_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.25 50.083328)"^^geo:wktLiteral .
 
+<http://data.archaeology.link/data/samian/loc_ds_1001979_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.10061 51.35356)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002001_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.383332 51.95)"^^geo:wktLiteral .
+
 <http://data.archaeology.link/data/samian/loc_ds_1002021_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(4.733333 52.099998)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002034_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.676772 54.676732)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002066_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.493611 49.923889)"^^geo:wktLiteral .
 
+<http://data.archaeology.link/data/samian/loc_ds_1002071_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.2494 51.34948)"^^geo:wktLiteral .
+
 <http://data.archaeology.link/data/samian/loc_ds_1002130_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.239792 48.7598)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002137_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.2 52.066665)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002190_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(4.433332 52.18333)"^^geo:wktLiteral .
 
+<http://data.archaeology.link/data/samian/loc_ds_1002245_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.9439 54.891)"^^geo:wktLiteral .
+
 <http://data.archaeology.link/data/samian/loc_ds_1002275_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.41944 49.44514)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002303_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(1.291995 52.582241)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002306_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.533333 53.799999)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002318_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-4.311666 51.859165)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002343_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.810943 50.839269)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002381_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.84333 48.659999)"^^geo:wktLiteral .
 
+<http://data.archaeology.link/data/samian/loc_ds_1002383_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.893943 53.191469)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002444_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.833333 52.26667)"^^geo:wktLiteral .
+
 <http://data.archaeology.link/data/samian/loc_ds_1002500_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.699999 49.416671)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002513_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.35 53.71667)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002527_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.957643 52.96598)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002542_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.75 48.583328)"^^geo:wktLiteral .
 
+<http://data.archaeology.link/data/samian/loc_ds_1002604_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.23743 53.48095)"^^geo:wktLiteral .
+
 <http://data.archaeology.link/data/samian/loc_ds_1002698_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.68504 51.19807)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002701_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.02789 51.90684)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002706_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.133332 52.633338)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002709_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.57883 50.35357)"^^geo:wktLiteral .
@@ -1320,8 +1897,29 @@
 <http://data.archaeology.link/data/samian/loc_ds_1002748_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.0 48.333328)"^^geo:wktLiteral .
 
+<http://data.archaeology.link/data/samian/loc_ds_1002803_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.116666 53.533332)"^^geo:wktLiteral .
+
 <http://data.archaeology.link/data/samian/loc_ds_1002839_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.304722 51.721389)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002875_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.7 51.544)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002885_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.833333 53.216667)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002961_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.866933 52.656707)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003098_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.991984 52.125587)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003108_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.716521 51.298175)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003148_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.51667 51.26667)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003165_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.89851 48.37154)"^^geo:wktLiteral .
@@ -1335,14 +1933,41 @@
 <http://data.archaeology.link/data/samian/loc_ds_1003289_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.646584 50.159333)"^^geo:wktLiteral .
 
+<http://data.archaeology.link/data/samian/loc_ds_1003419_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.01798 54.97365)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003420_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-4.265485 53.137619)"^^geo:wktLiteral .
+
 <http://data.archaeology.link/data/samian/loc_ds_1003421_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(4.633333 52.46667)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003439_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(16.37208 48.20849)"^^geo:wktLiteral .
 
+<http://data.archaeology.link/data/samian/loc_ds_1003470_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.359504 54.991588)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003475_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.518985 52.566791)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003524_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.422952 56.541347)"^^geo:wktLiteral .
+
 <http://data.archaeology.link/data/samian/loc_ds_1003531_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(5.866666 51.833328)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003533_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.969736 51.83586)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003671_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(1.07992 51.27904)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003687_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.6897 51.7417)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003699_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.283333 52.116664)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003761_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.2791 50.0)"^^geo:wktLiteral .
@@ -1350,8 +1975,29 @@
 <http://data.archaeology.link/data/samian/loc_ds_1003782_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(9.7471 47.50311)"^^geo:wktLiteral .
 
+<http://data.archaeology.link/data/samian/loc_ds_1003799_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.599707 51.775375)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003810_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.166077 51.880107)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003862_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.089161 51.5)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003870_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.333333 51.75)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003896_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.866667 52.21667)"^^geo:wktLiteral .
+
 <http://data.archaeology.link/data/samian/loc_ds_1003898_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(11.449999 48.71667)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003904_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.8 54.133335)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003933_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.82374 56.008213)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003944_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(5.333333 51.799999)"^^geo:wktLiteral .
@@ -1362,14 +2008,32 @@
 <http://data.archaeology.link/data/samian/loc_ds_1003966_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(5.133333 52.083328)"^^geo:wktLiteral .
 
+<http://data.archaeology.link/data/samian/loc_ds_1003975_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.596903 53.688995)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1004084_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.586209 53.369159)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1004100_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.40428 50.90395)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1004111_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.63328 54.37542)"^^geo:wktLiteral .
+
 <http://data.archaeology.link/data/samian/loc_ds_1004136_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.099999 50.733329)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1004140_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.357391 51.381506)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1004142_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.916669 47.916671)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1004152_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.27806 49.11806)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1004203_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.766666 51.616661)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1004310_geom> a <http://www.opengis.net/ont/sf#Point> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.35916 49.63278)"^^geo:wktLiteral .
@@ -1396,6 +2060,94 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001530> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1001570> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Camulodunum"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -2.4689 ;
+    ns1:tiger_cax_hex "#310769" ;
+    ns1:tiger_cax_norm 0.0 ;
+    ns1:tiger_cay -1.7971 ;
+    ns1:tiger_eventname "Camulodunum"@en ;
+    ns1:tiger_id 1001570 ;
+    dc:identifier 1001570 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1001570_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1003148> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001570> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000080> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Colchester"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.286 ;
+    ns1:tiger_cax_hex "#1887b4" ;
+    ns1:tiger_cax_norm 0.51664 ;
+    ns1:tiger_cay 0.0771 ;
+    ns1:tiger_eventname "Colchester"@en ;
+    ns1:tiger_id 1000080 ;
+    dc:identifier 1000080 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1000080_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1002343> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000080> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000088> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Caerleon"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.8084 ;
+    ns1:tiger_cax_hex "#0bc7da" ;
+    ns1:tiger_cax_norm 0.77566 ;
+    ns1:tiger_cay -0.5661 ;
+    ns1:tiger_eventname "Caerleon"@en ;
+    ns1:tiger_id 1000088 ;
+    dc:identifier 1000088 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1000088_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1003524> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000088> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000136> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "London"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.0207 ;
+    ns1:tiger_cax_hex "#1597be" ;
+    ns1:tiger_cax_norm 0.57943 ;
+    ns1:tiger_cay 0.1535 ;
+    ns1:tiger_eventname "London"@en ;
+    ns1:tiger_id 1000136 ;
+    dc:identifier 1000136 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1000136_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1000375> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000136> .
+
 <http://data.archaeology.link/data/samian/loc_ds_1000157> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1417,6 +2169,28 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000157> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000209> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Rocester"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 1.1325 ;
+    ns1:tiger_cax_hex "#07dae5" ;
+    ns1:tiger_cax_norm 0.85236 ;
+    ns1:tiger_cay -1.3604 ;
+    ns1:tiger_eventname "Rocester"@en ;
+    ns1:tiger_id 1000209 ;
+    dc:identifier 1000209 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1000209_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1003470> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000209> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000255> a ns1:DiscoverySite,
         ns1:Location,
@@ -1462,6 +2236,28 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000293> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1000327> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Scole"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.1304 ;
+    ns1:tiger_cax_hex "#13a0c3" ;
+    ns1:tiger_cax_norm 0.61519 ;
+    ns1:tiger_cay 0.2819 ;
+    ns1:tiger_eventname "Scole"@en ;
+    ns1:tiger_id 1000327 ;
+    dc:identifier 1000327 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1000327_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1001829> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000327> .
+
 <http://data.archaeology.link/data/samian/loc_ds_1000346> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1483,6 +2279,28 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000346> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000353> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "West Tilbury"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.0887 ;
+    ns1:tiger_cax_hex "#139dc1" ;
+    ns1:tiger_cax_norm 0.60532 ;
+    ns1:tiger_cay 0.1588 ;
+    ns1:tiger_eventname "West Tilbury"@en ;
+    ns1:tiger_id 1000353 ;
+    dc:identifier 1000353 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1000353_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1001251> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000353> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000372> a ns1:DiscoverySite,
         ns1:Location,
@@ -1506,6 +2324,28 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000372> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1000375> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Lincoln"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.0199 ;
+    ns1:tiger_cax_hex "#1597be" ;
+    ns1:tiger_cax_norm 0.57962 ;
+    ns1:tiger_cay 0.2723 ;
+    ns1:tiger_eventname "Lincoln"@en ;
+    ns1:tiger_id 1000375 ;
+    dc:identifier 1000375 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1000375_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1000651> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000375> .
+
 <http://data.archaeology.link/data/samian/loc_ds_1000376> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1527,6 +2367,50 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000376> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000407> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Holt"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 1.3353 ;
+    ns1:tiger_cax_hex "#05e6ec" ;
+    ns1:tiger_cax_norm 0.90036 ;
+    ns1:tiger_cay -1.3935 ;
+    ns1:tiger_eventname "Holt"@en ;
+    ns1:tiger_id 1000407 ;
+    dc:identifier 1000407 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1000407_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1004111> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000407> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000455> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Baginton"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.3792 ;
+    ns1:tiger_cax_hex "#1982b1" ;
+    ns1:tiger_cax_norm 0.49458 ;
+    ns1:tiger_cay 0.8311 ;
+    ns1:tiger_eventname "Baginton"@en ;
+    ns1:tiger_id 1000455 ;
+    dc:identifier 1000455 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1000455_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1002961> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000455> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000457> a ns1:DiscoverySite,
         ns1:Location,
@@ -1594,6 +2478,72 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000489> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1000595> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Caersws"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.8019 ;
+    ns1:tiger_cax_hex "#0bc7da" ;
+    ns1:tiger_cax_norm 0.77412 ;
+    ns1:tiger_cay -0.4883 ;
+    ns1:tiger_eventname "Caersws"@en ;
+    ns1:tiger_id 1000595 ;
+    dc:identifier 1000595 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1000595_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1000088> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000595> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000627> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "York"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.6623 ;
+    ns1:tiger_cax_hex "#0dbfd5" ;
+    ns1:tiger_cax_norm 0.74108 ;
+    ns1:tiger_cay -0.3876 ;
+    ns1:tiger_eventname "York"@en ;
+    ns1:tiger_id 1000627 ;
+    dc:identifier 1000627 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1000627_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1002245> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000627> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000651> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Sea Mills"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.0088 ;
+    ns1:tiger_cax_hex "#1498bf" ;
+    ns1:tiger_cax_norm 0.58641 ;
+    ns1:tiger_cay 0.2402 ;
+    ns1:tiger_eventname "Sea Mills"@en ;
+    ns1:tiger_id 1000651 ;
+    dc:identifier 1000651 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1000651_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1002444> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000651> .
+
 <http://data.archaeology.link/data/samian/loc_ds_1000671> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1615,6 +2565,28 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000671> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000713> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Ilkley"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.9437 ;
+    ns1:tiger_cax_hex "#09cfdf" ;
+    ns1:tiger_cax_norm 0.80768 ;
+    ns1:tiger_cay -0.5886 ;
+    ns1:tiger_eventname "Ilkley"@en ;
+    ns1:tiger_id 1000713 ;
+    dc:identifier 1000713 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1000713_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1002306> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000713> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000737> a ns1:DiscoverySite,
         ns1:Location,
@@ -1770,6 +2742,72 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000838> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1000853> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Wroxeter"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.2355 ;
+    ns1:tiger_cax_hex "#12a6c6" ;
+    ns1:tiger_cax_norm 0.64006 ;
+    ns1:tiger_cay 0.0857 ;
+    ns1:tiger_eventname "Wroxeter"@en ;
+    ns1:tiger_id 1000853 ;
+    dc:identifier 1000853 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1000853_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1001821> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000853> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000897> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Newstead"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.6513 ;
+    ns1:tiger_cax_hex "#0dbed5" ;
+    ns1:tiger_cax_norm 0.73847 ;
+    ns1:tiger_cay -0.218 ;
+    ns1:tiger_eventname "Newstead"@en ;
+    ns1:tiger_id 1000897 ;
+    dc:identifier 1000897 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1000897_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1001921> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000897> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000900> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Worcester"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.4403 ;
+    ns1:tiger_cax_hex "#197eaf" ;
+    ns1:tiger_cax_norm 0.48012 ;
+    ns1:tiger_cay 0.2798 ;
+    ns1:tiger_eventname "Worcester"@en ;
+    ns1:tiger_id 1000900 ;
+    dc:identifier 1000900 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1000900_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1001979> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000900> .
+
 <http://data.archaeology.link/data/samian/loc_ds_1000913> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1792,6 +2830,28 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000913> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1000924> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Little Chester"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 1.6601 ;
+    ns1:tiger_cax_hex "#01f9f8" ;
+    ns1:tiger_cax_norm 0.97723 ;
+    ns1:tiger_cay -2.0778 ;
+    ns1:tiger_eventname "Little Chester"@en ;
+    ns1:tiger_id 1000924 ;
+    dc:identifier 1000924 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1000924_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1002604> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000924> .
+
 <http://data.archaeology.link/data/samian/loc_ds_1000928> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1813,6 +2873,50 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000928> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000956> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Staines"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.3249 ;
+    ns1:tiger_cax_hex "#11abca" ;
+    ns1:tiger_cax_norm 0.66122 ;
+    ns1:tiger_cay 0.1973 ;
+    ns1:tiger_eventname "Staines"@en ;
+    ns1:tiger_id 1000956 ;
+    dc:identifier 1000956 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1000956_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1003098> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000956> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000969> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Chichester"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.132 ;
+    ns1:tiger_cax_hex "#1690ba" ;
+    ns1:tiger_cax_norm 0.55309 ;
+    ns1:tiger_cay 0.1205 ;
+    ns1:tiger_eventname "Chichester"@en ;
+    ns1:tiger_id 1000969 ;
+    dc:identifier 1000969 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1000969_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1003699> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000969> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000983> a ns1:DiscoverySite,
         ns1:Location,
@@ -1902,6 +3006,28 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001033> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1001046> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Richborough"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.058 ;
+    ns1:tiger_cax_hex "#1595bc" ;
+    ns1:tiger_cax_norm 0.5706 ;
+    ns1:tiger_cay 0.0367 ;
+    ns1:tiger_eventname "Richborough"@en ;
+    ns1:tiger_id 1001046 ;
+    dc:identifier 1001046 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1001046_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1004140> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001046> .
+
 <http://data.archaeology.link/data/samian/loc_ds_1001054> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1946,6 +3072,28 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001087> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1001182> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Loughor"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.5947 ;
+    ns1:tiger_cax_hex "#0dbbd3" ;
+    ns1:tiger_cax_norm 0.72508 ;
+    ns1:tiger_cay -0.0937 ;
+    ns1:tiger_eventname "Loughor"@en ;
+    ns1:tiger_id 1001182 ;
+    dc:identifier 1001182 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1001182_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1002318> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001182> .
+
 <http://data.archaeology.link/data/samian/loc_ds_1001186> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1967,6 +3115,28 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001186> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001198> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Wimborne"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -1.0293 ;
+    ns1:tiger_cax_hex "#205b9b" ;
+    ns1:tiger_cax_norm 0.34072 ;
+    ns1:tiger_cay 0.0269 ;
+    ns1:tiger_eventname "Wimborne"@en ;
+    ns1:tiger_id 1001198 ;
+    dc:identifier 1001198 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1001198_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1003475> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001198> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001207> a ns1:DiscoverySite,
         ns1:Location,
@@ -1990,6 +3160,28 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001207> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1001251> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Gorhambury"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.0891 ;
+    ns1:tiger_cax_hex "#139dc1" ;
+    ns1:tiger_cax_norm 0.60542 ;
+    ns1:tiger_cay -0.301 ;
+    ns1:tiger_eventname "Gorhambury"@en ;
+    ns1:tiger_id 1001251 ;
+    dc:identifier 1001251 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1001251_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1000327> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001251> .
+
 <http://data.archaeology.link/data/samian/loc_ds_1001308> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -2011,6 +3203,28 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001308> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001323> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Cardiff"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.1535 ;
+    ns1:tiger_cax_hex "#13a1c4" ;
+    ns1:tiger_cax_norm 0.62066 ;
+    ns1:tiger_cay 0.3138 ;
+    ns1:tiger_eventname "Cardiff"@en ;
+    ns1:tiger_id 1001323 ;
+    dc:identifier 1001323 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1001323_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1003108> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001323> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001327> a ns1:DiscoverySite,
         ns1:Location,
@@ -2034,6 +3248,28 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001327> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1001331> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Arlesey"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.2459 ;
+    ns1:tiger_cax_hex "#1789b6" ;
+    ns1:tiger_cax_norm 0.52613 ;
+    ns1:tiger_cay 1.3322 ;
+    ns1:tiger_eventname "Arlesey"@en ;
+    ns1:tiger_id 1001331 ;
+    dc:identifier 1001331 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1001331_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1003862> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001331> .
+
 <http://data.archaeology.link/data/samian/loc_ds_1001351> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -2055,6 +3291,50 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001351> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001359> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Gloucester"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.0716 ;
+    ns1:tiger_cax_hex "#149cc1" ;
+    ns1:tiger_cax_norm 0.60127 ;
+    ns1:tiger_cay 0.1621 ;
+    ns1:tiger_eventname "Gloucester"@en ;
+    ns1:tiger_id 1001359 ;
+    dc:identifier 1001359 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1001359_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1002875> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001359> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001387> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Baldock"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.4988 ;
+    ns1:tiger_cax_hex "#1a7bad" ;
+    ns1:tiger_cax_norm 0.46627 ;
+    ns1:tiger_cay 0.2398 ;
+    ns1:tiger_eventname "Baldock"@en ;
+    ns1:tiger_id 1001387 ;
+    dc:identifier 1001387 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1001387_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1000900> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001387> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001392> a ns1:DiscoverySite,
         ns1:Location,
@@ -2099,6 +3379,28 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001423> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001462> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Rochester"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.6876 ;
+    ns1:tiger_cax_hex "#0cc0d6" ;
+    ns1:tiger_cax_norm 0.74707 ;
+    ns1:tiger_cay -0.264 ;
+    ns1:tiger_eventname "Rochester"@en ;
+    ns1:tiger_id 1001462 ;
+    dc:identifier 1001462 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1001462_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1000595> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001462> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001510> a ns1:DiscoverySite,
         ns1:Location,
@@ -2210,6 +3512,72 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001653> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1001764> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Cirencester"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.088 ;
+    ns1:tiger_cax_hex "#1593bb" ;
+    ns1:tiger_cax_norm 0.5635 ;
+    ns1:tiger_cay 0.1354 ;
+    ns1:tiger_eventname "Cirencester"@en ;
+    ns1:tiger_id 1001764 ;
+    dc:identifier 1001764 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1001764_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1004100> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001764> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001765> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Usk"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.5209 ;
+    ns1:tiger_cax_hex "#1a79ac" ;
+    ns1:tiger_cax_norm 0.46104 ;
+    ns1:tiger_cay 0.7939 ;
+    ns1:tiger_eventname "Usk"@en ;
+    ns1:tiger_id 1001765 ;
+    dc:identifier 1001765 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1001765_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1002137> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001765> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001778> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Springhead"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.0454 ;
+    ns1:tiger_cax_hex "#149bc0" ;
+    ns1:tiger_cax_norm 0.59507 ;
+    ns1:tiger_cay 0.2041 ;
+    ns1:tiger_eventname "Springhead"@en ;
+    ns1:tiger_id 1001778 ;
+    dc:identifier 1001778 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1001778_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1003870> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001778> .
+
 <http://data.archaeology.link/data/samian/loc_ds_1001786> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -2231,6 +3599,72 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001786> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001821> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Dorchester, Dorset"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.2769 ;
+    ns1:tiger_cax_hex "#11a8c8" ;
+    ns1:tiger_cax_norm 0.64986 ;
+    ns1:tiger_cay 0.1386 ;
+    ns1:tiger_eventname "Dorchester, Dorset"@en ;
+    ns1:tiger_id 1001821 ;
+    dc:identifier 1001821 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1001821_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1002513> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001821> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001829> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Winchester"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.138 ;
+    ns1:tiger_cax_hex "#13a0c3" ;
+    ns1:tiger_cax_norm 0.61699 ;
+    ns1:tiger_cay -0.1505 ;
+    ns1:tiger_eventname "Winchester"@en ;
+    ns1:tiger_id 1001829 ;
+    dc:identifier 1001829 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1001829_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1003810> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001829> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001839> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Exeter"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.3446 ;
+    ns1:tiger_cax_hex "#1884b2" ;
+    ns1:tiger_cax_norm 0.50277 ;
+    ns1:tiger_cay 0.5101 ;
+    ns1:tiger_eventname "Exeter"@en ;
+    ns1:tiger_id 1001839 ;
+    dc:identifier 1001839 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1001839_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1003671> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001839> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001870> a ns1:DiscoverySite,
         ns1:Location,
@@ -2276,6 +3710,28 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001873> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1001888> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Chelmsford"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.1637 ;
+    ns1:tiger_cax_hex "#168eb9" ;
+    ns1:tiger_cax_norm 0.54558 ;
+    ns1:tiger_cay 0.288 ;
+    ns1:tiger_eventname "Chelmsford"@en ;
+    ns1:tiger_id 1001888 ;
+    dc:identifier 1001888 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1001888_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1000969> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001888> .
+
 <http://data.archaeology.link/data/samian/loc_ds_1001913> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -2297,6 +3753,28 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001913> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001921> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Kettering"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.6609 ;
+    ns1:tiger_cax_hex "#0dbfd5" ;
+    ns1:tiger_cax_norm 0.74075 ;
+    ns1:tiger_cay -0.3362 ;
+    ns1:tiger_eventname "Kettering"@en ;
+    ns1:tiger_id 1001921 ;
+    dc:identifier 1001921 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1001921_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1000627> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001921> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001943> a ns1:DiscoverySite,
         ns1:Location,
@@ -2320,6 +3798,50 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001943> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1001979> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Silchester"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.4292 ;
+    ns1:tiger_cax_hex "#197faf" ;
+    ns1:tiger_cax_norm 0.48275 ;
+    ns1:tiger_cay -0.2287 ;
+    ns1:tiger_eventname "Silchester"@en ;
+    ns1:tiger_id 1001979 ;
+    dc:identifier 1001979 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1001979_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1003975> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001979> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002001> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Brecon"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.9352 ;
+    ns1:tiger_cax_hex "#0acfdf" ;
+    ns1:tiger_cax_norm 0.80567 ;
+    ns1:tiger_cay -0.9354 ;
+    ns1:tiger_eventname "Brecon"@en ;
+    ns1:tiger_id 1002001 ;
+    dc:identifier 1002001 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1002001_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1000713> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002001> .
+
 <http://data.archaeology.link/data/samian/loc_ds_1002021> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -2341,6 +3863,28 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002021> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002034> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Binchester"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.905 ;
+    ns1:tiger_cax_hex "#0acdde" ;
+    ns1:tiger_cax_norm 0.79852 ;
+    ns1:tiger_cay -0.6557 ;
+    ns1:tiger_eventname "Binchester"@en ;
+    ns1:tiger_id 1002034 ;
+    dc:identifier 1002034 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1002034_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1002001> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002034> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002066> a ns1:DiscoverySite,
         ns1:Location,
@@ -2364,6 +3908,28 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002066> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1002071> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Ewell"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.5415 ;
+    ns1:tiger_cax_hex "#0eb8d1" ;
+    ns1:tiger_cax_norm 0.71249 ;
+    ns1:tiger_cay -0.2235 ;
+    ns1:tiger_eventname "Ewell"@en ;
+    ns1:tiger_id 1002071 ;
+    dc:identifier 1002071 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1002071_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1002383> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002071> .
+
 <http://data.archaeology.link/data/samian/loc_ds_1002130> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -2385,6 +3951,28 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002130> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002137> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Great Chesterford"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.517 ;
+    ns1:tiger_cax_hex "#1a7aac" ;
+    ns1:tiger_cax_norm 0.46197 ;
+    ns1:tiger_cay -0.336 ;
+    ns1:tiger_eventname "Great Chesterford"@en ;
+    ns1:tiger_id 1002137 ;
+    dc:identifier 1002137 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1002137_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1001387> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002137> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002190> a ns1:DiscoverySite,
         ns1:Location,
@@ -2408,6 +3996,28 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002190> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1002245> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Carlisle"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.6693 ;
+    ns1:tiger_cax_hex "#0dbfd5" ;
+    ns1:tiger_cax_norm 0.74273 ;
+    ns1:tiger_cay -0.3006 ;
+    ns1:tiger_eventname "Carlisle"@en ;
+    ns1:tiger_id 1002245 ;
+    dc:identifier 1002245 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1002245_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1002527> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002245> .
+
 <http://data.archaeology.link/data/samian/loc_ds_1002275> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -2429,6 +4039,94 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002275> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002303> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Caistor-by-Norwich"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.6803 ;
+    ns1:tiger_cax_hex "#0cc0d6" ;
+    ns1:tiger_cax_norm 0.74534 ;
+    ns1:tiger_cay -0.4844 ;
+    ns1:tiger_eventname "Caistor-by-Norwich"@en ;
+    ns1:tiger_id 1002303 ;
+    dc:identifier 1002303 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1002303_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1001462> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002303> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002306> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Ribchester"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.9512 ;
+    ns1:tiger_cax_hex "#09d0df" ;
+    ns1:tiger_cax_norm 0.80945 ;
+    ns1:tiger_cay -0.8411 ;
+    ns1:tiger_eventname "Ribchester"@en ;
+    ns1:tiger_id 1002306 ;
+    dc:identifier 1002306 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1002306_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1003419> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002306> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002318> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Carmarthen"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.6298 ;
+    ns1:tiger_cax_hex "#0dbdd4" ;
+    ns1:tiger_cax_norm 0.73339 ;
+    ns1:tiger_cay -0.2417 ;
+    ns1:tiger_eventname "Carmarthen"@en ;
+    ns1:tiger_id 1002318 ;
+    dc:identifier 1002318 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1002318_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1000897> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002318> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002343> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Fishbourne"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.2636 ;
+    ns1:tiger_cax_hex "#1788b5" ;
+    ns1:tiger_cax_norm 0.52194 ;
+    ns1:tiger_cay 0.1874 ;
+    ns1:tiger_eventname "Fishbourne"@en ;
+    ns1:tiger_id 1002343 ;
+    dc:identifier 1002343 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1002343_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1001331> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002343> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002381> a ns1:DiscoverySite,
         ns1:Location,
@@ -2452,6 +4150,50 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002381> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1002383> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Chester"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.5892 ;
+    ns1:tiger_cax_hex "#0ebad3" ;
+    ns1:tiger_cax_norm 0.72378 ;
+    ns1:tiger_cay -0.2532 ;
+    ns1:tiger_eventname "Chester"@en ;
+    ns1:tiger_id 1002383 ;
+    dc:identifier 1002383 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1002383_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1001182> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002383> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002444> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Pakenham"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.0318 ;
+    ns1:tiger_cax_hex "#149abf" ;
+    ns1:tiger_cax_norm 0.59185 ;
+    ns1:tiger_cay 0.1876 ;
+    ns1:tiger_eventname "Pakenham"@en ;
+    ns1:tiger_id 1002444 ;
+    dc:identifier 1002444 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1002444_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1001778> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002444> .
+
 <http://data.archaeology.link/data/samian/loc_ds_1002500> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -2473,6 +4215,50 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002500> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002513> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Castleford"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.2827 ;
+    ns1:tiger_cax_hex "#11a9c8" ;
+    ns1:tiger_cax_norm 0.65124 ;
+    ns1:tiger_cay 0.309 ;
+    ns1:tiger_eventname "Castleford"@en ;
+    ns1:tiger_id 1002513 ;
+    dc:identifier 1002513 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1002513_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1000956> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002513> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002527> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Margidunum"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.6767 ;
+    ns1:tiger_cax_hex "#0dc0d6" ;
+    ns1:tiger_cax_norm 0.74449 ;
+    ns1:tiger_cay -0.2633 ;
+    ns1:tiger_eventname "Margidunum"@en ;
+    ns1:tiger_id 1002527 ;
+    dc:identifier 1002527 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1002527_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1002303> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002527> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002542> a ns1:DiscoverySite,
         ns1:Location,
@@ -2496,6 +4282,27 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002542> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1002604> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Manchester"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 1.7563 ;
+    ns1:tiger_cax_hex "#00fffb" ;
+    ns1:tiger_cax_norm 1.0 ;
+    ns1:tiger_cay -2.2265 ;
+    ns1:tiger_eventname "Manchester"@en ;
+    ns1:tiger_id 1002604 ;
+    dc:identifier 1002604 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1002604_geom> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002604> .
+
 <http://data.archaeology.link/data/samian/loc_ds_1002698> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -2517,6 +4324,50 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002698> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002701> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Braughing"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.6397 ;
+    ns1:tiger_cax_hex "#1c72a8" ;
+    ns1:tiger_cax_norm 0.43293 ;
+    ns1:tiger_cay -0.3673 ;
+    ns1:tiger_eventname "Braughing"@en ;
+    ns1:tiger_id 1002701 ;
+    dc:identifier 1002701 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1002701_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1001765> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002701> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002706> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Leicester"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.4183 ;
+    ns1:tiger_cax_hex "#10b0cd" ;
+    ns1:tiger_cax_norm 0.68333 ;
+    ns1:tiger_cay -0.1853 ;
+    ns1:tiger_eventname "Leicester"@en ;
+    ns1:tiger_id 1002706 ;
+    dc:identifier 1002706 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1002706_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1003904> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002706> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002709> a ns1:DiscoverySite,
         ns1:Location,
@@ -2562,6 +4413,28 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002748> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1002803> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Doncaster"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 1.1047 ;
+    ns1:tiger_cax_hex "#08d9e4" ;
+    ns1:tiger_cax_norm 0.84578 ;
+    ns1:tiger_cay -0.9121 ;
+    ns1:tiger_eventname "Doncaster"@en ;
+    ns1:tiger_id 1002803 ;
+    dc:identifier 1002803 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1002803_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1000209> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002803> .
+
 <http://data.archaeology.link/data/samian/loc_ds_1002839> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -2583,6 +4456,138 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002839> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002875> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Wanborough, Wiltshire"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.0846 ;
+    ns1:tiger_cax_hex "#139dc1" ;
+    ns1:tiger_cax_norm 0.60435 ;
+    ns1:tiger_cay 0.2764 ;
+    ns1:tiger_eventname "Wanborough, Wiltshire"@en ;
+    ns1:tiger_id 1002875 ;
+    dc:identifier 1002875 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1002875_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1000353> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002875> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002885> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Caerhûn"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.0263 ;
+    ns1:tiger_cax_hex "#1596bd" ;
+    ns1:tiger_cax_norm 0.5781 ;
+    ns1:tiger_cay 0.1363 ;
+    ns1:tiger_eventname "Caerhûn"@en ;
+    ns1:tiger_id 1002885 ;
+    dc:identifier 1002885 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1002885_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1000136> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002885> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002961> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Wall"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.3721 ;
+    ns1:tiger_cax_hex "#1982b1" ;
+    ns1:tiger_cax_norm 0.49626 ;
+    ns1:tiger_cay 0.4928 ;
+    ns1:tiger_eventname "Wall"@en ;
+    ns1:tiger_id 1002961 ;
+    dc:identifier 1002961 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1002961_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1001839> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002961> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003098> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Towcester"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.3614 ;
+    ns1:tiger_cax_hex "#10adcb" ;
+    ns1:tiger_cax_norm 0.66986 ;
+    ns1:tiger_cay 0.3068 ;
+    ns1:tiger_eventname "Towcester"@en ;
+    ns1:tiger_id 1003098 ;
+    dc:identifier 1003098 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1003098_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1003933> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003098> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003108> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Charterhouse-on-Mendip"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.1908 ;
+    ns1:tiger_cax_hex "#12a3c5" ;
+    ns1:tiger_cax_norm 0.62948 ;
+    ns1:tiger_cay 0.2863 ;
+    ns1:tiger_eventname "Charterhouse-on-Mendip"@en ;
+    ns1:tiger_id 1003108 ;
+    dc:identifier 1003108 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1003108_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1000853> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003108> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003148> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Maidstone"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -1.2852 ;
+    ns1:tiger_cax_hex "#234c92" ;
+    ns1:tiger_cax_norm 0.28015 ;
+    ns1:tiger_cay -0.0088 ;
+    ns1:tiger_eventname "Maidstone"@en ;
+    ns1:tiger_id 1003148 ;
+    dc:identifier 1003148 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1003148_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1003533> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003148> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003165> a ns1:DiscoverySite,
         ns1:Location,
@@ -2672,6 +4677,50 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003289> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1003419> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Corbridge"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.9924 ;
+    ns1:tiger_cax_hex "#09d2e1" ;
+    ns1:tiger_cax_norm 0.8192 ;
+    ns1:tiger_cay -0.7927 ;
+    ns1:tiger_eventname "Corbridge"@en ;
+    ns1:tiger_id 1003419 ;
+    dc:identifier 1003419 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1003419_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1002803> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003419> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003420> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Caernarfon"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.5218 ;
+    ns1:tiger_cax_hex "#0eb7d0" ;
+    ns1:tiger_cax_norm 0.70782 ;
+    ns1:tiger_cay -0.0243 ;
+    ns1:tiger_eventname "Caernarfon"@en ;
+    ns1:tiger_id 1003420 ;
+    dc:identifier 1003420 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1003420_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1002071> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003420> .
+
 <http://data.archaeology.link/data/samian/loc_ds_1003421> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -2715,6 +4764,72 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003439> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1003470> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Chesterholm-Vindolanda"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 1.1739 ;
+    ns1:tiger_cax_hex "#07dde7" ;
+    ns1:tiger_cax_norm 0.86216 ;
+    ns1:tiger_cay -1.1011 ;
+    ns1:tiger_eventname "Chesterholm-Vindolanda"@en ;
+    ns1:tiger_id 1003470 ;
+    dc:identifier 1003470 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1003470_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1004203> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003470> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003475> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Mancetter"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.9793 ;
+    ns1:tiger_cax_hex "#205e9c" ;
+    ns1:tiger_cax_norm 0.35255 ;
+    ns1:tiger_cay 0.0567 ;
+    ns1:tiger_eventname "Mancetter"@en ;
+    ns1:tiger_id 1003475 ;
+    dc:identifier 1003475 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1003475_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1002701> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003475> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003524> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Inchtuthil"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.8134 ;
+    ns1:tiger_cax_hex "#0bc8da" ;
+    ns1:tiger_cax_norm 0.77684 ;
+    ns1:tiger_cay -0.6299 ;
+    ns1:tiger_eventname "Inchtuthil"@en ;
+    ns1:tiger_id 1003524 ;
+    dc:identifier 1003524 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1003524_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1002034> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003524> .
+
 <http://data.archaeology.link/data/samian/loc_ds_1003531> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -2736,6 +4851,94 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003531> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003533> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Fingringhoe Wick"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -1.1808 ;
+    ns1:tiger_cax_hex "#225396" ;
+    ns1:tiger_cax_norm 0.30486 ;
+    ns1:tiger_cay -0.2368 ;
+    ns1:tiger_eventname "Fingringhoe Wick"@en ;
+    ns1:tiger_id 1003533 ;
+    dc:identifier 1003533 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1003533_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1001198> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003533> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003671> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Canterbury"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.3415 ;
+    ns1:tiger_cax_hex "#1884b3" ;
+    ns1:tiger_cax_norm 0.5035 ;
+    ns1:tiger_cay -0.1198 ;
+    ns1:tiger_eventname "Canterbury"@en ;
+    ns1:tiger_id 1003671 ;
+    dc:identifier 1003671 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1003671_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1003799> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003671> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003687> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Heybridge"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.4735 ;
+    ns1:tiger_cax_hex "#0fb4cf" ;
+    ns1:tiger_cax_norm 0.69639 ;
+    ns1:tiger_cay -0.1382 ;
+    ns1:tiger_eventname "Heybridge"@en ;
+    ns1:tiger_id 1003687 ;
+    dc:identifier 1003687 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1003687_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1003420> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003687> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003699> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Sandy"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.127 ;
+    ns1:tiger_cax_hex "#1690ba" ;
+    ns1:tiger_cax_norm 0.55427 ;
+    ns1:tiger_cay 0.3607 ;
+    ns1:tiger_eventname "Sandy"@en ;
+    ns1:tiger_id 1003699 ;
+    dc:identifier 1003699 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1003699_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1003896> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003699> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003761> a ns1:DiscoverySite,
         ns1:Location,
@@ -2781,6 +4984,116 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003782> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1003799> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Northchurch"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.3399 ;
+    ns1:tiger_cax_hex "#1884b3" ;
+    ns1:tiger_cax_norm 0.50388 ;
+    ns1:tiger_cay 1.0421 ;
+    ns1:tiger_eventname "Northchurch"@en ;
+    ns1:tiger_id 1003799 ;
+    dc:identifier 1003799 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1003799_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1000080> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003799> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003810> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Alchester"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.1396 ;
+    ns1:tiger_cax_hex "#13a0c3" ;
+    ns1:tiger_cax_norm 0.61737 ;
+    ns1:tiger_cay -1.6503 ;
+    ns1:tiger_eventname "Alchester"@en ;
+    ns1:tiger_id 1003810 ;
+    dc:identifier 1003810 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1003810_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1001323> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003810> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003862> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Southwark"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.1645 ;
+    ns1:tiger_cax_hex "#168eb9" ;
+    ns1:tiger_cax_norm 0.54539 ;
+    ns1:tiger_cay 0.2654 ;
+    ns1:tiger_eventname "Southwark"@en ;
+    ns1:tiger_id 1003862 ;
+    dc:identifier 1003862 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1003862_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1001888> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003862> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003870> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Verulamium"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.0583 ;
+    ns1:tiger_cax_hex "#149bc0" ;
+    ns1:tiger_cax_norm 0.59813 ;
+    ns1:tiger_cay 0.0342 ;
+    ns1:tiger_eventname "Verulamium"@en ;
+    ns1:tiger_id 1003870 ;
+    dc:identifier 1003870 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1003870_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1001359> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003870> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003896> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Alcester"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.1076 ;
+    ns1:tiger_cax_hex "#1692bb" ;
+    ns1:tiger_cax_norm 0.55886 ;
+    ns1:tiger_cay 0.2755 ;
+    ns1:tiger_eventname "Alcester"@en ;
+    ns1:tiger_id 1003896 ;
+    dc:identifier 1003896 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1003896_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1001764> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003896> .
+
 <http://data.archaeology.link/data/samian/loc_ds_1003898> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -2802,6 +5115,50 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003898> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003904> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Malton"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.4572 ;
+    ns1:tiger_cax_hex "#0fb3ce" ;
+    ns1:tiger_cax_norm 0.69254 ;
+    ns1:tiger_cay -0.0614 ;
+    ns1:tiger_eventname "Malton"@en ;
+    ns1:tiger_id 1003904 ;
+    dc:identifier 1003904 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1003904_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1003687> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003904> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003933> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Camelon"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.4062 ;
+    ns1:tiger_cax_hex "#10b0cc" ;
+    ns1:tiger_cax_norm 0.68046 ;
+    ns1:tiger_cay 0.0901 ;
+    ns1:tiger_eventname "Camelon"@en ;
+    ns1:tiger_id 1003933 ;
+    dc:identifier 1003933 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1003933_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1002706> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003933> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003944> a ns1:DiscoverySite,
         ns1:Location,
@@ -2869,6 +5226,94 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003966> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1003975> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Old Winteringham"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.4212 ;
+    ns1:tiger_cax_hex "#197fb0" ;
+    ns1:tiger_cax_norm 0.48464 ;
+    ns1:tiger_cay 0.4536 ;
+    ns1:tiger_eventname "Old Winteringham"@en ;
+    ns1:tiger_id 1003975 ;
+    dc:identifier 1003975 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1003975_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1000455> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003975> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1004084> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Wilderspool"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 1.5491 ;
+    ns1:tiger_cax_hex "#02f3f4" ;
+    ns1:tiger_cax_norm 0.95096 ;
+    ns1:tiger_cay -1.9707 ;
+    ns1:tiger_eventname "Wilderspool"@en ;
+    ns1:tiger_id 1004084 ;
+    dc:identifier 1004084 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1004084_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1000924> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1004084> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1004100> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Southampton"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.0639 ;
+    ns1:tiger_cax_hex "#1594bc" ;
+    ns1:tiger_cax_norm 0.5692 ;
+    ns1:tiger_cay 0.7601 ;
+    ns1:tiger_eventname "Southampton"@en ;
+    ns1:tiger_id 1004100 ;
+    dc:identifier 1004100 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1004100_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1001046> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1004100> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1004111> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Catterick"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 1.3918 ;
+    ns1:tiger_cax_hex "#04eaee" ;
+    ns1:tiger_cax_norm 0.91373 ;
+    ns1:tiger_cay -1.5209 ;
+    ns1:tiger_eventname "Catterick"@en ;
+    ns1:tiger_id 1004111 ;
+    dc:identifier 1004111 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1004111_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1004084> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1004111> .
+
 <http://data.archaeology.link/data/samian/loc_ds_1004136> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -2890,6 +5335,28 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1004136> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1004140> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Bath"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -0.03 ;
+    ns1:tiger_cax_hex "#1596bd" ;
+    ns1:tiger_cax_norm 0.57723 ;
+    ns1:tiger_cay 0.2659 ;
+    ns1:tiger_eventname "Bath"@en ;
+    ns1:tiger_id 1004140 ;
+    dc:identifier 1004140 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1004140_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1002885> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1004140> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1004142> a ns1:DiscoverySite,
         ns1:Location,
@@ -2934,6 +5401,28 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1004152> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1004203> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Caerwent"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 1.2427 ;
+    ns1:tiger_cax_hex "#06e1e9" ;
+    ns1:tiger_cax_norm 0.87844 ;
+    ns1:tiger_cay -1.3916 ;
+    ns1:tiger_eventname "Caerwent"@en ;
+    ns1:tiger_id 1004203 ;
+    dc:identifier 1004203 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1004203_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1000407> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1004203> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1004310> a ns1:DiscoverySite,
         ns1:Location,

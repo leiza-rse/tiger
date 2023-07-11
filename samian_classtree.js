@@ -43,2796 +43,6 @@ var tree={
     "check_callback": true,
     "data": [
       {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001530_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Straubing (samian:loc_ds_1001530)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000255_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Butzbach (samian:loc_ds_1000255)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000838_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Echzell (samian:loc_ds_1000838)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000737_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Saalburg (samian:loc_ds_1000737)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003439_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Wien (samian:loc_ds_1003439)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000346_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Bad Cannstatt (samian:loc_ds_1000346)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000928_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Stockstadt (samian:loc_ds_1000928)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001539_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Faimingen (samian:loc_ds_1001539)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001619_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Oberflorstadt (samian:loc_ds_1001619)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000157_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Friedberg (samian:loc_ds_1000157)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001423_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Mark\u00f6bel (samian:loc_ds_1001423)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002130_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Baden-Baden (samian:loc_ds_1002130)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003222_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Hanau-Salisberg (samian:loc_ds_1003222)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001054_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Okarben (samian:loc_ds_1001054)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002500_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Heidelberg (samian:loc_ds_1002500)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000983_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Arnsburg (samian:loc_ds_1000983)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001351_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Voorburg (samian:loc_ds_1001351)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000828_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Wels (samian:loc_ds_1000828)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003271_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Bickenbach (samian:loc_ds_1003271)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001392_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Weissenburg (samian:loc_ds_1001392)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003948_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Rottweil (samian:loc_ds_1003948)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003289_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Heddernheim (samian:loc_ds_1003289)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003944_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Rossum (samian:loc_ds_1003944)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001327_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "G\u00fcnzburg (samian:loc_ds_1001327)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000376_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Regensburg (samian:loc_ds_1000376)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1004142_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Epfach (samian:loc_ds_1004142)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001186_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Schleitheim (samian:loc_ds_1001186)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002839_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Monterberg (samian:loc_ds_1002839)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001028_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Gellep (samian:loc_ds_1001028)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001030_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Geislingen (samian:loc_ds_1001030)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000460_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Carnuntum (samian:loc_ds_1000460)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001786_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Woerden (samian:loc_ds_1001786)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003165_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Augsburg (samian:loc_ds_1003165)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000489_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Salzburg (samian:loc_ds_1000489)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003898_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Oberstimm (samian:loc_ds_1003898)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002381_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Burgh\u00f6fe (samian:loc_ds_1002381)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000372_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Riegel (samian:loc_ds_1000372)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002066_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Gro\u00df-Gerau (samian:loc_ds_1002066)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001943_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Wiesbaden (samian:loc_ds_1001943)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000671_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Seebruck (samian:loc_ds_1000671)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002748_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Unterkirchberg (samian:loc_ds_1002748)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1004152_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Rheinzabern (samian:loc_ds_1004152)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001870_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Speyer (samian:loc_ds_1001870)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001913_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Emerkingen (samian:loc_ds_1001913)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003531_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Nijmegen (samian:loc_ds_1003531)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001087_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "H\u00fcfingen (samian:loc_ds_1001087)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003782_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Bregenz (samian:loc_ds_1003782)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001033_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "K\u00f6ln (samian:loc_ds_1001033)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1004136_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Bonn (samian:loc_ds_1004136)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001531_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Luxeuil-les-Bains (samian:loc_ds_1001531)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001207_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Ri\u00dftissen (samian:loc_ds_1001207)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002542_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Strasbourg (samian:loc_ds_1002542)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1004310_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Worms (samian:loc_ds_1004310)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002021_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Zwammerdam (samian:loc_ds_1002021)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002190_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Valkenburg (samian:loc_ds_1002190)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000457_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Xanten (samian:loc_ds_1000457)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001653_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Vechten (samian:loc_ds_1001653)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003761_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Mainz (samian:loc_ds_1003761)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003966_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Utrecht (samian:loc_ds_1003966)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000913_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Hofheim (samian:loc_ds_1000913)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001308_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Andernach (samian:loc_ds_1001308)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002698_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Neuss (samian:loc_ds_1002698)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000293_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Moers-Asberg (samian:loc_ds_1000293)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001873_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Kempten (samian:loc_ds_1001873)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002275_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Rheing\u00f6nheim (samian:loc_ds_1002275)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000815_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Aislingen (samian:loc_ds_1000815)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000837_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Ehl (samian:loc_ds_1000837)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000803_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Brumath (samian:loc_ds_1000803)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001510_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Bingen (samian:loc_ds_1001510)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002709_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Koblenz (samian:loc_ds_1002709)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000754_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Kreuznach (samian:loc_ds_1000754)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003421_suniv0_",
-        "parent": "http://archaeology.link/ontology#Location",
-        "type": "geoinstance",
-        "text": "Velsen (samian:loc_ds_1003421)",
-        "data": {}
-      },
-      {
-        "id": "http://archaeology.link/ontology#Location",
-        "parent": "#",
-        "type": "geoclass",
-        "text": "Location (lado:Location) [155]",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001530_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Straubing (samian:loc_ds_1001530)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000255_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Butzbach (samian:loc_ds_1000255)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000838_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Echzell (samian:loc_ds_1000838)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000737_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Saalburg (samian:loc_ds_1000737)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003439_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Wien (samian:loc_ds_1003439)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000346_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Bad Cannstatt (samian:loc_ds_1000346)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000928_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Stockstadt (samian:loc_ds_1000928)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001539_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Faimingen (samian:loc_ds_1001539)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001619_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Oberflorstadt (samian:loc_ds_1001619)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000157_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Friedberg (samian:loc_ds_1000157)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001423_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Mark\u00f6bel (samian:loc_ds_1001423)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002130_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Baden-Baden (samian:loc_ds_1002130)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003222_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Hanau-Salisberg (samian:loc_ds_1003222)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001054_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Okarben (samian:loc_ds_1001054)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002500_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Heidelberg (samian:loc_ds_1002500)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000983_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Arnsburg (samian:loc_ds_1000983)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001351_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Voorburg (samian:loc_ds_1001351)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000828_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Wels (samian:loc_ds_1000828)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003271_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Bickenbach (samian:loc_ds_1003271)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001392_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Weissenburg (samian:loc_ds_1001392)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003948_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Rottweil (samian:loc_ds_1003948)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003289_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Heddernheim (samian:loc_ds_1003289)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003944_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Rossum (samian:loc_ds_1003944)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001327_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "G\u00fcnzburg (samian:loc_ds_1001327)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000376_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Regensburg (samian:loc_ds_1000376)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1004142_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Epfach (samian:loc_ds_1004142)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001186_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Schleitheim (samian:loc_ds_1001186)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002839_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Monterberg (samian:loc_ds_1002839)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001028_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Gellep (samian:loc_ds_1001028)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001030_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Geislingen (samian:loc_ds_1001030)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000460_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Carnuntum (samian:loc_ds_1000460)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001786_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Woerden (samian:loc_ds_1001786)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003165_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Augsburg (samian:loc_ds_1003165)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000489_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Salzburg (samian:loc_ds_1000489)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003898_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Oberstimm (samian:loc_ds_1003898)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002381_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Burgh\u00f6fe (samian:loc_ds_1002381)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000372_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Riegel (samian:loc_ds_1000372)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002066_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Gro\u00df-Gerau (samian:loc_ds_1002066)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001943_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Wiesbaden (samian:loc_ds_1001943)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000671_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Seebruck (samian:loc_ds_1000671)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002748_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Unterkirchberg (samian:loc_ds_1002748)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1004152_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Rheinzabern (samian:loc_ds_1004152)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001870_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Speyer (samian:loc_ds_1001870)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001913_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Emerkingen (samian:loc_ds_1001913)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003531_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Nijmegen (samian:loc_ds_1003531)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001087_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "H\u00fcfingen (samian:loc_ds_1001087)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003782_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Bregenz (samian:loc_ds_1003782)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001033_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "K\u00f6ln (samian:loc_ds_1001033)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1004136_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Bonn (samian:loc_ds_1004136)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001531_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Luxeuil-les-Bains (samian:loc_ds_1001531)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001207_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Ri\u00dftissen (samian:loc_ds_1001207)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002542_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Strasbourg (samian:loc_ds_1002542)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1004310_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Worms (samian:loc_ds_1004310)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002021_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Zwammerdam (samian:loc_ds_1002021)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002190_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Valkenburg (samian:loc_ds_1002190)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000457_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Xanten (samian:loc_ds_1000457)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001653_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Vechten (samian:loc_ds_1001653)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003761_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Mainz (samian:loc_ds_1003761)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003966_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Utrecht (samian:loc_ds_1003966)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000913_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Hofheim (samian:loc_ds_1000913)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001308_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Andernach (samian:loc_ds_1001308)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002698_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Neuss (samian:loc_ds_1002698)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000293_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Moers-Asberg (samian:loc_ds_1000293)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001873_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Kempten (samian:loc_ds_1001873)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002275_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Rheing\u00f6nheim (samian:loc_ds_1002275)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000815_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Aislingen (samian:loc_ds_1000815)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000837_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Ehl (samian:loc_ds_1000837)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000803_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Brumath (samian:loc_ds_1000803)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001510_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Bingen (samian:loc_ds_1001510)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002709_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Koblenz (samian:loc_ds_1002709)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000754_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Kreuznach (samian:loc_ds_1000754)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003421_suniv1_",
-        "parent": "http://archaeology.link/ontology#DiscoverySite",
-        "type": "geoinstance",
-        "text": "Velsen (samian:loc_ds_1003421)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/nonns_DiscoverySite.html",
-        "parent": "#",
-        "type": "geoclass",
-        "text": "DiscoverySite (lado:DiscoverySite)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001530_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Straubing (samian:loc_ds_1001530)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000255_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Butzbach (samian:loc_ds_1000255)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000838_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Echzell (samian:loc_ds_1000838)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000737_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Saalburg (samian:loc_ds_1000737)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003439_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Wien (samian:loc_ds_1003439)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000346_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Bad Cannstatt (samian:loc_ds_1000346)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000928_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Stockstadt (samian:loc_ds_1000928)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001539_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Faimingen (samian:loc_ds_1001539)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001619_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Oberflorstadt (samian:loc_ds_1001619)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000157_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Friedberg (samian:loc_ds_1000157)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001423_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Mark\u00f6bel (samian:loc_ds_1001423)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002130_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Baden-Baden (samian:loc_ds_1002130)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003222_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Hanau-Salisberg (samian:loc_ds_1003222)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001054_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Okarben (samian:loc_ds_1001054)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002500_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Heidelberg (samian:loc_ds_1002500)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000983_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Arnsburg (samian:loc_ds_1000983)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001351_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Voorburg (samian:loc_ds_1001351)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000828_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Wels (samian:loc_ds_1000828)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003271_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Bickenbach (samian:loc_ds_1003271)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001392_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Weissenburg (samian:loc_ds_1001392)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003948_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Rottweil (samian:loc_ds_1003948)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003289_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Heddernheim (samian:loc_ds_1003289)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003944_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Rossum (samian:loc_ds_1003944)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001327_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "G\u00fcnzburg (samian:loc_ds_1001327)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000376_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Regensburg (samian:loc_ds_1000376)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1004142_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Epfach (samian:loc_ds_1004142)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001186_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Schleitheim (samian:loc_ds_1001186)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002839_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Monterberg (samian:loc_ds_1002839)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001028_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Gellep (samian:loc_ds_1001028)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001030_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Geislingen (samian:loc_ds_1001030)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000460_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Carnuntum (samian:loc_ds_1000460)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001786_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Woerden (samian:loc_ds_1001786)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003165_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Augsburg (samian:loc_ds_1003165)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000489_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Salzburg (samian:loc_ds_1000489)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003898_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Oberstimm (samian:loc_ds_1003898)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002381_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Burgh\u00f6fe (samian:loc_ds_1002381)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000372_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Riegel (samian:loc_ds_1000372)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002066_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Gro\u00df-Gerau (samian:loc_ds_1002066)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001943_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Wiesbaden (samian:loc_ds_1001943)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000671_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Seebruck (samian:loc_ds_1000671)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002748_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Unterkirchberg (samian:loc_ds_1002748)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1004152_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Rheinzabern (samian:loc_ds_1004152)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001870_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Speyer (samian:loc_ds_1001870)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001913_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Emerkingen (samian:loc_ds_1001913)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003531_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Nijmegen (samian:loc_ds_1003531)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001087_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "H\u00fcfingen (samian:loc_ds_1001087)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003782_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Bregenz (samian:loc_ds_1003782)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001033_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "K\u00f6ln (samian:loc_ds_1001033)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1004136_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Bonn (samian:loc_ds_1004136)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001531_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Luxeuil-les-Bains (samian:loc_ds_1001531)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001207_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Ri\u00dftissen (samian:loc_ds_1001207)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002542_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Strasbourg (samian:loc_ds_1002542)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1004310_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Worms (samian:loc_ds_1004310)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002021_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Zwammerdam (samian:loc_ds_1002021)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002190_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Valkenburg (samian:loc_ds_1002190)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000457_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Xanten (samian:loc_ds_1000457)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001653_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Vechten (samian:loc_ds_1001653)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003761_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Mainz (samian:loc_ds_1003761)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003966_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Utrecht (samian:loc_ds_1003966)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000913_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Hofheim (samian:loc_ds_1000913)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001308_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Andernach (samian:loc_ds_1001308)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002698_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Neuss (samian:loc_ds_1002698)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000293_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Moers-Asberg (samian:loc_ds_1000293)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001873_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Kempten (samian:loc_ds_1001873)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002275_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Rheing\u00f6nheim (samian:loc_ds_1002275)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000815_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Aislingen (samian:loc_ds_1000815)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000837_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Ehl (samian:loc_ds_1000837)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000803_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Brumath (samian:loc_ds_1000803)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001510_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Bingen (samian:loc_ds_1001510)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002709_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Koblenz (samian:loc_ds_1002709)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000754_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Kreuznach (samian:loc_ds_1000754)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003421_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
-        "type": "geoinstance",
-        "text": "Velsen (samian:loc_ds_1003421)",
-        "data": {}
-      },
-      {
-        "id": "http://archaeology.link/ontology#ToGeR_Event",
-        "parent": "#",
-        "type": "geoclass",
-        "text": "ToGeR_Event (lado:ToGeR_Event) [155]",
-        "data": {
-          "to": {
-            "http://archaeology.link/ontology#hasType": {
-              "instancecount": 1
-            },
-            "http://archaeology.link/ontology#tiger_cax": {
-              "instancecount": 1
-            },
-            "http://archaeology.link/ontology#tiger_cax_hex": {
-              "instancecount": 1
-            },
-            "http://archaeology.link/ontology#tiger_cax_norm": {
-              "instancecount": 1
-            },
-            "http://archaeology.link/ontology#tiger_cay": {
-              "instancecount": 1
-            },
-            "http://archaeology.link/ontology#tiger_eventname": {
-              "instancecount": 1
-            },
-            "http://archaeology.link/ontology#tiger_id": {
-              "instancecount": 1
-            },
-            "http://purl.org/dc/elements/1.1/identifier": {
-              "instancecount": 1
-            },
-            "http://purl.org/dc/terms/creator": {
-              "instancecount": 1
-            },
-            "http://purl.org/dc/terms/license": {
-              "instancecount": 1
-            },
-            "http://purl.org/dc/terms/rightsHolder": {
-              "instancecount": 2
-            },
-            "http://www.opengis.net/ont/geosparql#hasGeometry": {
-              "instancecount": 1,
-              "http://www.opengis.net/ont/sf#Point": 1
-            },
-            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 3
-            },
-            "http://www.w3.org/2000/01/rdf-schema#label": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/2006/time#intervalBefore": {
-              "instancecount": 1,
-              "http://archaeology.link/ontology#Location": 1,
-              "http://archaeology.link/ontology#DiscoverySite": 1,
-              "http://archaeology.link/ontology#ToGeR_Event": 1
-            },
-            "http://www.w3.org/ns/prov#wasAttributedTo": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/ns/prov#wasDerivedFrom": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/ns/prov#wasGeneratedBy": {
-              "instancecount": 1,
-              "http://www.w3.org/ns/prov#Activity": 1
-            }
-          },
-          "from": {
-            "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 0,
-              "http://www.opengis.net/ont/geosparql#FeatureCollection": 3
-            },
-            "http://www.w3.org/2006/time#intervalBefore": {
-              "instancecount": 0,
-              "http://archaeology.link/ontology#Location": 1,
-              "http://archaeology.link/ontology#DiscoverySite": 1,
-              "http://archaeology.link/ontology#ToGeR_Event": 1
-            }
-          }
-        },
-        "instancecount": 21
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001530_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1001530_geom (samian:loc_ds_1001530_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000255_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1000255_geom (samian:loc_ds_1000255_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000838_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1000838_geom (samian:loc_ds_1000838_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000737_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1000737_geom (samian:loc_ds_1000737_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003439_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1003439_geom (samian:loc_ds_1003439_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000346_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1000346_geom (samian:loc_ds_1000346_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000928_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1000928_geom (samian:loc_ds_1000928_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001539_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1001539_geom (samian:loc_ds_1001539_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001619_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1001619_geom (samian:loc_ds_1001619_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000157_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1000157_geom (samian:loc_ds_1000157_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001423_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1001423_geom (samian:loc_ds_1001423_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002130_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1002130_geom (samian:loc_ds_1002130_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003222_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1003222_geom (samian:loc_ds_1003222_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001054_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1001054_geom (samian:loc_ds_1001054_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002500_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1002500_geom (samian:loc_ds_1002500_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000983_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1000983_geom (samian:loc_ds_1000983_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001351_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1001351_geom (samian:loc_ds_1001351_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000828_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1000828_geom (samian:loc_ds_1000828_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003271_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1003271_geom (samian:loc_ds_1003271_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001392_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1001392_geom (samian:loc_ds_1001392_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003948_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1003948_geom (samian:loc_ds_1003948_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003289_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1003289_geom (samian:loc_ds_1003289_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003944_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1003944_geom (samian:loc_ds_1003944_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001327_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1001327_geom (samian:loc_ds_1001327_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000376_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1000376_geom (samian:loc_ds_1000376_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1004142_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1004142_geom (samian:loc_ds_1004142_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001186_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1001186_geom (samian:loc_ds_1001186_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002839_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1002839_geom (samian:loc_ds_1002839_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001028_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1001028_geom (samian:loc_ds_1001028_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001030_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1001030_geom (samian:loc_ds_1001030_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000460_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1000460_geom (samian:loc_ds_1000460_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001786_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1001786_geom (samian:loc_ds_1001786_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003165_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1003165_geom (samian:loc_ds_1003165_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000489_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1000489_geom (samian:loc_ds_1000489_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003898_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1003898_geom (samian:loc_ds_1003898_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002381_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1002381_geom (samian:loc_ds_1002381_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000372_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1000372_geom (samian:loc_ds_1000372_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002066_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1002066_geom (samian:loc_ds_1002066_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001943_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1001943_geom (samian:loc_ds_1001943_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000671_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1000671_geom (samian:loc_ds_1000671_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002748_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1002748_geom (samian:loc_ds_1002748_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1004152_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1004152_geom (samian:loc_ds_1004152_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001870_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1001870_geom (samian:loc_ds_1001870_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001913_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1001913_geom (samian:loc_ds_1001913_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003531_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1003531_geom (samian:loc_ds_1003531_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001087_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1001087_geom (samian:loc_ds_1001087_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003782_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1003782_geom (samian:loc_ds_1003782_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001033_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1001033_geom (samian:loc_ds_1001033_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1004136_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1004136_geom (samian:loc_ds_1004136_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001531_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1001531_geom (samian:loc_ds_1001531_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001207_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1001207_geom (samian:loc_ds_1001207_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002542_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1002542_geom (samian:loc_ds_1002542_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1004310_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1004310_geom (samian:loc_ds_1004310_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002021_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1002021_geom (samian:loc_ds_1002021_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002190_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1002190_geom (samian:loc_ds_1002190_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000457_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1000457_geom (samian:loc_ds_1000457_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001653_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1001653_geom (samian:loc_ds_1001653_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003761_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1003761_geom (samian:loc_ds_1003761_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003966_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1003966_geom (samian:loc_ds_1003966_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000913_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1000913_geom (samian:loc_ds_1000913_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001308_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1001308_geom (samian:loc_ds_1001308_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002698_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1002698_geom (samian:loc_ds_1002698_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000293_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1000293_geom (samian:loc_ds_1000293_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001873_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1001873_geom (samian:loc_ds_1001873_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002275_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1002275_geom (samian:loc_ds_1002275_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000815_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1000815_geom (samian:loc_ds_1000815_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000837_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1000837_geom (samian:loc_ds_1000837_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000803_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1000803_geom (samian:loc_ds_1000803_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1001510_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1001510_geom (samian:loc_ds_1001510_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1002709_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1002709_geom (samian:loc_ds_1002709_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1000754_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1000754_geom (samian:loc_ds_1000754_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/loc_ds_1003421_geom",
-        "parent": "http://www.opengis.net/ont/sf#Point",
-        "type": "geoinstance",
-        "text": "loc_ds_1003421_geom (samian:loc_ds_1003421_geom)",
-        "data": {}
-      },
-      {
-        "id": "http://www.opengis.net/ont/sf#Point",
-        "parent": "#",
-        "type": "geoclass",
-        "text": "Point (sf:Point) [155]",
-        "data": {
-          "to": {
-            "http://www.opengis.net/ont/geosparql#asWKT": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 1
-            }
-          },
-          "from": {
-            "http://www.opengis.net/ont/geosparql#hasGeometry": {
-              "instancecount": 0,
-              "http://archaeology.link/ontology#Location": 1,
-              "http://archaeology.link/ontology#DiscoverySite": 1,
-              "http://archaeology.link/ontology#ToGeR_Event": 1
-            },
-            "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 0,
-              "http://www.opengis.net/ont/geosparql#GeometryCollection": 1
-            }
-          }
-        },
-        "instancecount": 2
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001530",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1001530 (samian:activity_loc_ds_1001530)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000255",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1000255 (samian:activity_loc_ds_1000255)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000838",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1000838 (samian:activity_loc_ds_1000838)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000737",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1000737 (samian:activity_loc_ds_1000737)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003439",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1003439 (samian:activity_loc_ds_1003439)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000346",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1000346 (samian:activity_loc_ds_1000346)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000928",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1000928 (samian:activity_loc_ds_1000928)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001539",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1001539 (samian:activity_loc_ds_1001539)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001619",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1001619 (samian:activity_loc_ds_1001619)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000157",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1000157 (samian:activity_loc_ds_1000157)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001423",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1001423 (samian:activity_loc_ds_1001423)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002130",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1002130 (samian:activity_loc_ds_1002130)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003222",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1003222 (samian:activity_loc_ds_1003222)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001054",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1001054 (samian:activity_loc_ds_1001054)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002500",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1002500 (samian:activity_loc_ds_1002500)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000983",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1000983 (samian:activity_loc_ds_1000983)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001351",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1001351 (samian:activity_loc_ds_1001351)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000828",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1000828 (samian:activity_loc_ds_1000828)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003271",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1003271 (samian:activity_loc_ds_1003271)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001392",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1001392 (samian:activity_loc_ds_1001392)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003948",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1003948 (samian:activity_loc_ds_1003948)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003289",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1003289 (samian:activity_loc_ds_1003289)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003944",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1003944 (samian:activity_loc_ds_1003944)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001327",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1001327 (samian:activity_loc_ds_1001327)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000376",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1000376 (samian:activity_loc_ds_1000376)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1004142",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1004142 (samian:activity_loc_ds_1004142)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001186",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1001186 (samian:activity_loc_ds_1001186)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002839",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1002839 (samian:activity_loc_ds_1002839)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001028",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1001028 (samian:activity_loc_ds_1001028)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001030",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1001030 (samian:activity_loc_ds_1001030)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000460",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1000460 (samian:activity_loc_ds_1000460)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001786",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1001786 (samian:activity_loc_ds_1001786)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003165",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1003165 (samian:activity_loc_ds_1003165)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000489",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1000489 (samian:activity_loc_ds_1000489)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003898",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1003898 (samian:activity_loc_ds_1003898)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002381",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1002381 (samian:activity_loc_ds_1002381)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000372",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1000372 (samian:activity_loc_ds_1000372)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002066",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1002066 (samian:activity_loc_ds_1002066)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001943",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1001943 (samian:activity_loc_ds_1001943)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000671",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1000671 (samian:activity_loc_ds_1000671)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002748",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1002748 (samian:activity_loc_ds_1002748)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1004152",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1004152 (samian:activity_loc_ds_1004152)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001870",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1001870 (samian:activity_loc_ds_1001870)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001913",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1001913 (samian:activity_loc_ds_1001913)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003531",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1003531 (samian:activity_loc_ds_1003531)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001087",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1001087 (samian:activity_loc_ds_1001087)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003782",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1003782 (samian:activity_loc_ds_1003782)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001033",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1001033 (samian:activity_loc_ds_1001033)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1004136",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1004136 (samian:activity_loc_ds_1004136)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001531",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1001531 (samian:activity_loc_ds_1001531)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001207",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1001207 (samian:activity_loc_ds_1001207)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002542",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1002542 (samian:activity_loc_ds_1002542)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1004310",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1004310 (samian:activity_loc_ds_1004310)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002021",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1002021 (samian:activity_loc_ds_1002021)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002190",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1002190 (samian:activity_loc_ds_1002190)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000457",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1000457 (samian:activity_loc_ds_1000457)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001653",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1001653 (samian:activity_loc_ds_1001653)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003761",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1003761 (samian:activity_loc_ds_1003761)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003966",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1003966 (samian:activity_loc_ds_1003966)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000913",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1000913 (samian:activity_loc_ds_1000913)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001308",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1001308 (samian:activity_loc_ds_1001308)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002698",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1002698 (samian:activity_loc_ds_1002698)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000293",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1000293 (samian:activity_loc_ds_1000293)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001873",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1001873 (samian:activity_loc_ds_1001873)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002275",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1002275 (samian:activity_loc_ds_1002275)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000815",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1000815 (samian:activity_loc_ds_1000815)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000837",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1000837 (samian:activity_loc_ds_1000837)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000803",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1000803 (samian:activity_loc_ds_1000803)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001510",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1001510 (samian:activity_loc_ds_1001510)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002709",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1002709 (samian:activity_loc_ds_1002709)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000754",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1000754 (samian:activity_loc_ds_1000754)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003421",
-        "parent": "http://www.w3.org/ns/prov#Activity",
-        "type": "instance",
-        "text": "activity_loc_ds_1003421 (samian:activity_loc_ds_1003421)",
-        "data": {}
-      },
-      {
-        "id": "http://www.w3.org/ns/prov#Activity",
-        "parent": "#",
-        "type": "class",
-        "text": "Activity (prov:Activity) [155]",
-        "data": {
-          "to": {
-            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/ns/prov#endedAtTime": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/ns/prov#startedAtTime": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/ns/prov#wasAssociatedWith": {
-              "instancecount": 1
-            }
-          },
-          "from": {
-            "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 0,
-              "http://www.w3.org/2004/02/skos/core#Collection": 1
-            },
-            "http://www.w3.org/ns/prov#wasGeneratedBy": {
-              "instancecount": 0,
-              "http://archaeology.link/ontology#Location": 1,
-              "http://archaeology.link/ontology#DiscoverySite": 1,
-              "http://archaeology.link/ontology#ToGeR_Event": 1
-            }
-          }
-        },
-        "instancecount": 4
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/Location_collection",
-        "parent": "http://www.opengis.net/ont/geosparql#FeatureCollection",
-        "type": "featurecollection",
-        "text": "Location Instances Collection (samian:Location_collection)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/DiscoverySite_collection",
-        "parent": "http://www.opengis.net/ont/geosparql#FeatureCollection",
-        "type": "featurecollection",
-        "text": "DiscoverySite Instances Collection (samian:DiscoverySite_collection)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/ToGeR_Event_collection",
-        "parent": "http://www.opengis.net/ont/geosparql#FeatureCollection",
-        "type": "featurecollection",
-        "text": "ToGeR_Event Instances Collection (samian:ToGeR_Event_collection)",
-        "data": {}
-      },
-      {
-        "id": "http://www.opengis.net/ont/geosparql#FeatureCollection",
-        "parent": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
-        "type": "collectionclass",
-        "text": "FeatureCollection (gsp:FeatureCollection) [3]",
-        "data": {
-          "to": {
-            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/2000/01/rdf-schema#label": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 155,
-              "http://archaeology.link/ontology#Location": 72,
-              "http://archaeology.link/ontology#DiscoverySite": 72,
-              "http://archaeology.link/ontology#ToGeR_Event": 72
-            }
-          },
-          "from": {}
-        },
-        "instancecount": 158
-      },
-      {
-        "id": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
-        "parent": "#",
-        "type": "collectionclass",
-        "text": "SpatialObjectCollection (gsp:SpatialObjectCollection)",
-        "data": {}
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/Point_collection",
-        "parent": "http://www.opengis.net/ont/geosparql#GeometryCollection",
-        "type": "geocollection",
-        "text": "Point Instances Collection (samian:Point_collection)",
-        "data": {}
-      },
-      {
-        "id": "http://www.opengis.net/ont/geosparql#GeometryCollection",
-        "parent": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
-        "type": "collectionclass",
-        "text": "GeometryCollection (gsp:GeometryCollection) [1]",
-        "data": {
-          "to": {
-            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/2000/01/rdf-schema#label": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 155,
-              "http://www.opengis.net/ont/sf#Point": 72
-            }
-          },
-          "from": {}
-        },
-        "instancecount": 158
-      },
-      {
-        "id": "http://data.archaeology.link/data/samian/Activity_collection",
-        "parent": "http://www.w3.org/2004/02/skos/core#Collection",
-        "type": "instance",
-        "text": "Activity Instances Collection (samian:Activity_collection)",
-        "data": {}
-      },
-      {
-        "id": "http://www.w3.org/2004/02/skos/core#Collection",
-        "parent": "#",
-        "type": "collectionclass",
-        "text": "Collection (skos:Collection) [1]",
-        "data": {
-          "to": {
-            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/2000/01/rdf-schema#label": {
-              "instancecount": 1
-            },
-            "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 155,
-              "http://www.w3.org/ns/prov#Activity": 72
-            }
-          },
-          "from": {}
-        },
-        "instancecount": 157
-      },
-      {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001570_suniv0_",
         "parent": "http://archaeology.link/ontology#Location",
         "type": "geoinstance",
@@ -3414,6 +624,517 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001530_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Straubing (samian:loc_ds_1001530)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000255_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Butzbach (samian:loc_ds_1000255)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000838_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Echzell (samian:loc_ds_1000838)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000737_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Saalburg (samian:loc_ds_1000737)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003439_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Wien (samian:loc_ds_1003439)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000346_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Bad Cannstatt (samian:loc_ds_1000346)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000928_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Stockstadt (samian:loc_ds_1000928)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001539_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Faimingen (samian:loc_ds_1001539)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001619_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Oberflorstadt (samian:loc_ds_1001619)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000157_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Friedberg (samian:loc_ds_1000157)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001423_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Mark\u00f6bel (samian:loc_ds_1001423)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002130_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Baden-Baden (samian:loc_ds_1002130)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003222_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Hanau-Salisberg (samian:loc_ds_1003222)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001054_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Okarben (samian:loc_ds_1001054)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002500_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Heidelberg (samian:loc_ds_1002500)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000983_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Arnsburg (samian:loc_ds_1000983)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001351_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Voorburg (samian:loc_ds_1001351)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000828_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Wels (samian:loc_ds_1000828)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003271_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Bickenbach (samian:loc_ds_1003271)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001392_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Weissenburg (samian:loc_ds_1001392)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003948_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Rottweil (samian:loc_ds_1003948)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003289_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Heddernheim (samian:loc_ds_1003289)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003944_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Rossum (samian:loc_ds_1003944)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001327_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "G\u00fcnzburg (samian:loc_ds_1001327)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000376_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Regensburg (samian:loc_ds_1000376)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1004142_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Epfach (samian:loc_ds_1004142)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001186_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Schleitheim (samian:loc_ds_1001186)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002839_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Monterberg (samian:loc_ds_1002839)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001028_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Gellep (samian:loc_ds_1001028)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001030_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Geislingen (samian:loc_ds_1001030)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000460_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Carnuntum (samian:loc_ds_1000460)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001786_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Woerden (samian:loc_ds_1001786)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003165_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Augsburg (samian:loc_ds_1003165)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000489_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Salzburg (samian:loc_ds_1000489)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003898_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Oberstimm (samian:loc_ds_1003898)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002381_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Burgh\u00f6fe (samian:loc_ds_1002381)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000372_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Riegel (samian:loc_ds_1000372)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002066_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Gro\u00df-Gerau (samian:loc_ds_1002066)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001943_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Wiesbaden (samian:loc_ds_1001943)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000671_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Seebruck (samian:loc_ds_1000671)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002748_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Unterkirchberg (samian:loc_ds_1002748)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1004152_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Rheinzabern (samian:loc_ds_1004152)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001870_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Speyer (samian:loc_ds_1001870)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001913_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Emerkingen (samian:loc_ds_1001913)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003531_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Nijmegen (samian:loc_ds_1003531)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001087_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "H\u00fcfingen (samian:loc_ds_1001087)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003782_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Bregenz (samian:loc_ds_1003782)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001033_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "K\u00f6ln (samian:loc_ds_1001033)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1004136_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Bonn (samian:loc_ds_1004136)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001531_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Luxeuil-les-Bains (samian:loc_ds_1001531)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001207_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Ri\u00dftissen (samian:loc_ds_1001207)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002542_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Strasbourg (samian:loc_ds_1002542)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1004310_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Worms (samian:loc_ds_1004310)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002021_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Zwammerdam (samian:loc_ds_1002021)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002190_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Valkenburg (samian:loc_ds_1002190)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000457_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Xanten (samian:loc_ds_1000457)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001653_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Vechten (samian:loc_ds_1001653)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003761_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Mainz (samian:loc_ds_1003761)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003966_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Utrecht (samian:loc_ds_1003966)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000913_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Hofheim (samian:loc_ds_1000913)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001308_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Andernach (samian:loc_ds_1001308)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002698_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Neuss (samian:loc_ds_1002698)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000293_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Moers-Asberg (samian:loc_ds_1000293)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001873_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Kempten (samian:loc_ds_1001873)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002275_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Rheing\u00f6nheim (samian:loc_ds_1002275)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000815_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Aislingen (samian:loc_ds_1000815)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000837_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Ehl (samian:loc_ds_1000837)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000803_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Brumath (samian:loc_ds_1000803)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001510_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Bingen (samian:loc_ds_1001510)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002709_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Koblenz (samian:loc_ds_1002709)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000754_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Kreuznach (samian:loc_ds_1000754)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003421_suniv0_",
+        "parent": "http://archaeology.link/ontology#Location",
+        "type": "geoinstance",
+        "text": "Velsen (samian:loc_ds_1003421)",
+        "data": {}
+      },
+      {
+        "id": "http://archaeology.link/ontology#Location",
+        "parent": "#",
+        "type": "geoclass",
+        "text": "Location (lado:Location) [155]",
+        "data": {}
+      },
+      {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001570_suniv1_",
         "parent": "http://archaeology.link/ontology#DiscoverySite",
         "type": "geoinstance",
@@ -3992,6 +1713,510 @@ var tree={
         "parent": "http://archaeology.link/ontology#DiscoverySite",
         "type": "geoinstance",
         "text": "Manchester (samian:loc_ds_1002604)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001530_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Straubing (samian:loc_ds_1001530)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000255_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Butzbach (samian:loc_ds_1000255)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000838_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Echzell (samian:loc_ds_1000838)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000737_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Saalburg (samian:loc_ds_1000737)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003439_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Wien (samian:loc_ds_1003439)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000346_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Bad Cannstatt (samian:loc_ds_1000346)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000928_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Stockstadt (samian:loc_ds_1000928)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001539_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Faimingen (samian:loc_ds_1001539)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001619_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Oberflorstadt (samian:loc_ds_1001619)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000157_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Friedberg (samian:loc_ds_1000157)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001423_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Mark\u00f6bel (samian:loc_ds_1001423)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002130_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Baden-Baden (samian:loc_ds_1002130)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003222_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Hanau-Salisberg (samian:loc_ds_1003222)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001054_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Okarben (samian:loc_ds_1001054)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002500_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Heidelberg (samian:loc_ds_1002500)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000983_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Arnsburg (samian:loc_ds_1000983)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001351_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Voorburg (samian:loc_ds_1001351)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000828_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Wels (samian:loc_ds_1000828)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003271_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Bickenbach (samian:loc_ds_1003271)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001392_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Weissenburg (samian:loc_ds_1001392)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003948_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Rottweil (samian:loc_ds_1003948)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003289_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Heddernheim (samian:loc_ds_1003289)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003944_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Rossum (samian:loc_ds_1003944)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001327_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "G\u00fcnzburg (samian:loc_ds_1001327)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000376_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Regensburg (samian:loc_ds_1000376)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1004142_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Epfach (samian:loc_ds_1004142)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001186_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Schleitheim (samian:loc_ds_1001186)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002839_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Monterberg (samian:loc_ds_1002839)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001028_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Gellep (samian:loc_ds_1001028)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001030_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Geislingen (samian:loc_ds_1001030)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000460_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Carnuntum (samian:loc_ds_1000460)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001786_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Woerden (samian:loc_ds_1001786)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003165_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Augsburg (samian:loc_ds_1003165)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000489_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Salzburg (samian:loc_ds_1000489)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003898_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Oberstimm (samian:loc_ds_1003898)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002381_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Burgh\u00f6fe (samian:loc_ds_1002381)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000372_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Riegel (samian:loc_ds_1000372)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002066_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Gro\u00df-Gerau (samian:loc_ds_1002066)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001943_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Wiesbaden (samian:loc_ds_1001943)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000671_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Seebruck (samian:loc_ds_1000671)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002748_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Unterkirchberg (samian:loc_ds_1002748)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1004152_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Rheinzabern (samian:loc_ds_1004152)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001870_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Speyer (samian:loc_ds_1001870)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001913_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Emerkingen (samian:loc_ds_1001913)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003531_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Nijmegen (samian:loc_ds_1003531)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001087_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "H\u00fcfingen (samian:loc_ds_1001087)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003782_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Bregenz (samian:loc_ds_1003782)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001033_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "K\u00f6ln (samian:loc_ds_1001033)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1004136_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Bonn (samian:loc_ds_1004136)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001531_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Luxeuil-les-Bains (samian:loc_ds_1001531)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001207_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Ri\u00dftissen (samian:loc_ds_1001207)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002542_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Strasbourg (samian:loc_ds_1002542)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1004310_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Worms (samian:loc_ds_1004310)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002021_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Zwammerdam (samian:loc_ds_1002021)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002190_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Valkenburg (samian:loc_ds_1002190)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000457_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Xanten (samian:loc_ds_1000457)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001653_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Vechten (samian:loc_ds_1001653)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003761_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Mainz (samian:loc_ds_1003761)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003966_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Utrecht (samian:loc_ds_1003966)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000913_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Hofheim (samian:loc_ds_1000913)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001308_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Andernach (samian:loc_ds_1001308)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002698_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Neuss (samian:loc_ds_1002698)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000293_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Moers-Asberg (samian:loc_ds_1000293)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001873_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Kempten (samian:loc_ds_1001873)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002275_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Rheing\u00f6nheim (samian:loc_ds_1002275)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000815_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Aislingen (samian:loc_ds_1000815)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000837_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Ehl (samian:loc_ds_1000837)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000803_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Brumath (samian:loc_ds_1000803)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001510_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Bingen (samian:loc_ds_1001510)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002709_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Koblenz (samian:loc_ds_1002709)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000754_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Kreuznach (samian:loc_ds_1000754)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003421_suniv1_",
+        "parent": "http://archaeology.link/ontology#DiscoverySite",
+        "type": "geoinstance",
+        "text": "Velsen (samian:loc_ds_1003421)",
         "data": {}
       },
       {
@@ -4583,6 +2808,592 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001530_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Straubing (samian:loc_ds_1001530)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000255_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Butzbach (samian:loc_ds_1000255)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000838_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Echzell (samian:loc_ds_1000838)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000737_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Saalburg (samian:loc_ds_1000737)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003439_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Wien (samian:loc_ds_1003439)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000346_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Bad Cannstatt (samian:loc_ds_1000346)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000928_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Stockstadt (samian:loc_ds_1000928)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001539_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Faimingen (samian:loc_ds_1001539)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001619_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Oberflorstadt (samian:loc_ds_1001619)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000157_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Friedberg (samian:loc_ds_1000157)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001423_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Mark\u00f6bel (samian:loc_ds_1001423)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002130_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Baden-Baden (samian:loc_ds_1002130)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003222_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Hanau-Salisberg (samian:loc_ds_1003222)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001054_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Okarben (samian:loc_ds_1001054)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002500_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Heidelberg (samian:loc_ds_1002500)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000983_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Arnsburg (samian:loc_ds_1000983)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001351_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Voorburg (samian:loc_ds_1001351)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000828_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Wels (samian:loc_ds_1000828)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003271_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Bickenbach (samian:loc_ds_1003271)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001392_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Weissenburg (samian:loc_ds_1001392)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003948_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Rottweil (samian:loc_ds_1003948)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003289_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Heddernheim (samian:loc_ds_1003289)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003944_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Rossum (samian:loc_ds_1003944)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001327_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "G\u00fcnzburg (samian:loc_ds_1001327)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000376_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Regensburg (samian:loc_ds_1000376)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1004142_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Epfach (samian:loc_ds_1004142)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001186_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Schleitheim (samian:loc_ds_1001186)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002839_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Monterberg (samian:loc_ds_1002839)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001028_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Gellep (samian:loc_ds_1001028)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001030_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Geislingen (samian:loc_ds_1001030)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000460_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Carnuntum (samian:loc_ds_1000460)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001786_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Woerden (samian:loc_ds_1001786)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003165_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Augsburg (samian:loc_ds_1003165)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000489_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Salzburg (samian:loc_ds_1000489)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003898_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Oberstimm (samian:loc_ds_1003898)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002381_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Burgh\u00f6fe (samian:loc_ds_1002381)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000372_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Riegel (samian:loc_ds_1000372)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002066_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Gro\u00df-Gerau (samian:loc_ds_1002066)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001943_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Wiesbaden (samian:loc_ds_1001943)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000671_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Seebruck (samian:loc_ds_1000671)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002748_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Unterkirchberg (samian:loc_ds_1002748)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1004152_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Rheinzabern (samian:loc_ds_1004152)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001870_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Speyer (samian:loc_ds_1001870)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001913_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Emerkingen (samian:loc_ds_1001913)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003531_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Nijmegen (samian:loc_ds_1003531)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001087_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "H\u00fcfingen (samian:loc_ds_1001087)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003782_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Bregenz (samian:loc_ds_1003782)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001033_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "K\u00f6ln (samian:loc_ds_1001033)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1004136_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Bonn (samian:loc_ds_1004136)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001531_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Luxeuil-les-Bains (samian:loc_ds_1001531)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001207_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Ri\u00dftissen (samian:loc_ds_1001207)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002542_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Strasbourg (samian:loc_ds_1002542)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1004310_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Worms (samian:loc_ds_1004310)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002021_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Zwammerdam (samian:loc_ds_1002021)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002190_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Valkenburg (samian:loc_ds_1002190)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000457_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Xanten (samian:loc_ds_1000457)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001653_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Vechten (samian:loc_ds_1001653)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003761_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Mainz (samian:loc_ds_1003761)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003966_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Utrecht (samian:loc_ds_1003966)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000913_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Hofheim (samian:loc_ds_1000913)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001308_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Andernach (samian:loc_ds_1001308)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002698_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Neuss (samian:loc_ds_1002698)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000293_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Moers-Asberg (samian:loc_ds_1000293)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001873_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Kempten (samian:loc_ds_1001873)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002275_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Rheing\u00f6nheim (samian:loc_ds_1002275)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000815_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Aislingen (samian:loc_ds_1000815)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000837_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Ehl (samian:loc_ds_1000837)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000803_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Brumath (samian:loc_ds_1000803)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001510_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Bingen (samian:loc_ds_1001510)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002709_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Koblenz (samian:loc_ds_1002709)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000754_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Kreuznach (samian:loc_ds_1000754)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003421_suniv2_",
+        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "type": "geoinstance",
+        "text": "Velsen (samian:loc_ds_1003421)",
+        "data": {}
+      },
+      {
+        "id": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "#",
+        "type": "geoclass",
+        "text": "ToGeR_Event (lado:ToGeR_Event) [155]",
+        "data": {
+          "to": {
+            "http://archaeology.link/ontology#hasType": {
+              "instancecount": 1
+            },
+            "http://archaeology.link/ontology#tiger_cax": {
+              "instancecount": 1
+            },
+            "http://archaeology.link/ontology#tiger_cax_hex": {
+              "instancecount": 1
+            },
+            "http://archaeology.link/ontology#tiger_cax_norm": {
+              "instancecount": 1
+            },
+            "http://archaeology.link/ontology#tiger_cay": {
+              "instancecount": 1
+            },
+            "http://archaeology.link/ontology#tiger_eventname": {
+              "instancecount": 1
+            },
+            "http://archaeology.link/ontology#tiger_id": {
+              "instancecount": 1
+            },
+            "http://purl.org/dc/elements/1.1/identifier": {
+              "instancecount": 1
+            },
+            "http://purl.org/dc/terms/creator": {
+              "instancecount": 1
+            },
+            "http://purl.org/dc/terms/license": {
+              "instancecount": 1
+            },
+            "http://purl.org/dc/terms/rightsHolder": {
+              "instancecount": 2
+            },
+            "http://www.opengis.net/ont/geosparql#hasGeometry": {
+              "instancecount": 1,
+              "http://www.opengis.net/ont/sf#Point": 1
+            },
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 3
+            },
+            "http://www.w3.org/2000/01/rdf-schema#label": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2006/time#intervalBefore": {
+              "instancecount": 1,
+              "http://archaeology.link/ontology#Location": 1,
+              "http://archaeology.link/ontology#DiscoverySite": 1,
+              "http://archaeology.link/ontology#ToGeR_Event": 1
+            },
+            "http://www.w3.org/ns/prov#wasAttributedTo": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/ns/prov#wasDerivedFrom": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/ns/prov#wasGeneratedBy": {
+              "instancecount": 1,
+              "http://www.w3.org/ns/prov#Activity": 1
+            }
+          },
+          "from": {
+            "http://www.w3.org/2000/01/rdf-schema#member": {
+              "instancecount": 0,
+              "http://www.opengis.net/ont/geosparql#FeatureCollection": 3
+            },
+            "http://www.w3.org/2006/time#intervalBefore": {
+              "instancecount": 0,
+              "http://archaeology.link/ontology#Location": 1,
+              "http://archaeology.link/ontology#DiscoverySite": 1,
+              "http://archaeology.link/ontology#ToGeR_Event": 1
+            }
+          }
+        },
+        "instancecount": 21
+      },
+      {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001570_geom",
         "parent": "http://www.opengis.net/ont/sf#Point",
         "type": "geoinstance",
@@ -5164,6 +3975,539 @@ var tree={
         "data": {}
       },
       {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001530_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1001530_geom (samian:loc_ds_1001530_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000255_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1000255_geom (samian:loc_ds_1000255_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000838_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1000838_geom (samian:loc_ds_1000838_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000737_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1000737_geom (samian:loc_ds_1000737_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003439_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1003439_geom (samian:loc_ds_1003439_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000346_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1000346_geom (samian:loc_ds_1000346_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000928_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1000928_geom (samian:loc_ds_1000928_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001539_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1001539_geom (samian:loc_ds_1001539_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001619_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1001619_geom (samian:loc_ds_1001619_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000157_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1000157_geom (samian:loc_ds_1000157_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001423_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1001423_geom (samian:loc_ds_1001423_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002130_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1002130_geom (samian:loc_ds_1002130_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003222_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1003222_geom (samian:loc_ds_1003222_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001054_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1001054_geom (samian:loc_ds_1001054_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002500_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1002500_geom (samian:loc_ds_1002500_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000983_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1000983_geom (samian:loc_ds_1000983_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001351_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1001351_geom (samian:loc_ds_1001351_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000828_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1000828_geom (samian:loc_ds_1000828_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003271_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1003271_geom (samian:loc_ds_1003271_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001392_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1001392_geom (samian:loc_ds_1001392_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003948_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1003948_geom (samian:loc_ds_1003948_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003289_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1003289_geom (samian:loc_ds_1003289_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003944_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1003944_geom (samian:loc_ds_1003944_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001327_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1001327_geom (samian:loc_ds_1001327_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000376_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1000376_geom (samian:loc_ds_1000376_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1004142_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1004142_geom (samian:loc_ds_1004142_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001186_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1001186_geom (samian:loc_ds_1001186_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002839_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1002839_geom (samian:loc_ds_1002839_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001028_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1001028_geom (samian:loc_ds_1001028_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001030_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1001030_geom (samian:loc_ds_1001030_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000460_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1000460_geom (samian:loc_ds_1000460_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001786_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1001786_geom (samian:loc_ds_1001786_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003165_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1003165_geom (samian:loc_ds_1003165_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000489_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1000489_geom (samian:loc_ds_1000489_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003898_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1003898_geom (samian:loc_ds_1003898_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002381_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1002381_geom (samian:loc_ds_1002381_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000372_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1000372_geom (samian:loc_ds_1000372_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002066_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1002066_geom (samian:loc_ds_1002066_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001943_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1001943_geom (samian:loc_ds_1001943_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000671_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1000671_geom (samian:loc_ds_1000671_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002748_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1002748_geom (samian:loc_ds_1002748_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1004152_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1004152_geom (samian:loc_ds_1004152_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001870_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1001870_geom (samian:loc_ds_1001870_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001913_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1001913_geom (samian:loc_ds_1001913_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003531_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1003531_geom (samian:loc_ds_1003531_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001087_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1001087_geom (samian:loc_ds_1001087_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003782_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1003782_geom (samian:loc_ds_1003782_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001033_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1001033_geom (samian:loc_ds_1001033_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1004136_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1004136_geom (samian:loc_ds_1004136_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001531_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1001531_geom (samian:loc_ds_1001531_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001207_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1001207_geom (samian:loc_ds_1001207_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002542_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1002542_geom (samian:loc_ds_1002542_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1004310_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1004310_geom (samian:loc_ds_1004310_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002021_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1002021_geom (samian:loc_ds_1002021_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002190_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1002190_geom (samian:loc_ds_1002190_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000457_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1000457_geom (samian:loc_ds_1000457_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001653_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1001653_geom (samian:loc_ds_1001653_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003761_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1003761_geom (samian:loc_ds_1003761_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003966_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1003966_geom (samian:loc_ds_1003966_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000913_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1000913_geom (samian:loc_ds_1000913_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001308_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1001308_geom (samian:loc_ds_1001308_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002698_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1002698_geom (samian:loc_ds_1002698_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000293_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1000293_geom (samian:loc_ds_1000293_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001873_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1001873_geom (samian:loc_ds_1001873_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002275_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1002275_geom (samian:loc_ds_1002275_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000815_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1000815_geom (samian:loc_ds_1000815_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000837_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1000837_geom (samian:loc_ds_1000837_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000803_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1000803_geom (samian:loc_ds_1000803_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1001510_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1001510_geom (samian:loc_ds_1001510_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1002709_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1002709_geom (samian:loc_ds_1002709_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1000754_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1000754_geom (samian:loc_ds_1000754_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/loc_ds_1003421_geom",
+        "parent": "http://www.opengis.net/ont/sf#Point",
+        "type": "geoinstance",
+        "text": "loc_ds_1003421_geom (samian:loc_ds_1003421_geom)",
+        "data": {}
+      },
+      {
+        "id": "http://www.opengis.net/ont/sf#Point",
+        "parent": "#",
+        "type": "geoclass",
+        "text": "Point (sf:Point) [155]",
+        "data": {
+          "to": {
+            "http://www.opengis.net/ont/geosparql#asWKT": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 1
+            }
+          },
+          "from": {
+            "http://www.opengis.net/ont/geosparql#hasGeometry": {
+              "instancecount": 0,
+              "http://archaeology.link/ontology#Location": 1,
+              "http://archaeology.link/ontology#DiscoverySite": 1,
+              "http://archaeology.link/ontology#ToGeR_Event": 1
+            },
+            "http://www.w3.org/2000/01/rdf-schema#member": {
+              "instancecount": 0,
+              "http://www.opengis.net/ont/geosparql#GeometryCollection": 1
+            }
+          }
+        },
+        "instancecount": 2
+      },
+      {
         "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001570",
         "parent": "http://www.w3.org/ns/prov#Activity",
         "type": "instance",
@@ -5743,6 +5087,655 @@ var tree={
         "type": "instance",
         "text": "activity_loc_ds_1002604 (samian:activity_loc_ds_1002604)",
         "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001530",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1001530 (samian:activity_loc_ds_1001530)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000255",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1000255 (samian:activity_loc_ds_1000255)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000838",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1000838 (samian:activity_loc_ds_1000838)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000737",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1000737 (samian:activity_loc_ds_1000737)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003439",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1003439 (samian:activity_loc_ds_1003439)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000346",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1000346 (samian:activity_loc_ds_1000346)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000928",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1000928 (samian:activity_loc_ds_1000928)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001539",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1001539 (samian:activity_loc_ds_1001539)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001619",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1001619 (samian:activity_loc_ds_1001619)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000157",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1000157 (samian:activity_loc_ds_1000157)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001423",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1001423 (samian:activity_loc_ds_1001423)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002130",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1002130 (samian:activity_loc_ds_1002130)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003222",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1003222 (samian:activity_loc_ds_1003222)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001054",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1001054 (samian:activity_loc_ds_1001054)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002500",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1002500 (samian:activity_loc_ds_1002500)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000983",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1000983 (samian:activity_loc_ds_1000983)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001351",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1001351 (samian:activity_loc_ds_1001351)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000828",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1000828 (samian:activity_loc_ds_1000828)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003271",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1003271 (samian:activity_loc_ds_1003271)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001392",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1001392 (samian:activity_loc_ds_1001392)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003948",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1003948 (samian:activity_loc_ds_1003948)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003289",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1003289 (samian:activity_loc_ds_1003289)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003944",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1003944 (samian:activity_loc_ds_1003944)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001327",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1001327 (samian:activity_loc_ds_1001327)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000376",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1000376 (samian:activity_loc_ds_1000376)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1004142",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1004142 (samian:activity_loc_ds_1004142)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001186",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1001186 (samian:activity_loc_ds_1001186)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002839",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1002839 (samian:activity_loc_ds_1002839)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001028",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1001028 (samian:activity_loc_ds_1001028)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001030",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1001030 (samian:activity_loc_ds_1001030)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000460",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1000460 (samian:activity_loc_ds_1000460)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001786",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1001786 (samian:activity_loc_ds_1001786)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003165",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1003165 (samian:activity_loc_ds_1003165)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000489",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1000489 (samian:activity_loc_ds_1000489)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003898",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1003898 (samian:activity_loc_ds_1003898)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002381",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1002381 (samian:activity_loc_ds_1002381)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000372",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1000372 (samian:activity_loc_ds_1000372)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002066",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1002066 (samian:activity_loc_ds_1002066)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001943",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1001943 (samian:activity_loc_ds_1001943)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000671",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1000671 (samian:activity_loc_ds_1000671)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002748",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1002748 (samian:activity_loc_ds_1002748)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1004152",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1004152 (samian:activity_loc_ds_1004152)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001870",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1001870 (samian:activity_loc_ds_1001870)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001913",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1001913 (samian:activity_loc_ds_1001913)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003531",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1003531 (samian:activity_loc_ds_1003531)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001087",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1001087 (samian:activity_loc_ds_1001087)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003782",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1003782 (samian:activity_loc_ds_1003782)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001033",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1001033 (samian:activity_loc_ds_1001033)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1004136",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1004136 (samian:activity_loc_ds_1004136)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001531",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1001531 (samian:activity_loc_ds_1001531)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001207",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1001207 (samian:activity_loc_ds_1001207)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002542",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1002542 (samian:activity_loc_ds_1002542)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1004310",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1004310 (samian:activity_loc_ds_1004310)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002021",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1002021 (samian:activity_loc_ds_1002021)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002190",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1002190 (samian:activity_loc_ds_1002190)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000457",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1000457 (samian:activity_loc_ds_1000457)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001653",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1001653 (samian:activity_loc_ds_1001653)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003761",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1003761 (samian:activity_loc_ds_1003761)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003966",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1003966 (samian:activity_loc_ds_1003966)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000913",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1000913 (samian:activity_loc_ds_1000913)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001308",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1001308 (samian:activity_loc_ds_1001308)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002698",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1002698 (samian:activity_loc_ds_1002698)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000293",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1000293 (samian:activity_loc_ds_1000293)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001873",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1001873 (samian:activity_loc_ds_1001873)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002275",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1002275 (samian:activity_loc_ds_1002275)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000815",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1000815 (samian:activity_loc_ds_1000815)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000837",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1000837 (samian:activity_loc_ds_1000837)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000803",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1000803 (samian:activity_loc_ds_1000803)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001510",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1001510 (samian:activity_loc_ds_1001510)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1002709",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1002709 (samian:activity_loc_ds_1002709)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1000754",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1000754 (samian:activity_loc_ds_1000754)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1003421",
+        "parent": "http://www.w3.org/ns/prov#Activity",
+        "type": "instance",
+        "text": "activity_loc_ds_1003421 (samian:activity_loc_ds_1003421)",
+        "data": {}
+      },
+      {
+        "id": "http://www.w3.org/ns/prov#Activity",
+        "parent": "#",
+        "type": "class",
+        "text": "Activity (prov:Activity) [155]",
+        "data": {
+          "to": {
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/ns/prov#endedAtTime": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/ns/prov#startedAtTime": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/ns/prov#wasAssociatedWith": {
+              "instancecount": 1
+            }
+          },
+          "from": {
+            "http://www.w3.org/2000/01/rdf-schema#member": {
+              "instancecount": 0,
+              "http://www.w3.org/2004/02/skos/core#Collection": 1
+            },
+            "http://www.w3.org/ns/prov#wasGeneratedBy": {
+              "instancecount": 0,
+              "http://archaeology.link/ontology#Location": 1,
+              "http://archaeology.link/ontology#DiscoverySite": 1,
+              "http://archaeology.link/ontology#ToGeR_Event": 1
+            }
+          }
+        },
+        "instancecount": 4
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/Location_collection",
+        "parent": "http://www.opengis.net/ont/geosparql#FeatureCollection",
+        "type": "featurecollection",
+        "text": "Location Instances Collection (samian:Location_collection)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/DiscoverySite_collection",
+        "parent": "http://www.opengis.net/ont/geosparql#FeatureCollection",
+        "type": "featurecollection",
+        "text": "DiscoverySite Instances Collection (samian:DiscoverySite_collection)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/ToGeR_Event_collection",
+        "parent": "http://www.opengis.net/ont/geosparql#FeatureCollection",
+        "type": "featurecollection",
+        "text": "ToGeR_Event Instances Collection (samian:ToGeR_Event_collection)",
+        "data": {}
+      },
+      {
+        "id": "http://www.opengis.net/ont/geosparql#FeatureCollection",
+        "parent": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
+        "type": "collectionclass",
+        "text": "FeatureCollection (gsp:FeatureCollection) [3]",
+        "data": {
+          "to": {
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2000/01/rdf-schema#label": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2000/01/rdf-schema#member": {
+              "instancecount": 155,
+              "http://archaeology.link/ontology#Location": 155,
+              "http://archaeology.link/ontology#DiscoverySite": 155,
+              "http://archaeology.link/ontology#ToGeR_Event": 155
+            }
+          },
+          "from": {}
+        },
+        "instancecount": 158
+      },
+      {
+        "id": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
+        "parent": "#",
+        "type": "collectionclass",
+        "text": "SpatialObjectCollection (gsp:SpatialObjectCollection)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/Point_collection",
+        "parent": "http://www.opengis.net/ont/geosparql#GeometryCollection",
+        "type": "geocollection",
+        "text": "Point Instances Collection (samian:Point_collection)",
+        "data": {}
+      },
+      {
+        "id": "http://www.opengis.net/ont/geosparql#GeometryCollection",
+        "parent": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
+        "type": "collectionclass",
+        "text": "GeometryCollection (gsp:GeometryCollection) [1]",
+        "data": {
+          "to": {
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2000/01/rdf-schema#label": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2000/01/rdf-schema#member": {
+              "instancecount": 155,
+              "http://www.opengis.net/ont/sf#Point": 155
+            }
+          },
+          "from": {}
+        },
+        "instancecount": 158
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/Activity_collection",
+        "parent": "http://www.w3.org/2004/02/skos/core#Collection",
+        "type": "instance",
+        "text": "Activity Instances Collection (samian:Activity_collection)",
+        "data": {}
+      },
+      {
+        "id": "http://www.w3.org/2004/02/skos/core#Collection",
+        "parent": "#",
+        "type": "collectionclass",
+        "text": "Collection (skos:Collection) [1]",
+        "data": {
+          "to": {
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2000/01/rdf-schema#label": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2000/01/rdf-schema#member": {
+              "instancecount": 155,
+              "http://www.w3.org/ns/prov#Activity": 155
+            }
+          },
+          "from": {}
+        },
+        "instancecount": 157
       }
     ]
   }
