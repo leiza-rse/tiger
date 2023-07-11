@@ -2,30 +2,30 @@ var namespaces={"rdf":"http://www.w3.org/1999/02/22-rdf-syntax-ns#","xsd":"http:
 var annotationnamespaces=["http://www.w3.org/2004/02/skos/core#","http://www.w3.org/2000/01/rdf-schema#","http://purl.org/dc/terms/"]
 var indexpage=false
 var geoproperties={
-                   "http://www.opengis.net/ont/geosparql#asWKT":"DatatypeProperty",
-                   "http://www.opengis.net/ont/geosparql#asGML": "DatatypeProperty",
-                   "http://www.opengis.net/ont/geosparql#asKML": "DatatypeProperty",
-                   "http://www.opengis.net/ont/geosparql#asGeoJSON": "DatatypeProperty",
-                   "http://www.opengis.net/ont/geosparql#hasGeometry": "ObjectProperty",
-                   "http://www.opengis.net/ont/geosparql#hasDefaultGeometry": "ObjectProperty",
-                   "http://www.w3.org/2003/01/geo/wgs84_pos#geometry": "ObjectProperty",
-                   "http://www.georss.org/georss/point": "DatatypeProperty",
-                   "http://www.w3.org/2006/vcard/ns#hasGeo": "ObjectProperty",
-                   "http://www.w3.org/2003/01/geo/wgs84_pos#lat":"DatatypeProperty",
-                   "http://www.w3.org/2003/01/geo/wgs84_pos#long": "DatatypeProperty",
-                   "http://www.semanticweb.org/ontologies/2015/1/EPNet-ONTOP_Ontology#hasLatitude": "DatatypeProperty",
-                   "http://www.semanticweb.org/ontologies/2015/1/EPNet-ONTOP_Ontology#hasLongitude": "DatatypeProperty",
-                   "http://schema.org/geo": "ObjectProperty",
-                   "http://schema.org/polygon": "DatatypeProperty",
-                   "https://schema.org/geo": "ObjectProperty",
-                   "https://schema.org/polygon": "DatatypeProperty",
-                   "http://geovocab.org/geometry#geometry": "ObjectProperty",
-                   "http://www.w3.org/ns/locn#geometry": "ObjectProperty",
-                   "http://rdfs.co/juso/geometry": "ObjectProperty",
-                   "http://www.wikidata.org/prop/direct/P625":"DatatypeProperty",
-                   "https://database.factgrid.de/prop/direct/P48": "DatatypeProperty",
-                   "http://database.factgrid.de/prop/direct/P48":"DatatypeProperty",
-                   "http://www.wikidata.org/prop/direct/P3896": "DatatypeProperty"
+   "http://www.opengis.net/ont/geosparql#asWKT":"DatatypeProperty",
+   "http://www.opengis.net/ont/geosparql#asGML": "DatatypeProperty",
+   "http://www.opengis.net/ont/geosparql#asKML": "DatatypeProperty",
+   "http://www.opengis.net/ont/geosparql#asGeoJSON": "DatatypeProperty",
+   "http://www.opengis.net/ont/geosparql#hasGeometry": "ObjectProperty",
+   "http://www.opengis.net/ont/geosparql#hasDefaultGeometry": "ObjectProperty",
+   "http://www.w3.org/2003/01/geo/wgs84_pos#geometry": "ObjectProperty",
+   "http://www.georss.org/georss/point": "DatatypeProperty",
+   "http://www.w3.org/2006/vcard/ns#hasGeo": "ObjectProperty",
+   "http://www.w3.org/2003/01/geo/wgs84_pos#lat":"DatatypeProperty",
+   "http://www.w3.org/2003/01/geo/wgs84_pos#long": "DatatypeProperty",
+   "http://www.semanticweb.org/ontologies/2015/1/EPNet-ONTOP_Ontology#hasLatitude": "DatatypeProperty",
+   "http://www.semanticweb.org/ontologies/2015/1/EPNet-ONTOP_Ontology#hasLongitude": "DatatypeProperty",
+   "http://schema.org/geo": "ObjectProperty",
+   "http://schema.org/polygon": "DatatypeProperty",
+   "https://schema.org/geo": "ObjectProperty",
+   "https://schema.org/polygon": "DatatypeProperty",
+   "http://geovocab.org/geometry#geometry": "ObjectProperty",
+   "http://www.w3.org/ns/locn#geometry": "ObjectProperty",
+   "http://rdfs.co/juso/geometry": "ObjectProperty",
+   "http://www.wikidata.org/prop/direct/P625":"DatatypeProperty",
+   "https://database.factgrid.de/prop/direct/P48": "DatatypeProperty",
+   "http://database.factgrid.de/prop/direct/P48":"DatatypeProperty",
+   "http://www.wikidata.org/prop/direct/P3896": "DatatypeProperty"
 }
 
 commentproperties={
@@ -330,6 +330,8 @@ function rewriteLink(thelink){
             counter+=1
         }
     }
+    //console.log(rest)
+    //console.log(rest.endsWith("index.html"))
     rest+="index.html"
     console.log(rest)
     return rest
@@ -349,55 +351,55 @@ function changeDefLink2(){
 }
 
 var definitionlinks={
-"covjson":"https://covjson.org",
-"csv":"https://tools.ietf.org/html/rfc4180",
-"cipher":"https://neo4j.com/docs/cypher-manual/current/",
-"esrijson":"https://doc.arcgis.com/de/iot/ingest/esrijson.htm",
-"geohash":"http://geohash.org",
-"json":"https://geojson.org",
-"gdf":"https://www.cs.nmsu.edu/~joemsong/software/ChiNet/GDF.pdf",
-"geojsonld":"http://geojson.org/geojson-ld/",
-"geojsonseq":"https://tools.ietf.org/html/rfc8142",
-"geouri":"https://tools.ietf.org/html/rfc5870",
-"gexf":"https://gephi.org/gexf/format/",
-"gml":"https://www.ogc.org/standards/gml",
-"gml2":"https://gephi.org/users/supported-graph-formats/gml-format/",
-"gpx":"https://www.topografix.com/gpx.asp",
-"graphml":"http://graphml.graphdrawing.org",
-"gxl":"http://www.gupro.de/GXL/Introduction/intro.html",
-"hdt":"https://www.w3.org/Submission/2011/03/",
-"hextuples":"https://github.com/ontola/hextuples",
-"html":"https://html.spec.whatwg.org",
-"jsonld":"https://json-ld.org",
-"jsonn":"",
-"jsonp":"http://jsonp.eu",
-"jsonseq":"https://tools.ietf.org/html/rfc7464",
-"kml":"https://www.ogc.org/standards/kml",
-"latlon":"",
-"mapml":"https://maps4html.org/MapML/spec/",
-"mvt":"https://docs.mapbox.com/vector-tiles/reference/",
-"n3":"https://www.w3.org/TeamSubmission/n3/",
-"nq":"https://www.w3.org/TR/n-quads/",
-"nt":"https://www.w3.org/TR/n-triples/",
-"olc":"https://github.com/google/open-location-code/blob/master/docs/specification.md",
-"osm":"https://wiki.openstreetmap.org/wiki/OSM_XML",
-"osmlink":"",
-"rdfxml":"https://www.w3.org/TR/rdf-syntax-grammar/",
-"rdfjson":"https://www.w3.org/TR/rdf-json/",
-"rt":"https://afs.github.io/rdf-thrift/rdf-binary-thrift.html",
-"svg":"https://www.w3.org/TR/SVG11/",
-"tgf":"https://docs.yworks.com/yfiles/doc/developers-guide/tgf.html",
-"tlp":"https://tulip.labri.fr/TulipDrupal/?q=tlp-file-format",
-"trig":"https://www.w3.org/TR/trig/",
-"trix":"https://www.hpl.hp.com/techreports/2004/HPL-2004-56.html",
-"ttl":"https://www.w3.org/TR/turtle/",
-"wkb":"https://www.iso.org/standard/40114.html",
-"wkt":"https://www.iso.org/standard/40114.html",
-"xls":"http://www.openoffice.org/sc/excelfileformat.pdf",
-"xlsx":"http://www.openoffice.org/sc/excelfileformat.pdf",
-"xyz":"https://gdal.org/drivers/raster/xyz.html",
-"yaml":"https://yaml.org"
-}
+    "covjson":"https://covjson.org",
+    "csv":"https://tools.ietf.org/html/rfc4180",
+    "cipher":"https://neo4j.com/docs/cypher-manual/current/",
+    "esrijson":"https://doc.arcgis.com/de/iot/ingest/esrijson.htm",
+    "geohash":"http://geohash.org",
+    "json":"https://geojson.org",
+    "gdf":"https://www.cs.nmsu.edu/~joemsong/software/ChiNet/GDF.pdf",
+    "geojsonld":"http://geojson.org/geojson-ld/",
+    "geojsonseq":"https://tools.ietf.org/html/rfc8142",
+    "geouri":"https://tools.ietf.org/html/rfc5870",
+    "gexf":"https://gephi.org/gexf/format/",
+    "gml":"https://www.ogc.org/standards/gml",
+    "gml2":"https://gephi.org/users/supported-graph-formats/gml-format/",
+    "gpx":"https://www.topografix.com/gpx.asp",
+    "graphml":"http://graphml.graphdrawing.org",
+    "gxl":"http://www.gupro.de/GXL/Introduction/intro.html",
+    "hdt":"https://www.w3.org/Submission/2011/03/",
+    "hextuples":"https://github.com/ontola/hextuples",
+    "html":"https://html.spec.whatwg.org",
+    "jsonld":"https://json-ld.org",
+    "jsonn":"",
+    "jsonp":"http://jsonp.eu",
+    "jsonseq":"https://tools.ietf.org/html/rfc7464",
+    "kml":"https://www.ogc.org/standards/kml",
+    "latlon":"",
+    "mapml":"https://maps4html.org/MapML/spec/",
+    "mvt":"https://docs.mapbox.com/vector-tiles/reference/",
+    "n3":"https://www.w3.org/TeamSubmission/n3/",
+    "nq":"https://www.w3.org/TR/n-quads/",
+    "nt":"https://www.w3.org/TR/n-triples/",
+    "olc":"https://github.com/google/open-location-code/blob/master/docs/specification.md",
+    "osm":"https://wiki.openstreetmap.org/wiki/OSM_XML",
+    "osmlink":"",
+    "rdfxml":"https://www.w3.org/TR/rdf-syntax-grammar/",
+    "rdfjson":"https://www.w3.org/TR/rdf-json/",
+    "rt":"https://afs.github.io/rdf-thrift/rdf-binary-thrift.html",
+    "svg":"https://www.w3.org/TR/SVG11/",
+    "tgf":"https://docs.yworks.com/yfiles/doc/developers-guide/tgf.html",
+    "tlp":"https://tulip.labri.fr/TulipDrupal/?q=tlp-file-format",
+    "trig":"https://www.w3.org/TR/trig/",
+    "trix":"https://www.hpl.hp.com/techreports/2004/HPL-2004-56.html",
+    "ttl":"https://www.w3.org/TR/turtle/",
+    "wkb":"https://www.iso.org/standard/40114.html",
+    "wkt":"https://www.iso.org/standard/40114.html",
+    "xls":"http://www.openoffice.org/sc/excelfileformat.pdf",
+    "xlsx":"http://www.openoffice.org/sc/excelfileformat.pdf",
+    "xyz":"https://gdal.org/drivers/raster/xyz.html",
+    "yaml":"https://yaml.org"
+    }
 
 function shortenURI(uri){
 	prefix=""
@@ -562,24 +564,24 @@ $('span.textanno').each(function(i, obj) {
 }
 
 function labelFromURI(uri,label){
-        if(uri.includes("#")){
-        	prefix=uri.substring(0,uri.lastIndexOf('#')-1)
-        	if(label!=null){
-        		return label+" ("+prefix.substring(prefix.lastIndexOf("/")+1)+":"+uri.substring(uri.lastIndexOf('#')+1)+")"
+    if(uri.includes("#")){
+        prefix=uri.substring(0,uri.lastIndexOf('#')-1)
+        if(label!=null){
+            return label+" ("+prefix.substring(prefix.lastIndexOf("/")+1)+":"+uri.substring(uri.lastIndexOf('#')+1)+")"
 
-        	}else{
-				return uri.substring(uri.lastIndexOf('#')+1)+" ("+prefix.substring(uri.lastIndexOf("/")+1)+":"+uri.substring(uri.lastIndexOf('#')+1)+")"
-        	}
-       	}
-        if(uri.includes("/")){
-            prefix=uri.substring(0,uri.lastIndexOf('/')-1)
-            if(label!=null){
-            	return label+" ("+prefix.substring(prefix.lastIndexOf("/")+1)+":"+uri.substring(uri.lastIndexOf('/')+1)+")"
-            }else{
-        		return uri.substring(uri.lastIndexOf('/')+1)+" ("+prefix.substring(uri.lastIndexOf("/")+1)+":"+uri.substring(uri.lastIndexOf('/')+1)+")"
-            }
-       	}
-        return uri
+        }else{
+            return uri.substring(uri.lastIndexOf('#')+1)+" ("+prefix.substring(uri.lastIndexOf("/")+1)+":"+uri.substring(uri.lastIndexOf('#')+1)+")"
+        }
+    }
+    if(uri.includes("/")){
+        prefix=uri.substring(0,uri.lastIndexOf('/')-1)
+        if(label!=null){
+            return label+" ("+prefix.substring(prefix.lastIndexOf("/")+1)+":"+uri.substring(uri.lastIndexOf('/')+1)+")"
+        }else{
+            return uri.substring(uri.lastIndexOf('/')+1)+" ("+prefix.substring(uri.lastIndexOf("/")+1)+":"+uri.substring(uri.lastIndexOf('/')+1)+")"
+        }
+    }
+    return uri
 }
 
 function formatHTMLTableForPropertyRelations(propuri,result,propicon){
@@ -613,8 +615,8 @@ function determineTableCellLogo(uri){
     logourl=""
     finished=false
     if(uri in labelproperties){
-        result+="<img src=\"https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/labelannotationproperty.png\" height=\"25\" width=\"25\" alt=\"Label Property\"/>"
-        logourl="https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/labelannotationproperty.png"
+        result+="<img src=\"https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/labelproperty.png\" height=\"25\" width=\"25\" alt=\"Label Property\"/>"
+        logourl="https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/labelproperty.png"
         finished=true
     }
     if(!finished){
@@ -718,7 +720,7 @@ function formatHTMLTableForResult(result,nodeicon){
 }
 
 function getClassRelationDialog(node){
-     nodeid=rewriteLink(node.id).replace(".html",".json")
+     nodeid=rewriteLink(normalizeNodeId(node)).replace(".html",".json")
      nodelabel=node.text
      nodetype=node.type
      nodeicon=node.icon
@@ -744,8 +746,15 @@ function getPropRelationDialog(propuri,propicon){
      document.getElementById("classrelationdialog").showModal();
 }
 
+function normalizeNodeId(node){
+    if(node.id.includes("_suniv")){
+        return node.id.replace(/_suniv[0-9]+_/, "")
+    }
+    return node.id
+}
+
 function getDataSchemaDialog(node){
-     nodeid=rewriteLink(node.id).replace(".html",".json")
+     nodeid=rewriteLink(normalizeNodeId(node)).replace(".html",".json")
      nodelabel=node.text
      nodetype=node.type
      nodeicon=node.icon
@@ -803,7 +812,7 @@ function setupJSTree(){
                 "label": "Lookup definition",
                 "icon": "https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/searchclass.png",
                 "action": function (obj) {
-                    newlink=rewriteLink(node.id)
+                    newlink=normalizeNodeId(node)
                     var win = window.open(newlink, '_blank');
                     win.focus();
                 }
@@ -814,7 +823,7 @@ function setupJSTree(){
                 "label": "Copy URI to clipboard",
                 "icon": "https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/"+thelinkpart+"link.png",
                 "action":function(obj){
-                    copyText=node.id
+                    copyText=normalizeNodeId(node)
                     navigator.clipboard.writeText(copyText);
                 }
             },
@@ -825,7 +834,7 @@ function setupJSTree(){
                 "icon": "https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/"+thelinkpart+"link.png",
                 "action":function(obj){
                     console.log("class relations")
-                    if(node.type=="class" || node.type=="geoclass" || node.type=="collectionclass"){
+                    if(node.type=="class" || node.type=="halfgeoclass" || node.type=="geoclass" || node.type=="collectionclass"){
                         getClassRelationDialog(node)
                     }
                 }
@@ -841,7 +850,7 @@ function setupJSTree(){
                     console.log(baseurl)
                     if(node.id.includes(baseurl)){
                         getDataSchemaDialog(node)
-                    }else if(node.type=="class" || node.type=="geoclass" || node.type=="collectionclass"){
+                    }else if(node.type=="class" || node.type=="halfgeoclass" || node.type=="geoclass" || node.type=="collectionclass"){
                         getDataSchemaDialog(node)
                     }
                 }
@@ -854,7 +863,9 @@ function setupJSTree(){
         var node = $(event.target).closest("li");
         var data = node[0].id
         if(data.includes(baseurl)){
-            followLink(data)
+            console.log(node[0].id)
+            console.log(normalizeNodeId(node[0]))
+            followLink(normalizeNodeId(node[0]))
         }else{
             window.open(data, '_blank');
         }
@@ -867,4 +878,180 @@ function setupJSTree(){
             $('#jstree').jstree(true).search(v,false,true);
         });
     });
+}
+
+function restyleLayer(propertyName,geojsonLayer) {
+    geojsonLayer.eachLayer(function(featureInstanceLayer) {
+        propertyValue = featureInstanceLayer.feature.properties[propertyName];
+
+        // Your function that determines a fill color for a particular
+        // property name and value.
+        var myFillColor = getColor(propertyName, propertyValue);
+
+        featureInstanceLayer.setStyle({
+            fillColor: myFillColor,
+            fillOpacity: 0.8,
+            weight: 0.5
+        });
+    });
+}
+
+function createColorRangeByAttribute(propertyName,geojsonlayer){
+    var valueset={}
+    var minamount=999999,maxamount=-999999
+    var amountofrelevantitems=0
+    var stringitems=0
+    var numberitems=0
+    var amountofitems=geojsonlayer.size()
+    var maxColors=8
+    for(feat of geojsonlayer){
+        if(propertyName in feat["properties"]){
+            if(!(feat["properties"][propertyName] in valueset)){
+                valueset[feat["properties"][propertyName]]=0
+            }
+            valueset[feat["properties"][propertyName]]+=1
+            if(isNaN(feat["properties"][propertyName])){
+                stringitems+=1
+            }else{
+                numberitems+=1
+                numb=Number(feat["properties"][propertyName])
+                if(numb<minamount){
+                    minamount=numb
+                }
+                if(numb>maxamount){
+                    maxamount=numb
+                }
+            }
+            amountofrelevantitems+=1
+        }else{
+            if(!("undefined" in valueset)){
+                valueset["undefined"]=0
+            }
+            valueset["undefined"]+=1
+        }
+    }
+    if(numberitems===amountofrelevantitems){
+        myrange=maxamount-minamount
+        myrangesteps=myrange/maxColors
+        curstep=minamount
+        while(curstep<maxamount){
+            curstepstr=(curstep+"")
+            rangesByAttribute[propertyName]={cursteps:{"min":curstep,"max":curstep+myrangesteps,"label":"["+curstep+"-"+curstep+myrangesteps+"]"}}
+            curstep+=myrangesteps
+        }
+    }else if(stringitems<amountofrelevantitems){
+
+    }else if(stringitems===amountofrelevantitems){
+
+    }
+}
+
+function generateLeafletPopup(feature, layer){
+    var popup="<b>"
+    if("label" in feature && feature.label!=""){
+        popup+="<a href=\""+rewriteLink(feature.id)+"\" class=\"footeruri\" target=\"_blank\">"+feature.label+"</a></b><br/><ul>"
+    }else{
+        popup+="<a href=\""+rewriteLink(feature.id)+"\" class=\"footeruri\" target=\"_blank\">"+feature.id.substring(feature.id.lastIndexOf('/')+1)+"</a></b><br/><ul>"
+    }
+    for(prop in feature.properties){
+        popup+="<li>"
+        if(prop.startsWith("http")){
+            popup+="<a href=\""+prop+"\" target=\"_blank\">"+prop.substring(prop.lastIndexOf('/')+1)+"</a>"
+        }else{
+            popup+=prop
+        }
+        popup+=" : "
+        if(feature.properties[prop].length>1){
+            popup+="<ul>"
+            for(item of feature.properties[prop]){
+                popup+="<li>"
+                if((item+"").startsWith("http")){
+                    popup+="<a href=\""+item+"\" target=\"_blank\">"+item.substring(item.lastIndexOf('/')+1)+"</a>"
+                }else{
+                    popup+=item
+                }
+                popup+="</li>"
+            }
+            popup+="</ul>"
+        }else if((feature.properties[prop][0]+"").startsWith("http")){
+            popup+="<a href=\""+rewriteLink(feature.properties[prop][0])+"\" target=\"_blank\">"+feature.properties[prop][0].substring(feature.properties[prop][0].lastIndexOf('/')+1)+"</a>"
+        }else{
+            popup+=feature.properties[prop]
+        }
+        popup+="</li>"
+    }
+    popup+="</ul>"
+    return popup
+}
+
+function setupLeaflet(baselayers,epsg,baseMaps,overlayMaps,map){
+    if(typeof (baselayers) === 'undefined' || baselayers===[]){
+        basemaps["OSM"]=L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'})
+        baseMaps["OSM"].addTo(map);
+    }else{
+        first=true
+        for(bl in baselayers){
+            if("type" in baselayers[bl] && baselayers[bl]["type"]==="wms") {
+                if("layername" in baselayers[bl]){
+                    baseMaps[bl] = L.tileLayer.wms(baselayers[bl]["url"],{"layers":baselayers[bl]["layername"]})
+                }else{
+                    baseMaps[bl] = L.tileLayer.wms(baselayers[bl]["url"])
+                }
+
+            }else if(!("type" in baselayers[bl]) || baselayers[bl]["type"]==="tile"){
+                baseMaps[bl]=L.tileLayer(baselayers[bl]["url"])
+            }
+            if(first) {
+                baseMaps[bl].addTo(map);
+                first = false
+            }
+        }
+    }
+	L.control.scale({
+	position: 'bottomright',
+	imperial: false
+	}).addTo(map);
+    L.Polygon.addInitHook(function () {
+        this._latlng = this._bounds.getCenter();
+    });
+    L.Polygon.include({
+        getLatLng: function () {
+            return this._latlng;
+        },
+        setLatLng: function () {} // Dummy method.
+    });
+	var bounds = L.latLngBounds([]);
+    var markercluster = L.markerClusterGroup().addTo(map);
+    first=true
+    counter=1
+    for(feature of featurecolls){
+        if(epsg!="" && epsg!="EPSG:4326" && epsg in epsgdefs){
+            feature=convertGeoJSON(feature,epsgdefs[epsg],null)
+        }
+        layerr=L.geoJSON.css(feature,{
+        pointToLayer: function(feature, latlng){
+                      var greenIcon = new L.Icon({
+                        iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-black.png',
+                        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+                        iconSize: [25, 41],iconAnchor: [12, 41], popupAnchor: [1, -34],shadowSize: [41, 41]
+                    });
+                    return L.marker(latlng, {icon: greenIcon});
+        },onEachFeature: function (feature, layer) {layer.bindPopup(generateLeafletPopup(feature, layer))}})
+        layername="Content "+counter
+        if("name" in feature) {
+            layername = feature["name"]
+        }else {
+            counter += 1
+        }
+        overlayMaps[layername]=L.featureGroup.subGroup(markercluster,[layerr])
+        if(first) {
+            overlayMaps[layername].addTo(map);
+            var layerBounds = layerr.getBounds();
+            bounds.extend(layerBounds);
+            map.fitBounds(bounds);
+            first = false
+        }
+    }
+	layercontrol=L.control.layers(baseMaps,overlayMaps).addTo(map)
+    markercluster.addTo(map)
 }
