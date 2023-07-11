@@ -1,0 +1,25 @@
+<http://data.archaeology.link/data/samian/loc_ds_1000737>
+  a lado:Location, lado:DiscoverySite, lado:ToGeR_Event ;
+  lado:hasType lado:DiscoverySite ;
+  rdfs:label "Saalburg"@en ;
+  dc11:identifier 1000737 ;
+  lado:tiger_eventname "Saalburg"@en ;
+  lado:tiger_id 1000737 ;
+  geosparql:hasGeometry samian:loc_ds_1000737_geom ;
+  lado:tiger_cax -1.5541 ;
+  lado:tiger_cay 0.0468 ;
+  lado:tiger_cax_norm 0.08208 ;
+  lado:tiger_cax_hex "#2d1b75" ;
+  dc:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+  dc:creator <https://orcid.org/0000-0002-3246-3531> ;
+  dc:rightsHolder <https://orcid.org/0000-0002-3246-3531>, <https://orcid.org/0000-0002-7634-5342> ;
+  prov:wasAttributedTo samian:ImportPythonScript_TiGerR ;
+  prov:wasDerivedFrom <http://wikidata.org/entity/Q90412636> ;
+  time:intervalBefore samian:loc_ds_1003439 .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000737_geom>
+  a <http://www.opengis.net/ont/sf#Point> ;
+  geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.566659 50.271522)"^^geosparql:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000838>
+  time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1000737> .
