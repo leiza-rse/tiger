@@ -1,0 +1,31 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002245> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Carlisle"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax 0.6693 ;
+    ns1:tiger_cax_hex "#0dbfd5" ;
+    ns1:tiger_cax_norm 0.74273 ;
+    ns1:tiger_cay -0.3006 ;
+    ns1:tiger_eventname "Carlisle"@en ;
+    ns1:tiger_id 1002245 ;
+    dc:identifier 1002245 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1002245_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1002527> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002245> .
+

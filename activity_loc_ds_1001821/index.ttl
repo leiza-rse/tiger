@@ -1,0 +1,8 @@
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/samian/activity_loc_ds_1001821> a prov:Activity ;
+    prov:endedAtTime "2023-07-11T16:32:06.392321+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T16:32:06.353894+00:00"^^xsd:dateTime ;
+    prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
+
