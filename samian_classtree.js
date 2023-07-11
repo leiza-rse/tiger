@@ -3382,12 +3382,6 @@ var tree={
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
               "http://www.opengis.net/ont/geosparql#FeatureCollection": 3
-            },
-            "http://www.w3.org/2006/time#intervalBefore": {
-              "instancecount": 0,
-              "http://archaeology.link/ontology#Location": 1,
-              "http://archaeology.link/ontology#DiscoverySite": 1,
-              "http://archaeology.link/ontology#ToGeR_Event": 1
             }
           }
         },
