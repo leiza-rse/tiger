@@ -74,8 +74,8 @@ for index, row in data.iterrows():
     ids.append(str(row['id']))
 
     # geom
-    point = "POINT(" + str(float(row['lat'])) + \
-        " " + str(float(row['lon'])) + ")"
+    point = "POINT(" + str(float(row['lon'])) + \
+        " " + str(float(row['lat'])) + ")"
     point = "\"<http://www.opengis.net/def/crs/EPSG/0/4326> " + \
         point + "\"^^geosparql:wktLiteral"
     lines.append("samian:loc_ds_" + str(row['id']) + " " +

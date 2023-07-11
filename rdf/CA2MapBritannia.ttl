@@ -1,5 +1,5 @@
 # create triples from CA2MapBritannia.csv 
-# on 2023-07-11 16:32
+# on 2023-07-11 18:08
 
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -24,7 +24,7 @@ samian:loc_ds_1001570 lado:tiger_eventname 'Camulodunum'@en.
 samian:loc_ds_1001570 lado:tiger_id 1001570.
 samian:loc_ds_1001570 geosparql:hasGeometry samian:loc_ds_1001570_geom .
 samian:loc_ds_1001570_geom rdf:type sf:Point .
-samian:loc_ds_1001570_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.883335 0.899999)"^^geosparql:wktLiteral.
+samian:loc_ds_1001570_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.899999 51.883335)"^^geosparql:wktLiteral.
 samian:loc_ds_1001570 lado:tiger_cax -2.4689.
 samian:loc_ds_1001570 lado:tiger_cay -1.7971.
 samian:loc_ds_1001570 lado:tiger_cax_norm 0.0.
@@ -37,8 +37,8 @@ samian:loc_ds_1001570 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001570 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001570 prov:wasGeneratedBy samian:activity_loc_ds_1001570 .
 samian:activity_loc_ds_1001570 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001570 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001570 prov:endedAtTime '2023-07-11T16:32:06.383131Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001570 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001570 prov:endedAtTime '2023-07-11T18:08:21.442735Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001570 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003148 rdf:type lado:Location .
@@ -51,7 +51,7 @@ samian:loc_ds_1003148 lado:tiger_eventname 'Maidstone'@en.
 samian:loc_ds_1003148 lado:tiger_id 1003148.
 samian:loc_ds_1003148 geosparql:hasGeometry samian:loc_ds_1003148_geom .
 samian:loc_ds_1003148_geom rdf:type sf:Point .
-samian:loc_ds_1003148_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.26667 0.51667)"^^geosparql:wktLiteral.
+samian:loc_ds_1003148_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.51667 51.26667)"^^geosparql:wktLiteral.
 samian:loc_ds_1003148 lado:tiger_cax -1.2852.
 samian:loc_ds_1003148 lado:tiger_cay -0.0088.
 samian:loc_ds_1003148 lado:tiger_cax_norm 0.28015.
@@ -64,8 +64,8 @@ samian:loc_ds_1003148 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003148 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003148 prov:wasGeneratedBy samian:activity_loc_ds_1003148 .
 samian:activity_loc_ds_1003148 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003148 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003148 prov:endedAtTime '2023-07-11T16:32:06.383131Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003148 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003148 prov:endedAtTime '2023-07-11T18:08:21.443736Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003148 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003533 rdf:type lado:Location .
@@ -78,7 +78,7 @@ samian:loc_ds_1003533 lado:tiger_eventname 'Fingringhoe Wick'@en.
 samian:loc_ds_1003533 lado:tiger_id 1003533.
 samian:loc_ds_1003533 geosparql:hasGeometry samian:loc_ds_1003533_geom .
 samian:loc_ds_1003533_geom rdf:type sf:Point .
-samian:loc_ds_1003533_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.83586 0.969736)"^^geosparql:wktLiteral.
+samian:loc_ds_1003533_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.969736 51.83586)"^^geosparql:wktLiteral.
 samian:loc_ds_1003533 lado:tiger_cax -1.1808.
 samian:loc_ds_1003533 lado:tiger_cay -0.2368.
 samian:loc_ds_1003533 lado:tiger_cax_norm 0.30486.
@@ -91,8 +91,8 @@ samian:loc_ds_1003533 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003533 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003533 prov:wasGeneratedBy samian:activity_loc_ds_1003533 .
 samian:activity_loc_ds_1003533 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003533 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003533 prov:endedAtTime '2023-07-11T16:32:06.383131Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003533 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003533 prov:endedAtTime '2023-07-11T18:08:21.443736Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003533 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001198 rdf:type lado:Location .
@@ -105,7 +105,7 @@ samian:loc_ds_1001198 lado:tiger_eventname 'Wimborne'@en.
 samian:loc_ds_1001198 lado:tiger_id 1001198.
 samian:loc_ds_1001198 geosparql:hasGeometry samian:loc_ds_1001198_geom .
 samian:loc_ds_1001198_geom rdf:type sf:Point .
-samian:loc_ds_1001198_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.79 -2.014188)"^^geosparql:wktLiteral.
+samian:loc_ds_1001198_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.014188 50.79)"^^geosparql:wktLiteral.
 samian:loc_ds_1001198 lado:tiger_cax -1.0293.
 samian:loc_ds_1001198 lado:tiger_cay 0.0269.
 samian:loc_ds_1001198 lado:tiger_cax_norm 0.34072.
@@ -118,8 +118,8 @@ samian:loc_ds_1001198 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001198 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001198 prov:wasGeneratedBy samian:activity_loc_ds_1001198 .
 samian:activity_loc_ds_1001198 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001198 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001198 prov:endedAtTime '2023-07-11T16:32:06.384131Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001198 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001198 prov:endedAtTime '2023-07-11T18:08:21.443736Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001198 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003475 rdf:type lado:Location .
@@ -132,7 +132,7 @@ samian:loc_ds_1003475 lado:tiger_eventname 'Mancetter'@en.
 samian:loc_ds_1003475 lado:tiger_id 1003475.
 samian:loc_ds_1003475 geosparql:hasGeometry samian:loc_ds_1003475_geom .
 samian:loc_ds_1003475_geom rdf:type sf:Point .
-samian:loc_ds_1003475_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.566791 -1.518985)"^^geosparql:wktLiteral.
+samian:loc_ds_1003475_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.518985 52.566791)"^^geosparql:wktLiteral.
 samian:loc_ds_1003475 lado:tiger_cax -0.9793.
 samian:loc_ds_1003475 lado:tiger_cay 0.0567.
 samian:loc_ds_1003475 lado:tiger_cax_norm 0.35255.
@@ -145,8 +145,8 @@ samian:loc_ds_1003475 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003475 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003475 prov:wasGeneratedBy samian:activity_loc_ds_1003475 .
 samian:activity_loc_ds_1003475 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003475 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003475 prov:endedAtTime '2023-07-11T16:32:06.384131Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003475 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003475 prov:endedAtTime '2023-07-11T18:08:21.443736Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003475 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002701 rdf:type lado:Location .
@@ -159,7 +159,7 @@ samian:loc_ds_1002701 lado:tiger_eventname 'Braughing'@en.
 samian:loc_ds_1002701 lado:tiger_id 1002701.
 samian:loc_ds_1002701 geosparql:hasGeometry samian:loc_ds_1002701_geom .
 samian:loc_ds_1002701_geom rdf:type sf:Point .
-samian:loc_ds_1002701_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.90684 0.02789)"^^geosparql:wktLiteral.
+samian:loc_ds_1002701_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.02789 51.90684)"^^geosparql:wktLiteral.
 samian:loc_ds_1002701 lado:tiger_cax -0.6397.
 samian:loc_ds_1002701 lado:tiger_cay -0.3673.
 samian:loc_ds_1002701 lado:tiger_cax_norm 0.43293.
@@ -172,8 +172,8 @@ samian:loc_ds_1002701 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002701 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002701 prov:wasGeneratedBy samian:activity_loc_ds_1002701 .
 samian:activity_loc_ds_1002701 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002701 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002701 prov:endedAtTime '2023-07-11T16:32:06.384131Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002701 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002701 prov:endedAtTime '2023-07-11T18:08:21.443736Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002701 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001765 rdf:type lado:Location .
@@ -186,7 +186,7 @@ samian:loc_ds_1001765 lado:tiger_eventname 'Usk'@en.
 samian:loc_ds_1001765 lado:tiger_id 1001765.
 samian:loc_ds_1001765 geosparql:hasGeometry samian:loc_ds_1001765_geom .
 samian:loc_ds_1001765_geom rdf:type sf:Point .
-samian:loc_ds_1001765_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.7 -2.9)"^^geosparql:wktLiteral.
+samian:loc_ds_1001765_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.9 51.7)"^^geosparql:wktLiteral.
 samian:loc_ds_1001765 lado:tiger_cax -0.5209.
 samian:loc_ds_1001765 lado:tiger_cay 0.7939.
 samian:loc_ds_1001765 lado:tiger_cax_norm 0.46104.
@@ -199,8 +199,8 @@ samian:loc_ds_1001765 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001765 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001765 prov:wasGeneratedBy samian:activity_loc_ds_1001765 .
 samian:activity_loc_ds_1001765 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001765 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001765 prov:endedAtTime '2023-07-11T16:32:06.384131Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001765 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001765 prov:endedAtTime '2023-07-11T18:08:21.444734Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001765 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002137 rdf:type lado:Location .
@@ -213,7 +213,7 @@ samian:loc_ds_1002137 lado:tiger_eventname 'Great Chesterford'@en.
 samian:loc_ds_1002137 lado:tiger_id 1002137.
 samian:loc_ds_1002137 geosparql:hasGeometry samian:loc_ds_1002137_geom .
 samian:loc_ds_1002137_geom rdf:type sf:Point .
-samian:loc_ds_1002137_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.066665 0.2)"^^geosparql:wktLiteral.
+samian:loc_ds_1002137_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.2 52.066665)"^^geosparql:wktLiteral.
 samian:loc_ds_1002137 lado:tiger_cax -0.517.
 samian:loc_ds_1002137 lado:tiger_cay -0.336.
 samian:loc_ds_1002137 lado:tiger_cax_norm 0.46197.
@@ -226,8 +226,8 @@ samian:loc_ds_1002137 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002137 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002137 prov:wasGeneratedBy samian:activity_loc_ds_1002137 .
 samian:activity_loc_ds_1002137 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002137 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002137 prov:endedAtTime '2023-07-11T16:32:06.384131Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002137 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002137 prov:endedAtTime '2023-07-11T18:08:21.444734Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002137 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001387 rdf:type lado:Location .
@@ -240,7 +240,7 @@ samian:loc_ds_1001387 lado:tiger_eventname 'Baldock'@en.
 samian:loc_ds_1001387 lado:tiger_id 1001387.
 samian:loc_ds_1001387 geosparql:hasGeometry samian:loc_ds_1001387_geom .
 samian:loc_ds_1001387_geom rdf:type sf:Point .
-samian:loc_ds_1001387_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.98781 -0.18835)"^^geosparql:wktLiteral.
+samian:loc_ds_1001387_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.18835 51.98781)"^^geosparql:wktLiteral.
 samian:loc_ds_1001387 lado:tiger_cax -0.4988.
 samian:loc_ds_1001387 lado:tiger_cay 0.2398.
 samian:loc_ds_1001387 lado:tiger_cax_norm 0.46627.
@@ -253,8 +253,8 @@ samian:loc_ds_1001387 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001387 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001387 prov:wasGeneratedBy samian:activity_loc_ds_1001387 .
 samian:activity_loc_ds_1001387 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001387 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001387 prov:endedAtTime '2023-07-11T16:32:06.384131Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001387 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001387 prov:endedAtTime '2023-07-11T18:08:21.444734Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001387 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000900 rdf:type lado:Location .
@@ -267,7 +267,7 @@ samian:loc_ds_1000900 lado:tiger_eventname 'Worcester'@en.
 samian:loc_ds_1000900 lado:tiger_id 1000900.
 samian:loc_ds_1000900 geosparql:hasGeometry samian:loc_ds_1000900_geom .
 samian:loc_ds_1000900_geom rdf:type sf:Point .
-samian:loc_ds_1000900_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.2 -2.2)"^^geosparql:wktLiteral.
+samian:loc_ds_1000900_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.2 52.2)"^^geosparql:wktLiteral.
 samian:loc_ds_1000900 lado:tiger_cax -0.4403.
 samian:loc_ds_1000900 lado:tiger_cay 0.2798.
 samian:loc_ds_1000900 lado:tiger_cax_norm 0.48012.
@@ -280,8 +280,8 @@ samian:loc_ds_1000900 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000900 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000900 prov:wasGeneratedBy samian:activity_loc_ds_1000900 .
 samian:activity_loc_ds_1000900 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000900 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000900 prov:endedAtTime '2023-07-11T16:32:06.385128Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000900 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000900 prov:endedAtTime '2023-07-11T18:08:21.444734Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000900 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001979 rdf:type lado:Location .
@@ -294,7 +294,7 @@ samian:loc_ds_1001979 lado:tiger_eventname 'Silchester'@en.
 samian:loc_ds_1001979 lado:tiger_id 1001979.
 samian:loc_ds_1001979 geosparql:hasGeometry samian:loc_ds_1001979_geom .
 samian:loc_ds_1001979_geom rdf:type sf:Point .
-samian:loc_ds_1001979_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.35356 -1.10061)"^^geosparql:wktLiteral.
+samian:loc_ds_1001979_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.10061 51.35356)"^^geosparql:wktLiteral.
 samian:loc_ds_1001979 lado:tiger_cax -0.4292.
 samian:loc_ds_1001979 lado:tiger_cay -0.2287.
 samian:loc_ds_1001979 lado:tiger_cax_norm 0.48275.
@@ -307,8 +307,8 @@ samian:loc_ds_1001979 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001979 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001979 prov:wasGeneratedBy samian:activity_loc_ds_1001979 .
 samian:activity_loc_ds_1001979 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001979 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001979 prov:endedAtTime '2023-07-11T16:32:06.385128Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001979 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001979 prov:endedAtTime '2023-07-11T18:08:21.444734Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001979 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003975 rdf:type lado:Location .
@@ -321,7 +321,7 @@ samian:loc_ds_1003975 lado:tiger_eventname 'Old Winteringham'@en.
 samian:loc_ds_1003975 lado:tiger_id 1003975.
 samian:loc_ds_1003975 geosparql:hasGeometry samian:loc_ds_1003975_geom .
 samian:loc_ds_1003975_geom rdf:type sf:Point .
-samian:loc_ds_1003975_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(53.688995 -0.596903)"^^geosparql:wktLiteral.
+samian:loc_ds_1003975_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.596903 53.688995)"^^geosparql:wktLiteral.
 samian:loc_ds_1003975 lado:tiger_cax -0.4212.
 samian:loc_ds_1003975 lado:tiger_cay 0.4536.
 samian:loc_ds_1003975 lado:tiger_cax_norm 0.48464.
@@ -334,8 +334,8 @@ samian:loc_ds_1003975 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003975 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003975 prov:wasGeneratedBy samian:activity_loc_ds_1003975 .
 samian:activity_loc_ds_1003975 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003975 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003975 prov:endedAtTime '2023-07-11T16:32:06.385128Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003975 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003975 prov:endedAtTime '2023-07-11T18:08:21.444734Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003975 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000455 rdf:type lado:Location .
@@ -348,7 +348,7 @@ samian:loc_ds_1000455 lado:tiger_eventname 'Baginton'@en.
 samian:loc_ds_1000455 lado:tiger_id 1000455.
 samian:loc_ds_1000455 geosparql:hasGeometry samian:loc_ds_1000455_geom .
 samian:loc_ds_1000455_geom rdf:type sf:Point .
-samian:loc_ds_1000455_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.366664 -1.483333)"^^geosparql:wktLiteral.
+samian:loc_ds_1000455_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.483333 52.366664)"^^geosparql:wktLiteral.
 samian:loc_ds_1000455 lado:tiger_cax -0.3792.
 samian:loc_ds_1000455 lado:tiger_cay 0.8311.
 samian:loc_ds_1000455 lado:tiger_cax_norm 0.49458.
@@ -361,8 +361,8 @@ samian:loc_ds_1000455 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000455 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000455 prov:wasGeneratedBy samian:activity_loc_ds_1000455 .
 samian:activity_loc_ds_1000455 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000455 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000455 prov:endedAtTime '2023-07-11T16:32:06.385128Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000455 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000455 prov:endedAtTime '2023-07-11T18:08:21.445808Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000455 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002961 rdf:type lado:Location .
@@ -375,7 +375,7 @@ samian:loc_ds_1002961 lado:tiger_eventname 'Wall'@en.
 samian:loc_ds_1002961 lado:tiger_id 1002961.
 samian:loc_ds_1002961 geosparql:hasGeometry samian:loc_ds_1002961_geom .
 samian:loc_ds_1002961_geom rdf:type sf:Point .
-samian:loc_ds_1002961_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.656707 -1.866933)"^^geosparql:wktLiteral.
+samian:loc_ds_1002961_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.866933 52.656707)"^^geosparql:wktLiteral.
 samian:loc_ds_1002961 lado:tiger_cax -0.3721.
 samian:loc_ds_1002961 lado:tiger_cay 0.4928.
 samian:loc_ds_1002961 lado:tiger_cax_norm 0.49626.
@@ -388,8 +388,8 @@ samian:loc_ds_1002961 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002961 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002961 prov:wasGeneratedBy samian:activity_loc_ds_1002961 .
 samian:activity_loc_ds_1002961 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002961 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002961 prov:endedAtTime '2023-07-11T16:32:06.385128Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002961 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002961 prov:endedAtTime '2023-07-11T18:08:21.445808Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002961 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001839 rdf:type lado:Location .
@@ -402,7 +402,7 @@ samian:loc_ds_1001839 lado:tiger_eventname 'Exeter'@en.
 samian:loc_ds_1001839 lado:tiger_id 1001839.
 samian:loc_ds_1001839 geosparql:hasGeometry samian:loc_ds_1001839_geom .
 samian:loc_ds_1001839_geom rdf:type sf:Point .
-samian:loc_ds_1001839_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.7236 -3.52751)"^^geosparql:wktLiteral.
+samian:loc_ds_1001839_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.52751 50.7236)"^^geosparql:wktLiteral.
 samian:loc_ds_1001839 lado:tiger_cax -0.3446.
 samian:loc_ds_1001839 lado:tiger_cay 0.5101.
 samian:loc_ds_1001839 lado:tiger_cax_norm 0.50277.
@@ -415,8 +415,8 @@ samian:loc_ds_1001839 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001839 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001839 prov:wasGeneratedBy samian:activity_loc_ds_1001839 .
 samian:activity_loc_ds_1001839 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001839 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001839 prov:endedAtTime '2023-07-11T16:32:06.386127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001839 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001839 prov:endedAtTime '2023-07-11T18:08:21.445808Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001839 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003671 rdf:type lado:Location .
@@ -429,7 +429,7 @@ samian:loc_ds_1003671 lado:tiger_eventname 'Canterbury'@en.
 samian:loc_ds_1003671 lado:tiger_id 1003671.
 samian:loc_ds_1003671 geosparql:hasGeometry samian:loc_ds_1003671_geom .
 samian:loc_ds_1003671_geom rdf:type sf:Point .
-samian:loc_ds_1003671_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.27904 1.07992)"^^geosparql:wktLiteral.
+samian:loc_ds_1003671_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(1.07992 51.27904)"^^geosparql:wktLiteral.
 samian:loc_ds_1003671 lado:tiger_cax -0.3415.
 samian:loc_ds_1003671 lado:tiger_cay -0.1198.
 samian:loc_ds_1003671 lado:tiger_cax_norm 0.5035.
@@ -442,8 +442,8 @@ samian:loc_ds_1003671 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003671 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003671 prov:wasGeneratedBy samian:activity_loc_ds_1003671 .
 samian:activity_loc_ds_1003671 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003671 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003671 prov:endedAtTime '2023-07-11T16:32:06.386127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003671 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003671 prov:endedAtTime '2023-07-11T18:08:21.445808Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003671 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003799 rdf:type lado:Location .
@@ -456,7 +456,7 @@ samian:loc_ds_1003799 lado:tiger_eventname 'Northchurch'@en.
 samian:loc_ds_1003799 lado:tiger_id 1003799.
 samian:loc_ds_1003799 geosparql:hasGeometry samian:loc_ds_1003799_geom .
 samian:loc_ds_1003799_geom rdf:type sf:Point .
-samian:loc_ds_1003799_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.775375 -0.599707)"^^geosparql:wktLiteral.
+samian:loc_ds_1003799_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.599707 51.775375)"^^geosparql:wktLiteral.
 samian:loc_ds_1003799 lado:tiger_cax -0.3399.
 samian:loc_ds_1003799 lado:tiger_cay 1.0421.
 samian:loc_ds_1003799 lado:tiger_cax_norm 0.50388.
@@ -469,8 +469,8 @@ samian:loc_ds_1003799 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003799 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003799 prov:wasGeneratedBy samian:activity_loc_ds_1003799 .
 samian:activity_loc_ds_1003799 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003799 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003799 prov:endedAtTime '2023-07-11T16:32:06.386127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003799 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003799 prov:endedAtTime '2023-07-11T18:08:21.445808Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003799 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000080 rdf:type lado:Location .
@@ -483,7 +483,7 @@ samian:loc_ds_1000080 lado:tiger_eventname 'Colchester'@en.
 samian:loc_ds_1000080 lado:tiger_id 1000080.
 samian:loc_ds_1000080 geosparql:hasGeometry samian:loc_ds_1000080_geom .
 samian:loc_ds_1000080_geom rdf:type sf:Point .
-samian:loc_ds_1000080_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.883338 0.899999)"^^geosparql:wktLiteral.
+samian:loc_ds_1000080_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.899999 51.883338)"^^geosparql:wktLiteral.
 samian:loc_ds_1000080 lado:tiger_cax -0.286.
 samian:loc_ds_1000080 lado:tiger_cay 0.0771.
 samian:loc_ds_1000080 lado:tiger_cax_norm 0.51664.
@@ -496,8 +496,8 @@ samian:loc_ds_1000080 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000080 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000080 prov:wasGeneratedBy samian:activity_loc_ds_1000080 .
 samian:activity_loc_ds_1000080 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000080 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000080 prov:endedAtTime '2023-07-11T16:32:06.386127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000080 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000080 prov:endedAtTime '2023-07-11T18:08:21.446735Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000080 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002343 rdf:type lado:Location .
@@ -510,7 +510,7 @@ samian:loc_ds_1002343 lado:tiger_eventname 'Fishbourne'@en.
 samian:loc_ds_1002343 lado:tiger_id 1002343.
 samian:loc_ds_1002343 geosparql:hasGeometry samian:loc_ds_1002343_geom .
 samian:loc_ds_1002343_geom rdf:type sf:Point .
-samian:loc_ds_1002343_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.839269 -0.810943)"^^geosparql:wktLiteral.
+samian:loc_ds_1002343_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.810943 50.839269)"^^geosparql:wktLiteral.
 samian:loc_ds_1002343 lado:tiger_cax -0.2636.
 samian:loc_ds_1002343 lado:tiger_cay 0.1874.
 samian:loc_ds_1002343 lado:tiger_cax_norm 0.52194.
@@ -523,8 +523,8 @@ samian:loc_ds_1002343 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002343 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002343 prov:wasGeneratedBy samian:activity_loc_ds_1002343 .
 samian:activity_loc_ds_1002343 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002343 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002343 prov:endedAtTime '2023-07-11T16:32:06.386127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002343 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002343 prov:endedAtTime '2023-07-11T18:08:21.446735Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002343 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001331 rdf:type lado:Location .
@@ -537,7 +537,7 @@ samian:loc_ds_1001331 lado:tiger_eventname 'Arlesey'@en.
 samian:loc_ds_1001331 lado:tiger_id 1001331.
 samian:loc_ds_1001331 geosparql:hasGeometry samian:loc_ds_1001331_geom .
 samian:loc_ds_1001331_geom rdf:type sf:Point .
-samian:loc_ds_1001331_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.007 -0.2654)"^^geosparql:wktLiteral.
+samian:loc_ds_1001331_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.2654 52.007)"^^geosparql:wktLiteral.
 samian:loc_ds_1001331 lado:tiger_cax -0.2459.
 samian:loc_ds_1001331 lado:tiger_cay 1.3322.
 samian:loc_ds_1001331 lado:tiger_cax_norm 0.52613.
@@ -550,8 +550,8 @@ samian:loc_ds_1001331 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001331 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001331 prov:wasGeneratedBy samian:activity_loc_ds_1001331 .
 samian:activity_loc_ds_1001331 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001331 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001331 prov:endedAtTime '2023-07-11T16:32:06.386127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001331 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001331 prov:endedAtTime '2023-07-11T18:08:21.446735Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001331 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003862 rdf:type lado:Location .
@@ -564,7 +564,7 @@ samian:loc_ds_1003862 lado:tiger_eventname 'Southwark'@en.
 samian:loc_ds_1003862 lado:tiger_id 1003862.
 samian:loc_ds_1003862 geosparql:hasGeometry samian:loc_ds_1003862_geom .
 samian:loc_ds_1003862_geom rdf:type sf:Point .
-samian:loc_ds_1003862_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.5 -0.089161)"^^geosparql:wktLiteral.
+samian:loc_ds_1003862_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.089161 51.5)"^^geosparql:wktLiteral.
 samian:loc_ds_1003862 lado:tiger_cax -0.1645.
 samian:loc_ds_1003862 lado:tiger_cay 0.2654.
 samian:loc_ds_1003862 lado:tiger_cax_norm 0.54539.
@@ -577,8 +577,8 @@ samian:loc_ds_1003862 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003862 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003862 prov:wasGeneratedBy samian:activity_loc_ds_1003862 .
 samian:activity_loc_ds_1003862 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003862 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003862 prov:endedAtTime '2023-07-11T16:32:06.387127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003862 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003862 prov:endedAtTime '2023-07-11T18:08:21.447740Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003862 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001888 rdf:type lado:Location .
@@ -591,7 +591,7 @@ samian:loc_ds_1001888 lado:tiger_eventname 'Chelmsford'@en.
 samian:loc_ds_1001888 lado:tiger_id 1001888.
 samian:loc_ds_1001888 geosparql:hasGeometry samian:loc_ds_1001888_geom .
 samian:loc_ds_1001888_geom rdf:type sf:Point .
-samian:loc_ds_1001888_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.733329 0.483333)"^^geosparql:wktLiteral.
+samian:loc_ds_1001888_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.483333 51.733329)"^^geosparql:wktLiteral.
 samian:loc_ds_1001888 lado:tiger_cax -0.1637.
 samian:loc_ds_1001888 lado:tiger_cay 0.288.
 samian:loc_ds_1001888 lado:tiger_cax_norm 0.54558.
@@ -604,8 +604,8 @@ samian:loc_ds_1001888 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001888 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001888 prov:wasGeneratedBy samian:activity_loc_ds_1001888 .
 samian:activity_loc_ds_1001888 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001888 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001888 prov:endedAtTime '2023-07-11T16:32:06.387127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001888 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001888 prov:endedAtTime '2023-07-11T18:08:21.447740Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001888 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000969 rdf:type lado:Location .
@@ -618,7 +618,7 @@ samian:loc_ds_1000969 lado:tiger_eventname 'Chichester'@en.
 samian:loc_ds_1000969 lado:tiger_id 1000969.
 samian:loc_ds_1000969 geosparql:hasGeometry samian:loc_ds_1000969_geom .
 samian:loc_ds_1000969_geom rdf:type sf:Point .
-samian:loc_ds_1000969_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.833328 -0.783333)"^^geosparql:wktLiteral.
+samian:loc_ds_1000969_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.783333 50.833328)"^^geosparql:wktLiteral.
 samian:loc_ds_1000969 lado:tiger_cax -0.132.
 samian:loc_ds_1000969 lado:tiger_cay 0.1205.
 samian:loc_ds_1000969 lado:tiger_cax_norm 0.55309.
@@ -631,8 +631,8 @@ samian:loc_ds_1000969 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000969 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000969 prov:wasGeneratedBy samian:activity_loc_ds_1000969 .
 samian:activity_loc_ds_1000969 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000969 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000969 prov:endedAtTime '2023-07-11T16:32:06.387127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000969 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000969 prov:endedAtTime '2023-07-11T18:08:21.447740Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000969 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003699 rdf:type lado:Location .
@@ -645,7 +645,7 @@ samian:loc_ds_1003699 lado:tiger_eventname 'Sandy'@en.
 samian:loc_ds_1003699 lado:tiger_id 1003699.
 samian:loc_ds_1003699 geosparql:hasGeometry samian:loc_ds_1003699_geom .
 samian:loc_ds_1003699_geom rdf:type sf:Point .
-samian:loc_ds_1003699_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.116664 -0.283333)"^^geosparql:wktLiteral.
+samian:loc_ds_1003699_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.283333 52.116664)"^^geosparql:wktLiteral.
 samian:loc_ds_1003699 lado:tiger_cax -0.127.
 samian:loc_ds_1003699 lado:tiger_cay 0.3607.
 samian:loc_ds_1003699 lado:tiger_cax_norm 0.55427.
@@ -658,8 +658,8 @@ samian:loc_ds_1003699 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003699 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003699 prov:wasGeneratedBy samian:activity_loc_ds_1003699 .
 samian:activity_loc_ds_1003699 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003699 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003699 prov:endedAtTime '2023-07-11T16:32:06.387127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003699 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003699 prov:endedAtTime '2023-07-11T18:08:21.447740Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003699 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003896 rdf:type lado:Location .
@@ -672,7 +672,7 @@ samian:loc_ds_1003896 lado:tiger_eventname 'Alcester'@en.
 samian:loc_ds_1003896 lado:tiger_id 1003896.
 samian:loc_ds_1003896 geosparql:hasGeometry samian:loc_ds_1003896_geom .
 samian:loc_ds_1003896_geom rdf:type sf:Point .
-samian:loc_ds_1003896_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.21667 -1.866667)"^^geosparql:wktLiteral.
+samian:loc_ds_1003896_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.866667 52.21667)"^^geosparql:wktLiteral.
 samian:loc_ds_1003896 lado:tiger_cax -0.1076.
 samian:loc_ds_1003896 lado:tiger_cay 0.2755.
 samian:loc_ds_1003896 lado:tiger_cax_norm 0.55886.
@@ -685,8 +685,8 @@ samian:loc_ds_1003896 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003896 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003896 prov:wasGeneratedBy samian:activity_loc_ds_1003896 .
 samian:activity_loc_ds_1003896 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003896 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003896 prov:endedAtTime '2023-07-11T16:32:06.387127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003896 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003896 prov:endedAtTime '2023-07-11T18:08:21.448739Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003896 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001764 rdf:type lado:Location .
@@ -699,7 +699,7 @@ samian:loc_ds_1001764 lado:tiger_eventname 'Cirencester'@en.
 samian:loc_ds_1001764 lado:tiger_id 1001764.
 samian:loc_ds_1001764 geosparql:hasGeometry samian:loc_ds_1001764_geom .
 samian:loc_ds_1001764_geom rdf:type sf:Point .
-samian:loc_ds_1001764_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.733329 -1.983332)"^^geosparql:wktLiteral.
+samian:loc_ds_1001764_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.983332 51.733329)"^^geosparql:wktLiteral.
 samian:loc_ds_1001764 lado:tiger_cax -0.088.
 samian:loc_ds_1001764 lado:tiger_cay 0.1354.
 samian:loc_ds_1001764 lado:tiger_cax_norm 0.5635.
@@ -712,8 +712,8 @@ samian:loc_ds_1001764 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001764 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001764 prov:wasGeneratedBy samian:activity_loc_ds_1001764 .
 samian:activity_loc_ds_1001764 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001764 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001764 prov:endedAtTime '2023-07-11T16:32:06.388127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001764 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001764 prov:endedAtTime '2023-07-11T18:08:21.448968Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001764 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1004100 rdf:type lado:Location .
@@ -726,7 +726,7 @@ samian:loc_ds_1004100 lado:tiger_eventname 'Southampton'@en.
 samian:loc_ds_1004100 lado:tiger_id 1004100.
 samian:loc_ds_1004100 geosparql:hasGeometry samian:loc_ds_1004100_geom .
 samian:loc_ds_1004100_geom rdf:type sf:Point .
-samian:loc_ds_1004100_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.90395 -1.40428)"^^geosparql:wktLiteral.
+samian:loc_ds_1004100_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.40428 50.90395)"^^geosparql:wktLiteral.
 samian:loc_ds_1004100 lado:tiger_cax -0.0639.
 samian:loc_ds_1004100 lado:tiger_cay 0.7601.
 samian:loc_ds_1004100 lado:tiger_cax_norm 0.5692.
@@ -739,8 +739,8 @@ samian:loc_ds_1004100 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1004100 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1004100 prov:wasGeneratedBy samian:activity_loc_ds_1004100 .
 samian:activity_loc_ds_1004100 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1004100 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1004100 prov:endedAtTime '2023-07-11T16:32:06.388127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1004100 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1004100 prov:endedAtTime '2023-07-11T18:08:21.448968Z'^^xsd:dateTime .
 samian:activity_loc_ds_1004100 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001046 rdf:type lado:Location .
@@ -753,7 +753,7 @@ samian:loc_ds_1001046 lado:tiger_eventname 'Richborough'@en.
 samian:loc_ds_1001046 lado:tiger_id 1001046.
 samian:loc_ds_1001046 geosparql:hasGeometry samian:loc_ds_1001046_geom .
 samian:loc_ds_1001046_geom rdf:type sf:Point .
-samian:loc_ds_1001046_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.283329 1.333333)"^^geosparql:wktLiteral.
+samian:loc_ds_1001046_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(1.333333 51.283329)"^^geosparql:wktLiteral.
 samian:loc_ds_1001046 lado:tiger_cax -0.058.
 samian:loc_ds_1001046 lado:tiger_cay 0.0367.
 samian:loc_ds_1001046 lado:tiger_cax_norm 0.5706.
@@ -766,8 +766,8 @@ samian:loc_ds_1001046 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001046 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001046 prov:wasGeneratedBy samian:activity_loc_ds_1001046 .
 samian:activity_loc_ds_1001046 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001046 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001046 prov:endedAtTime '2023-07-11T16:32:06.388127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001046 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001046 prov:endedAtTime '2023-07-11T18:08:21.448968Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001046 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1004140 rdf:type lado:Location .
@@ -780,7 +780,7 @@ samian:loc_ds_1004140 lado:tiger_eventname 'Bath'@en.
 samian:loc_ds_1004140 lado:tiger_id 1004140.
 samian:loc_ds_1004140 geosparql:hasGeometry samian:loc_ds_1004140_geom .
 samian:loc_ds_1004140_geom rdf:type sf:Point .
-samian:loc_ds_1004140_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.381506 -2.357391)"^^geosparql:wktLiteral.
+samian:loc_ds_1004140_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.357391 51.381506)"^^geosparql:wktLiteral.
 samian:loc_ds_1004140 lado:tiger_cax -0.03.
 samian:loc_ds_1004140 lado:tiger_cay 0.2659.
 samian:loc_ds_1004140 lado:tiger_cax_norm 0.57723.
@@ -793,8 +793,8 @@ samian:loc_ds_1004140 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1004140 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1004140 prov:wasGeneratedBy samian:activity_loc_ds_1004140 .
 samian:activity_loc_ds_1004140 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1004140 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1004140 prov:endedAtTime '2023-07-11T16:32:06.388127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1004140 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1004140 prov:endedAtTime '2023-07-11T18:08:21.448968Z'^^xsd:dateTime .
 samian:activity_loc_ds_1004140 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002885 rdf:type lado:Location .
@@ -807,7 +807,7 @@ samian:loc_ds_1002885 lado:tiger_eventname 'Caerhûn'@en.
 samian:loc_ds_1002885 lado:tiger_id 1002885.
 samian:loc_ds_1002885 geosparql:hasGeometry samian:loc_ds_1002885_geom .
 samian:loc_ds_1002885_geom rdf:type sf:Point .
-samian:loc_ds_1002885_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(53.216667 -3.833333)"^^geosparql:wktLiteral.
+samian:loc_ds_1002885_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.833333 53.216667)"^^geosparql:wktLiteral.
 samian:loc_ds_1002885 lado:tiger_cax -0.0263.
 samian:loc_ds_1002885 lado:tiger_cay 0.1363.
 samian:loc_ds_1002885 lado:tiger_cax_norm 0.5781.
@@ -820,8 +820,8 @@ samian:loc_ds_1002885 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002885 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002885 prov:wasGeneratedBy samian:activity_loc_ds_1002885 .
 samian:activity_loc_ds_1002885 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002885 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002885 prov:endedAtTime '2023-07-11T16:32:06.388127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002885 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002885 prov:endedAtTime '2023-07-11T18:08:21.449736Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002885 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000136 rdf:type lado:Location .
@@ -834,7 +834,7 @@ samian:loc_ds_1000136 lado:tiger_eventname 'London'@en.
 samian:loc_ds_1000136 lado:tiger_id 1000136.
 samian:loc_ds_1000136 geosparql:hasGeometry samian:loc_ds_1000136_geom .
 samian:loc_ds_1000136_geom rdf:type sf:Point .
-samian:loc_ds_1000136_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.51279 -0.09184)"^^geosparql:wktLiteral.
+samian:loc_ds_1000136_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.09184 51.51279)"^^geosparql:wktLiteral.
 samian:loc_ds_1000136 lado:tiger_cax -0.0207.
 samian:loc_ds_1000136 lado:tiger_cay 0.1535.
 samian:loc_ds_1000136 lado:tiger_cax_norm 0.57943.
@@ -847,8 +847,8 @@ samian:loc_ds_1000136 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000136 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000136 prov:wasGeneratedBy samian:activity_loc_ds_1000136 .
 samian:activity_loc_ds_1000136 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000136 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000136 prov:endedAtTime '2023-07-11T16:32:06.389127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000136 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000136 prov:endedAtTime '2023-07-11T18:08:21.449736Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000136 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000375 rdf:type lado:Location .
@@ -861,7 +861,7 @@ samian:loc_ds_1000375 lado:tiger_eventname 'Lincoln'@en.
 samian:loc_ds_1000375 lado:tiger_id 1000375.
 samian:loc_ds_1000375 geosparql:hasGeometry samian:loc_ds_1000375_geom .
 samian:loc_ds_1000375_geom rdf:type sf:Point .
-samian:loc_ds_1000375_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(53.233333 -0.533333)"^^geosparql:wktLiteral.
+samian:loc_ds_1000375_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.533333 53.233333)"^^geosparql:wktLiteral.
 samian:loc_ds_1000375 lado:tiger_cax -0.0199.
 samian:loc_ds_1000375 lado:tiger_cay 0.2723.
 samian:loc_ds_1000375 lado:tiger_cax_norm 0.57962.
@@ -874,8 +874,8 @@ samian:loc_ds_1000375 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000375 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000375 prov:wasGeneratedBy samian:activity_loc_ds_1000375 .
 samian:activity_loc_ds_1000375 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000375 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000375 prov:endedAtTime '2023-07-11T16:32:06.389127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000375 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000375 prov:endedAtTime '2023-07-11T18:08:21.449736Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000375 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000651 rdf:type lado:Location .
@@ -888,7 +888,7 @@ samian:loc_ds_1000651 lado:tiger_eventname 'Sea Mills'@en.
 samian:loc_ds_1000651 lado:tiger_id 1000651.
 samian:loc_ds_1000651 geosparql:hasGeometry samian:loc_ds_1000651_geom .
 samian:loc_ds_1000651_geom rdf:type sf:Point .
-samian:loc_ds_1000651_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.483329 -2.65)"^^geosparql:wktLiteral.
+samian:loc_ds_1000651_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.65 51.483329)"^^geosparql:wktLiteral.
 samian:loc_ds_1000651 lado:tiger_cax 0.0088.
 samian:loc_ds_1000651 lado:tiger_cay 0.2402.
 samian:loc_ds_1000651 lado:tiger_cax_norm 0.58641.
@@ -901,8 +901,8 @@ samian:loc_ds_1000651 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000651 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000651 prov:wasGeneratedBy samian:activity_loc_ds_1000651 .
 samian:activity_loc_ds_1000651 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000651 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000651 prov:endedAtTime '2023-07-11T16:32:06.389127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000651 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000651 prov:endedAtTime '2023-07-11T18:08:21.449736Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000651 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002444 rdf:type lado:Location .
@@ -915,7 +915,7 @@ samian:loc_ds_1002444 lado:tiger_eventname 'Pakenham'@en.
 samian:loc_ds_1002444 lado:tiger_id 1002444.
 samian:loc_ds_1002444 geosparql:hasGeometry samian:loc_ds_1002444_geom .
 samian:loc_ds_1002444_geom rdf:type sf:Point .
-samian:loc_ds_1002444_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.26667 0.833333)"^^geosparql:wktLiteral.
+samian:loc_ds_1002444_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.833333 52.26667)"^^geosparql:wktLiteral.
 samian:loc_ds_1002444 lado:tiger_cax 0.0318.
 samian:loc_ds_1002444 lado:tiger_cay 0.1876.
 samian:loc_ds_1002444 lado:tiger_cax_norm 0.59185.
@@ -928,8 +928,8 @@ samian:loc_ds_1002444 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002444 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002444 prov:wasGeneratedBy samian:activity_loc_ds_1002444 .
 samian:activity_loc_ds_1002444 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002444 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002444 prov:endedAtTime '2023-07-11T16:32:06.389127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002444 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002444 prov:endedAtTime '2023-07-11T18:08:21.449736Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002444 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001778 rdf:type lado:Location .
@@ -942,7 +942,7 @@ samian:loc_ds_1001778 lado:tiger_eventname 'Springhead'@en.
 samian:loc_ds_1001778 lado:tiger_id 1001778.
 samian:loc_ds_1001778 geosparql:hasGeometry samian:loc_ds_1001778_geom .
 samian:loc_ds_1001778_geom rdf:type sf:Point .
-samian:loc_ds_1001778_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.430296 0.32822)"^^geosparql:wktLiteral.
+samian:loc_ds_1001778_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.32822 51.430296)"^^geosparql:wktLiteral.
 samian:loc_ds_1001778 lado:tiger_cax 0.0454.
 samian:loc_ds_1001778 lado:tiger_cay 0.2041.
 samian:loc_ds_1001778 lado:tiger_cax_norm 0.59507.
@@ -955,8 +955,8 @@ samian:loc_ds_1001778 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001778 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001778 prov:wasGeneratedBy samian:activity_loc_ds_1001778 .
 samian:activity_loc_ds_1001778 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001778 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001778 prov:endedAtTime '2023-07-11T16:32:06.389127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001778 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001778 prov:endedAtTime '2023-07-11T18:08:21.449736Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001778 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003870 rdf:type lado:Location .
@@ -969,7 +969,7 @@ samian:loc_ds_1003870 lado:tiger_eventname 'Verulamium'@en.
 samian:loc_ds_1003870 lado:tiger_id 1003870.
 samian:loc_ds_1003870 geosparql:hasGeometry samian:loc_ds_1003870_geom .
 samian:loc_ds_1003870_geom rdf:type sf:Point .
-samian:loc_ds_1003870_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.75 -0.333333)"^^geosparql:wktLiteral.
+samian:loc_ds_1003870_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.333333 51.75)"^^geosparql:wktLiteral.
 samian:loc_ds_1003870 lado:tiger_cax 0.0583.
 samian:loc_ds_1003870 lado:tiger_cay 0.0342.
 samian:loc_ds_1003870 lado:tiger_cax_norm 0.59813.
@@ -982,8 +982,8 @@ samian:loc_ds_1003870 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003870 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003870 prov:wasGeneratedBy samian:activity_loc_ds_1003870 .
 samian:activity_loc_ds_1003870 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003870 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003870 prov:endedAtTime '2023-07-11T16:32:06.390127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003870 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003870 prov:endedAtTime '2023-07-11T18:08:21.450736Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003870 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001359 rdf:type lado:Location .
@@ -996,7 +996,7 @@ samian:loc_ds_1001359 lado:tiger_eventname 'Gloucester'@en.
 samian:loc_ds_1001359 lado:tiger_id 1001359.
 samian:loc_ds_1001359 geosparql:hasGeometry samian:loc_ds_1001359_geom .
 samian:loc_ds_1001359_geom rdf:type sf:Point .
-samian:loc_ds_1001359_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.833328 -2.25)"^^geosparql:wktLiteral.
+samian:loc_ds_1001359_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.25 51.833328)"^^geosparql:wktLiteral.
 samian:loc_ds_1001359 lado:tiger_cax 0.0716.
 samian:loc_ds_1001359 lado:tiger_cay 0.1621.
 samian:loc_ds_1001359 lado:tiger_cax_norm 0.60127.
@@ -1009,8 +1009,8 @@ samian:loc_ds_1001359 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001359 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001359 prov:wasGeneratedBy samian:activity_loc_ds_1001359 .
 samian:activity_loc_ds_1001359 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001359 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001359 prov:endedAtTime '2023-07-11T16:32:06.390127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001359 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001359 prov:endedAtTime '2023-07-11T18:08:21.450736Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001359 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002875 rdf:type lado:Location .
@@ -1023,7 +1023,7 @@ samian:loc_ds_1002875 lado:tiger_eventname 'Wanborough, Wiltshire'@en.
 samian:loc_ds_1002875 lado:tiger_id 1002875.
 samian:loc_ds_1002875 geosparql:hasGeometry samian:loc_ds_1002875_geom .
 samian:loc_ds_1002875_geom rdf:type sf:Point .
-samian:loc_ds_1002875_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.544 -1.7)"^^geosparql:wktLiteral.
+samian:loc_ds_1002875_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.7 51.544)"^^geosparql:wktLiteral.
 samian:loc_ds_1002875 lado:tiger_cax 0.0846.
 samian:loc_ds_1002875 lado:tiger_cay 0.2764.
 samian:loc_ds_1002875 lado:tiger_cax_norm 0.60435.
@@ -1036,8 +1036,8 @@ samian:loc_ds_1002875 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002875 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002875 prov:wasGeneratedBy samian:activity_loc_ds_1002875 .
 samian:activity_loc_ds_1002875 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002875 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002875 prov:endedAtTime '2023-07-11T16:32:06.390127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002875 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002875 prov:endedAtTime '2023-07-11T18:08:21.450736Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002875 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000353 rdf:type lado:Location .
@@ -1050,7 +1050,7 @@ samian:loc_ds_1000353 lado:tiger_eventname 'West Tilbury'@en.
 samian:loc_ds_1000353 lado:tiger_id 1000353.
 samian:loc_ds_1000353 geosparql:hasGeometry samian:loc_ds_1000353_geom .
 samian:loc_ds_1000353_geom rdf:type sf:Point .
-samian:loc_ds_1000353_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.47668 0.3895)"^^geosparql:wktLiteral.
+samian:loc_ds_1000353_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.3895 51.47668)"^^geosparql:wktLiteral.
 samian:loc_ds_1000353 lado:tiger_cax 0.0887.
 samian:loc_ds_1000353 lado:tiger_cay 0.1588.
 samian:loc_ds_1000353 lado:tiger_cax_norm 0.60532.
@@ -1063,8 +1063,8 @@ samian:loc_ds_1000353 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000353 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000353 prov:wasGeneratedBy samian:activity_loc_ds_1000353 .
 samian:activity_loc_ds_1000353 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000353 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000353 prov:endedAtTime '2023-07-11T16:32:06.390127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000353 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000353 prov:endedAtTime '2023-07-11T18:08:21.450736Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000353 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001251 rdf:type lado:Location .
@@ -1077,7 +1077,7 @@ samian:loc_ds_1001251 lado:tiger_eventname 'Gorhambury'@en.
 samian:loc_ds_1001251 lado:tiger_id 1001251.
 samian:loc_ds_1001251 geosparql:hasGeometry samian:loc_ds_1001251_geom .
 samian:loc_ds_1001251_geom rdf:type sf:Point .
-samian:loc_ds_1001251_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.758438 -0.380678)"^^geosparql:wktLiteral.
+samian:loc_ds_1001251_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.380678 51.758438)"^^geosparql:wktLiteral.
 samian:loc_ds_1001251 lado:tiger_cax 0.0891.
 samian:loc_ds_1001251 lado:tiger_cay -0.301.
 samian:loc_ds_1001251 lado:tiger_cax_norm 0.60542.
@@ -1090,8 +1090,8 @@ samian:loc_ds_1001251 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001251 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001251 prov:wasGeneratedBy samian:activity_loc_ds_1001251 .
 samian:activity_loc_ds_1001251 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001251 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001251 prov:endedAtTime '2023-07-11T16:32:06.390127Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001251 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001251 prov:endedAtTime '2023-07-11T18:08:21.450736Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001251 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000327 rdf:type lado:Location .
@@ -1104,7 +1104,7 @@ samian:loc_ds_1000327 lado:tiger_eventname 'Scole'@en.
 samian:loc_ds_1000327 lado:tiger_id 1000327.
 samian:loc_ds_1000327 geosparql:hasGeometry samian:loc_ds_1000327_geom .
 samian:loc_ds_1000327_geom rdf:type sf:Point .
-samian:loc_ds_1000327_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.366667 1.166667)"^^geosparql:wktLiteral.
+samian:loc_ds_1000327_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(1.166667 52.366667)"^^geosparql:wktLiteral.
 samian:loc_ds_1000327 lado:tiger_cax 0.1304.
 samian:loc_ds_1000327 lado:tiger_cay 0.2819.
 samian:loc_ds_1000327 lado:tiger_cax_norm 0.61519.
@@ -1117,8 +1117,8 @@ samian:loc_ds_1000327 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000327 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000327 prov:wasGeneratedBy samian:activity_loc_ds_1000327 .
 samian:activity_loc_ds_1000327 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000327 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000327 prov:endedAtTime '2023-07-11T16:32:06.391128Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000327 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000327 prov:endedAtTime '2023-07-11T18:08:21.450736Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000327 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001829 rdf:type lado:Location .
@@ -1131,7 +1131,7 @@ samian:loc_ds_1001829 lado:tiger_eventname 'Winchester'@en.
 samian:loc_ds_1001829 lado:tiger_id 1001829.
 samian:loc_ds_1001829 geosparql:hasGeometry samian:loc_ds_1001829_geom .
 samian:loc_ds_1001829_geom rdf:type sf:Point .
-samian:loc_ds_1001829_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.06513 -1.3187)"^^geosparql:wktLiteral.
+samian:loc_ds_1001829_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.3187 51.06513)"^^geosparql:wktLiteral.
 samian:loc_ds_1001829 lado:tiger_cax 0.138.
 samian:loc_ds_1001829 lado:tiger_cay -0.1505.
 samian:loc_ds_1001829 lado:tiger_cax_norm 0.61699.
@@ -1144,8 +1144,8 @@ samian:loc_ds_1001829 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001829 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001829 prov:wasGeneratedBy samian:activity_loc_ds_1001829 .
 samian:activity_loc_ds_1001829 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001829 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001829 prov:endedAtTime '2023-07-11T16:32:06.391128Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001829 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001829 prov:endedAtTime '2023-07-11T18:08:21.451736Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001829 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003810 rdf:type lado:Location .
@@ -1158,7 +1158,7 @@ samian:loc_ds_1003810 lado:tiger_eventname 'Alchester'@en.
 samian:loc_ds_1003810 lado:tiger_id 1003810.
 samian:loc_ds_1003810 geosparql:hasGeometry samian:loc_ds_1003810_geom .
 samian:loc_ds_1003810_geom rdf:type sf:Point .
-samian:loc_ds_1003810_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.880107 -1.166077)"^^geosparql:wktLiteral.
+samian:loc_ds_1003810_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.166077 51.880107)"^^geosparql:wktLiteral.
 samian:loc_ds_1003810 lado:tiger_cax 0.1396.
 samian:loc_ds_1003810 lado:tiger_cay -1.6503.
 samian:loc_ds_1003810 lado:tiger_cax_norm 0.61737.
@@ -1171,8 +1171,8 @@ samian:loc_ds_1003810 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003810 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003810 prov:wasGeneratedBy samian:activity_loc_ds_1003810 .
 samian:activity_loc_ds_1003810 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003810 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003810 prov:endedAtTime '2023-07-11T16:32:06.391128Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003810 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003810 prov:endedAtTime '2023-07-11T18:08:21.451736Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003810 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001323 rdf:type lado:Location .
@@ -1185,7 +1185,7 @@ samian:loc_ds_1001323 lado:tiger_eventname 'Cardiff'@en.
 samian:loc_ds_1001323 lado:tiger_id 1001323.
 samian:loc_ds_1001323 geosparql:hasGeometry samian:loc_ds_1001323_geom .
 samian:loc_ds_1001323_geom rdf:type sf:Point .
-samian:loc_ds_1001323_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.483333 -3.183333)"^^geosparql:wktLiteral.
+samian:loc_ds_1001323_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.183333 51.483333)"^^geosparql:wktLiteral.
 samian:loc_ds_1001323 lado:tiger_cax 0.1535.
 samian:loc_ds_1001323 lado:tiger_cay 0.3138.
 samian:loc_ds_1001323 lado:tiger_cax_norm 0.62066.
@@ -1198,8 +1198,8 @@ samian:loc_ds_1001323 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001323 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001323 prov:wasGeneratedBy samian:activity_loc_ds_1001323 .
 samian:activity_loc_ds_1001323 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001323 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001323 prov:endedAtTime '2023-07-11T16:32:06.391128Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001323 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001323 prov:endedAtTime '2023-07-11T18:08:21.451736Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001323 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003108 rdf:type lado:Location .
@@ -1212,7 +1212,7 @@ samian:loc_ds_1003108 lado:tiger_eventname 'Charterhouse-on-Mendip'@en.
 samian:loc_ds_1003108 lado:tiger_id 1003108.
 samian:loc_ds_1003108 geosparql:hasGeometry samian:loc_ds_1003108_geom .
 samian:loc_ds_1003108_geom rdf:type sf:Point .
-samian:loc_ds_1003108_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.298175 -2.716521)"^^geosparql:wktLiteral.
+samian:loc_ds_1003108_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.716521 51.298175)"^^geosparql:wktLiteral.
 samian:loc_ds_1003108 lado:tiger_cax 0.1908.
 samian:loc_ds_1003108 lado:tiger_cay 0.2863.
 samian:loc_ds_1003108 lado:tiger_cax_norm 0.62948.
@@ -1225,8 +1225,8 @@ samian:loc_ds_1003108 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003108 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003108 prov:wasGeneratedBy samian:activity_loc_ds_1003108 .
 samian:activity_loc_ds_1003108 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003108 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003108 prov:endedAtTime '2023-07-11T16:32:06.391128Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003108 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003108 prov:endedAtTime '2023-07-11T18:08:21.451736Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003108 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000853 rdf:type lado:Location .
@@ -1239,7 +1239,7 @@ samian:loc_ds_1000853 lado:tiger_eventname 'Wroxeter'@en.
 samian:loc_ds_1000853 lado:tiger_id 1000853.
 samian:loc_ds_1000853 geosparql:hasGeometry samian:loc_ds_1000853_geom .
 samian:loc_ds_1000853_geom rdf:type sf:Point .
-samian:loc_ds_1000853_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.666671 -2.65)"^^geosparql:wktLiteral.
+samian:loc_ds_1000853_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.65 52.666671)"^^geosparql:wktLiteral.
 samian:loc_ds_1000853 lado:tiger_cax 0.2355.
 samian:loc_ds_1000853 lado:tiger_cay 0.0857.
 samian:loc_ds_1000853 lado:tiger_cax_norm 0.64006.
@@ -1252,8 +1252,8 @@ samian:loc_ds_1000853 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000853 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000853 prov:wasGeneratedBy samian:activity_loc_ds_1000853 .
 samian:activity_loc_ds_1000853 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000853 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000853 prov:endedAtTime '2023-07-11T16:32:06.392164Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000853 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000853 prov:endedAtTime '2023-07-11T18:08:21.451736Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000853 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001821 rdf:type lado:Location .
@@ -1266,7 +1266,7 @@ samian:loc_ds_1001821 lado:tiger_eventname 'Dorchester, Dorset'@en.
 samian:loc_ds_1001821 lado:tiger_id 1001821.
 samian:loc_ds_1001821 geosparql:hasGeometry samian:loc_ds_1001821_geom .
 samian:loc_ds_1001821_geom rdf:type sf:Point .
-samian:loc_ds_1001821_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.715 -2.442)"^^geosparql:wktLiteral.
+samian:loc_ds_1001821_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.442 50.715)"^^geosparql:wktLiteral.
 samian:loc_ds_1001821 lado:tiger_cax 0.2769.
 samian:loc_ds_1001821 lado:tiger_cay 0.1386.
 samian:loc_ds_1001821 lado:tiger_cax_norm 0.64986.
@@ -1279,8 +1279,8 @@ samian:loc_ds_1001821 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001821 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001821 prov:wasGeneratedBy samian:activity_loc_ds_1001821 .
 samian:activity_loc_ds_1001821 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001821 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001821 prov:endedAtTime '2023-07-11T16:32:06.392321Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001821 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001821 prov:endedAtTime '2023-07-11T18:08:21.451736Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001821 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002513 rdf:type lado:Location .
@@ -1293,7 +1293,7 @@ samian:loc_ds_1002513 lado:tiger_eventname 'Castleford'@en.
 samian:loc_ds_1002513 lado:tiger_id 1002513.
 samian:loc_ds_1002513 geosparql:hasGeometry samian:loc_ds_1002513_geom .
 samian:loc_ds_1002513_geom rdf:type sf:Point .
-samian:loc_ds_1002513_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(53.71667 -1.35)"^^geosparql:wktLiteral.
+samian:loc_ds_1002513_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.35 53.71667)"^^geosparql:wktLiteral.
 samian:loc_ds_1002513 lado:tiger_cax 0.2827.
 samian:loc_ds_1002513 lado:tiger_cay 0.309.
 samian:loc_ds_1002513 lado:tiger_cax_norm 0.65124.
@@ -1306,8 +1306,8 @@ samian:loc_ds_1002513 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002513 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002513 prov:wasGeneratedBy samian:activity_loc_ds_1002513 .
 samian:activity_loc_ds_1002513 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002513 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002513 prov:endedAtTime '2023-07-11T16:32:06.392321Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002513 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002513 prov:endedAtTime '2023-07-11T18:08:21.452738Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002513 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000956 rdf:type lado:Location .
@@ -1320,7 +1320,7 @@ samian:loc_ds_1000956 lado:tiger_eventname 'Staines'@en.
 samian:loc_ds_1000956 lado:tiger_id 1000956.
 samian:loc_ds_1000956 geosparql:hasGeometry samian:loc_ds_1000956_geom .
 samian:loc_ds_1000956_geom rdf:type sf:Point .
-samian:loc_ds_1000956_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.433334 -0.516667)"^^geosparql:wktLiteral.
+samian:loc_ds_1000956_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.516667 51.433334)"^^geosparql:wktLiteral.
 samian:loc_ds_1000956 lado:tiger_cax 0.3249.
 samian:loc_ds_1000956 lado:tiger_cay 0.1973.
 samian:loc_ds_1000956 lado:tiger_cax_norm 0.66122.
@@ -1333,8 +1333,8 @@ samian:loc_ds_1000956 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000956 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000956 prov:wasGeneratedBy samian:activity_loc_ds_1000956 .
 samian:activity_loc_ds_1000956 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000956 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000956 prov:endedAtTime '2023-07-11T16:32:06.392828Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000956 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000956 prov:endedAtTime '2023-07-11T18:08:21.453003Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000956 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003098 rdf:type lado:Location .
@@ -1347,7 +1347,7 @@ samian:loc_ds_1003098 lado:tiger_eventname 'Towcester'@en.
 samian:loc_ds_1003098 lado:tiger_id 1003098.
 samian:loc_ds_1003098 geosparql:hasGeometry samian:loc_ds_1003098_geom .
 samian:loc_ds_1003098_geom rdf:type sf:Point .
-samian:loc_ds_1003098_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.125587 -0.991984)"^^geosparql:wktLiteral.
+samian:loc_ds_1003098_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.991984 52.125587)"^^geosparql:wktLiteral.
 samian:loc_ds_1003098 lado:tiger_cax 0.3614.
 samian:loc_ds_1003098 lado:tiger_cay 0.3068.
 samian:loc_ds_1003098 lado:tiger_cax_norm 0.66986.
@@ -1360,8 +1360,8 @@ samian:loc_ds_1003098 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003098 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003098 prov:wasGeneratedBy samian:activity_loc_ds_1003098 .
 samian:activity_loc_ds_1003098 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003098 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003098 prov:endedAtTime '2023-07-11T16:32:06.392828Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003098 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003098 prov:endedAtTime '2023-07-11T18:08:21.453003Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003098 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003933 rdf:type lado:Location .
@@ -1374,7 +1374,7 @@ samian:loc_ds_1003933 lado:tiger_eventname 'Camelon'@en.
 samian:loc_ds_1003933 lado:tiger_id 1003933.
 samian:loc_ds_1003933 geosparql:hasGeometry samian:loc_ds_1003933_geom .
 samian:loc_ds_1003933_geom rdf:type sf:Point .
-samian:loc_ds_1003933_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(56.008213 -3.82374)"^^geosparql:wktLiteral.
+samian:loc_ds_1003933_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.82374 56.008213)"^^geosparql:wktLiteral.
 samian:loc_ds_1003933 lado:tiger_cax 0.4062.
 samian:loc_ds_1003933 lado:tiger_cay 0.0901.
 samian:loc_ds_1003933 lado:tiger_cax_norm 0.68046.
@@ -1387,8 +1387,8 @@ samian:loc_ds_1003933 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003933 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003933 prov:wasGeneratedBy samian:activity_loc_ds_1003933 .
 samian:activity_loc_ds_1003933 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003933 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003933 prov:endedAtTime '2023-07-11T16:32:06.393844Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003933 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003933 prov:endedAtTime '2023-07-11T18:08:21.453003Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003933 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002706 rdf:type lado:Location .
@@ -1401,7 +1401,7 @@ samian:loc_ds_1002706 lado:tiger_eventname 'Leicester'@en.
 samian:loc_ds_1002706 lado:tiger_id 1002706.
 samian:loc_ds_1002706 geosparql:hasGeometry samian:loc_ds_1002706_geom .
 samian:loc_ds_1002706_geom rdf:type sf:Point .
-samian:loc_ds_1002706_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.633338 -1.133332)"^^geosparql:wktLiteral.
+samian:loc_ds_1002706_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.133332 52.633338)"^^geosparql:wktLiteral.
 samian:loc_ds_1002706 lado:tiger_cax 0.4183.
 samian:loc_ds_1002706 lado:tiger_cay -0.1853.
 samian:loc_ds_1002706 lado:tiger_cax_norm 0.68333.
@@ -1414,8 +1414,8 @@ samian:loc_ds_1002706 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002706 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002706 prov:wasGeneratedBy samian:activity_loc_ds_1002706 .
 samian:activity_loc_ds_1002706 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002706 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002706 prov:endedAtTime '2023-07-11T16:32:06.394842Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002706 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002706 prov:endedAtTime '2023-07-11T18:08:21.453003Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002706 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003904 rdf:type lado:Location .
@@ -1428,7 +1428,7 @@ samian:loc_ds_1003904 lado:tiger_eventname 'Malton'@en.
 samian:loc_ds_1003904 lado:tiger_id 1003904.
 samian:loc_ds_1003904 geosparql:hasGeometry samian:loc_ds_1003904_geom .
 samian:loc_ds_1003904_geom rdf:type sf:Point .
-samian:loc_ds_1003904_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(54.133335 -0.8)"^^geosparql:wktLiteral.
+samian:loc_ds_1003904_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.8 54.133335)"^^geosparql:wktLiteral.
 samian:loc_ds_1003904 lado:tiger_cax 0.4572.
 samian:loc_ds_1003904 lado:tiger_cay -0.0614.
 samian:loc_ds_1003904 lado:tiger_cax_norm 0.69254.
@@ -1441,8 +1441,8 @@ samian:loc_ds_1003904 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003904 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003904 prov:wasGeneratedBy samian:activity_loc_ds_1003904 .
 samian:activity_loc_ds_1003904 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003904 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003904 prov:endedAtTime '2023-07-11T16:32:06.394842Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003904 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003904 prov:endedAtTime '2023-07-11T18:08:21.453737Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003904 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003687 rdf:type lado:Location .
@@ -1455,7 +1455,7 @@ samian:loc_ds_1003687 lado:tiger_eventname 'Heybridge'@en.
 samian:loc_ds_1003687 lado:tiger_id 1003687.
 samian:loc_ds_1003687 geosparql:hasGeometry samian:loc_ds_1003687_geom .
 samian:loc_ds_1003687_geom rdf:type sf:Point .
-samian:loc_ds_1003687_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.7417 0.6897)"^^geosparql:wktLiteral.
+samian:loc_ds_1003687_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.6897 51.7417)"^^geosparql:wktLiteral.
 samian:loc_ds_1003687 lado:tiger_cax 0.4735.
 samian:loc_ds_1003687 lado:tiger_cay -0.1382.
 samian:loc_ds_1003687 lado:tiger_cax_norm 0.69639.
@@ -1468,8 +1468,8 @@ samian:loc_ds_1003687 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003687 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003687 prov:wasGeneratedBy samian:activity_loc_ds_1003687 .
 samian:activity_loc_ds_1003687 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003687 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003687 prov:endedAtTime '2023-07-11T16:32:06.394842Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003687 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003687 prov:endedAtTime '2023-07-11T18:08:21.453737Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003687 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003420 rdf:type lado:Location .
@@ -1482,7 +1482,7 @@ samian:loc_ds_1003420 lado:tiger_eventname 'Caernarfon'@en.
 samian:loc_ds_1003420 lado:tiger_id 1003420.
 samian:loc_ds_1003420 geosparql:hasGeometry samian:loc_ds_1003420_geom .
 samian:loc_ds_1003420_geom rdf:type sf:Point .
-samian:loc_ds_1003420_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(53.137619 -4.265485)"^^geosparql:wktLiteral.
+samian:loc_ds_1003420_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-4.265485 53.137619)"^^geosparql:wktLiteral.
 samian:loc_ds_1003420 lado:tiger_cax 0.5218.
 samian:loc_ds_1003420 lado:tiger_cay -0.0243.
 samian:loc_ds_1003420 lado:tiger_cax_norm 0.70782.
@@ -1495,8 +1495,8 @@ samian:loc_ds_1003420 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003420 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003420 prov:wasGeneratedBy samian:activity_loc_ds_1003420 .
 samian:activity_loc_ds_1003420 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003420 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003420 prov:endedAtTime '2023-07-11T16:32:06.395843Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003420 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003420 prov:endedAtTime '2023-07-11T18:08:21.454739Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003420 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002071 rdf:type lado:Location .
@@ -1509,7 +1509,7 @@ samian:loc_ds_1002071 lado:tiger_eventname 'Ewell'@en.
 samian:loc_ds_1002071 lado:tiger_id 1002071.
 samian:loc_ds_1002071 geosparql:hasGeometry samian:loc_ds_1002071_geom .
 samian:loc_ds_1002071_geom rdf:type sf:Point .
-samian:loc_ds_1002071_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.34948 -0.2494)"^^geosparql:wktLiteral.
+samian:loc_ds_1002071_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.2494 51.34948)"^^geosparql:wktLiteral.
 samian:loc_ds_1002071 lado:tiger_cax 0.5415.
 samian:loc_ds_1002071 lado:tiger_cay -0.2235.
 samian:loc_ds_1002071 lado:tiger_cax_norm 0.71249.
@@ -1522,8 +1522,8 @@ samian:loc_ds_1002071 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002071 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002071 prov:wasGeneratedBy samian:activity_loc_ds_1002071 .
 samian:activity_loc_ds_1002071 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002071 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002071 prov:endedAtTime '2023-07-11T16:32:06.395843Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002071 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002071 prov:endedAtTime '2023-07-11T18:08:21.454739Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002071 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002383 rdf:type lado:Location .
@@ -1536,7 +1536,7 @@ samian:loc_ds_1002383 lado:tiger_eventname 'Chester'@en.
 samian:loc_ds_1002383 lado:tiger_id 1002383.
 samian:loc_ds_1002383 geosparql:hasGeometry samian:loc_ds_1002383_geom .
 samian:loc_ds_1002383_geom rdf:type sf:Point .
-samian:loc_ds_1002383_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(53.191469 -2.893943)"^^geosparql:wktLiteral.
+samian:loc_ds_1002383_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.893943 53.191469)"^^geosparql:wktLiteral.
 samian:loc_ds_1002383 lado:tiger_cax 0.5892.
 samian:loc_ds_1002383 lado:tiger_cay -0.2532.
 samian:loc_ds_1002383 lado:tiger_cax_norm 0.72378.
@@ -1549,8 +1549,8 @@ samian:loc_ds_1002383 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002383 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002383 prov:wasGeneratedBy samian:activity_loc_ds_1002383 .
 samian:activity_loc_ds_1002383 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002383 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002383 prov:endedAtTime '2023-07-11T16:32:06.395843Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002383 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002383 prov:endedAtTime '2023-07-11T18:08:21.454739Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002383 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001182 rdf:type lado:Location .
@@ -1563,7 +1563,7 @@ samian:loc_ds_1001182 lado:tiger_eventname 'Loughor'@en.
 samian:loc_ds_1001182 lado:tiger_id 1001182.
 samian:loc_ds_1001182 geosparql:hasGeometry samian:loc_ds_1001182_geom .
 samian:loc_ds_1001182_geom rdf:type sf:Point .
-samian:loc_ds_1001182_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.666671 -4.05)"^^geosparql:wktLiteral.
+samian:loc_ds_1001182_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-4.05 51.666671)"^^geosparql:wktLiteral.
 samian:loc_ds_1001182 lado:tiger_cax 0.5947.
 samian:loc_ds_1001182 lado:tiger_cay -0.0937.
 samian:loc_ds_1001182 lado:tiger_cax_norm 0.72508.
@@ -1576,8 +1576,8 @@ samian:loc_ds_1001182 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001182 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001182 prov:wasGeneratedBy samian:activity_loc_ds_1001182 .
 samian:activity_loc_ds_1001182 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001182 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001182 prov:endedAtTime '2023-07-11T16:32:06.395843Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001182 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001182 prov:endedAtTime '2023-07-11T18:08:21.454739Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001182 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002318 rdf:type lado:Location .
@@ -1590,7 +1590,7 @@ samian:loc_ds_1002318 lado:tiger_eventname 'Carmarthen'@en.
 samian:loc_ds_1002318 lado:tiger_id 1002318.
 samian:loc_ds_1002318 geosparql:hasGeometry samian:loc_ds_1002318_geom .
 samian:loc_ds_1002318_geom rdf:type sf:Point .
-samian:loc_ds_1002318_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.859165 -4.311666)"^^geosparql:wktLiteral.
+samian:loc_ds_1002318_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-4.311666 51.859165)"^^geosparql:wktLiteral.
 samian:loc_ds_1002318 lado:tiger_cax 0.6298.
 samian:loc_ds_1002318 lado:tiger_cay -0.2417.
 samian:loc_ds_1002318 lado:tiger_cax_norm 0.73339.
@@ -1603,8 +1603,8 @@ samian:loc_ds_1002318 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002318 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002318 prov:wasGeneratedBy samian:activity_loc_ds_1002318 .
 samian:activity_loc_ds_1002318 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002318 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002318 prov:endedAtTime '2023-07-11T16:32:06.396843Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002318 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002318 prov:endedAtTime '2023-07-11T18:08:21.455739Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002318 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000897 rdf:type lado:Location .
@@ -1617,7 +1617,7 @@ samian:loc_ds_1000897 lado:tiger_eventname 'Newstead'@en.
 samian:loc_ds_1000897 lado:tiger_id 1000897.
 samian:loc_ds_1000897 geosparql:hasGeometry samian:loc_ds_1000897_geom .
 samian:loc_ds_1000897_geom rdf:type sf:Point .
-samian:loc_ds_1000897_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(55.598 -2.6919)"^^geosparql:wktLiteral.
+samian:loc_ds_1000897_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.6919 55.598)"^^geosparql:wktLiteral.
 samian:loc_ds_1000897 lado:tiger_cax 0.6513.
 samian:loc_ds_1000897 lado:tiger_cay -0.218.
 samian:loc_ds_1000897 lado:tiger_cax_norm 0.73847.
@@ -1630,8 +1630,8 @@ samian:loc_ds_1000897 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000897 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000897 prov:wasGeneratedBy samian:activity_loc_ds_1000897 .
 samian:activity_loc_ds_1000897 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000897 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000897 prov:endedAtTime '2023-07-11T16:32:06.396843Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000897 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000897 prov:endedAtTime '2023-07-11T18:08:21.455739Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000897 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001921 rdf:type lado:Location .
@@ -1644,7 +1644,7 @@ samian:loc_ds_1001921 lado:tiger_eventname 'Kettering'@en.
 samian:loc_ds_1001921 lado:tiger_id 1001921.
 samian:loc_ds_1001921 geosparql:hasGeometry samian:loc_ds_1001921_geom .
 samian:loc_ds_1001921_geom rdf:type sf:Point .
-samian:loc_ds_1001921_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.400001 -0.716666)"^^geosparql:wktLiteral.
+samian:loc_ds_1001921_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.716666 52.400001)"^^geosparql:wktLiteral.
 samian:loc_ds_1001921 lado:tiger_cax 0.6609.
 samian:loc_ds_1001921 lado:tiger_cay -0.3362.
 samian:loc_ds_1001921 lado:tiger_cax_norm 0.74075.
@@ -1657,8 +1657,8 @@ samian:loc_ds_1001921 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001921 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001921 prov:wasGeneratedBy samian:activity_loc_ds_1001921 .
 samian:activity_loc_ds_1001921 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001921 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001921 prov:endedAtTime '2023-07-11T16:32:06.396843Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001921 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001921 prov:endedAtTime '2023-07-11T18:08:21.455739Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001921 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000627 rdf:type lado:Location .
@@ -1671,7 +1671,7 @@ samian:loc_ds_1000627 lado:tiger_eventname 'York'@en.
 samian:loc_ds_1000627 lado:tiger_id 1000627.
 samian:loc_ds_1000627 geosparql:hasGeometry samian:loc_ds_1000627_geom .
 samian:loc_ds_1000627_geom rdf:type sf:Point .
-samian:loc_ds_1000627_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(53.96667 -1.083333)"^^geosparql:wktLiteral.
+samian:loc_ds_1000627_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.083333 53.96667)"^^geosparql:wktLiteral.
 samian:loc_ds_1000627 lado:tiger_cax 0.6623.
 samian:loc_ds_1000627 lado:tiger_cay -0.3876.
 samian:loc_ds_1000627 lado:tiger_cax_norm 0.74108.
@@ -1684,8 +1684,8 @@ samian:loc_ds_1000627 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000627 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000627 prov:wasGeneratedBy samian:activity_loc_ds_1000627 .
 samian:activity_loc_ds_1000627 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000627 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000627 prov:endedAtTime '2023-07-11T16:32:06.396843Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000627 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000627 prov:endedAtTime '2023-07-11T18:08:21.455739Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000627 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002245 rdf:type lado:Location .
@@ -1698,7 +1698,7 @@ samian:loc_ds_1002245 lado:tiger_eventname 'Carlisle'@en.
 samian:loc_ds_1002245 lado:tiger_id 1002245.
 samian:loc_ds_1002245 geosparql:hasGeometry samian:loc_ds_1002245_geom .
 samian:loc_ds_1002245_geom rdf:type sf:Point .
-samian:loc_ds_1002245_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(54.891 -2.9439)"^^geosparql:wktLiteral.
+samian:loc_ds_1002245_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.9439 54.891)"^^geosparql:wktLiteral.
 samian:loc_ds_1002245 lado:tiger_cax 0.6693.
 samian:loc_ds_1002245 lado:tiger_cay -0.3006.
 samian:loc_ds_1002245 lado:tiger_cax_norm 0.74273.
@@ -1711,8 +1711,8 @@ samian:loc_ds_1002245 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002245 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002245 prov:wasGeneratedBy samian:activity_loc_ds_1002245 .
 samian:activity_loc_ds_1002245 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002245 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002245 prov:endedAtTime '2023-07-11T16:32:06.396843Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002245 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002245 prov:endedAtTime '2023-07-11T18:08:21.455739Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002245 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002527 rdf:type lado:Location .
@@ -1725,7 +1725,7 @@ samian:loc_ds_1002527 lado:tiger_eventname 'Margidunum'@en.
 samian:loc_ds_1002527 lado:tiger_id 1002527.
 samian:loc_ds_1002527 geosparql:hasGeometry samian:loc_ds_1002527_geom .
 samian:loc_ds_1002527_geom rdf:type sf:Point .
-samian:loc_ds_1002527_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.96598 -0.957643)"^^geosparql:wktLiteral.
+samian:loc_ds_1002527_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.957643 52.96598)"^^geosparql:wktLiteral.
 samian:loc_ds_1002527 lado:tiger_cax 0.6767.
 samian:loc_ds_1002527 lado:tiger_cay -0.2633.
 samian:loc_ds_1002527 lado:tiger_cax_norm 0.74449.
@@ -1738,8 +1738,8 @@ samian:loc_ds_1002527 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002527 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002527 prov:wasGeneratedBy samian:activity_loc_ds_1002527 .
 samian:activity_loc_ds_1002527 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002527 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002527 prov:endedAtTime '2023-07-11T16:32:06.396843Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002527 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002527 prov:endedAtTime '2023-07-11T18:08:21.456744Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002527 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002303 rdf:type lado:Location .
@@ -1752,7 +1752,7 @@ samian:loc_ds_1002303 lado:tiger_eventname 'Caistor-by-Norwich'@en.
 samian:loc_ds_1002303 lado:tiger_id 1002303.
 samian:loc_ds_1002303 geosparql:hasGeometry samian:loc_ds_1002303_geom .
 samian:loc_ds_1002303_geom rdf:type sf:Point .
-samian:loc_ds_1002303_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.582241 1.291995)"^^geosparql:wktLiteral.
+samian:loc_ds_1002303_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(1.291995 52.582241)"^^geosparql:wktLiteral.
 samian:loc_ds_1002303 lado:tiger_cax 0.6803.
 samian:loc_ds_1002303 lado:tiger_cay -0.4844.
 samian:loc_ds_1002303 lado:tiger_cax_norm 0.74534.
@@ -1765,8 +1765,8 @@ samian:loc_ds_1002303 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002303 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002303 prov:wasGeneratedBy samian:activity_loc_ds_1002303 .
 samian:activity_loc_ds_1002303 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002303 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002303 prov:endedAtTime '2023-07-11T16:32:06.397846Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002303 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002303 prov:endedAtTime '2023-07-11T18:08:21.456744Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002303 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001462 rdf:type lado:Location .
@@ -1779,7 +1779,7 @@ samian:loc_ds_1001462 lado:tiger_eventname 'Rochester'@en.
 samian:loc_ds_1001462 lado:tiger_id 1001462.
 samian:loc_ds_1001462 geosparql:hasGeometry samian:loc_ds_1001462_geom .
 samian:loc_ds_1001462_geom rdf:type sf:Point .
-samian:loc_ds_1001462_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.390861 0.49766)"^^geosparql:wktLiteral.
+samian:loc_ds_1001462_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(0.49766 51.390861)"^^geosparql:wktLiteral.
 samian:loc_ds_1001462 lado:tiger_cax 0.6876.
 samian:loc_ds_1001462 lado:tiger_cay -0.264.
 samian:loc_ds_1001462 lado:tiger_cax_norm 0.74707.
@@ -1792,8 +1792,8 @@ samian:loc_ds_1001462 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001462 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001462 prov:wasGeneratedBy samian:activity_loc_ds_1001462 .
 samian:activity_loc_ds_1001462 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001462 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001462 prov:endedAtTime '2023-07-11T16:32:06.397846Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001462 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001462 prov:endedAtTime '2023-07-11T18:08:21.457009Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001462 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000595 rdf:type lado:Location .
@@ -1806,7 +1806,7 @@ samian:loc_ds_1000595 lado:tiger_eventname 'Caersws'@en.
 samian:loc_ds_1000595 lado:tiger_id 1000595.
 samian:loc_ds_1000595 geosparql:hasGeometry samian:loc_ds_1000595_geom .
 samian:loc_ds_1000595_geom rdf:type sf:Point .
-samian:loc_ds_1000595_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.5167 -3.444389)"^^geosparql:wktLiteral.
+samian:loc_ds_1000595_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.444389 52.5167)"^^geosparql:wktLiteral.
 samian:loc_ds_1000595 lado:tiger_cax 0.8019.
 samian:loc_ds_1000595 lado:tiger_cay -0.4883.
 samian:loc_ds_1000595 lado:tiger_cax_norm 0.77412.
@@ -1819,8 +1819,8 @@ samian:loc_ds_1000595 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000595 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000595 prov:wasGeneratedBy samian:activity_loc_ds_1000595 .
 samian:activity_loc_ds_1000595 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000595 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000595 prov:endedAtTime '2023-07-11T16:32:06.397846Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000595 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000595 prov:endedAtTime '2023-07-11T18:08:21.457009Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000595 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000088 rdf:type lado:Location .
@@ -1833,7 +1833,7 @@ samian:loc_ds_1000088 lado:tiger_eventname 'Caerleon'@en.
 samian:loc_ds_1000088 lado:tiger_id 1000088.
 samian:loc_ds_1000088 geosparql:hasGeometry samian:loc_ds_1000088_geom .
 samian:loc_ds_1000088_geom rdf:type sf:Point .
-samian:loc_ds_1000088_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.60952 -2.95378)"^^geosparql:wktLiteral.
+samian:loc_ds_1000088_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.95378 51.60952)"^^geosparql:wktLiteral.
 samian:loc_ds_1000088 lado:tiger_cax 0.8084.
 samian:loc_ds_1000088 lado:tiger_cay -0.5661.
 samian:loc_ds_1000088 lado:tiger_cax_norm 0.77566.
@@ -1846,8 +1846,8 @@ samian:loc_ds_1000088 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000088 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000088 prov:wasGeneratedBy samian:activity_loc_ds_1000088 .
 samian:activity_loc_ds_1000088 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000088 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000088 prov:endedAtTime '2023-07-11T16:32:06.397846Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000088 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000088 prov:endedAtTime '2023-07-11T18:08:21.457009Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000088 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003524 rdf:type lado:Location .
@@ -1860,7 +1860,7 @@ samian:loc_ds_1003524 lado:tiger_eventname 'Inchtuthil'@en.
 samian:loc_ds_1003524 lado:tiger_id 1003524.
 samian:loc_ds_1003524 geosparql:hasGeometry samian:loc_ds_1003524_geom .
 samian:loc_ds_1003524_geom rdf:type sf:Point .
-samian:loc_ds_1003524_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(56.541347 -3.422952)"^^geosparql:wktLiteral.
+samian:loc_ds_1003524_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.422952 56.541347)"^^geosparql:wktLiteral.
 samian:loc_ds_1003524 lado:tiger_cax 0.8134.
 samian:loc_ds_1003524 lado:tiger_cay -0.6299.
 samian:loc_ds_1003524 lado:tiger_cax_norm 0.77684.
@@ -1873,8 +1873,8 @@ samian:loc_ds_1003524 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003524 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003524 prov:wasGeneratedBy samian:activity_loc_ds_1003524 .
 samian:activity_loc_ds_1003524 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003524 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003524 prov:endedAtTime '2023-07-11T16:32:06.397846Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003524 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003524 prov:endedAtTime '2023-07-11T18:08:21.457009Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003524 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002034 rdf:type lado:Location .
@@ -1887,7 +1887,7 @@ samian:loc_ds_1002034 lado:tiger_eventname 'Binchester'@en.
 samian:loc_ds_1002034 lado:tiger_id 1002034.
 samian:loc_ds_1002034 geosparql:hasGeometry samian:loc_ds_1002034_geom .
 samian:loc_ds_1002034_geom rdf:type sf:Point .
-samian:loc_ds_1002034_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(54.676732 -1.676772)"^^geosparql:wktLiteral.
+samian:loc_ds_1002034_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.676772 54.676732)"^^geosparql:wktLiteral.
 samian:loc_ds_1002034 lado:tiger_cax 0.905.
 samian:loc_ds_1002034 lado:tiger_cay -0.6557.
 samian:loc_ds_1002034 lado:tiger_cax_norm 0.79852.
@@ -1900,8 +1900,8 @@ samian:loc_ds_1002034 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002034 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002034 prov:wasGeneratedBy samian:activity_loc_ds_1002034 .
 samian:activity_loc_ds_1002034 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002034 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002034 prov:endedAtTime '2023-07-11T16:32:06.398836Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002034 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002034 prov:endedAtTime '2023-07-11T18:08:21.457764Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002034 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002001 rdf:type lado:Location .
@@ -1914,7 +1914,7 @@ samian:loc_ds_1002001 lado:tiger_eventname 'Brecon'@en.
 samian:loc_ds_1002001 lado:tiger_id 1002001.
 samian:loc_ds_1002001 geosparql:hasGeometry samian:loc_ds_1002001_geom .
 samian:loc_ds_1002001_geom rdf:type sf:Point .
-samian:loc_ds_1002001_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.95 -3.383332)"^^geosparql:wktLiteral.
+samian:loc_ds_1002001_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-3.383332 51.95)"^^geosparql:wktLiteral.
 samian:loc_ds_1002001 lado:tiger_cax 0.9352.
 samian:loc_ds_1002001 lado:tiger_cay -0.9354.
 samian:loc_ds_1002001 lado:tiger_cax_norm 0.80567.
@@ -1927,8 +1927,8 @@ samian:loc_ds_1002001 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002001 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002001 prov:wasGeneratedBy samian:activity_loc_ds_1002001 .
 samian:activity_loc_ds_1002001 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002001 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002001 prov:endedAtTime '2023-07-11T16:32:06.398836Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002001 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002001 prov:endedAtTime '2023-07-11T18:08:21.457764Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002001 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000713 rdf:type lado:Location .
@@ -1941,7 +1941,7 @@ samian:loc_ds_1000713 lado:tiger_eventname 'Ilkley'@en.
 samian:loc_ds_1000713 lado:tiger_id 1000713.
 samian:loc_ds_1000713 geosparql:hasGeometry samian:loc_ds_1000713_geom .
 samian:loc_ds_1000713_geom rdf:type sf:Point .
-samian:loc_ds_1000713_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(53.916667 -1.816666)"^^geosparql:wktLiteral.
+samian:loc_ds_1000713_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.816666 53.916667)"^^geosparql:wktLiteral.
 samian:loc_ds_1000713 lado:tiger_cax 0.9437.
 samian:loc_ds_1000713 lado:tiger_cay -0.5886.
 samian:loc_ds_1000713 lado:tiger_cax_norm 0.80768.
@@ -1954,8 +1954,8 @@ samian:loc_ds_1000713 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000713 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000713 prov:wasGeneratedBy samian:activity_loc_ds_1000713 .
 samian:activity_loc_ds_1000713 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000713 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000713 prov:endedAtTime '2023-07-11T16:32:06.398836Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000713 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000713 prov:endedAtTime '2023-07-11T18:08:21.457764Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000713 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002306 rdf:type lado:Location .
@@ -1968,7 +1968,7 @@ samian:loc_ds_1002306 lado:tiger_eventname 'Ribchester'@en.
 samian:loc_ds_1002306 lado:tiger_id 1002306.
 samian:loc_ds_1002306 geosparql:hasGeometry samian:loc_ds_1002306_geom .
 samian:loc_ds_1002306_geom rdf:type sf:Point .
-samian:loc_ds_1002306_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(53.799999 -2.533333)"^^geosparql:wktLiteral.
+samian:loc_ds_1002306_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.533333 53.799999)"^^geosparql:wktLiteral.
 samian:loc_ds_1002306 lado:tiger_cax 0.9512.
 samian:loc_ds_1002306 lado:tiger_cay -0.8411.
 samian:loc_ds_1002306 lado:tiger_cax_norm 0.80945.
@@ -1981,8 +1981,8 @@ samian:loc_ds_1002306 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002306 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002306 prov:wasGeneratedBy samian:activity_loc_ds_1002306 .
 samian:activity_loc_ds_1002306 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002306 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002306 prov:endedAtTime '2023-07-11T16:32:06.398836Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002306 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002306 prov:endedAtTime '2023-07-11T18:08:21.457764Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002306 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003419 rdf:type lado:Location .
@@ -1995,7 +1995,7 @@ samian:loc_ds_1003419 lado:tiger_eventname 'Corbridge'@en.
 samian:loc_ds_1003419 lado:tiger_id 1003419.
 samian:loc_ds_1003419 geosparql:hasGeometry samian:loc_ds_1003419_geom .
 samian:loc_ds_1003419_geom rdf:type sf:Point .
-samian:loc_ds_1003419_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(54.97365 -2.01798)"^^geosparql:wktLiteral.
+samian:loc_ds_1003419_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.01798 54.97365)"^^geosparql:wktLiteral.
 samian:loc_ds_1003419 lado:tiger_cax 0.9924.
 samian:loc_ds_1003419 lado:tiger_cay -0.7927.
 samian:loc_ds_1003419 lado:tiger_cax_norm 0.8192.
@@ -2008,8 +2008,8 @@ samian:loc_ds_1003419 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003419 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003419 prov:wasGeneratedBy samian:activity_loc_ds_1003419 .
 samian:activity_loc_ds_1003419 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003419 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003419 prov:endedAtTime '2023-07-11T16:32:06.399691Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003419 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003419 prov:endedAtTime '2023-07-11T18:08:21.457764Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003419 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002803 rdf:type lado:Location .
@@ -2022,7 +2022,7 @@ samian:loc_ds_1002803 lado:tiger_eventname 'Doncaster'@en.
 samian:loc_ds_1002803 lado:tiger_id 1002803.
 samian:loc_ds_1002803 geosparql:hasGeometry samian:loc_ds_1002803_geom .
 samian:loc_ds_1002803_geom rdf:type sf:Point .
-samian:loc_ds_1002803_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(53.533332 -1.116666)"^^geosparql:wktLiteral.
+samian:loc_ds_1002803_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.116666 53.533332)"^^geosparql:wktLiteral.
 samian:loc_ds_1002803 lado:tiger_cax 1.1047.
 samian:loc_ds_1002803 lado:tiger_cay -0.9121.
 samian:loc_ds_1002803 lado:tiger_cax_norm 0.84578.
@@ -2035,8 +2035,8 @@ samian:loc_ds_1002803 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002803 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002803 prov:wasGeneratedBy samian:activity_loc_ds_1002803 .
 samian:activity_loc_ds_1002803 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002803 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002803 prov:endedAtTime '2023-07-11T16:32:06.399839Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002803 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002803 prov:endedAtTime '2023-07-11T18:08:21.457764Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002803 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000209 rdf:type lado:Location .
@@ -2049,7 +2049,7 @@ samian:loc_ds_1000209 lado:tiger_eventname 'Rocester'@en.
 samian:loc_ds_1000209 lado:tiger_id 1000209.
 samian:loc_ds_1000209 geosparql:hasGeometry samian:loc_ds_1000209_geom .
 samian:loc_ds_1000209_geom rdf:type sf:Point .
-samian:loc_ds_1000209_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.95 -1.833333)"^^geosparql:wktLiteral.
+samian:loc_ds_1000209_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.833333 52.95)"^^geosparql:wktLiteral.
 samian:loc_ds_1000209 lado:tiger_cax 1.1325.
 samian:loc_ds_1000209 lado:tiger_cay -1.3604.
 samian:loc_ds_1000209 lado:tiger_cax_norm 0.85236.
@@ -2062,8 +2062,8 @@ samian:loc_ds_1000209 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000209 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000209 prov:wasGeneratedBy samian:activity_loc_ds_1000209 .
 samian:activity_loc_ds_1000209 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000209 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000209 prov:endedAtTime '2023-07-11T16:32:06.399839Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000209 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000209 prov:endedAtTime '2023-07-11T18:08:21.458772Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000209 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003470 rdf:type lado:Location .
@@ -2076,7 +2076,7 @@ samian:loc_ds_1003470 lado:tiger_eventname 'Chesterholm-Vindolanda'@en.
 samian:loc_ds_1003470 lado:tiger_id 1003470.
 samian:loc_ds_1003470 geosparql:hasGeometry samian:loc_ds_1003470_geom .
 samian:loc_ds_1003470_geom rdf:type sf:Point .
-samian:loc_ds_1003470_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(54.991588 -2.359504)"^^geosparql:wktLiteral.
+samian:loc_ds_1003470_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.359504 54.991588)"^^geosparql:wktLiteral.
 samian:loc_ds_1003470 lado:tiger_cax 1.1739.
 samian:loc_ds_1003470 lado:tiger_cay -1.1011.
 samian:loc_ds_1003470 lado:tiger_cax_norm 0.86216.
@@ -2089,8 +2089,8 @@ samian:loc_ds_1003470 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003470 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003470 prov:wasGeneratedBy samian:activity_loc_ds_1003470 .
 samian:activity_loc_ds_1003470 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003470 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003470 prov:endedAtTime '2023-07-11T16:32:06.399839Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003470 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003470 prov:endedAtTime '2023-07-11T18:08:21.458772Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003470 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1004203 rdf:type lado:Location .
@@ -2103,7 +2103,7 @@ samian:loc_ds_1004203 lado:tiger_eventname 'Caerwent'@en.
 samian:loc_ds_1004203 lado:tiger_id 1004203.
 samian:loc_ds_1004203 geosparql:hasGeometry samian:loc_ds_1004203_geom .
 samian:loc_ds_1004203_geom rdf:type sf:Point .
-samian:loc_ds_1004203_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.616661 -2.766666)"^^geosparql:wktLiteral.
+samian:loc_ds_1004203_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.766666 51.616661)"^^geosparql:wktLiteral.
 samian:loc_ds_1004203 lado:tiger_cax 1.2427.
 samian:loc_ds_1004203 lado:tiger_cay -1.3916.
 samian:loc_ds_1004203 lado:tiger_cax_norm 0.87844.
@@ -2116,8 +2116,8 @@ samian:loc_ds_1004203 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1004203 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1004203 prov:wasGeneratedBy samian:activity_loc_ds_1004203 .
 samian:activity_loc_ds_1004203 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1004203 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1004203 prov:endedAtTime '2023-07-11T16:32:06.399839Z'^^xsd:dateTime .
+samian:activity_loc_ds_1004203 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1004203 prov:endedAtTime '2023-07-11T18:08:21.458772Z'^^xsd:dateTime .
 samian:activity_loc_ds_1004203 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000407 rdf:type lado:Location .
@@ -2130,7 +2130,7 @@ samian:loc_ds_1000407 lado:tiger_eventname 'Holt'@en.
 samian:loc_ds_1000407 lado:tiger_id 1000407.
 samian:loc_ds_1000407 geosparql:hasGeometry samian:loc_ds_1000407_geom .
 samian:loc_ds_1000407_geom rdf:type sf:Point .
-samian:loc_ds_1000407_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(53.079 -2.881)"^^geosparql:wktLiteral.
+samian:loc_ds_1000407_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.881 53.079)"^^geosparql:wktLiteral.
 samian:loc_ds_1000407 lado:tiger_cax 1.3353.
 samian:loc_ds_1000407 lado:tiger_cay -1.3935.
 samian:loc_ds_1000407 lado:tiger_cax_norm 0.90036.
@@ -2143,8 +2143,8 @@ samian:loc_ds_1000407 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000407 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000407 prov:wasGeneratedBy samian:activity_loc_ds_1000407 .
 samian:activity_loc_ds_1000407 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000407 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000407 prov:endedAtTime '2023-07-11T16:32:06.399839Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000407 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000407 prov:endedAtTime '2023-07-11T18:08:21.458772Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000407 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1004111 rdf:type lado:Location .
@@ -2157,7 +2157,7 @@ samian:loc_ds_1004111 lado:tiger_eventname 'Catterick'@en.
 samian:loc_ds_1004111 lado:tiger_id 1004111.
 samian:loc_ds_1004111 geosparql:hasGeometry samian:loc_ds_1004111_geom .
 samian:loc_ds_1004111_geom rdf:type sf:Point .
-samian:loc_ds_1004111_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(54.37542 -1.63328)"^^geosparql:wktLiteral.
+samian:loc_ds_1004111_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.63328 54.37542)"^^geosparql:wktLiteral.
 samian:loc_ds_1004111 lado:tiger_cax 1.3918.
 samian:loc_ds_1004111 lado:tiger_cay -1.5209.
 samian:loc_ds_1004111 lado:tiger_cax_norm 0.91373.
@@ -2170,8 +2170,8 @@ samian:loc_ds_1004111 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1004111 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1004111 prov:wasGeneratedBy samian:activity_loc_ds_1004111 .
 samian:activity_loc_ds_1004111 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1004111 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1004111 prov:endedAtTime '2023-07-11T16:32:06.400874Z'^^xsd:dateTime .
+samian:activity_loc_ds_1004111 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1004111 prov:endedAtTime '2023-07-11T18:08:21.458772Z'^^xsd:dateTime .
 samian:activity_loc_ds_1004111 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1004084 rdf:type lado:Location .
@@ -2184,7 +2184,7 @@ samian:loc_ds_1004084 lado:tiger_eventname 'Wilderspool'@en.
 samian:loc_ds_1004084 lado:tiger_id 1004084.
 samian:loc_ds_1004084 geosparql:hasGeometry samian:loc_ds_1004084_geom .
 samian:loc_ds_1004084_geom rdf:type sf:Point .
-samian:loc_ds_1004084_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(53.369159 -2.586209)"^^geosparql:wktLiteral.
+samian:loc_ds_1004084_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.586209 53.369159)"^^geosparql:wktLiteral.
 samian:loc_ds_1004084 lado:tiger_cax 1.5491.
 samian:loc_ds_1004084 lado:tiger_cay -1.9707.
 samian:loc_ds_1004084 lado:tiger_cax_norm 0.95096.
@@ -2197,8 +2197,8 @@ samian:loc_ds_1004084 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1004084 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1004084 prov:wasGeneratedBy samian:activity_loc_ds_1004084 .
 samian:activity_loc_ds_1004084 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1004084 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1004084 prov:endedAtTime '2023-07-11T16:32:06.400874Z'^^xsd:dateTime .
+samian:activity_loc_ds_1004084 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1004084 prov:endedAtTime '2023-07-11T18:08:21.458772Z'^^xsd:dateTime .
 samian:activity_loc_ds_1004084 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000924 rdf:type lado:Location .
@@ -2211,7 +2211,7 @@ samian:loc_ds_1000924 lado:tiger_eventname 'Little Chester'@en.
 samian:loc_ds_1000924 lado:tiger_id 1000924.
 samian:loc_ds_1000924 geosparql:hasGeometry samian:loc_ds_1000924_geom .
 samian:loc_ds_1000924_geom rdf:type sf:Point .
-samian:loc_ds_1000924_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.933414 -1.471779)"^^geosparql:wktLiteral.
+samian:loc_ds_1000924_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-1.471779 52.933414)"^^geosparql:wktLiteral.
 samian:loc_ds_1000924 lado:tiger_cax 1.6601.
 samian:loc_ds_1000924 lado:tiger_cay -2.0778.
 samian:loc_ds_1000924 lado:tiger_cax_norm 0.97723.
@@ -2224,8 +2224,8 @@ samian:loc_ds_1000924 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000924 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000924 prov:wasGeneratedBy samian:activity_loc_ds_1000924 .
 samian:activity_loc_ds_1000924 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000924 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000924 prov:endedAtTime '2023-07-11T16:32:06.400874Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000924 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000924 prov:endedAtTime '2023-07-11T18:08:21.459772Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000924 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002604 rdf:type lado:Location .
@@ -2238,7 +2238,7 @@ samian:loc_ds_1002604 lado:tiger_eventname 'Manchester'@en.
 samian:loc_ds_1002604 lado:tiger_id 1002604.
 samian:loc_ds_1002604 geosparql:hasGeometry samian:loc_ds_1002604_geom .
 samian:loc_ds_1002604_geom rdf:type sf:Point .
-samian:loc_ds_1002604_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(53.48095 -2.23743)"^^geosparql:wktLiteral.
+samian:loc_ds_1002604_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-2.23743 53.48095)"^^geosparql:wktLiteral.
 samian:loc_ds_1002604 lado:tiger_cax 1.7563.
 samian:loc_ds_1002604 lado:tiger_cay -2.2265.
 samian:loc_ds_1002604 lado:tiger_cax_norm 1.0.
@@ -2251,8 +2251,8 @@ samian:loc_ds_1002604 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002604 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002604 prov:wasGeneratedBy samian:activity_loc_ds_1002604 .
 samian:activity_loc_ds_1002604 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002604 prov:startedAtTime '2023-07-11T16:32:06.353894Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002604 prov:endedAtTime '2023-07-11T16:32:06.400874Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002604 prov:startedAtTime '2023-07-11T18:08:21.419527Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002604 prov:endedAtTime '2023-07-11T18:08:21.459772Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002604 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001570 time:intervalBefore samian:loc_ds_1003148.
