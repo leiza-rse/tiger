@@ -97,7 +97,7 @@ for index, row in data.iterrows():
     lines.append("samian:loc_ds_" +
                  str(row['id']) + " " + "lado:tiger_cax_norm" + " " + str(norm01) + ".")
     lines.append("samian:loc_ds_" +
-                 str(row['id']) + " " + "lado:tiger_cay_hex" + " \'" + str(row['hex']) + "\' .")
+                 str(row['id']) + " " + "lado:tiger_cax_hex" + " \'" + str(row['hex']) + "\' .")
 
     # license
     lines.append("samian:loc_ds_" + str(row['id']) + " " + "dct:license" +
