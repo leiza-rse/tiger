@@ -26,7 +26,7 @@ samian:loc_ds_1000136 lado:tiger_eventname 'London'@en.
 samian:loc_ds_1000136 lado:tiger_id 1000136.
 samian:loc_ds_1000136 geosparql:hasGeometry samian:loc_ds_1000136_geom .
 samian:loc_ds_1000136_geom rdf:type sf:Point .
-samian:loc_ds_1000136_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.51279 -0.09184)"^^geosparql:wktLiteral.
+samian:loc_ds_1000136_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.09184 51.51279)"^^geosparql:wktLiteral.
 samian:loc_ds_1000136 lado:tiger_cax -0.0207.
 samian:loc_ds_1000136 lado:tiger_cay 0.1535.
 samian:loc_ds_1000136 lado:tiger_cax_norm 0.57943.
