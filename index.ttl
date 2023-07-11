@@ -4,30 +4,799 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1001530> a ns1:DiscoverySite,
-        ns1:Location,
-        ns1:ToGeR_Event ;
-    rdfs:label "Straubing"@en ;
-    ns1:hasType ns1:DiscoverySite ;
-    ns1:tiger_cax -1.8663 ;
-    ns1:tiger_cax_hex "#310769" ;
-    ns1:tiger_cax_norm 0.0 ;
-    ns1:tiger_cay 0.2676 ;
-    ns1:tiger_eventname "Straubing"@en ;
-    ns1:tiger_id 1001530 ;
-    dc:identifier 1001530 ;
-    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
-    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
-    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
-        <https://orcid.org/0000-0002-7634-5342> ;
-    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1001530_geom> ;
-    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1000255> ;
-    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
-    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
-    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001530> .
+<http://data.archaeology.link/data/samian/Activity_collection> a skos:Collection ;
+    rdfs:label "Activity Instances Collection" ;
+    rdfs:member <http://data.archaeology.link/data/samian/activity_loc_ds_1000080>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000088>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000136>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000157>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000209>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000255>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000293>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000327>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000346>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000353>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000372>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000375>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000376>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000407>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000455>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000457>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000460>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000489>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000595>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000627>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000651>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000671>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000713>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000737>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000754>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000803>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000815>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000828>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000837>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000838>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000853>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000897>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000900>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000913>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000924>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000928>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000956>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000969>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1000983>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001028>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001030>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001033>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001046>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001054>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001087>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001182>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001186>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001198>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001207>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001251>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001308>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001323>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001327>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001331>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001351>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001359>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001387>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001392>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001423>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001462>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001510>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001530>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001531>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001539>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001570>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001619>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001653>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001764>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001765>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001778>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001786>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001821>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001829>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001839>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001870>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001873>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001888>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001913>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001921>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001943>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1001979>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002001>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002021>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002034>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002066>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002071>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002130>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002137>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002190>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002245>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002275>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002303>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002306>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002318>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002343>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002381>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002383>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002444>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002500>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002513>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002527>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002542>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002604>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002698>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002701>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002706>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002709>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002748>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002803>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002839>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002875>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002885>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1002961>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003098>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003108>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003148>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003165>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003222>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003271>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003289>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003419>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003420>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003421>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003439>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003470>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003475>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003524>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003531>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003533>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003671>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003687>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003699>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003761>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003782>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003799>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003810>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003862>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003870>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003896>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003898>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003904>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003933>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003944>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003948>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003966>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1003975>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1004084>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1004100>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1004111>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1004136>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1004140>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1004142>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1004152>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1004203>,
+        <http://data.archaeology.link/data/samian/activity_loc_ds_1004310> .
+
+<http://data.archaeology.link/data/samian/DiscoverySite_collection> a geo:FeatureCollection ;
+    rdfs:label "DiscoverySite Instances Collection" ;
+    rdfs:member <http://data.archaeology.link/data/samian/loc_ds_1000080>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000088>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000136>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000157>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000209>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000255>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000293>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000327>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000346>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000353>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000372>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000375>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000376>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000407>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000455>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000457>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000460>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000489>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000595>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000627>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000651>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000671>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000713>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000737>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000754>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000803>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000815>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000828>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000837>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000838>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000853>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000897>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000900>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000913>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000924>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000928>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000956>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000969>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000983>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001028>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001030>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001033>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001046>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001054>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001087>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001182>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001186>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001198>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001207>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001251>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001308>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001323>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001327>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001331>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001351>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001359>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001387>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001392>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001423>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001462>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001510>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001530>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001531>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001539>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001570>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001619>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001653>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001764>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001765>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001778>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001786>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001821>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001829>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001839>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001870>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001873>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001888>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001913>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001921>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001943>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001979>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002001>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002021>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002034>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002066>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002071>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002130>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002137>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002190>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002245>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002275>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002303>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002306>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002318>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002343>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002381>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002383>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002444>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002500>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002513>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002527>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002542>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002604>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002698>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002701>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002706>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002709>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002748>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002803>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002839>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002875>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002885>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002961>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003098>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003108>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003148>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003165>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003222>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003271>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003289>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003419>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003420>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003421>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003439>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003470>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003475>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003524>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003531>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003533>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003671>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003687>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003699>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003761>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003782>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003799>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003810>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003862>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003870>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003896>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003898>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003904>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003933>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003944>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003948>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003966>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003975>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004084>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004100>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004111>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004136>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004140>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004142>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004152>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004203>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004310> .
+
+<http://data.archaeology.link/data/samian/Location_collection> a geo:FeatureCollection ;
+    rdfs:label "Location Instances Collection" ;
+    rdfs:member <http://data.archaeology.link/data/samian/loc_ds_1000080>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000088>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000136>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000157>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000209>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000255>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000293>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000327>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000346>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000353>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000372>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000375>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000376>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000407>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000455>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000457>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000460>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000489>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000595>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000627>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000651>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000671>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000713>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000737>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000754>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000803>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000815>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000828>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000837>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000838>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000853>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000897>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000900>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000913>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000924>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000928>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000956>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000969>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000983>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001028>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001030>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001033>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001046>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001054>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001087>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001182>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001186>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001198>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001207>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001251>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001308>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001323>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001327>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001331>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001351>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001359>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001387>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001392>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001423>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001462>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001510>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001530>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001531>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001539>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001570>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001619>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001653>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001764>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001765>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001778>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001786>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001821>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001829>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001839>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001870>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001873>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001888>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001913>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001921>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001943>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001979>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002001>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002021>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002034>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002066>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002071>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002130>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002137>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002190>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002245>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002275>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002303>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002306>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002318>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002343>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002381>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002383>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002444>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002500>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002513>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002527>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002542>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002604>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002698>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002701>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002706>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002709>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002748>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002803>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002839>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002875>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002885>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002961>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003098>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003108>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003148>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003165>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003222>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003271>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003289>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003419>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003420>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003421>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003439>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003470>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003475>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003524>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003531>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003533>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003671>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003687>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003699>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003761>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003782>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003799>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003810>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003862>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003870>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003896>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003898>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003904>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003933>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003944>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003948>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003966>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003975>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004084>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004100>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004111>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004136>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004140>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004142>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004152>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004203>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004310> .
+
+<http://data.archaeology.link/data/samian/Point_collection> a geo:GeometryCollection ;
+    rdfs:label "Point Instances Collection" ;
+    rdfs:member <http://data.archaeology.link/data/samian/loc_ds_1000080_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000088_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000136_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000157_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000209_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000255_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000293_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000327_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000346_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000353_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000372_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000375_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000376_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000407_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000455_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000457_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000460_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000489_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000595_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000627_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000651_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000671_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000713_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000737_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000754_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000803_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000815_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000828_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000837_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000838_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000853_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000897_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000900_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000913_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000924_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000928_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000956_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000969_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000983_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001028_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001030_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001033_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001046_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001054_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001087_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001182_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001186_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001198_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001207_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001251_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001308_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001323_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001327_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001331_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001351_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001359_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001387_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001392_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001423_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001462_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001510_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001530_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001531_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001539_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001570_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001619_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001653_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001764_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001765_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001778_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001786_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001821_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001829_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001839_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001870_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001873_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001888_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001913_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001921_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001943_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001979_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002001_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002021_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002034_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002066_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002071_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002130_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002137_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002190_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002245_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002275_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002303_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002306_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002318_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002343_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002381_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002383_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002444_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002500_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002513_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002527_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002542_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002604_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002698_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002701_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002706_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002709_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002748_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002803_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002839_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002875_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002885_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002961_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003098_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003108_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003148_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003165_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003222_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003271_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003289_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003419_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003420_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003421_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003439_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003470_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003475_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003524_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003531_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003533_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003671_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003687_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003699_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003761_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003782_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003799_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003810_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003862_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003870_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003896_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003898_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003904_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003933_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003944_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003948_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003966_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003975_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004084_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004100_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004111_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004136_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004140_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004142_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004152_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004203_geom>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004310_geom> .
+
+<http://data.archaeology.link/data/samian/ToGeR_Event_collection> a geo:FeatureCollection ;
+    rdfs:label "ToGeR_Event Instances Collection" ;
+    rdfs:member <http://data.archaeology.link/data/samian/loc_ds_1000080>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000088>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000136>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000157>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000209>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000255>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000293>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000327>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000346>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000353>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000372>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000375>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000376>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000407>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000455>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000457>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000460>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000489>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000595>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000627>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000651>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000671>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000713>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000737>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000754>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000803>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000815>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000828>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000837>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000838>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000853>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000897>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000900>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000913>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000924>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000928>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000956>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000969>,
+        <http://data.archaeology.link/data/samian/loc_ds_1000983>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001028>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001030>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001033>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001046>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001054>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001087>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001182>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001186>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001198>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001207>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001251>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001308>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001323>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001327>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001331>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001351>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001359>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001387>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001392>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001423>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001462>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001510>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001530>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001531>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001539>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001570>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001619>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001653>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001764>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001765>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001778>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001786>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001821>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001829>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001839>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001870>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001873>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001888>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001913>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001921>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001943>,
+        <http://data.archaeology.link/data/samian/loc_ds_1001979>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002001>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002021>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002034>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002066>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002071>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002130>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002137>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002190>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002245>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002275>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002303>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002306>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002318>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002343>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002381>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002383>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002444>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002500>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002513>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002527>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002542>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002604>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002698>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002701>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002706>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002709>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002748>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002803>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002839>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002875>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002885>,
+        <http://data.archaeology.link/data/samian/loc_ds_1002961>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003098>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003108>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003148>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003165>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003222>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003271>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003289>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003419>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003420>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003421>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003439>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003470>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003475>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003524>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003531>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003533>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003671>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003687>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003699>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003761>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003782>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003799>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003810>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003862>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003870>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003896>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003898>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003904>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003933>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003944>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003948>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003966>,
+        <http://data.archaeology.link/data/samian/loc_ds_1003975>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004084>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004100>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004111>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004136>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004140>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004142>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004152>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004203>,
+        <http://data.archaeology.link/data/samian/loc_ds_1004310> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000157> a prov:Activity ;
     prov:endedAtTime "2023-07-11T18:08:25.601169+00:00"^^xsd:dateTime ;
@@ -389,6 +1158,244 @@
     prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
+<http://data.archaeology.link/data/samian/loc_ds_1000157_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.753502 50.341669)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000255_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.665183 50.439681)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000293_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.65 51.45)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000346_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(9.2145 48.8048)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000372_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.75 48.150001)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000376_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(12.09556 49.014999)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000457_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.45297 51.65877)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000460_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(16.899999 48.133335)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000489_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(13.033329 47.799999)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000671_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(12.483329 47.93333)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000737_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.566659 50.271522)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000754_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.866666 49.833332)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000803_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.71095 48.73398)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000815_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.45778 48.50648)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000828_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(14.033329 48.166671)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000837_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.616666 48.366664)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000838_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.883176 50.393087)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000913_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.449999 50.083332)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000928_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(9.064167 49.976943)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1000983_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.784294 50.487393)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001028_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.683333 51.333332)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001030_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.81241 48.28768)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001033_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.95427 50.93835)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001054_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.75 50.25)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001087_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.483333 47.916671)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001186_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.48213 47.74818)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001207_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(9.82587 48.27099)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001308_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.4 50.43333)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001327_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.26667 48.45)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001351_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(4.349213 52.060064)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001392_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.9624 49.030803)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001423_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.9833 50.2167)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001510_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.883333 49.966667)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001530_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(12.56667 48.816669)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001531_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.383333 47.816665)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001539_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.399999 48.566669)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001619_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.866666 50.333332)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001653_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(5.168262 52.060794)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001786_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(4.916666 52.083328)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001870_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.43111 49.32083)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001873_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.31389 47.72674)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001913_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(9.649999 48.216667)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001943_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.25 50.083328)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002021_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(4.733333 52.099998)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002066_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.493611 49.923889)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002130_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.239792 48.7598)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002190_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(4.433332 52.18333)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002275_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.41944 49.44514)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002381_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.84333 48.659999)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002500_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.699999 49.416671)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002542_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.75 48.583328)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002698_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.68504 51.19807)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002709_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.57883 50.35357)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002748_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.0 48.333328)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1002839_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.304722 51.721389)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003165_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.89851 48.37154)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003222_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.93 50.133338)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003271_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.533333 50.116667)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003289_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.646584 50.159333)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003421_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(4.633333 52.46667)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003439_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(16.37208 48.20849)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003531_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(5.866666 51.833328)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003761_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.2791 50.0)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003782_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(9.7471 47.50311)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003898_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(11.449999 48.71667)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003944_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(5.333333 51.799999)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003948_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.62719 48.16783)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1003966_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(5.133333 52.083328)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1004136_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.099999 50.733329)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1004142_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.916669 47.916671)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1004152_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.27806 49.11806)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1004310_geom> a <http://www.opengis.net/ont/sf#Point> ;
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.35916 49.63278)"^^geo:wktLiteral .
+
+<http://data.archaeology.link/data/samian/loc_ds_1001530> a ns1:DiscoverySite,
+        ns1:Location,
+        ns1:ToGeR_Event ;
+    rdfs:label "Straubing"@en ;
+    ns1:hasType ns1:DiscoverySite ;
+    ns1:tiger_cax -1.8663 ;
+    ns1:tiger_cax_hex "#310769" ;
+    ns1:tiger_cax_norm 0.0 ;
+    ns1:tiger_cay 0.2676 ;
+    ns1:tiger_eventname "Straubing"@en ;
+    ns1:tiger_id 1001530 ;
+    dc:identifier 1001530 ;
+    dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+    dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
+        <https://orcid.org/0000-0002-7634-5342> ;
+    geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1001530_geom> ;
+    time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1000255> ;
+    prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
+    prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
+    prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001530> .
+
 <http://data.archaeology.link/data/samian/loc_ds_1000157> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -410,9 +1417,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000157> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1000157_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.753502 50.341669)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000255> a ns1:DiscoverySite,
         ns1:Location,
@@ -436,9 +1440,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000255> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1000255_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.665183 50.439681)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1000293> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -460,9 +1461,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000293> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1000293_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.65 51.45)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000346> a ns1:DiscoverySite,
         ns1:Location,
@@ -486,9 +1484,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000346> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1000346_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(9.2145 48.8048)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1000372> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -510,9 +1505,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000372> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1000372_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.75 48.150001)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000376> a ns1:DiscoverySite,
         ns1:Location,
@@ -536,9 +1528,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000376> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1000376_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(12.09556 49.014999)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1000457> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -560,9 +1549,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000457> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1000457_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.45297 51.65877)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000460> a ns1:DiscoverySite,
         ns1:Location,
@@ -586,9 +1572,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000460> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1000460_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(16.899999 48.133335)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1000489> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -610,9 +1593,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000489> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1000489_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(13.033329 47.799999)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000671> a ns1:DiscoverySite,
         ns1:Location,
@@ -636,9 +1616,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000671> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1000671_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(12.483329 47.93333)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1000737> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -660,9 +1637,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000737> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1000737_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.566659 50.271522)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000754> a ns1:DiscoverySite,
         ns1:Location,
@@ -686,9 +1660,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000754> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1000754_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.866666 49.833332)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1000803> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -710,9 +1681,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000803> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1000803_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.71095 48.73398)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000815> a ns1:DiscoverySite,
         ns1:Location,
@@ -736,9 +1704,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000815> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1000815_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.45778 48.50648)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1000828> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -760,9 +1725,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000828> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1000828_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(14.033329 48.166671)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000837> a ns1:DiscoverySite,
         ns1:Location,
@@ -786,9 +1748,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000837> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1000837_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.616666 48.366664)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1000838> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -810,9 +1769,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000838> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1000838_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.883176 50.393087)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000913> a ns1:DiscoverySite,
         ns1:Location,
@@ -836,9 +1792,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000913> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1000913_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.449999 50.083332)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1000928> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -860,9 +1813,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000928> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1000928_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(9.064167 49.976943)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000983> a ns1:DiscoverySite,
         ns1:Location,
@@ -886,9 +1836,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000983> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1000983_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.784294 50.487393)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1001028> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -910,9 +1857,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001028> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1001028_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.683333 51.333332)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001030> a ns1:DiscoverySite,
         ns1:Location,
@@ -936,9 +1880,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001030> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1001030_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.81241 48.28768)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1001033> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -960,9 +1901,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001033> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1001033_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.95427 50.93835)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001054> a ns1:DiscoverySite,
         ns1:Location,
@@ -986,9 +1924,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001054> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1001054_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.75 50.25)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1001087> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1010,9 +1945,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001087> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1001087_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.483333 47.916671)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001186> a ns1:DiscoverySite,
         ns1:Location,
@@ -1036,9 +1968,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001186> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1001186_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.48213 47.74818)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1001207> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1060,9 +1989,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001207> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1001207_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(9.82587 48.27099)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001308> a ns1:DiscoverySite,
         ns1:Location,
@@ -1086,9 +2012,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001308> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1001308_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.4 50.43333)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1001327> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1110,9 +2033,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001327> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1001327_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.26667 48.45)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001351> a ns1:DiscoverySite,
         ns1:Location,
@@ -1136,9 +2056,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001351> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1001351_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(4.349213 52.060064)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1001392> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1160,9 +2077,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001392> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1001392_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.9624 49.030803)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001423> a ns1:DiscoverySite,
         ns1:Location,
@@ -1186,9 +2100,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001423> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1001423_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.9833 50.2167)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1001510> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1210,12 +2121,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001510> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1001510_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.883333 49.966667)"^^geo:wktLiteral .
-
-<http://data.archaeology.link/data/samian/loc_ds_1001530_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(12.56667 48.816669)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001531> a ns1:DiscoverySite,
         ns1:Location,
@@ -1239,9 +2144,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001531> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1001531_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.383333 47.816665)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1001539> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1263,9 +2165,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001539> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1001539_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.399999 48.566669)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001619> a ns1:DiscoverySite,
         ns1:Location,
@@ -1289,9 +2188,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001619> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1001619_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.866666 50.333332)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1001653> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1313,9 +2209,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001653> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1001653_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(5.168262 52.060794)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001786> a ns1:DiscoverySite,
         ns1:Location,
@@ -1339,9 +2232,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001786> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1001786_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(4.916666 52.083328)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1001870> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1363,9 +2253,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001870> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1001870_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.43111 49.32083)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001873> a ns1:DiscoverySite,
         ns1:Location,
@@ -1389,9 +2276,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001873> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1001873_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.31389 47.72674)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1001913> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1413,9 +2297,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001913> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1001913_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(9.649999 48.216667)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001943> a ns1:DiscoverySite,
         ns1:Location,
@@ -1439,9 +2320,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001943> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1001943_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.25 50.083328)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1002021> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1463,9 +2341,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002021> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1002021_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(4.733333 52.099998)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002066> a ns1:DiscoverySite,
         ns1:Location,
@@ -1489,9 +2364,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002066> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1002066_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.493611 49.923889)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1002130> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1513,9 +2385,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002130> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1002130_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.239792 48.7598)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002190> a ns1:DiscoverySite,
         ns1:Location,
@@ -1539,9 +2408,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002190> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1002190_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(4.433332 52.18333)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1002275> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1563,9 +2429,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002275> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1002275_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.41944 49.44514)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002381> a ns1:DiscoverySite,
         ns1:Location,
@@ -1589,9 +2452,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002381> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1002381_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.84333 48.659999)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1002500> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1613,9 +2473,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002500> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1002500_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.699999 49.416671)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002542> a ns1:DiscoverySite,
         ns1:Location,
@@ -1639,9 +2496,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002542> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1002542_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.75 48.583328)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1002698> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1663,9 +2517,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002698> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1002698_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.68504 51.19807)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002709> a ns1:DiscoverySite,
         ns1:Location,
@@ -1689,9 +2540,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002709> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1002709_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.57883 50.35357)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1002748> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1713,9 +2561,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002748> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1002748_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.0 48.333328)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002839> a ns1:DiscoverySite,
         ns1:Location,
@@ -1739,9 +2584,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002839> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1002839_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.304722 51.721389)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1003165> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1763,9 +2605,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003165> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1003165_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.89851 48.37154)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003222> a ns1:DiscoverySite,
         ns1:Location,
@@ -1789,9 +2628,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003222> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1003222_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.93 50.133338)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1003271> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1813,9 +2649,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003271> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1003271_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.533333 50.116667)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003289> a ns1:DiscoverySite,
         ns1:Location,
@@ -1839,9 +2672,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003289> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1003289_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.646584 50.159333)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1003421> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1862,9 +2692,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003421> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1003421_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(4.633333 52.46667)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003439> a ns1:DiscoverySite,
         ns1:Location,
@@ -1888,9 +2715,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003439> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1003439_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(16.37208 48.20849)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1003531> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1912,9 +2736,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003531> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1003531_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(5.866666 51.833328)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003761> a ns1:DiscoverySite,
         ns1:Location,
@@ -1938,9 +2759,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003761> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1003761_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.2791 50.0)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1003782> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -1962,9 +2780,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003782> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1003782_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(9.7471 47.50311)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003898> a ns1:DiscoverySite,
         ns1:Location,
@@ -1988,9 +2803,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003898> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1003898_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(11.449999 48.71667)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1003944> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -2012,9 +2824,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003944> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1003944_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(5.333333 51.799999)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003948> a ns1:DiscoverySite,
         ns1:Location,
@@ -2038,9 +2847,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003948> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1003948_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.62719 48.16783)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1003966> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -2062,9 +2868,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003966> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1003966_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(5.133333 52.083328)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1004136> a ns1:DiscoverySite,
         ns1:Location,
@@ -2088,9 +2891,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1004136> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1004136_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.099999 50.733329)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1004142> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -2112,9 +2912,6 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1004142> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1004142_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.916669 47.916671)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1004152> a ns1:DiscoverySite,
         ns1:Location,
@@ -2138,9 +2935,6 @@
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1004152> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1004152_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.27806 49.11806)"^^geo:wktLiteral .
-
 <http://data.archaeology.link/data/samian/loc_ds_1004310> a ns1:DiscoverySite,
         ns1:Location,
         ns1:ToGeR_Event ;
@@ -2162,7 +2956,4 @@
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;
     prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> ;
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1004310> .
-
-<http://data.archaeology.link/data/samian/loc_ds_1004310_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.35916 49.63278)"^^geo:wktLiteral .
 

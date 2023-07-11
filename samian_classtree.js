@@ -1636,6 +1636,10 @@ var tree={
             }
           },
           "from": {
+            "http://www.w3.org/2000/01/rdf-schema#member": {
+              "instancecount": 0,
+              "http://www.opengis.net/ont/geosparql#FeatureCollection": 3
+            },
             "http://www.w3.org/2006/time#intervalBefore": {
               "instancecount": 0,
               "http://archaeology.link/ontology#Location": 1,
@@ -2170,6 +2174,10 @@ var tree={
               "http://archaeology.link/ontology#Location": 1,
               "http://archaeology.link/ontology#DiscoverySite": 1,
               "http://archaeology.link/ontology#ToGeR_Event": 1
+            },
+            "http://www.w3.org/2000/01/rdf-schema#member": {
+              "instancecount": 0,
+              "http://www.opengis.net/ont/geosparql#GeometryCollection": 1
             }
           }
         },
@@ -2700,6 +2708,10 @@ var tree={
             }
           },
           "from": {
+            "http://www.w3.org/2000/01/rdf-schema#member": {
+              "instancecount": 0,
+              "http://www.w3.org/2004/02/skos/core#Collection": 1
+            },
             "http://www.w3.org/ns/prov#wasGeneratedBy": {
               "instancecount": 0,
               "http://archaeology.link/ontology#Location": 1,
@@ -2709,6 +2721,116 @@ var tree={
           }
         },
         "instancecount": 4
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/Location_collection",
+        "parent": "http://www.opengis.net/ont/geosparql#FeatureCollection",
+        "type": "featurecollection",
+        "text": "Location Instances Collection (samian:Location_collection)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/DiscoverySite_collection",
+        "parent": "http://www.opengis.net/ont/geosparql#FeatureCollection",
+        "type": "featurecollection",
+        "text": "DiscoverySite Instances Collection (samian:DiscoverySite_collection)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/ToGeR_Event_collection",
+        "parent": "http://www.opengis.net/ont/geosparql#FeatureCollection",
+        "type": "featurecollection",
+        "text": "ToGeR_Event Instances Collection (samian:ToGeR_Event_collection)",
+        "data": {}
+      },
+      {
+        "id": "http://www.opengis.net/ont/geosparql#FeatureCollection",
+        "parent": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
+        "type": "collectionclass",
+        "text": "FeatureCollection (gsp:FeatureCollection) [3]",
+        "data": {
+          "to": {
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2000/01/rdf-schema#label": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2000/01/rdf-schema#member": {
+              "instancecount": 155,
+              "http://archaeology.link/ontology#Location": 72,
+              "http://archaeology.link/ontology#DiscoverySite": 72,
+              "http://archaeology.link/ontology#ToGeR_Event": 72
+            }
+          },
+          "from": {}
+        },
+        "instancecount": 158
+      },
+      {
+        "id": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
+        "parent": "#",
+        "type": "collectionclass",
+        "text": "SpatialObjectCollection (gsp:SpatialObjectCollection)",
+        "data": {}
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/Point_collection",
+        "parent": "http://www.opengis.net/ont/geosparql#GeometryCollection",
+        "type": "geocollection",
+        "text": "Point Instances Collection (samian:Point_collection)",
+        "data": {}
+      },
+      {
+        "id": "http://www.opengis.net/ont/geosparql#GeometryCollection",
+        "parent": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
+        "type": "collectionclass",
+        "text": "GeometryCollection (gsp:GeometryCollection) [1]",
+        "data": {
+          "to": {
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2000/01/rdf-schema#label": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2000/01/rdf-schema#member": {
+              "instancecount": 155,
+              "http://www.opengis.net/ont/sf#Point": 72
+            }
+          },
+          "from": {}
+        },
+        "instancecount": 158
+      },
+      {
+        "id": "http://data.archaeology.link/data/samian/Activity_collection",
+        "parent": "http://www.w3.org/2004/02/skos/core#Collection",
+        "type": "instance",
+        "text": "Activity Instances Collection (samian:Activity_collection)",
+        "data": {}
+      },
+      {
+        "id": "http://www.w3.org/2004/02/skos/core#Collection",
+        "parent": "#",
+        "type": "collectionclass",
+        "text": "Collection (skos:Collection) [1]",
+        "data": {
+          "to": {
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2000/01/rdf-schema#label": {
+              "instancecount": 1
+            },
+            "http://www.w3.org/2000/01/rdf-schema#member": {
+              "instancecount": 155,
+              "http://www.w3.org/ns/prov#Activity": 72
+            }
+          },
+          "from": {}
+        },
+        "instancecount": 157
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001570_suniv0_",
