@@ -1,0 +1,141 @@
+# create triples from datingtest.csv 
+# on 2023-07-11 08:49
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix sf: <http://www.opengis.net/ont/sf#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix lado: <http://archaeology.link/ontology#> .
+@prefix samian: <http://data.archaeology.link/data/samian/> .
+
+samian:loc_ds_0 rdf:type lado:Location .
+samian:loc_ds_0 rdf:type lado:DiscoverySite .
+samian:loc_ds_0 rdf:type lado:ToGeR_Event .
+samian:loc_ds_0 lado:hasType lado:DiscoverySite .
+samian:loc_ds_0 rdfs:label 'Alcester'@en.
+samian:loc_ds_0 dc:identifier 0.
+samian:loc_ds_0 lado:tiger_eventname 'Alcester'@en.
+samian:loc_ds_0 lado:tiger_id 0.
+samian:loc_ds_0 geosparql:hasGeometry samian:loc_ds_0_geom .
+samian:loc_ds_0_geom rdf:type sf:Point .
+samian:loc_ds_0_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.21667 -1.866667)"^^geosparql:wktLiteral.
+samian:loc_ds_0 lado:tiger_cax -0.10837.
+samian:loc_ds_0 lado:tiger_cay 0.27781.
+samian:loc_ds_0 lado:tiger_cax_norm 0.55857.
+samian:loc_ds_0 lado:tiger_cay_hex '#1b74a9' .
+samian:loc_ds_0 dct:license <https://creativecommons.org/licenses/by/4.0/deed.de> .
+samian:loc_ds_0 dct:creator <https://orcid.org/0000-0002-3246-3531> .
+samian:loc_ds_0 dct:rightsHolder <https://orcid.org/0000-0002-3246-3531> .
+samian:loc_ds_0 dct:rightsHolder <https://orcid.org/0000-0002-7634-5342> .
+samian:loc_ds_0 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
+samian:loc_ds_0 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
+samian:loc_ds_0 prov:wasGeneratedBy samian:activity_loc_ds_0 .
+samian:activity_loc_ds_0 rdf:type <http://www.w3.org/ns/prov#Activity> .
+samian:activity_loc_ds_0 prov:startedAtTime '2023-07-11T08:49:57.697614Z'^^xsd:dateTime .
+samian:activity_loc_ds_0 prov:endedAtTime '2023-07-11T08:49:57.731291Z'^^xsd:dateTime .
+samian:activity_loc_ds_0 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
+
+samian:loc_ds_1 rdf:type lado:Location .
+samian:loc_ds_1 rdf:type lado:DiscoverySite .
+samian:loc_ds_1 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1 lado:hasType lado:DiscoverySite .
+samian:loc_ds_1 rdfs:label 'Alchester'@en.
+samian:loc_ds_1 dc:identifier 1.
+samian:loc_ds_1 lado:tiger_eventname 'Alchester'@en.
+samian:loc_ds_1 lado:tiger_id 1.
+samian:loc_ds_1 geosparql:hasGeometry samian:loc_ds_1_geom .
+samian:loc_ds_1_geom rdf:type sf:Point .
+samian:loc_ds_1_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.880107 -1.166077)"^^geosparql:wktLiteral.
+samian:loc_ds_1 lado:tiger_cax 0.14099.
+samian:loc_ds_1 lado:tiger_cay -1.65159.
+samian:loc_ds_1 lado:tiger_cax_norm 0.6176.
+samian:loc_ds_1 lado:tiger_cay_hex '#1e66a1' .
+samian:loc_ds_1 dct:license <https://creativecommons.org/licenses/by/4.0/deed.de> .
+samian:loc_ds_1 dct:creator <https://orcid.org/0000-0002-3246-3531> .
+samian:loc_ds_1 dct:rightsHolder <https://orcid.org/0000-0002-3246-3531> .
+samian:loc_ds_1 dct:rightsHolder <https://orcid.org/0000-0002-7634-5342> .
+samian:loc_ds_1 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
+samian:loc_ds_1 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
+samian:loc_ds_1 prov:wasGeneratedBy samian:activity_loc_ds_1 .
+samian:activity_loc_ds_1 rdf:type <http://www.w3.org/ns/prov#Activity> .
+samian:activity_loc_ds_1 prov:startedAtTime '2023-07-11T08:49:57.697614Z'^^xsd:dateTime .
+samian:activity_loc_ds_1 prov:endedAtTime '2023-07-11T08:49:57.732298Z'^^xsd:dateTime .
+samian:activity_loc_ds_1 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
+
+samian:loc_ds_2 rdf:type lado:Location .
+samian:loc_ds_2 rdf:type lado:DiscoverySite .
+samian:loc_ds_2 rdf:type lado:ToGeR_Event .
+samian:loc_ds_2 lado:hasType lado:DiscoverySite .
+samian:loc_ds_2 rdfs:label 'Baginton'@en.
+samian:loc_ds_2 dc:identifier 2.
+samian:loc_ds_2 lado:tiger_eventname 'Baginton'@en.
+samian:loc_ds_2 lado:tiger_id 2.
+samian:loc_ds_2 geosparql:hasGeometry samian:loc_ds_2_geom .
+samian:loc_ds_2_geom rdf:type sf:Point .
+samian:loc_ds_2_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.366664 -1.483333)"^^geosparql:wktLiteral.
+samian:loc_ds_2 lado:tiger_cax -0.38161.
+samian:loc_ds_2 lado:tiger_cay 0.83671.
+samian:loc_ds_2 lado:tiger_cax_norm 0.49389.
+samian:loc_ds_2 lado:tiger_cay_hex '#1885b3' .
+samian:loc_ds_2 dct:license <https://creativecommons.org/licenses/by/4.0/deed.de> .
+samian:loc_ds_2 dct:creator <https://orcid.org/0000-0002-3246-3531> .
+samian:loc_ds_2 dct:rightsHolder <https://orcid.org/0000-0002-3246-3531> .
+samian:loc_ds_2 dct:rightsHolder <https://orcid.org/0000-0002-7634-5342> .
+samian:loc_ds_2 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
+samian:loc_ds_2 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
+samian:loc_ds_2 prov:wasGeneratedBy samian:activity_loc_ds_2 .
+samian:activity_loc_ds_2 rdf:type <http://www.w3.org/ns/prov#Activity> .
+samian:activity_loc_ds_2 prov:startedAtTime '2023-07-11T08:49:57.697614Z'^^xsd:dateTime .
+samian:activity_loc_ds_2 prov:endedAtTime '2023-07-11T08:49:57.733319Z'^^xsd:dateTime .
+samian:activity_loc_ds_2 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
+
+samian:loc_ds_3 rdf:type lado:Location .
+samian:loc_ds_3 rdf:type lado:DiscoverySite .
+samian:loc_ds_3 rdf:type lado:ToGeR_Event .
+samian:loc_ds_3 lado:hasType lado:DiscoverySite .
+samian:loc_ds_3 rdfs:label 'Baldock'@en.
+samian:loc_ds_3 dc:identifier 3.
+samian:loc_ds_3 lado:tiger_eventname 'Baldock'@en.
+samian:loc_ds_3 lado:tiger_id 3.
+samian:loc_ds_3 geosparql:hasGeometry samian:loc_ds_3_geom .
+samian:loc_ds_3_geom rdf:type sf:Point .
+samian:loc_ds_3_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.98781 -0.18835)"^^geosparql:wktLiteral.
+samian:loc_ds_3 lado:tiger_cax -0.49802.
+samian:loc_ds_3 lado:tiger_cay 0.23745.
+samian:loc_ds_3 lado:tiger_cax_norm 0.46633.
+samian:loc_ds_3 lado:tiger_cay_hex '#178bb7' .
+samian:loc_ds_3 dct:license <https://creativecommons.org/licenses/by/4.0/deed.de> .
+samian:loc_ds_3 dct:creator <https://orcid.org/0000-0002-3246-3531> .
+samian:loc_ds_3 dct:rightsHolder <https://orcid.org/0000-0002-3246-3531> .
+samian:loc_ds_3 dct:rightsHolder <https://orcid.org/0000-0002-7634-5342> .
+samian:loc_ds_3 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
+samian:loc_ds_3 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
+samian:loc_ds_3 prov:wasGeneratedBy samian:activity_loc_ds_3 .
+samian:activity_loc_ds_3 rdf:type <http://www.w3.org/ns/prov#Activity> .
+samian:activity_loc_ds_3 prov:startedAtTime '2023-07-11T08:49:57.697614Z'^^xsd:dateTime .
+samian:activity_loc_ds_3 prov:endedAtTime '2023-07-11T08:49:57.733319Z'^^xsd:dateTime .
+samian:activity_loc_ds_3 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
+
+samian:loc_ds_4 rdf:type lado:Location .
+samian:loc_ds_4 rdf:type lado:DiscoverySite .
+samian:loc_ds_4 rdf:type lado:ToGeR_Event .
+samian:loc_ds_4 lado:hasType lado:DiscoverySite .
+samian:loc_ds_4 rdfs:label 'Bath'@en.
+samian:loc_ds_4 dc:identifier 4.
+samian:loc_ds_4 lado:tiger_eventname 'Bath'@en.
+samian:loc_ds_4 lado:tiger_id 4.
+samian:loc_ds_4 geosparql:hasGeometry samian:loc_ds_4_geom .
+samian:loc_ds_4_geom rdf:type sf:Point .
+samian:loc_ds_4_geom geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.381506 -2.357391)"^^geosparql:wktLiteral.
+samian:loc_ds_4 lado:tiger_cax -0.03055.
+samian:loc_ds_4 lado:tiger_cay 0.26726.
+samian:loc_ds_4 lado:tiger_cax_norm 0.57699.
+samian:loc_ds_4 lado:tiger_cay_hex '#1c70a7' .
+samian:loc_ds_4 dct:license <https://creativecommons.org/licenses/by/4.0/deed.de> .
+samian:loc_ds_4 dct:creator <https://orcid.org/0000-0002-3246-3531> .
+samian:loc_ds_4 dct:rightsHolder <https://orcid.org/0000-0002-3246-3531> .
