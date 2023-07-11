@@ -23,7 +23,7 @@ jobs:
         prefixns: http://data.archaeology.link/data/samian/
         prefixnsshort: samian
         indexpages: true
-        createcollections: false
+        createcollections: true
         preferredlang: en
         ghpages: true
         metadatatable: true
