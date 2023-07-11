@@ -30,363 +30,363 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001530> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000157> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.800537+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.601169+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000255> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.799535+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.599137+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000293> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.809792+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.612165+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000346> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.799535+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.600174+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000372> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.805524+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.607163+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000376> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.803533+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.604164+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000457> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.808534+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.611166+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000460> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.804524+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.605293+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000489> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.804524+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.606168+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000671> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.805524+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.607163+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000737> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.799535+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.600174+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000754> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.812507+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.615130+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000803> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.811581+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.613739+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000815> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.810502+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.613166+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000828> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.802525+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.603164+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000837> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.810502+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.613445+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000838> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.799535+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.600174+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000913> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.809533+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.611166+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000928> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.800537+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.601169+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000983> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.801525+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.602166+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001028> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.803533+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.605293+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001030> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.804524+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.605293+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001033> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.807539+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.609131+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001054> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.801525+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.602166+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001087> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.806533+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.609131+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001186> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.803533+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.605166+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001207> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.807539+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.610163+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001308> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.809792+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.612165+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001327> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.803533+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.604164+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001351> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.801525+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.603164+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001392> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.802525+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.603164+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001423> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.800537+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.601169+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001510> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.811581+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.614130+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001530> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.798506+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.599137+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001531> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.807539+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.610163+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001539> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.800537+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.601169+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001619> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.800537+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.601169+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001653> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.808534+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.611166+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001786> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.804524+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.606168+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001870> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.806533+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.608232+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001873> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.810502+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.612165+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001913> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.806533+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.608232+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001943> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.805524+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.607163+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1002021> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.808534+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.610163+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1002066> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.805524+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.607163+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1002130> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.800537+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.602166+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1002190> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.808534+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.610163+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1002275> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.810502+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.612165+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1002381> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.805524+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.606168+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1002500> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.801525+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.602166+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1002542> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.807539+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.610163+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1002698> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.809792+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.612165+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1002709> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.812507+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.615130+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1002748> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.805524+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.607163+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1002839> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.803533+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.605293+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1003165> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.804524+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.606168+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1003222> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.801525+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.602166+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1003271> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.802525+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.603164+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1003289> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.802525+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.604164+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1003421> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.812507+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.615130+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1003439> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.799535+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.600174+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1003531> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.806533+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.609131+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1003761> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.808534+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.611166+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1003782> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.806533+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.609131+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1003898> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.804524+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.606168+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1003944> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.802525+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.604164+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1003948> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.802525+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.603164+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1003966> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.808534+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.611166+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1004136> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.807539+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.609131+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1004142> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.803533+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.604164+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1004152> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.806533+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.607163+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1004310> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.807539+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.610163+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000157> a ns1:DiscoverySite,
@@ -412,7 +412,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000157> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000157_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.341669 8.753502)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.753502 50.341669)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000255> a ns1:DiscoverySite,
         ns1:Location,
@@ -437,7 +437,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000255> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000255_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.439681 8.665183)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.665183 50.439681)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000293> a ns1:DiscoverySite,
         ns1:Location,
@@ -462,7 +462,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000293> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000293_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.45 6.65)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.65 51.45)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000346> a ns1:DiscoverySite,
         ns1:Location,
@@ -487,7 +487,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000346> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000346_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(48.8048 9.2145)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(9.2145 48.8048)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000372> a ns1:DiscoverySite,
         ns1:Location,
@@ -512,7 +512,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000372> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000372_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(48.150001 7.75)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.75 48.150001)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000376> a ns1:DiscoverySite,
         ns1:Location,
@@ -537,7 +537,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000376> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000376_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(49.014999 12.09556)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(12.09556 49.014999)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000457> a ns1:DiscoverySite,
         ns1:Location,
@@ -562,7 +562,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000457> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000457_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.65877 6.45297)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.45297 51.65877)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000460> a ns1:DiscoverySite,
         ns1:Location,
@@ -587,7 +587,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000460> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000460_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(48.133335 16.899999)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(16.899999 48.133335)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000489> a ns1:DiscoverySite,
         ns1:Location,
@@ -612,7 +612,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000489> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000489_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(47.799999 13.033329)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(13.033329 47.799999)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000671> a ns1:DiscoverySite,
         ns1:Location,
@@ -637,7 +637,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000671> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000671_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(47.93333 12.483329)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(12.483329 47.93333)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000737> a ns1:DiscoverySite,
         ns1:Location,
@@ -662,7 +662,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000737> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000737_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.271522 8.566659)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.566659 50.271522)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000754> a ns1:DiscoverySite,
         ns1:Location,
@@ -687,7 +687,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000754> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000754_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(49.833332 7.866666)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.866666 49.833332)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000803> a ns1:DiscoverySite,
         ns1:Location,
@@ -712,7 +712,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000803> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000803_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(48.73398 7.71095)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.71095 48.73398)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000815> a ns1:DiscoverySite,
         ns1:Location,
@@ -737,7 +737,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000815> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000815_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(48.50648 10.45778)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.45778 48.50648)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000828> a ns1:DiscoverySite,
         ns1:Location,
@@ -762,7 +762,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000828> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000828_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(48.166671 14.033329)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(14.033329 48.166671)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000837> a ns1:DiscoverySite,
         ns1:Location,
@@ -787,7 +787,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000837> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000837_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(48.366664 7.616666)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.616666 48.366664)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000838> a ns1:DiscoverySite,
         ns1:Location,
@@ -812,7 +812,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000838> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000838_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.393087 8.883176)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.883176 50.393087)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000913> a ns1:DiscoverySite,
         ns1:Location,
@@ -837,7 +837,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000913> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000913_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.083332 8.449999)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.449999 50.083332)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000928> a ns1:DiscoverySite,
         ns1:Location,
@@ -862,7 +862,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000928> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000928_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(49.976943 9.064167)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(9.064167 49.976943)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000983> a ns1:DiscoverySite,
         ns1:Location,
@@ -887,7 +887,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1000983> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000983_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.487393 8.784294)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.784294 50.487393)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001028> a ns1:DiscoverySite,
         ns1:Location,
@@ -912,7 +912,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001028> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001028_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.333332 6.683333)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.683333 51.333332)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001030> a ns1:DiscoverySite,
         ns1:Location,
@@ -937,7 +937,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001030> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001030_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(48.28768 8.81241)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.81241 48.28768)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001033> a ns1:DiscoverySite,
         ns1:Location,
@@ -962,7 +962,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001033> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001033_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.93835 6.95427)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.95427 50.93835)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001054> a ns1:DiscoverySite,
         ns1:Location,
@@ -987,7 +987,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001054> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001054_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.25 8.75)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.75 50.25)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001087> a ns1:DiscoverySite,
         ns1:Location,
@@ -1012,7 +1012,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001087> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001087_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(47.916671 8.483333)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.483333 47.916671)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001186> a ns1:DiscoverySite,
         ns1:Location,
@@ -1037,7 +1037,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001186> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001186_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(47.74818 8.48213)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.48213 47.74818)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001207> a ns1:DiscoverySite,
         ns1:Location,
@@ -1062,7 +1062,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001207> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001207_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(48.27099 9.82587)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(9.82587 48.27099)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001308> a ns1:DiscoverySite,
         ns1:Location,
@@ -1087,7 +1087,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001308> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001308_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.43333 7.4)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.4 50.43333)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001327> a ns1:DiscoverySite,
         ns1:Location,
@@ -1112,7 +1112,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001327> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001327_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(48.45 10.26667)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.26667 48.45)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001351> a ns1:DiscoverySite,
         ns1:Location,
@@ -1137,7 +1137,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001351> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001351_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.060064 4.349213)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(4.349213 52.060064)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001392> a ns1:DiscoverySite,
         ns1:Location,
@@ -1162,7 +1162,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001392> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001392_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(49.030803 10.9624)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.9624 49.030803)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001423> a ns1:DiscoverySite,
         ns1:Location,
@@ -1187,7 +1187,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001423> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001423_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.2167 8.9833)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.9833 50.2167)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001510> a ns1:DiscoverySite,
         ns1:Location,
@@ -1212,10 +1212,10 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001510> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001510_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(49.966667 7.883333)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.883333 49.966667)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001530_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(48.816669 12.56667)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(12.56667 48.816669)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001531> a ns1:DiscoverySite,
         ns1:Location,
@@ -1240,7 +1240,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001531> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001531_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(47.816665 6.383333)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.383333 47.816665)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001539> a ns1:DiscoverySite,
         ns1:Location,
@@ -1265,7 +1265,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001539> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001539_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(48.566669 10.399999)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.399999 48.566669)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001619> a ns1:DiscoverySite,
         ns1:Location,
@@ -1290,7 +1290,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001619> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001619_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.333332 8.866666)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.866666 50.333332)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001653> a ns1:DiscoverySite,
         ns1:Location,
@@ -1315,7 +1315,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001653> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001653_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.060794 5.168262)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(5.168262 52.060794)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001786> a ns1:DiscoverySite,
         ns1:Location,
@@ -1340,7 +1340,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001786> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001786_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.083328 4.916666)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(4.916666 52.083328)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001870> a ns1:DiscoverySite,
         ns1:Location,
@@ -1365,7 +1365,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001870> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001870_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(49.32083 8.43111)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.43111 49.32083)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001873> a ns1:DiscoverySite,
         ns1:Location,
@@ -1390,7 +1390,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001873> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001873_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(47.72674 10.31389)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.31389 47.72674)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001913> a ns1:DiscoverySite,
         ns1:Location,
@@ -1415,7 +1415,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001913> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001913_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(48.216667 9.649999)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(9.649999 48.216667)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001943> a ns1:DiscoverySite,
         ns1:Location,
@@ -1440,7 +1440,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1001943> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1001943_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.083328 8.25)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.25 50.083328)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002021> a ns1:DiscoverySite,
         ns1:Location,
@@ -1465,7 +1465,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002021> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002021_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.099998 4.733333)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(4.733333 52.099998)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002066> a ns1:DiscoverySite,
         ns1:Location,
@@ -1490,7 +1490,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002066> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002066_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(49.923889 8.493611)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.493611 49.923889)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002130> a ns1:DiscoverySite,
         ns1:Location,
@@ -1515,7 +1515,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002130> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002130_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(48.7598 8.239792)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.239792 48.7598)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002190> a ns1:DiscoverySite,
         ns1:Location,
@@ -1540,7 +1540,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002190> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002190_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.18333 4.433332)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(4.433332 52.18333)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002275> a ns1:DiscoverySite,
         ns1:Location,
@@ -1565,7 +1565,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002275> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002275_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(49.44514 8.41944)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.41944 49.44514)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002381> a ns1:DiscoverySite,
         ns1:Location,
@@ -1590,7 +1590,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002381> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002381_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(48.659999 10.84333)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.84333 48.659999)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002500> a ns1:DiscoverySite,
         ns1:Location,
@@ -1615,7 +1615,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002500> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002500_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(49.416671 8.699999)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.699999 49.416671)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002542> a ns1:DiscoverySite,
         ns1:Location,
@@ -1640,7 +1640,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002542> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002542_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(48.583328 7.75)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.75 48.583328)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002698> a ns1:DiscoverySite,
         ns1:Location,
@@ -1665,7 +1665,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002698> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002698_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.19807 6.68504)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.68504 51.19807)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002709> a ns1:DiscoverySite,
         ns1:Location,
@@ -1690,7 +1690,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002709> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002709_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.35357 7.57883)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.57883 50.35357)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002748> a ns1:DiscoverySite,
         ns1:Location,
@@ -1715,7 +1715,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002748> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002748_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(48.333328 10.0)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.0 48.333328)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002839> a ns1:DiscoverySite,
         ns1:Location,
@@ -1740,7 +1740,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1002839> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1002839_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.721389 6.304722)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(6.304722 51.721389)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003165> a ns1:DiscoverySite,
         ns1:Location,
@@ -1765,7 +1765,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003165> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003165_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(48.37154 10.89851)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.89851 48.37154)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003222> a ns1:DiscoverySite,
         ns1:Location,
@@ -1790,7 +1790,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003222> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003222_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.133338 8.93)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.93 50.133338)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003271> a ns1:DiscoverySite,
         ns1:Location,
@@ -1815,7 +1815,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003271> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003271_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.116667 7.533333)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.533333 50.116667)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003289> a ns1:DiscoverySite,
         ns1:Location,
@@ -1840,7 +1840,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003289> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003289_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.159333 8.646584)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.646584 50.159333)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003421> a ns1:DiscoverySite,
         ns1:Location,
@@ -1864,7 +1864,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003421> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003421_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.46667 4.633333)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(4.633333 52.46667)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003439> a ns1:DiscoverySite,
         ns1:Location,
@@ -1889,7 +1889,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003439> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003439_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(48.20849 16.37208)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(16.37208 48.20849)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003531> a ns1:DiscoverySite,
         ns1:Location,
@@ -1914,7 +1914,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003531> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003531_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.833328 5.866666)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(5.866666 51.833328)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003761> a ns1:DiscoverySite,
         ns1:Location,
@@ -1939,7 +1939,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003761> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003761_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.0 8.2791)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.2791 50.0)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003782> a ns1:DiscoverySite,
         ns1:Location,
@@ -1964,7 +1964,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003782> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003782_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(47.50311 9.7471)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(9.7471 47.50311)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003898> a ns1:DiscoverySite,
         ns1:Location,
@@ -1989,7 +1989,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003898> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003898_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(48.71667 11.449999)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(11.449999 48.71667)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003944> a ns1:DiscoverySite,
         ns1:Location,
@@ -2014,7 +2014,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003944> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003944_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(51.799999 5.333333)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(5.333333 51.799999)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003948> a ns1:DiscoverySite,
         ns1:Location,
@@ -2039,7 +2039,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003948> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003948_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(48.16783 8.62719)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.62719 48.16783)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003966> a ns1:DiscoverySite,
         ns1:Location,
@@ -2064,7 +2064,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1003966> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1003966_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(52.083328 5.133333)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(5.133333 52.083328)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1004136> a ns1:DiscoverySite,
         ns1:Location,
@@ -2089,7 +2089,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1004136> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1004136_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(50.733329 7.099999)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(7.099999 50.733329)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1004142> a ns1:DiscoverySite,
         ns1:Location,
@@ -2114,7 +2114,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1004142> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1004142_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(47.916671 10.916669)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(10.916669 47.916671)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1004152> a ns1:DiscoverySite,
         ns1:Location,
@@ -2139,7 +2139,7 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1004152> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1004152_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(49.11806 8.27806)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.27806 49.11806)"^^geo:wktLiteral .
 
 <http://data.archaeology.link/data/samian/loc_ds_1004310> a ns1:DiscoverySite,
         ns1:Location,
@@ -2164,5 +2164,5 @@
     prov:wasGeneratedBy <http://data.archaeology.link/data/samian/activity_loc_ds_1004310> .
 
 <http://data.archaeology.link/data/samian/loc_ds_1004310_geom> a <http://www.opengis.net/ont/sf#Point> ;
-    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(49.63278 8.35916)"^^geo:wktLiteral .
+    geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(8.35916 49.63278)"^^geo:wktLiteral .
 

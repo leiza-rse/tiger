@@ -2,7 +2,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://data.archaeology.link/data/samian/activity_loc_ds_1001539> a prov:Activity ;
-    prov:endedAtTime "2023-07-11T16:32:09.800537+00:00"^^xsd:dateTime ;
-    prov:startedAtTime "2023-07-11T16:32:09.783501+00:00"^^xsd:dateTime ;
+    prov:endedAtTime "2023-07-11T18:08:25.601169+00:00"^^xsd:dateTime ;
+    prov:startedAtTime "2023-07-11T18:08:25.586249+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .
 
