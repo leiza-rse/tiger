@@ -9,7 +9,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002001> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Brecon"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.9352 ;

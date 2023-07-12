@@ -1,8 +1,8 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<http://data.archaeology.link/data/samian/ToGeR_Event_collection> a geo:FeatureCollection ;
-    rdfs:label "ToGeR_Event Instances Collection" ;
+<http://data.archaeology.link/data/samian/TiGeR_Event_collection> a geo:FeatureCollection ;
+    rdfs:label "TiGeR_Event Instances Collection" ;
     rdfs:member <http://data.archaeology.link/data/samian/loc_ds_1000080>,
         <http://data.archaeology.link/data/samian/loc_ds_1000088>,
         <http://data.archaeology.link/data/samian/loc_ds_1000136>,

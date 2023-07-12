@@ -2228,1094 +2228,1094 @@ var tree={
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001570_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Camulodunum (samian:loc_ds_1001570)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003148_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Maidstone (samian:loc_ds_1003148)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003533_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Fingringhoe Wick (samian:loc_ds_1003533)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001198_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Wimborne (samian:loc_ds_1001198)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003475_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Mancetter (samian:loc_ds_1003475)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002701_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Braughing (samian:loc_ds_1002701)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001765_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Usk (samian:loc_ds_1001765)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002137_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Great Chesterford (samian:loc_ds_1002137)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001387_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Baldock (samian:loc_ds_1001387)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000900_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Worcester (samian:loc_ds_1000900)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001979_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Silchester (samian:loc_ds_1001979)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003975_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Old Winteringham (samian:loc_ds_1003975)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000455_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Baginton (samian:loc_ds_1000455)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002961_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Wall (samian:loc_ds_1002961)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001839_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Exeter (samian:loc_ds_1001839)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003671_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Canterbury (samian:loc_ds_1003671)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003799_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Northchurch (samian:loc_ds_1003799)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000080_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Colchester (samian:loc_ds_1000080)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002343_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Fishbourne (samian:loc_ds_1002343)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001331_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Arlesey (samian:loc_ds_1001331)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003862_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Southwark (samian:loc_ds_1003862)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001888_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Chelmsford (samian:loc_ds_1001888)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000969_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Chichester (samian:loc_ds_1000969)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003699_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Sandy (samian:loc_ds_1003699)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003896_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Alcester (samian:loc_ds_1003896)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001764_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Cirencester (samian:loc_ds_1001764)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1004100_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Southampton (samian:loc_ds_1004100)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001046_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Richborough (samian:loc_ds_1001046)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1004140_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Bath (samian:loc_ds_1004140)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002885_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Caerh\u00fbn (samian:loc_ds_1002885)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000136_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "London (samian:loc_ds_1000136)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000375_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Lincoln (samian:loc_ds_1000375)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000651_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Sea Mills (samian:loc_ds_1000651)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002444_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Pakenham (samian:loc_ds_1002444)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001778_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Springhead (samian:loc_ds_1001778)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003870_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Verulamium (samian:loc_ds_1003870)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001359_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Gloucester (samian:loc_ds_1001359)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002875_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Wanborough, Wiltshire (samian:loc_ds_1002875)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000353_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "West Tilbury (samian:loc_ds_1000353)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001251_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Gorhambury (samian:loc_ds_1001251)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000327_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Scole (samian:loc_ds_1000327)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001829_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Winchester (samian:loc_ds_1001829)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003810_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Alchester (samian:loc_ds_1003810)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001323_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Cardiff (samian:loc_ds_1001323)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003108_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Charterhouse-on-Mendip (samian:loc_ds_1003108)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000853_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Wroxeter (samian:loc_ds_1000853)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001821_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Dorchester, Dorset (samian:loc_ds_1001821)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002513_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Castleford (samian:loc_ds_1002513)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000956_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Staines (samian:loc_ds_1000956)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003098_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Towcester (samian:loc_ds_1003098)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003933_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Camelon (samian:loc_ds_1003933)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002706_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Leicester (samian:loc_ds_1002706)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003904_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Malton (samian:loc_ds_1003904)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003687_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Heybridge (samian:loc_ds_1003687)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003420_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Caernarfon (samian:loc_ds_1003420)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002071_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Ewell (samian:loc_ds_1002071)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002383_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Chester (samian:loc_ds_1002383)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001182_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Loughor (samian:loc_ds_1001182)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002318_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Carmarthen (samian:loc_ds_1002318)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000897_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Newstead (samian:loc_ds_1000897)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001921_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Kettering (samian:loc_ds_1001921)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000627_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "York (samian:loc_ds_1000627)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002245_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Carlisle (samian:loc_ds_1002245)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002527_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Margidunum (samian:loc_ds_1002527)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002303_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Caistor-by-Norwich (samian:loc_ds_1002303)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001462_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Rochester (samian:loc_ds_1001462)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000595_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Caersws (samian:loc_ds_1000595)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000088_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Caerleon (samian:loc_ds_1000088)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003524_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Inchtuthil (samian:loc_ds_1003524)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002034_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Binchester (samian:loc_ds_1002034)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002001_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Brecon (samian:loc_ds_1002001)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000713_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Ilkley (samian:loc_ds_1000713)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002306_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Ribchester (samian:loc_ds_1002306)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003419_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Corbridge (samian:loc_ds_1003419)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002803_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Doncaster (samian:loc_ds_1002803)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000209_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Rocester (samian:loc_ds_1000209)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003470_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Chesterholm-Vindolanda (samian:loc_ds_1003470)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1004203_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Caerwent (samian:loc_ds_1004203)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000407_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Holt (samian:loc_ds_1000407)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1004111_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Catterick (samian:loc_ds_1004111)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1004084_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Wilderspool (samian:loc_ds_1004084)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000924_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Little Chester (samian:loc_ds_1000924)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002604_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Manchester (samian:loc_ds_1002604)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001530_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Straubing (samian:loc_ds_1001530)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000255_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Butzbach (samian:loc_ds_1000255)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000838_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Echzell (samian:loc_ds_1000838)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000737_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Saalburg (samian:loc_ds_1000737)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003439_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Wien (samian:loc_ds_1003439)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000346_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Bad Cannstatt (samian:loc_ds_1000346)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000928_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Stockstadt (samian:loc_ds_1000928)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001539_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Faimingen (samian:loc_ds_1001539)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001619_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Oberflorstadt (samian:loc_ds_1001619)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000157_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Friedberg (samian:loc_ds_1000157)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001423_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Mark\u00f6bel (samian:loc_ds_1001423)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002130_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Baden-Baden (samian:loc_ds_1002130)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003222_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Hanau-Salisberg (samian:loc_ds_1003222)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001054_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Okarben (samian:loc_ds_1001054)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002500_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Heidelberg (samian:loc_ds_1002500)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000983_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Arnsburg (samian:loc_ds_1000983)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001351_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Voorburg (samian:loc_ds_1001351)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000828_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Wels (samian:loc_ds_1000828)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003271_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Bickenbach (samian:loc_ds_1003271)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001392_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Weissenburg (samian:loc_ds_1001392)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003948_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Rottweil (samian:loc_ds_1003948)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003289_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Heddernheim (samian:loc_ds_1003289)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003944_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Rossum (samian:loc_ds_1003944)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001327_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "G\u00fcnzburg (samian:loc_ds_1001327)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000376_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Regensburg (samian:loc_ds_1000376)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1004142_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Epfach (samian:loc_ds_1004142)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001186_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Schleitheim (samian:loc_ds_1001186)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002839_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Monterberg (samian:loc_ds_1002839)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001028_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Gellep (samian:loc_ds_1001028)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001030_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Geislingen (samian:loc_ds_1001030)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000460_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Carnuntum (samian:loc_ds_1000460)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001786_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Woerden (samian:loc_ds_1001786)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003165_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Augsburg (samian:loc_ds_1003165)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000489_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Salzburg (samian:loc_ds_1000489)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003898_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Oberstimm (samian:loc_ds_1003898)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002381_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Burgh\u00f6fe (samian:loc_ds_1002381)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000372_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Riegel (samian:loc_ds_1000372)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002066_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Gro\u00df-Gerau (samian:loc_ds_1002066)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001943_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Wiesbaden (samian:loc_ds_1001943)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000671_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Seebruck (samian:loc_ds_1000671)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002748_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Unterkirchberg (samian:loc_ds_1002748)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1004152_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Rheinzabern (samian:loc_ds_1004152)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001870_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Speyer (samian:loc_ds_1001870)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001913_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Emerkingen (samian:loc_ds_1001913)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003531_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Nijmegen (samian:loc_ds_1003531)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001087_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "H\u00fcfingen (samian:loc_ds_1001087)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003782_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Bregenz (samian:loc_ds_1003782)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001033_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "K\u00f6ln (samian:loc_ds_1001033)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1004136_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Bonn (samian:loc_ds_1004136)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001531_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Luxeuil-les-Bains (samian:loc_ds_1001531)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001207_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Ri\u00dftissen (samian:loc_ds_1001207)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002542_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Strasbourg (samian:loc_ds_1002542)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1004310_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Worms (samian:loc_ds_1004310)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002021_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Zwammerdam (samian:loc_ds_1002021)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002190_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Valkenburg (samian:loc_ds_1002190)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000457_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Xanten (samian:loc_ds_1000457)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001653_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Vechten (samian:loc_ds_1001653)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003761_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Mainz (samian:loc_ds_1003761)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003966_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Utrecht (samian:loc_ds_1003966)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000913_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Hofheim (samian:loc_ds_1000913)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001308_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Andernach (samian:loc_ds_1001308)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002698_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Neuss (samian:loc_ds_1002698)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000293_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Moers-Asberg (samian:loc_ds_1000293)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001873_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Kempten (samian:loc_ds_1001873)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002275_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Rheing\u00f6nheim (samian:loc_ds_1002275)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000815_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Aislingen (samian:loc_ds_1000815)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000837_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Ehl (samian:loc_ds_1000837)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000803_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Brumath (samian:loc_ds_1000803)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001510_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Bingen (samian:loc_ds_1001510)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1002709_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Koblenz (samian:loc_ds_1002709)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000754_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Kreuznach (samian:loc_ds_1000754)",
         "data": {}
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1003421_suniv2_",
-        "parent": "http://archaeology.link/ontology#ToGeR_Event",
+        "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
         "text": "Velsen (samian:loc_ds_1003421)",
         "data": {}
       },
       {
-        "id": "http://archaeology.link/ontology#ToGeR_Event",
+        "id": "http://archaeology.link/ontology#TiGeR_Event",
         "parent": "#",
         "type": "geoclass",
-        "text": "ToGeR_Event (lado:ToGeR_Event) [155]",
+        "text": "TiGeR_Event (lado:TiGeR_Event) [155]",
         "data": {
           "to": {
             "http://archaeology.link/ontology#hasType": {
@@ -3365,7 +3365,7 @@ var tree={
               "instancecount": 1,
               "http://archaeology.link/ontology#Location": 1,
               "http://archaeology.link/ontology#DiscoverySite": 1,
-              "http://archaeology.link/ontology#ToGeR_Event": 1
+              "http://archaeology.link/ontology#TiGeR_Event": 1
             },
             "http://www.w3.org/ns/prov#wasAttributedTo": {
               "instancecount": 1
@@ -3387,7 +3387,7 @@ var tree={
               "instancecount": 0,
               "http://archaeology.link/ontology#Location": 1,
               "http://archaeology.link/ontology#DiscoverySite": 1,
-              "http://archaeology.link/ontology#ToGeR_Event": 1
+              "http://archaeology.link/ontology#TiGeR_Event": 1
             }
           }
         },
@@ -4497,7 +4497,7 @@ var tree={
               "instancecount": 0,
               "http://archaeology.link/ontology#Location": 1,
               "http://archaeology.link/ontology#DiscoverySite": 1,
-              "http://archaeology.link/ontology#ToGeR_Event": 1
+              "http://archaeology.link/ontology#TiGeR_Event": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
               "instancecount": 0,
@@ -5621,7 +5621,7 @@ var tree={
               "instancecount": 0,
               "http://archaeology.link/ontology#Location": 1,
               "http://archaeology.link/ontology#DiscoverySite": 1,
-              "http://archaeology.link/ontology#ToGeR_Event": 1
+              "http://archaeology.link/ontology#TiGeR_Event": 1
             }
           }
         },
@@ -5642,10 +5642,10 @@ var tree={
         "data": {}
       },
       {
-        "id": "http://data.archaeology.link/data/samian/ToGeR_Event_collection",
+        "id": "http://data.archaeology.link/data/samian/TiGeR_Event_collection",
         "parent": "http://www.opengis.net/ont/geosparql#FeatureCollection",
         "type": "featurecollection",
-        "text": "ToGeR_Event Instances Collection (samian:ToGeR_Event_collection)",
+        "text": "TiGeR_Event Instances Collection (samian:TiGeR_Event_collection)",
         "data": {}
       },
       {
@@ -5665,7 +5665,7 @@ var tree={
               "instancecount": 155,
               "http://archaeology.link/ontology#Location": 155,
               "http://archaeology.link/ontology#DiscoverySite": 155,
-              "http://archaeology.link/ontology#ToGeR_Event": 155
+              "http://archaeology.link/ontology#TiGeR_Event": 155
             }
           },
           "from": {}

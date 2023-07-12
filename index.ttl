@@ -640,8 +640,8 @@
         <http://data.archaeology.link/data/samian/loc_ds_1004203_geom>,
         <http://data.archaeology.link/data/samian/loc_ds_1004310_geom> .
 
-<http://data.archaeology.link/data/samian/ToGeR_Event_collection> a geo:FeatureCollection ;
-    rdfs:label "ToGeR_Event Instances Collection" ;
+<http://data.archaeology.link/data/samian/TiGeR_Event_collection> a geo:FeatureCollection ;
+    rdfs:label "TiGeR_Event Instances Collection" ;
     rdfs:member <http://data.archaeology.link/data/samian/loc_ds_1000080>,
         <http://data.archaeology.link/data/samian/loc_ds_1000088>,
         <http://data.archaeology.link/data/samian/loc_ds_1000136>,
@@ -2040,7 +2040,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001530> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Straubing"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -1.8663 ;
@@ -2062,7 +2062,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001570> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Camulodunum"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -2.4689 ;
@@ -2084,7 +2084,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000080> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Colchester"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.286 ;
@@ -2106,7 +2106,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000088> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Caerleon"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.8084 ;
@@ -2128,7 +2128,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000136> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "London"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.0207 ;
@@ -2150,7 +2150,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000157> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Friedberg"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -1.0719 ;
@@ -2172,7 +2172,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000209> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Rocester"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 1.1325 ;
@@ -2194,7 +2194,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000255> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Butzbach"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -1.7833 ;
@@ -2216,7 +2216,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000293> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Moers-Asberg"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.4914 ;
@@ -2238,7 +2238,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000327> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Scole"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.1304 ;
@@ -2260,7 +2260,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000346> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Bad Cannstatt"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -1.4899 ;
@@ -2282,7 +2282,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000353> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "West Tilbury"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.0887 ;
@@ -2304,7 +2304,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000372> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Riegel"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.407 ;
@@ -2326,7 +2326,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000375> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Lincoln"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.0199 ;
@@ -2348,7 +2348,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000376> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Regensburg"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.6787 ;
@@ -2370,7 +2370,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000407> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Holt"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 1.3353 ;
@@ -2392,7 +2392,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000455> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Baginton"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.3792 ;
@@ -2414,7 +2414,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000457> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Xanten"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.1469 ;
@@ -2436,7 +2436,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000460> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Carnuntum"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.5201 ;
@@ -2458,7 +2458,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000489> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Salzburg"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.4923 ;
@@ -2480,7 +2480,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000595> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Caersws"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.8019 ;
@@ -2502,7 +2502,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000627> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "York"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.6623 ;
@@ -2524,7 +2524,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000651> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Sea Mills"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.0088 ;
@@ -2546,7 +2546,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000671> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Seebruck"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.3505 ;
@@ -2568,7 +2568,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000713> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Ilkley"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.9437 ;
@@ -2590,7 +2590,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000737> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Saalburg"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -1.5541 ;
@@ -2612,7 +2612,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000754> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Kreuznach"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 1.403 ;
@@ -2634,7 +2634,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000803> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Brumath"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.8221 ;
@@ -2656,7 +2656,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000815> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Aislingen"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.6799 ;
@@ -2678,7 +2678,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000828> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Wels"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.8849 ;
@@ -2700,7 +2700,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000837> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Ehl"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.8028 ;
@@ -2722,7 +2722,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000838> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Echzell"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -1.6772 ;
@@ -2744,7 +2744,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000853> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Wroxeter"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.2355 ;
@@ -2766,7 +2766,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000897> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Newstead"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.6513 ;
@@ -2788,7 +2788,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000900> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Worcester"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.4403 ;
@@ -2810,7 +2810,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000913> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Hofheim"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.2746 ;
@@ -2832,7 +2832,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000924> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Little Chester"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 1.6601 ;
@@ -2854,7 +2854,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000928> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Stockstadt"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -1.4123 ;
@@ -2876,7 +2876,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000956> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Staines"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.3249 ;
@@ -2898,7 +2898,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000969> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Chichester"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.132 ;
@@ -2920,7 +2920,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1000983> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Arnsburg"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.9175 ;
@@ -2942,7 +2942,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001028> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Gellep"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.5615 ;
@@ -2964,7 +2964,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001030> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Geislingen"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.552 ;
@@ -2986,7 +2986,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001033> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Köln"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.0987 ;
@@ -3008,7 +3008,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001046> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Richborough"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.058 ;
@@ -3030,7 +3030,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001054> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Okarben"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.9313 ;
@@ -3052,7 +3052,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001087> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Hüfingen"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.1449 ;
@@ -3074,7 +3074,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001182> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Loughor"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.5947 ;
@@ -3096,7 +3096,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001186> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Schleitheim"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.6086 ;
@@ -3118,7 +3118,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001198> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Wimborne"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -1.0293 ;
@@ -3140,7 +3140,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001207> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Rißtissen"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.0034 ;
@@ -3162,7 +3162,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001251> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Gorhambury"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.0891 ;
@@ -3184,7 +3184,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001308> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Andernach"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.3571 ;
@@ -3206,7 +3206,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001323> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Cardiff"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.1535 ;
@@ -3228,7 +3228,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001327> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Günzburg"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.7689 ;
@@ -3250,7 +3250,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001331> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Arlesey"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.2459 ;
@@ -3272,7 +3272,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001351> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Voorburg"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.9149 ;
@@ -3294,7 +3294,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001359> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Gloucester"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.0716 ;
@@ -3316,7 +3316,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001387> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Baldock"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.4988 ;
@@ -3338,7 +3338,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001392> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Weissenburg"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.8751 ;
@@ -3360,7 +3360,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001423> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Marköbel"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -1.0632 ;
@@ -3382,7 +3382,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001462> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Rochester"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.6876 ;
@@ -3404,7 +3404,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001510> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Bingen"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.8424 ;
@@ -3426,7 +3426,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001531> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Luxeuil-les-Bains"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.0049 ;
@@ -3448,7 +3448,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001539> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Faimingen"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -1.4026 ;
@@ -3470,7 +3470,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001619> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Oberflorstadt"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -1.217 ;
@@ -3492,7 +3492,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001653> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Vechten"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.1614 ;
@@ -3514,7 +3514,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001764> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Cirencester"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.088 ;
@@ -3536,7 +3536,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001765> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Usk"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.5209 ;
@@ -3558,7 +3558,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001778> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Springhead"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.0454 ;
@@ -3580,7 +3580,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001786> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Woerden"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.5126 ;
@@ -3602,7 +3602,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001821> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Dorchester, Dorset"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.2769 ;
@@ -3624,7 +3624,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001829> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Winchester"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.138 ;
@@ -3646,7 +3646,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001839> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Exeter"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.3446 ;
@@ -3668,7 +3668,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001870> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Speyer"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.2399 ;
@@ -3690,7 +3690,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001873> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Kempten"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.5755 ;
@@ -3712,7 +3712,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001888> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Chelmsford"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.1637 ;
@@ -3734,7 +3734,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001913> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Emerkingen"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.167 ;
@@ -3756,7 +3756,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001921> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Kettering"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.6609 ;
@@ -3778,7 +3778,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001943> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Wiesbaden"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.3515 ;
@@ -3800,7 +3800,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1001979> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Silchester"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.4292 ;
@@ -3822,7 +3822,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002001> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Brecon"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.9352 ;
@@ -3844,7 +3844,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002021> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Zwammerdam"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.0657 ;
@@ -3866,7 +3866,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002034> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Binchester"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.905 ;
@@ -3888,7 +3888,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002066> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Groß-Gerau"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.4054 ;
@@ -3910,7 +3910,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002071> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Ewell"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.5415 ;
@@ -3932,7 +3932,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002130> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Baden-Baden"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -1.0373 ;
@@ -3954,7 +3954,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002137> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Great Chesterford"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.517 ;
@@ -3976,7 +3976,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002190> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Valkenburg"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.1327 ;
@@ -3998,7 +3998,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002245> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Carlisle"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.6693 ;
@@ -4020,7 +4020,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002275> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Rheingönheim"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.6776 ;
@@ -4042,7 +4042,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002303> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Caistor-by-Norwich"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.6803 ;
@@ -4064,7 +4064,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002306> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Ribchester"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.9512 ;
@@ -4086,7 +4086,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002318> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Carmarthen"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.6298 ;
@@ -4108,7 +4108,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002343> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Fishbourne"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.2636 ;
@@ -4130,7 +4130,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002381> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Burghöfe"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.4374 ;
@@ -4152,7 +4152,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002383> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Chester"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.5892 ;
@@ -4174,7 +4174,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002444> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Pakenham"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.0318 ;
@@ -4196,7 +4196,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002500> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Heidelberg"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.9294 ;
@@ -4218,7 +4218,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002513> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Castleford"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.2827 ;
@@ -4240,7 +4240,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002527> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Margidunum"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.6767 ;
@@ -4262,7 +4262,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002542> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Strasbourg"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.0154 ;
@@ -4284,7 +4284,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002604> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Manchester"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 1.7563 ;
@@ -4305,7 +4305,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002698> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Neuss"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.4529 ;
@@ -4327,7 +4327,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002701> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Braughing"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.6397 ;
@@ -4349,7 +4349,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002706> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Leicester"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.4183 ;
@@ -4371,7 +4371,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002709> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Koblenz"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 1.3067 ;
@@ -4393,7 +4393,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002748> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Unterkirchberg"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.3026 ;
@@ -4415,7 +4415,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002803> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Doncaster"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 1.1047 ;
@@ -4437,7 +4437,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002839> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Monterberg"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.595 ;
@@ -4459,7 +4459,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002875> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Wanborough, Wiltshire"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.0846 ;
@@ -4481,7 +4481,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002885> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Caerhûn"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.0263 ;
@@ -4503,7 +4503,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1002961> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Wall"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.3721 ;
@@ -4525,7 +4525,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003098> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Towcester"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.3614 ;
@@ -4547,7 +4547,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003108> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Charterhouse-on-Mendip"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.1908 ;
@@ -4569,7 +4569,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003148> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Maidstone"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -1.2852 ;
@@ -4591,7 +4591,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003165> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Augsburg"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.5043 ;
@@ -4613,7 +4613,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003222> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Hanau-Salisberg"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -1.0273 ;
@@ -4635,7 +4635,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003271> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Bickenbach"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.8766 ;
@@ -4657,7 +4657,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003289> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Heddernheim"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.8495 ;
@@ -4679,7 +4679,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003419> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Corbridge"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.9924 ;
@@ -4701,7 +4701,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003420> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Caernarfon"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.5218 ;
@@ -4723,7 +4723,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003421> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Velsen"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 1.9368 ;
@@ -4744,7 +4744,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003439> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Wien"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -1.5073 ;
@@ -4766,7 +4766,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003470> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Chesterholm-Vindolanda"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 1.1739 ;
@@ -4788,7 +4788,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003475> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Mancetter"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.9793 ;
@@ -4810,7 +4810,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003524> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Inchtuthil"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.8134 ;
@@ -4832,7 +4832,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003531> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Nijmegen"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.1501 ;
@@ -4854,7 +4854,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003533> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Fingringhoe Wick"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -1.1808 ;
@@ -4876,7 +4876,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003671> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Canterbury"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.3415 ;
@@ -4898,7 +4898,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003687> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Heybridge"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.4735 ;
@@ -4920,7 +4920,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003699> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Sandy"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.127 ;
@@ -4942,7 +4942,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003761> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Mainz"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.2209 ;
@@ -4964,7 +4964,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003782> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Bregenz"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.1351 ;
@@ -4986,7 +4986,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003799> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Northchurch"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.3399 ;
@@ -5008,7 +5008,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003810> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Alchester"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.1396 ;
@@ -5030,7 +5030,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003862> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Southwark"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.1645 ;
@@ -5052,7 +5052,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003870> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Verulamium"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.0583 ;
@@ -5074,7 +5074,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003896> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Alcester"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.1076 ;
@@ -5096,7 +5096,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003898> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Oberstimm"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.4563 ;
@@ -5118,7 +5118,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003904> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Malton"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.4572 ;
@@ -5140,7 +5140,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003933> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Camelon"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.4062 ;
@@ -5162,7 +5162,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003944> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Rossum"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.8108 ;
@@ -5184,7 +5184,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003948> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Rottweil"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.852 ;
@@ -5206,7 +5206,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003966> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Utrecht"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.2538 ;
@@ -5228,7 +5228,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1003975> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Old Winteringham"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.4212 ;
@@ -5250,7 +5250,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1004084> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Wilderspool"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 1.5491 ;
@@ -5272,7 +5272,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1004100> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Southampton"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.0639 ;
@@ -5294,7 +5294,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1004111> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Catterick"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 1.3918 ;
@@ -5316,7 +5316,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1004136> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Bonn"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.0746 ;
@@ -5338,7 +5338,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1004140> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Bath"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.03 ;
@@ -5360,7 +5360,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1004142> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Epfach"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.6088 ;
@@ -5382,7 +5382,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1004152> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Rheinzabern"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.267 ;
@@ -5404,7 +5404,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1004203> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Caerwent"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 1.2427 ;
@@ -5426,7 +5426,7 @@
 
 <http://data.archaeology.link/data/samian/loc_ds_1004310> a ns1:DiscoverySite,
         ns1:Location,
-        ns1:ToGeR_Event ;
+        ns1:TiGeR_Event ;
     rdfs:label "Worms"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax 0.0446 ;

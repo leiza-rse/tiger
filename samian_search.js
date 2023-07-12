@@ -133,7 +133,7 @@ var search={
   "Stockstadt": "http://data.archaeology.link/data/samian/loc_ds_1000928",
   "Strasbourg": "http://data.archaeology.link/data/samian/loc_ds_1002542",
   "Straubing": "http://data.archaeology.link/data/samian/loc_ds_1001530",
-  "ToGeR_Event Instances Collection": "http://data.archaeology.link/data/samian/ToGeR_Event_collection",
+  "TiGeR_Event Instances Collection": "http://data.archaeology.link/data/samian/TiGeR_Event_collection",
   "Towcester": "http://data.archaeology.link/data/samian/loc_ds_1003098",
   "Unterkirchberg": "http://data.archaeology.link/data/samian/loc_ds_1002748",
   "Usk": "http://data.archaeology.link/data/samian/loc_ds_1001765",
