@@ -828,9 +828,9 @@ samian:loc_ds_1000136 rdf:type lado:Location .
 samian:loc_ds_1000136 rdf:type lado:DiscoverySite .
 samian:loc_ds_1000136 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000136 lado:hasType lado:DiscoverySite .
-samian:loc_ds_1000136 rdfs:label 'London'@en.
+samian:loc_ds_1000136 rdfs:label 'Londinium'@en.
 samian:loc_ds_1000136 dc:identifier 1000136.
-samian:loc_ds_1000136 lado:tiger_eventname 'London'@en.
+samian:loc_ds_1000136 lado:tiger_eventname 'Londinium'@en.
 samian:loc_ds_1000136 lado:tiger_id 1000136.
 samian:loc_ds_1000136 geosparql:hasGeometry samian:loc_ds_1000136_geom .
 samian:loc_ds_1000136_geom rdf:type sf:Point .
