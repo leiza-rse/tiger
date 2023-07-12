@@ -16,7 +16,7 @@
 
 samian:loc_ds_1001570 rdf:type lado:Location .
 samian:loc_ds_1001570 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001570 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001570 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001570 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001570 rdfs:label 'Camulodunum'@en.
 samian:loc_ds_1001570 dc:identifier 1001570.
@@ -43,7 +43,7 @@ samian:activity_loc_ds_1001570 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003148 rdf:type lado:Location .
 samian:loc_ds_1003148 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003148 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003148 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003148 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003148 rdfs:label 'Maidstone'@en.
 samian:loc_ds_1003148 dc:identifier 1003148.
@@ -70,7 +70,7 @@ samian:activity_loc_ds_1003148 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003533 rdf:type lado:Location .
 samian:loc_ds_1003533 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003533 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003533 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003533 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003533 rdfs:label 'Fingringhoe Wick'@en.
 samian:loc_ds_1003533 dc:identifier 1003533.
@@ -97,7 +97,7 @@ samian:activity_loc_ds_1003533 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001198 rdf:type lado:Location .
 samian:loc_ds_1001198 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001198 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001198 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001198 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001198 rdfs:label 'Wimborne'@en.
 samian:loc_ds_1001198 dc:identifier 1001198.
@@ -124,7 +124,7 @@ samian:activity_loc_ds_1001198 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003475 rdf:type lado:Location .
 samian:loc_ds_1003475 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003475 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003475 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003475 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003475 rdfs:label 'Mancetter'@en.
 samian:loc_ds_1003475 dc:identifier 1003475.
@@ -151,7 +151,7 @@ samian:activity_loc_ds_1003475 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002701 rdf:type lado:Location .
 samian:loc_ds_1002701 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002701 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002701 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002701 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002701 rdfs:label 'Braughing'@en.
 samian:loc_ds_1002701 dc:identifier 1002701.
@@ -178,7 +178,7 @@ samian:activity_loc_ds_1002701 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001765 rdf:type lado:Location .
 samian:loc_ds_1001765 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001765 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001765 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001765 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001765 rdfs:label 'Usk'@en.
 samian:loc_ds_1001765 dc:identifier 1001765.
@@ -205,7 +205,7 @@ samian:activity_loc_ds_1001765 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002137 rdf:type lado:Location .
 samian:loc_ds_1002137 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002137 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002137 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002137 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002137 rdfs:label 'Great Chesterford'@en.
 samian:loc_ds_1002137 dc:identifier 1002137.
@@ -232,7 +232,7 @@ samian:activity_loc_ds_1002137 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001387 rdf:type lado:Location .
 samian:loc_ds_1001387 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001387 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001387 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001387 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001387 rdfs:label 'Baldock'@en.
 samian:loc_ds_1001387 dc:identifier 1001387.
@@ -259,7 +259,7 @@ samian:activity_loc_ds_1001387 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000900 rdf:type lado:Location .
 samian:loc_ds_1000900 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000900 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000900 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000900 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000900 rdfs:label 'Worcester'@en.
 samian:loc_ds_1000900 dc:identifier 1000900.
@@ -286,7 +286,7 @@ samian:activity_loc_ds_1000900 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001979 rdf:type lado:Location .
 samian:loc_ds_1001979 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001979 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001979 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001979 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001979 rdfs:label 'Silchester'@en.
 samian:loc_ds_1001979 dc:identifier 1001979.
@@ -313,7 +313,7 @@ samian:activity_loc_ds_1001979 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003975 rdf:type lado:Location .
 samian:loc_ds_1003975 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003975 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003975 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003975 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003975 rdfs:label 'Old Winteringham'@en.
 samian:loc_ds_1003975 dc:identifier 1003975.
@@ -340,7 +340,7 @@ samian:activity_loc_ds_1003975 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000455 rdf:type lado:Location .
 samian:loc_ds_1000455 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000455 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000455 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000455 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000455 rdfs:label 'Baginton'@en.
 samian:loc_ds_1000455 dc:identifier 1000455.
@@ -367,7 +367,7 @@ samian:activity_loc_ds_1000455 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002961 rdf:type lado:Location .
 samian:loc_ds_1002961 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002961 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002961 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002961 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002961 rdfs:label 'Wall'@en.
 samian:loc_ds_1002961 dc:identifier 1002961.
@@ -394,7 +394,7 @@ samian:activity_loc_ds_1002961 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001839 rdf:type lado:Location .
 samian:loc_ds_1001839 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001839 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001839 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001839 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001839 rdfs:label 'Exeter'@en.
 samian:loc_ds_1001839 dc:identifier 1001839.
@@ -421,7 +421,7 @@ samian:activity_loc_ds_1001839 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003671 rdf:type lado:Location .
 samian:loc_ds_1003671 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003671 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003671 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003671 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003671 rdfs:label 'Canterbury'@en.
 samian:loc_ds_1003671 dc:identifier 1003671.
@@ -448,7 +448,7 @@ samian:activity_loc_ds_1003671 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003799 rdf:type lado:Location .
 samian:loc_ds_1003799 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003799 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003799 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003799 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003799 rdfs:label 'Northchurch'@en.
 samian:loc_ds_1003799 dc:identifier 1003799.
@@ -475,7 +475,7 @@ samian:activity_loc_ds_1003799 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000080 rdf:type lado:Location .
 samian:loc_ds_1000080 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000080 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000080 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000080 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000080 rdfs:label 'Colchester'@en.
 samian:loc_ds_1000080 dc:identifier 1000080.
@@ -502,7 +502,7 @@ samian:activity_loc_ds_1000080 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002343 rdf:type lado:Location .
 samian:loc_ds_1002343 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002343 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002343 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002343 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002343 rdfs:label 'Fishbourne'@en.
 samian:loc_ds_1002343 dc:identifier 1002343.
@@ -529,7 +529,7 @@ samian:activity_loc_ds_1002343 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001331 rdf:type lado:Location .
 samian:loc_ds_1001331 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001331 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001331 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001331 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001331 rdfs:label 'Arlesey'@en.
 samian:loc_ds_1001331 dc:identifier 1001331.
@@ -556,7 +556,7 @@ samian:activity_loc_ds_1001331 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003862 rdf:type lado:Location .
 samian:loc_ds_1003862 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003862 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003862 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003862 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003862 rdfs:label 'Southwark'@en.
 samian:loc_ds_1003862 dc:identifier 1003862.
@@ -583,7 +583,7 @@ samian:activity_loc_ds_1003862 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001888 rdf:type lado:Location .
 samian:loc_ds_1001888 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001888 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001888 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001888 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001888 rdfs:label 'Chelmsford'@en.
 samian:loc_ds_1001888 dc:identifier 1001888.
@@ -610,7 +610,7 @@ samian:activity_loc_ds_1001888 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000969 rdf:type lado:Location .
 samian:loc_ds_1000969 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000969 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000969 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000969 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000969 rdfs:label 'Chichester'@en.
 samian:loc_ds_1000969 dc:identifier 1000969.
@@ -637,7 +637,7 @@ samian:activity_loc_ds_1000969 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003699 rdf:type lado:Location .
 samian:loc_ds_1003699 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003699 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003699 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003699 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003699 rdfs:label 'Sandy'@en.
 samian:loc_ds_1003699 dc:identifier 1003699.
@@ -664,7 +664,7 @@ samian:activity_loc_ds_1003699 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003896 rdf:type lado:Location .
 samian:loc_ds_1003896 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003896 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003896 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003896 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003896 rdfs:label 'Alcester'@en.
 samian:loc_ds_1003896 dc:identifier 1003896.
@@ -691,7 +691,7 @@ samian:activity_loc_ds_1003896 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001764 rdf:type lado:Location .
 samian:loc_ds_1001764 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001764 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001764 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001764 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001764 rdfs:label 'Cirencester'@en.
 samian:loc_ds_1001764 dc:identifier 1001764.
@@ -718,7 +718,7 @@ samian:activity_loc_ds_1001764 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1004100 rdf:type lado:Location .
 samian:loc_ds_1004100 rdf:type lado:DiscoverySite .
-samian:loc_ds_1004100 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1004100 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1004100 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1004100 rdfs:label 'Southampton'@en.
 samian:loc_ds_1004100 dc:identifier 1004100.
@@ -745,7 +745,7 @@ samian:activity_loc_ds_1004100 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001046 rdf:type lado:Location .
 samian:loc_ds_1001046 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001046 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001046 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001046 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001046 rdfs:label 'Richborough'@en.
 samian:loc_ds_1001046 dc:identifier 1001046.
@@ -772,7 +772,7 @@ samian:activity_loc_ds_1001046 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1004140 rdf:type lado:Location .
 samian:loc_ds_1004140 rdf:type lado:DiscoverySite .
-samian:loc_ds_1004140 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1004140 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1004140 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1004140 rdfs:label 'Bath'@en.
 samian:loc_ds_1004140 dc:identifier 1004140.
@@ -799,7 +799,7 @@ samian:activity_loc_ds_1004140 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002885 rdf:type lado:Location .
 samian:loc_ds_1002885 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002885 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002885 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002885 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002885 rdfs:label 'Caerhûn'@en.
 samian:loc_ds_1002885 dc:identifier 1002885.
@@ -826,7 +826,7 @@ samian:activity_loc_ds_1002885 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000136 rdf:type lado:Location .
 samian:loc_ds_1000136 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000136 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000136 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000136 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000136 rdfs:label 'London'@en.
 samian:loc_ds_1000136 dc:identifier 1000136.
@@ -853,7 +853,7 @@ samian:activity_loc_ds_1000136 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000375 rdf:type lado:Location .
 samian:loc_ds_1000375 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000375 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000375 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000375 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000375 rdfs:label 'Lincoln'@en.
 samian:loc_ds_1000375 dc:identifier 1000375.
@@ -880,7 +880,7 @@ samian:activity_loc_ds_1000375 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000651 rdf:type lado:Location .
 samian:loc_ds_1000651 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000651 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000651 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000651 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000651 rdfs:label 'Sea Mills'@en.
 samian:loc_ds_1000651 dc:identifier 1000651.
@@ -907,7 +907,7 @@ samian:activity_loc_ds_1000651 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002444 rdf:type lado:Location .
 samian:loc_ds_1002444 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002444 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002444 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002444 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002444 rdfs:label 'Pakenham'@en.
 samian:loc_ds_1002444 dc:identifier 1002444.
@@ -934,7 +934,7 @@ samian:activity_loc_ds_1002444 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001778 rdf:type lado:Location .
 samian:loc_ds_1001778 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001778 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001778 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001778 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001778 rdfs:label 'Springhead'@en.
 samian:loc_ds_1001778 dc:identifier 1001778.
@@ -961,7 +961,7 @@ samian:activity_loc_ds_1001778 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003870 rdf:type lado:Location .
 samian:loc_ds_1003870 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003870 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003870 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003870 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003870 rdfs:label 'Verulamium'@en.
 samian:loc_ds_1003870 dc:identifier 1003870.
@@ -988,7 +988,7 @@ samian:activity_loc_ds_1003870 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001359 rdf:type lado:Location .
 samian:loc_ds_1001359 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001359 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001359 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001359 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001359 rdfs:label 'Gloucester'@en.
 samian:loc_ds_1001359 dc:identifier 1001359.
@@ -1015,7 +1015,7 @@ samian:activity_loc_ds_1001359 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002875 rdf:type lado:Location .
 samian:loc_ds_1002875 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002875 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002875 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002875 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002875 rdfs:label 'Wanborough, Wiltshire'@en.
 samian:loc_ds_1002875 dc:identifier 1002875.
@@ -1042,7 +1042,7 @@ samian:activity_loc_ds_1002875 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000353 rdf:type lado:Location .
 samian:loc_ds_1000353 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000353 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000353 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000353 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000353 rdfs:label 'West Tilbury'@en.
 samian:loc_ds_1000353 dc:identifier 1000353.
@@ -1069,7 +1069,7 @@ samian:activity_loc_ds_1000353 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001251 rdf:type lado:Location .
 samian:loc_ds_1001251 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001251 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001251 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001251 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001251 rdfs:label 'Gorhambury'@en.
 samian:loc_ds_1001251 dc:identifier 1001251.
@@ -1096,7 +1096,7 @@ samian:activity_loc_ds_1001251 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000327 rdf:type lado:Location .
 samian:loc_ds_1000327 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000327 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000327 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000327 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000327 rdfs:label 'Scole'@en.
 samian:loc_ds_1000327 dc:identifier 1000327.
@@ -1123,7 +1123,7 @@ samian:activity_loc_ds_1000327 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001829 rdf:type lado:Location .
 samian:loc_ds_1001829 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001829 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001829 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001829 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001829 rdfs:label 'Winchester'@en.
 samian:loc_ds_1001829 dc:identifier 1001829.
@@ -1150,7 +1150,7 @@ samian:activity_loc_ds_1001829 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003810 rdf:type lado:Location .
 samian:loc_ds_1003810 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003810 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003810 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003810 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003810 rdfs:label 'Alchester'@en.
 samian:loc_ds_1003810 dc:identifier 1003810.
@@ -1177,7 +1177,7 @@ samian:activity_loc_ds_1003810 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001323 rdf:type lado:Location .
 samian:loc_ds_1001323 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001323 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001323 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001323 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001323 rdfs:label 'Cardiff'@en.
 samian:loc_ds_1001323 dc:identifier 1001323.
@@ -1204,7 +1204,7 @@ samian:activity_loc_ds_1001323 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003108 rdf:type lado:Location .
 samian:loc_ds_1003108 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003108 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003108 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003108 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003108 rdfs:label 'Charterhouse-on-Mendip'@en.
 samian:loc_ds_1003108 dc:identifier 1003108.
@@ -1231,7 +1231,7 @@ samian:activity_loc_ds_1003108 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000853 rdf:type lado:Location .
 samian:loc_ds_1000853 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000853 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000853 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000853 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000853 rdfs:label 'Wroxeter'@en.
 samian:loc_ds_1000853 dc:identifier 1000853.
@@ -1258,7 +1258,7 @@ samian:activity_loc_ds_1000853 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001821 rdf:type lado:Location .
 samian:loc_ds_1001821 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001821 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001821 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001821 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001821 rdfs:label 'Dorchester, Dorset'@en.
 samian:loc_ds_1001821 dc:identifier 1001821.
@@ -1285,7 +1285,7 @@ samian:activity_loc_ds_1001821 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002513 rdf:type lado:Location .
 samian:loc_ds_1002513 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002513 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002513 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002513 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002513 rdfs:label 'Castleford'@en.
 samian:loc_ds_1002513 dc:identifier 1002513.
@@ -1312,7 +1312,7 @@ samian:activity_loc_ds_1002513 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000956 rdf:type lado:Location .
 samian:loc_ds_1000956 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000956 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000956 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000956 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000956 rdfs:label 'Staines'@en.
 samian:loc_ds_1000956 dc:identifier 1000956.
@@ -1339,7 +1339,7 @@ samian:activity_loc_ds_1000956 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003098 rdf:type lado:Location .
 samian:loc_ds_1003098 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003098 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003098 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003098 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003098 rdfs:label 'Towcester'@en.
 samian:loc_ds_1003098 dc:identifier 1003098.
@@ -1366,7 +1366,7 @@ samian:activity_loc_ds_1003098 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003933 rdf:type lado:Location .
 samian:loc_ds_1003933 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003933 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003933 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003933 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003933 rdfs:label 'Camelon'@en.
 samian:loc_ds_1003933 dc:identifier 1003933.
@@ -1393,7 +1393,7 @@ samian:activity_loc_ds_1003933 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002706 rdf:type lado:Location .
 samian:loc_ds_1002706 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002706 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002706 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002706 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002706 rdfs:label 'Leicester'@en.
 samian:loc_ds_1002706 dc:identifier 1002706.
@@ -1420,7 +1420,7 @@ samian:activity_loc_ds_1002706 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003904 rdf:type lado:Location .
 samian:loc_ds_1003904 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003904 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003904 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003904 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003904 rdfs:label 'Malton'@en.
 samian:loc_ds_1003904 dc:identifier 1003904.
@@ -1447,7 +1447,7 @@ samian:activity_loc_ds_1003904 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003687 rdf:type lado:Location .
 samian:loc_ds_1003687 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003687 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003687 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003687 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003687 rdfs:label 'Heybridge'@en.
 samian:loc_ds_1003687 dc:identifier 1003687.
@@ -1474,7 +1474,7 @@ samian:activity_loc_ds_1003687 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003420 rdf:type lado:Location .
 samian:loc_ds_1003420 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003420 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003420 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003420 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003420 rdfs:label 'Caernarfon'@en.
 samian:loc_ds_1003420 dc:identifier 1003420.
@@ -1501,7 +1501,7 @@ samian:activity_loc_ds_1003420 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002071 rdf:type lado:Location .
 samian:loc_ds_1002071 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002071 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002071 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002071 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002071 rdfs:label 'Ewell'@en.
 samian:loc_ds_1002071 dc:identifier 1002071.
@@ -1528,7 +1528,7 @@ samian:activity_loc_ds_1002071 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002383 rdf:type lado:Location .
 samian:loc_ds_1002383 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002383 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002383 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002383 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002383 rdfs:label 'Chester'@en.
 samian:loc_ds_1002383 dc:identifier 1002383.
@@ -1555,7 +1555,7 @@ samian:activity_loc_ds_1002383 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001182 rdf:type lado:Location .
 samian:loc_ds_1001182 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001182 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001182 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001182 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001182 rdfs:label 'Loughor'@en.
 samian:loc_ds_1001182 dc:identifier 1001182.
@@ -1582,7 +1582,7 @@ samian:activity_loc_ds_1001182 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002318 rdf:type lado:Location .
 samian:loc_ds_1002318 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002318 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002318 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002318 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002318 rdfs:label 'Carmarthen'@en.
 samian:loc_ds_1002318 dc:identifier 1002318.
@@ -1609,7 +1609,7 @@ samian:activity_loc_ds_1002318 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000897 rdf:type lado:Location .
 samian:loc_ds_1000897 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000897 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000897 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000897 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000897 rdfs:label 'Newstead'@en.
 samian:loc_ds_1000897 dc:identifier 1000897.
@@ -1636,7 +1636,7 @@ samian:activity_loc_ds_1000897 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001921 rdf:type lado:Location .
 samian:loc_ds_1001921 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001921 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001921 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001921 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001921 rdfs:label 'Kettering'@en.
 samian:loc_ds_1001921 dc:identifier 1001921.
@@ -1663,7 +1663,7 @@ samian:activity_loc_ds_1001921 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000627 rdf:type lado:Location .
 samian:loc_ds_1000627 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000627 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000627 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000627 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000627 rdfs:label 'York'@en.
 samian:loc_ds_1000627 dc:identifier 1000627.
@@ -1690,7 +1690,7 @@ samian:activity_loc_ds_1000627 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002245 rdf:type lado:Location .
 samian:loc_ds_1002245 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002245 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002245 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002245 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002245 rdfs:label 'Carlisle'@en.
 samian:loc_ds_1002245 dc:identifier 1002245.
@@ -1717,7 +1717,7 @@ samian:activity_loc_ds_1002245 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002527 rdf:type lado:Location .
 samian:loc_ds_1002527 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002527 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002527 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002527 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002527 rdfs:label 'Margidunum'@en.
 samian:loc_ds_1002527 dc:identifier 1002527.
@@ -1744,7 +1744,7 @@ samian:activity_loc_ds_1002527 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002303 rdf:type lado:Location .
 samian:loc_ds_1002303 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002303 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002303 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002303 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002303 rdfs:label 'Caistor-by-Norwich'@en.
 samian:loc_ds_1002303 dc:identifier 1002303.
@@ -1771,7 +1771,7 @@ samian:activity_loc_ds_1002303 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001462 rdf:type lado:Location .
 samian:loc_ds_1001462 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001462 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001462 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001462 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001462 rdfs:label 'Rochester'@en.
 samian:loc_ds_1001462 dc:identifier 1001462.
@@ -1798,7 +1798,7 @@ samian:activity_loc_ds_1001462 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000595 rdf:type lado:Location .
 samian:loc_ds_1000595 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000595 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000595 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000595 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000595 rdfs:label 'Caersws'@en.
 samian:loc_ds_1000595 dc:identifier 1000595.
@@ -1825,7 +1825,7 @@ samian:activity_loc_ds_1000595 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000088 rdf:type lado:Location .
 samian:loc_ds_1000088 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000088 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000088 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000088 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000088 rdfs:label 'Caerleon'@en.
 samian:loc_ds_1000088 dc:identifier 1000088.
@@ -1852,7 +1852,7 @@ samian:activity_loc_ds_1000088 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003524 rdf:type lado:Location .
 samian:loc_ds_1003524 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003524 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003524 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003524 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003524 rdfs:label 'Inchtuthil'@en.
 samian:loc_ds_1003524 dc:identifier 1003524.
@@ -1879,7 +1879,7 @@ samian:activity_loc_ds_1003524 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002034 rdf:type lado:Location .
 samian:loc_ds_1002034 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002034 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002034 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002034 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002034 rdfs:label 'Binchester'@en.
 samian:loc_ds_1002034 dc:identifier 1002034.
@@ -1906,7 +1906,7 @@ samian:activity_loc_ds_1002034 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002001 rdf:type lado:Location .
 samian:loc_ds_1002001 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002001 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002001 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002001 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002001 rdfs:label 'Brecon'@en.
 samian:loc_ds_1002001 dc:identifier 1002001.
@@ -1933,7 +1933,7 @@ samian:activity_loc_ds_1002001 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000713 rdf:type lado:Location .
 samian:loc_ds_1000713 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000713 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000713 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000713 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000713 rdfs:label 'Ilkley'@en.
 samian:loc_ds_1000713 dc:identifier 1000713.
@@ -1960,7 +1960,7 @@ samian:activity_loc_ds_1000713 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002306 rdf:type lado:Location .
 samian:loc_ds_1002306 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002306 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002306 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002306 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002306 rdfs:label 'Ribchester'@en.
 samian:loc_ds_1002306 dc:identifier 1002306.
@@ -1987,7 +1987,7 @@ samian:activity_loc_ds_1002306 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003419 rdf:type lado:Location .
 samian:loc_ds_1003419 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003419 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003419 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003419 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003419 rdfs:label 'Corbridge'@en.
 samian:loc_ds_1003419 dc:identifier 1003419.
@@ -2014,7 +2014,7 @@ samian:activity_loc_ds_1003419 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002803 rdf:type lado:Location .
 samian:loc_ds_1002803 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002803 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002803 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002803 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002803 rdfs:label 'Doncaster'@en.
 samian:loc_ds_1002803 dc:identifier 1002803.
@@ -2041,7 +2041,7 @@ samian:activity_loc_ds_1002803 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000209 rdf:type lado:Location .
 samian:loc_ds_1000209 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000209 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000209 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000209 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000209 rdfs:label 'Rocester'@en.
 samian:loc_ds_1000209 dc:identifier 1000209.
@@ -2068,7 +2068,7 @@ samian:activity_loc_ds_1000209 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003470 rdf:type lado:Location .
 samian:loc_ds_1003470 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003470 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003470 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003470 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003470 rdfs:label 'Chesterholm-Vindolanda'@en.
 samian:loc_ds_1003470 dc:identifier 1003470.
@@ -2095,7 +2095,7 @@ samian:activity_loc_ds_1003470 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1004203 rdf:type lado:Location .
 samian:loc_ds_1004203 rdf:type lado:DiscoverySite .
-samian:loc_ds_1004203 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1004203 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1004203 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1004203 rdfs:label 'Caerwent'@en.
 samian:loc_ds_1004203 dc:identifier 1004203.
@@ -2122,7 +2122,7 @@ samian:activity_loc_ds_1004203 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000407 rdf:type lado:Location .
 samian:loc_ds_1000407 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000407 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000407 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000407 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000407 rdfs:label 'Holt'@en.
 samian:loc_ds_1000407 dc:identifier 1000407.
@@ -2149,7 +2149,7 @@ samian:activity_loc_ds_1000407 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1004111 rdf:type lado:Location .
 samian:loc_ds_1004111 rdf:type lado:DiscoverySite .
-samian:loc_ds_1004111 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1004111 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1004111 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1004111 rdfs:label 'Catterick'@en.
 samian:loc_ds_1004111 dc:identifier 1004111.
@@ -2176,7 +2176,7 @@ samian:activity_loc_ds_1004111 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1004084 rdf:type lado:Location .
 samian:loc_ds_1004084 rdf:type lado:DiscoverySite .
-samian:loc_ds_1004084 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1004084 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1004084 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1004084 rdfs:label 'Wilderspool'@en.
 samian:loc_ds_1004084 dc:identifier 1004084.
@@ -2203,7 +2203,7 @@ samian:activity_loc_ds_1004084 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000924 rdf:type lado:Location .
 samian:loc_ds_1000924 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000924 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000924 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000924 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000924 rdfs:label 'Little Chester'@en.
 samian:loc_ds_1000924 dc:identifier 1000924.
@@ -2230,7 +2230,7 @@ samian:activity_loc_ds_1000924 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002604 rdf:type lado:Location .
 samian:loc_ds_1002604 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002604 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002604 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002604 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002604 rdfs:label 'Manchester'@en.
 samian:loc_ds_1002604 dc:identifier 1002604.
@@ -2340,7 +2340,7 @@ samian:loc_ds_1000924 time:intervalBefore samian:loc_ds_1002604.
 
 samian:loc_ds_1001530 rdf:type lado:Location .
 samian:loc_ds_1001530 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001530 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001530 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001530 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001530 rdfs:label 'Straubing'@en.
 samian:loc_ds_1001530 dc:identifier 1001530.
@@ -2367,7 +2367,7 @@ samian:activity_loc_ds_1001530 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000255 rdf:type lado:Location .
 samian:loc_ds_1000255 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000255 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000255 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000255 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000255 rdfs:label 'Butzbach'@en.
 samian:loc_ds_1000255 dc:identifier 1000255.
@@ -2394,7 +2394,7 @@ samian:activity_loc_ds_1000255 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000838 rdf:type lado:Location .
 samian:loc_ds_1000838 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000838 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000838 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000838 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000838 rdfs:label 'Echzell'@en.
 samian:loc_ds_1000838 dc:identifier 1000838.
@@ -2421,7 +2421,7 @@ samian:activity_loc_ds_1000838 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000737 rdf:type lado:Location .
 samian:loc_ds_1000737 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000737 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000737 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000737 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000737 rdfs:label 'Saalburg'@en.
 samian:loc_ds_1000737 dc:identifier 1000737.
@@ -2448,7 +2448,7 @@ samian:activity_loc_ds_1000737 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003439 rdf:type lado:Location .
 samian:loc_ds_1003439 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003439 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003439 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003439 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003439 rdfs:label 'Wien'@en.
 samian:loc_ds_1003439 dc:identifier 1003439.
@@ -2475,7 +2475,7 @@ samian:activity_loc_ds_1003439 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000346 rdf:type lado:Location .
 samian:loc_ds_1000346 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000346 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000346 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000346 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000346 rdfs:label 'Bad Cannstatt'@en.
 samian:loc_ds_1000346 dc:identifier 1000346.
@@ -2502,7 +2502,7 @@ samian:activity_loc_ds_1000346 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000928 rdf:type lado:Location .
 samian:loc_ds_1000928 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000928 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000928 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000928 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000928 rdfs:label 'Stockstadt'@en.
 samian:loc_ds_1000928 dc:identifier 1000928.
@@ -2529,7 +2529,7 @@ samian:activity_loc_ds_1000928 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001539 rdf:type lado:Location .
 samian:loc_ds_1001539 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001539 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001539 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001539 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001539 rdfs:label 'Faimingen'@en.
 samian:loc_ds_1001539 dc:identifier 1001539.
@@ -2556,7 +2556,7 @@ samian:activity_loc_ds_1001539 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001619 rdf:type lado:Location .
 samian:loc_ds_1001619 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001619 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001619 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001619 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001619 rdfs:label 'Oberflorstadt'@en.
 samian:loc_ds_1001619 dc:identifier 1001619.
@@ -2583,7 +2583,7 @@ samian:activity_loc_ds_1001619 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000157 rdf:type lado:Location .
 samian:loc_ds_1000157 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000157 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000157 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000157 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000157 rdfs:label 'Friedberg'@en.
 samian:loc_ds_1000157 dc:identifier 1000157.
@@ -2610,7 +2610,7 @@ samian:activity_loc_ds_1000157 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001423 rdf:type lado:Location .
 samian:loc_ds_1001423 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001423 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001423 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001423 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001423 rdfs:label 'Marköbel'@en.
 samian:loc_ds_1001423 dc:identifier 1001423.
@@ -2637,7 +2637,7 @@ samian:activity_loc_ds_1001423 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002130 rdf:type lado:Location .
 samian:loc_ds_1002130 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002130 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002130 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002130 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002130 rdfs:label 'Baden-Baden'@en.
 samian:loc_ds_1002130 dc:identifier 1002130.
@@ -2664,7 +2664,7 @@ samian:activity_loc_ds_1002130 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003222 rdf:type lado:Location .
 samian:loc_ds_1003222 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003222 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003222 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003222 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003222 rdfs:label 'Hanau-Salisberg'@en.
 samian:loc_ds_1003222 dc:identifier 1003222.
@@ -2691,7 +2691,7 @@ samian:activity_loc_ds_1003222 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001054 rdf:type lado:Location .
 samian:loc_ds_1001054 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001054 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001054 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001054 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001054 rdfs:label 'Okarben'@en.
 samian:loc_ds_1001054 dc:identifier 1001054.
@@ -2718,7 +2718,7 @@ samian:activity_loc_ds_1001054 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002500 rdf:type lado:Location .
 samian:loc_ds_1002500 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002500 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002500 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002500 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002500 rdfs:label 'Heidelberg'@en.
 samian:loc_ds_1002500 dc:identifier 1002500.
@@ -2745,7 +2745,7 @@ samian:activity_loc_ds_1002500 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000983 rdf:type lado:Location .
 samian:loc_ds_1000983 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000983 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000983 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000983 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000983 rdfs:label 'Arnsburg'@en.
 samian:loc_ds_1000983 dc:identifier 1000983.
@@ -2772,7 +2772,7 @@ samian:activity_loc_ds_1000983 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001351 rdf:type lado:Location .
 samian:loc_ds_1001351 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001351 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001351 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001351 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001351 rdfs:label 'Voorburg'@en.
 samian:loc_ds_1001351 dc:identifier 1001351.
@@ -2799,7 +2799,7 @@ samian:activity_loc_ds_1001351 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000828 rdf:type lado:Location .
 samian:loc_ds_1000828 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000828 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000828 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000828 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000828 rdfs:label 'Wels'@en.
 samian:loc_ds_1000828 dc:identifier 1000828.
@@ -2826,7 +2826,7 @@ samian:activity_loc_ds_1000828 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003271 rdf:type lado:Location .
 samian:loc_ds_1003271 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003271 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003271 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003271 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003271 rdfs:label 'Bickenbach'@en.
 samian:loc_ds_1003271 dc:identifier 1003271.
@@ -2853,7 +2853,7 @@ samian:activity_loc_ds_1003271 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001392 rdf:type lado:Location .
 samian:loc_ds_1001392 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001392 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001392 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001392 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001392 rdfs:label 'Weissenburg'@en.
 samian:loc_ds_1001392 dc:identifier 1001392.
@@ -2880,7 +2880,7 @@ samian:activity_loc_ds_1001392 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003948 rdf:type lado:Location .
 samian:loc_ds_1003948 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003948 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003948 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003948 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003948 rdfs:label 'Rottweil'@en.
 samian:loc_ds_1003948 dc:identifier 1003948.
@@ -2907,7 +2907,7 @@ samian:activity_loc_ds_1003948 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003289 rdf:type lado:Location .
 samian:loc_ds_1003289 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003289 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003289 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003289 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003289 rdfs:label 'Heddernheim'@en.
 samian:loc_ds_1003289 dc:identifier 1003289.
@@ -2934,7 +2934,7 @@ samian:activity_loc_ds_1003289 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003944 rdf:type lado:Location .
 samian:loc_ds_1003944 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003944 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003944 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003944 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003944 rdfs:label 'Rossum'@en.
 samian:loc_ds_1003944 dc:identifier 1003944.
@@ -2961,7 +2961,7 @@ samian:activity_loc_ds_1003944 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001327 rdf:type lado:Location .
 samian:loc_ds_1001327 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001327 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001327 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001327 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001327 rdfs:label 'Günzburg'@en.
 samian:loc_ds_1001327 dc:identifier 1001327.
@@ -2988,7 +2988,7 @@ samian:activity_loc_ds_1001327 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000376 rdf:type lado:Location .
 samian:loc_ds_1000376 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000376 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000376 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000376 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000376 rdfs:label 'Regensburg'@en.
 samian:loc_ds_1000376 dc:identifier 1000376.
@@ -3015,7 +3015,7 @@ samian:activity_loc_ds_1000376 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1004142 rdf:type lado:Location .
 samian:loc_ds_1004142 rdf:type lado:DiscoverySite .
-samian:loc_ds_1004142 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1004142 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1004142 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1004142 rdfs:label 'Epfach'@en.
 samian:loc_ds_1004142 dc:identifier 1004142.
@@ -3042,7 +3042,7 @@ samian:activity_loc_ds_1004142 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001186 rdf:type lado:Location .
 samian:loc_ds_1001186 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001186 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001186 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001186 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001186 rdfs:label 'Schleitheim'@en.
 samian:loc_ds_1001186 dc:identifier 1001186.
@@ -3069,7 +3069,7 @@ samian:activity_loc_ds_1001186 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002839 rdf:type lado:Location .
 samian:loc_ds_1002839 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002839 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002839 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002839 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002839 rdfs:label 'Monterberg'@en.
 samian:loc_ds_1002839 dc:identifier 1002839.
@@ -3096,7 +3096,7 @@ samian:activity_loc_ds_1002839 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001028 rdf:type lado:Location .
 samian:loc_ds_1001028 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001028 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001028 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001028 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001028 rdfs:label 'Gellep'@en.
 samian:loc_ds_1001028 dc:identifier 1001028.
@@ -3123,7 +3123,7 @@ samian:activity_loc_ds_1001028 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001030 rdf:type lado:Location .
 samian:loc_ds_1001030 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001030 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001030 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001030 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001030 rdfs:label 'Geislingen'@en.
 samian:loc_ds_1001030 dc:identifier 1001030.
@@ -3150,7 +3150,7 @@ samian:activity_loc_ds_1001030 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000460 rdf:type lado:Location .
 samian:loc_ds_1000460 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000460 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000460 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000460 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000460 rdfs:label 'Carnuntum'@en.
 samian:loc_ds_1000460 dc:identifier 1000460.
@@ -3177,7 +3177,7 @@ samian:activity_loc_ds_1000460 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001786 rdf:type lado:Location .
 samian:loc_ds_1001786 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001786 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001786 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001786 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001786 rdfs:label 'Woerden'@en.
 samian:loc_ds_1001786 dc:identifier 1001786.
@@ -3204,7 +3204,7 @@ samian:activity_loc_ds_1001786 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003165 rdf:type lado:Location .
 samian:loc_ds_1003165 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003165 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003165 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003165 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003165 rdfs:label 'Augsburg'@en.
 samian:loc_ds_1003165 dc:identifier 1003165.
@@ -3231,7 +3231,7 @@ samian:activity_loc_ds_1003165 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000489 rdf:type lado:Location .
 samian:loc_ds_1000489 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000489 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000489 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000489 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000489 rdfs:label 'Salzburg'@en.
 samian:loc_ds_1000489 dc:identifier 1000489.
@@ -3258,7 +3258,7 @@ samian:activity_loc_ds_1000489 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003898 rdf:type lado:Location .
 samian:loc_ds_1003898 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003898 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003898 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003898 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003898 rdfs:label 'Oberstimm'@en.
 samian:loc_ds_1003898 dc:identifier 1003898.
@@ -3285,7 +3285,7 @@ samian:activity_loc_ds_1003898 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002381 rdf:type lado:Location .
 samian:loc_ds_1002381 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002381 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002381 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002381 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002381 rdfs:label 'Burghöfe'@en.
 samian:loc_ds_1002381 dc:identifier 1002381.
@@ -3312,7 +3312,7 @@ samian:activity_loc_ds_1002381 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000372 rdf:type lado:Location .
 samian:loc_ds_1000372 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000372 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000372 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000372 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000372 rdfs:label 'Riegel'@en.
 samian:loc_ds_1000372 dc:identifier 1000372.
@@ -3339,7 +3339,7 @@ samian:activity_loc_ds_1000372 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002066 rdf:type lado:Location .
 samian:loc_ds_1002066 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002066 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002066 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002066 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002066 rdfs:label 'Groß-Gerau'@en.
 samian:loc_ds_1002066 dc:identifier 1002066.
@@ -3366,7 +3366,7 @@ samian:activity_loc_ds_1002066 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001943 rdf:type lado:Location .
 samian:loc_ds_1001943 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001943 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001943 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001943 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001943 rdfs:label 'Wiesbaden'@en.
 samian:loc_ds_1001943 dc:identifier 1001943.
@@ -3393,7 +3393,7 @@ samian:activity_loc_ds_1001943 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000671 rdf:type lado:Location .
 samian:loc_ds_1000671 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000671 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000671 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000671 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000671 rdfs:label 'Seebruck'@en.
 samian:loc_ds_1000671 dc:identifier 1000671.
@@ -3420,7 +3420,7 @@ samian:activity_loc_ds_1000671 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002748 rdf:type lado:Location .
 samian:loc_ds_1002748 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002748 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002748 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002748 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002748 rdfs:label 'Unterkirchberg'@en.
 samian:loc_ds_1002748 dc:identifier 1002748.
@@ -3447,7 +3447,7 @@ samian:activity_loc_ds_1002748 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1004152 rdf:type lado:Location .
 samian:loc_ds_1004152 rdf:type lado:DiscoverySite .
-samian:loc_ds_1004152 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1004152 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1004152 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1004152 rdfs:label 'Rheinzabern'@en.
 samian:loc_ds_1004152 dc:identifier 1004152.
@@ -3474,7 +3474,7 @@ samian:activity_loc_ds_1004152 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001870 rdf:type lado:Location .
 samian:loc_ds_1001870 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001870 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001870 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001870 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001870 rdfs:label 'Speyer'@en.
 samian:loc_ds_1001870 dc:identifier 1001870.
@@ -3501,7 +3501,7 @@ samian:activity_loc_ds_1001870 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001913 rdf:type lado:Location .
 samian:loc_ds_1001913 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001913 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001913 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001913 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001913 rdfs:label 'Emerkingen'@en.
 samian:loc_ds_1001913 dc:identifier 1001913.
@@ -3528,7 +3528,7 @@ samian:activity_loc_ds_1001913 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003531 rdf:type lado:Location .
 samian:loc_ds_1003531 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003531 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003531 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003531 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003531 rdfs:label 'Nijmegen'@en.
 samian:loc_ds_1003531 dc:identifier 1003531.
@@ -3555,7 +3555,7 @@ samian:activity_loc_ds_1003531 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001087 rdf:type lado:Location .
 samian:loc_ds_1001087 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001087 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001087 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001087 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001087 rdfs:label 'Hüfingen'@en.
 samian:loc_ds_1001087 dc:identifier 1001087.
@@ -3582,7 +3582,7 @@ samian:activity_loc_ds_1001087 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003782 rdf:type lado:Location .
 samian:loc_ds_1003782 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003782 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003782 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003782 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003782 rdfs:label 'Bregenz'@en.
 samian:loc_ds_1003782 dc:identifier 1003782.
@@ -3609,7 +3609,7 @@ samian:activity_loc_ds_1003782 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001033 rdf:type lado:Location .
 samian:loc_ds_1001033 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001033 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001033 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001033 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001033 rdfs:label 'Köln'@en.
 samian:loc_ds_1001033 dc:identifier 1001033.
@@ -3636,7 +3636,7 @@ samian:activity_loc_ds_1001033 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1004136 rdf:type lado:Location .
 samian:loc_ds_1004136 rdf:type lado:DiscoverySite .
-samian:loc_ds_1004136 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1004136 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1004136 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1004136 rdfs:label 'Bonn'@en.
 samian:loc_ds_1004136 dc:identifier 1004136.
@@ -3663,7 +3663,7 @@ samian:activity_loc_ds_1004136 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001531 rdf:type lado:Location .
 samian:loc_ds_1001531 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001531 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001531 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001531 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001531 rdfs:label 'Luxeuil-les-Bains'@en.
 samian:loc_ds_1001531 dc:identifier 1001531.
@@ -3690,7 +3690,7 @@ samian:activity_loc_ds_1001531 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001207 rdf:type lado:Location .
 samian:loc_ds_1001207 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001207 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001207 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001207 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001207 rdfs:label 'Rißtissen'@en.
 samian:loc_ds_1001207 dc:identifier 1001207.
@@ -3717,7 +3717,7 @@ samian:activity_loc_ds_1001207 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002542 rdf:type lado:Location .
 samian:loc_ds_1002542 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002542 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002542 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002542 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002542 rdfs:label 'Strasbourg'@en.
 samian:loc_ds_1002542 dc:identifier 1002542.
@@ -3744,7 +3744,7 @@ samian:activity_loc_ds_1002542 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1004310 rdf:type lado:Location .
 samian:loc_ds_1004310 rdf:type lado:DiscoverySite .
-samian:loc_ds_1004310 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1004310 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1004310 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1004310 rdfs:label 'Worms'@en.
 samian:loc_ds_1004310 dc:identifier 1004310.
@@ -3771,7 +3771,7 @@ samian:activity_loc_ds_1004310 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002021 rdf:type lado:Location .
 samian:loc_ds_1002021 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002021 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002021 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002021 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002021 rdfs:label 'Zwammerdam'@en.
 samian:loc_ds_1002021 dc:identifier 1002021.
@@ -3798,7 +3798,7 @@ samian:activity_loc_ds_1002021 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002190 rdf:type lado:Location .
 samian:loc_ds_1002190 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002190 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002190 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002190 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002190 rdfs:label 'Valkenburg'@en.
 samian:loc_ds_1002190 dc:identifier 1002190.
@@ -3825,7 +3825,7 @@ samian:activity_loc_ds_1002190 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000457 rdf:type lado:Location .
 samian:loc_ds_1000457 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000457 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000457 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000457 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000457 rdfs:label 'Xanten'@en.
 samian:loc_ds_1000457 dc:identifier 1000457.
@@ -3852,7 +3852,7 @@ samian:activity_loc_ds_1000457 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001653 rdf:type lado:Location .
 samian:loc_ds_1001653 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001653 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001653 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001653 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001653 rdfs:label 'Vechten'@en.
 samian:loc_ds_1001653 dc:identifier 1001653.
@@ -3879,7 +3879,7 @@ samian:activity_loc_ds_1001653 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003761 rdf:type lado:Location .
 samian:loc_ds_1003761 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003761 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003761 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003761 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003761 rdfs:label 'Mainz'@en.
 samian:loc_ds_1003761 dc:identifier 1003761.
@@ -3906,7 +3906,7 @@ samian:activity_loc_ds_1003761 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003966 rdf:type lado:Location .
 samian:loc_ds_1003966 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003966 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003966 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003966 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003966 rdfs:label 'Utrecht'@en.
 samian:loc_ds_1003966 dc:identifier 1003966.
@@ -3933,7 +3933,7 @@ samian:activity_loc_ds_1003966 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000913 rdf:type lado:Location .
 samian:loc_ds_1000913 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000913 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000913 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000913 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000913 rdfs:label 'Hofheim'@en.
 samian:loc_ds_1000913 dc:identifier 1000913.
@@ -3960,7 +3960,7 @@ samian:activity_loc_ds_1000913 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001308 rdf:type lado:Location .
 samian:loc_ds_1001308 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001308 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001308 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001308 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001308 rdfs:label 'Andernach'@en.
 samian:loc_ds_1001308 dc:identifier 1001308.
@@ -3987,7 +3987,7 @@ samian:activity_loc_ds_1001308 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002698 rdf:type lado:Location .
 samian:loc_ds_1002698 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002698 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002698 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002698 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002698 rdfs:label 'Neuss'@en.
 samian:loc_ds_1002698 dc:identifier 1002698.
@@ -4014,7 +4014,7 @@ samian:activity_loc_ds_1002698 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000293 rdf:type lado:Location .
 samian:loc_ds_1000293 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000293 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000293 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000293 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000293 rdfs:label 'Moers-Asberg'@en.
 samian:loc_ds_1000293 dc:identifier 1000293.
@@ -4041,7 +4041,7 @@ samian:activity_loc_ds_1000293 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001873 rdf:type lado:Location .
 samian:loc_ds_1001873 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001873 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001873 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001873 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001873 rdfs:label 'Kempten'@en.
 samian:loc_ds_1001873 dc:identifier 1001873.
@@ -4068,7 +4068,7 @@ samian:activity_loc_ds_1001873 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002275 rdf:type lado:Location .
 samian:loc_ds_1002275 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002275 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002275 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002275 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002275 rdfs:label 'Rheingönheim'@en.
 samian:loc_ds_1002275 dc:identifier 1002275.
@@ -4095,7 +4095,7 @@ samian:activity_loc_ds_1002275 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000815 rdf:type lado:Location .
 samian:loc_ds_1000815 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000815 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000815 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000815 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000815 rdfs:label 'Aislingen'@en.
 samian:loc_ds_1000815 dc:identifier 1000815.
@@ -4122,7 +4122,7 @@ samian:activity_loc_ds_1000815 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000837 rdf:type lado:Location .
 samian:loc_ds_1000837 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000837 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000837 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000837 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000837 rdfs:label 'Ehl'@en.
 samian:loc_ds_1000837 dc:identifier 1000837.
@@ -4149,7 +4149,7 @@ samian:activity_loc_ds_1000837 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000803 rdf:type lado:Location .
 samian:loc_ds_1000803 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000803 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000803 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000803 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000803 rdfs:label 'Brumath'@en.
 samian:loc_ds_1000803 dc:identifier 1000803.
@@ -4176,7 +4176,7 @@ samian:activity_loc_ds_1000803 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1001510 rdf:type lado:Location .
 samian:loc_ds_1001510 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001510 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001510 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001510 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001510 rdfs:label 'Bingen'@en.
 samian:loc_ds_1001510 dc:identifier 1001510.
@@ -4203,7 +4203,7 @@ samian:activity_loc_ds_1001510 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1002709 rdf:type lado:Location .
 samian:loc_ds_1002709 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002709 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002709 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002709 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002709 rdfs:label 'Koblenz'@en.
 samian:loc_ds_1002709 dc:identifier 1002709.
@@ -4230,7 +4230,7 @@ samian:activity_loc_ds_1002709 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1000754 rdf:type lado:Location .
 samian:loc_ds_1000754 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000754 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000754 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000754 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000754 rdfs:label 'Kreuznach'@en.
 samian:loc_ds_1000754 dc:identifier 1000754.
@@ -4257,7 +4257,7 @@ samian:activity_loc_ds_1000754 prov:wasAssociatedWith samian:ImportPythonScript_
 
 samian:loc_ds_1003421 rdf:type lado:Location .
 samian:loc_ds_1003421 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003421 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003421 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003421 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003421 rdfs:label 'Velsen'@en.
 samian:loc_ds_1003421 dc:identifier 1003421.

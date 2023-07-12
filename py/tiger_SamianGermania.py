@@ -60,7 +60,7 @@ for index, row in data.iterrows():
     lines.append("samian:loc_ds_" +
                  str(row['id']) + " " + "rdf:type" + " lado:DiscoverySite .")
     lines.append("samian:loc_ds_" +
-                 str(row['id']) + " " + "rdf:type" + " lado:ToGeR_Event .")
+                 str(row['id']) + " " + "rdf:type" + " lado:TiGeR_Event .")
     lines.append("samian:loc_ds_" +
                  str(row['id']) + " " + "lado:hasType" + " lado:DiscoverySite .")
     lines.append("samian:loc_ds_" + str(row['id']) + " " + "rdfs:label" +

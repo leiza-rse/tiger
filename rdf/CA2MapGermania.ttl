@@ -1,5 +1,5 @@
 # create triples from CA2MapGermania.csv 
-# on 2023-07-11 18:08
+# on 2023-07-12 10:55
 
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -16,7 +16,7 @@
 
 samian:loc_ds_1001530 rdf:type lado:Location .
 samian:loc_ds_1001530 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001530 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001530 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001530 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001530 rdfs:label 'Straubing'@en.
 samian:loc_ds_1001530 dc:identifier 1001530.
@@ -37,13 +37,13 @@ samian:loc_ds_1001530 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001530 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001530 prov:wasGeneratedBy samian:activity_loc_ds_1001530 .
 samian:activity_loc_ds_1001530 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001530 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001530 prov:endedAtTime '2023-07-11T18:08:25.599137Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001530 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001530 prov:endedAtTime '2023-07-12T10:55:54.523050Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001530 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000255 rdf:type lado:Location .
 samian:loc_ds_1000255 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000255 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000255 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000255 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000255 rdfs:label 'Butzbach'@en.
 samian:loc_ds_1000255 dc:identifier 1000255.
@@ -64,13 +64,13 @@ samian:loc_ds_1000255 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000255 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000255 prov:wasGeneratedBy samian:activity_loc_ds_1000255 .
 samian:activity_loc_ds_1000255 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000255 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000255 prov:endedAtTime '2023-07-11T18:08:25.599137Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000255 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000255 prov:endedAtTime '2023-07-12T10:55:54.524090Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000255 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000838 rdf:type lado:Location .
 samian:loc_ds_1000838 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000838 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000838 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000838 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000838 rdfs:label 'Echzell'@en.
 samian:loc_ds_1000838 dc:identifier 1000838.
@@ -91,13 +91,13 @@ samian:loc_ds_1000838 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000838 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000838 prov:wasGeneratedBy samian:activity_loc_ds_1000838 .
 samian:activity_loc_ds_1000838 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000838 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000838 prov:endedAtTime '2023-07-11T18:08:25.600174Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000838 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000838 prov:endedAtTime '2023-07-12T10:55:54.524090Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000838 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000737 rdf:type lado:Location .
 samian:loc_ds_1000737 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000737 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000737 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000737 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000737 rdfs:label 'Saalburg'@en.
 samian:loc_ds_1000737 dc:identifier 1000737.
@@ -118,13 +118,13 @@ samian:loc_ds_1000737 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000737 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000737 prov:wasGeneratedBy samian:activity_loc_ds_1000737 .
 samian:activity_loc_ds_1000737 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000737 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000737 prov:endedAtTime '2023-07-11T18:08:25.600174Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000737 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000737 prov:endedAtTime '2023-07-12T10:55:54.524090Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000737 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003439 rdf:type lado:Location .
 samian:loc_ds_1003439 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003439 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003439 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003439 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003439 rdfs:label 'Wien'@en.
 samian:loc_ds_1003439 dc:identifier 1003439.
@@ -145,13 +145,13 @@ samian:loc_ds_1003439 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003439 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003439 prov:wasGeneratedBy samian:activity_loc_ds_1003439 .
 samian:activity_loc_ds_1003439 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003439 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003439 prov:endedAtTime '2023-07-11T18:08:25.600174Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003439 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003439 prov:endedAtTime '2023-07-12T10:55:54.524090Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003439 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000346 rdf:type lado:Location .
 samian:loc_ds_1000346 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000346 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000346 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000346 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000346 rdfs:label 'Bad Cannstatt'@en.
 samian:loc_ds_1000346 dc:identifier 1000346.
@@ -172,13 +172,13 @@ samian:loc_ds_1000346 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000346 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000346 prov:wasGeneratedBy samian:activity_loc_ds_1000346 .
 samian:activity_loc_ds_1000346 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000346 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000346 prov:endedAtTime '2023-07-11T18:08:25.600174Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000346 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000346 prov:endedAtTime '2023-07-12T10:55:54.525054Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000346 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000928 rdf:type lado:Location .
 samian:loc_ds_1000928 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000928 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000928 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000928 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000928 rdfs:label 'Stockstadt'@en.
 samian:loc_ds_1000928 dc:identifier 1000928.
@@ -199,13 +199,13 @@ samian:loc_ds_1000928 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000928 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000928 prov:wasGeneratedBy samian:activity_loc_ds_1000928 .
 samian:activity_loc_ds_1000928 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000928 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000928 prov:endedAtTime '2023-07-11T18:08:25.601169Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000928 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000928 prov:endedAtTime '2023-07-12T10:55:54.525054Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000928 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001539 rdf:type lado:Location .
 samian:loc_ds_1001539 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001539 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001539 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001539 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001539 rdfs:label 'Faimingen'@en.
 samian:loc_ds_1001539 dc:identifier 1001539.
@@ -226,13 +226,13 @@ samian:loc_ds_1001539 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001539 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001539 prov:wasGeneratedBy samian:activity_loc_ds_1001539 .
 samian:activity_loc_ds_1001539 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001539 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001539 prov:endedAtTime '2023-07-11T18:08:25.601169Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001539 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001539 prov:endedAtTime '2023-07-12T10:55:54.525054Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001539 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001619 rdf:type lado:Location .
 samian:loc_ds_1001619 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001619 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001619 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001619 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001619 rdfs:label 'Oberflorstadt'@en.
 samian:loc_ds_1001619 dc:identifier 1001619.
@@ -253,13 +253,13 @@ samian:loc_ds_1001619 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001619 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001619 prov:wasGeneratedBy samian:activity_loc_ds_1001619 .
 samian:activity_loc_ds_1001619 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001619 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001619 prov:endedAtTime '2023-07-11T18:08:25.601169Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001619 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001619 prov:endedAtTime '2023-07-12T10:55:54.526050Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001619 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000157 rdf:type lado:Location .
 samian:loc_ds_1000157 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000157 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000157 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000157 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000157 rdfs:label 'Friedberg'@en.
 samian:loc_ds_1000157 dc:identifier 1000157.
@@ -280,13 +280,13 @@ samian:loc_ds_1000157 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000157 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000157 prov:wasGeneratedBy samian:activity_loc_ds_1000157 .
 samian:activity_loc_ds_1000157 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000157 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000157 prov:endedAtTime '2023-07-11T18:08:25.601169Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000157 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000157 prov:endedAtTime '2023-07-12T10:55:54.526050Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000157 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001423 rdf:type lado:Location .
 samian:loc_ds_1001423 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001423 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001423 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001423 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001423 rdfs:label 'Marköbel'@en.
 samian:loc_ds_1001423 dc:identifier 1001423.
@@ -307,13 +307,13 @@ samian:loc_ds_1001423 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001423 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001423 prov:wasGeneratedBy samian:activity_loc_ds_1001423 .
 samian:activity_loc_ds_1001423 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001423 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001423 prov:endedAtTime '2023-07-11T18:08:25.601169Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001423 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001423 prov:endedAtTime '2023-07-12T10:55:54.527056Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001423 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002130 rdf:type lado:Location .
 samian:loc_ds_1002130 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002130 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002130 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002130 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002130 rdfs:label 'Baden-Baden'@en.
 samian:loc_ds_1002130 dc:identifier 1002130.
@@ -334,13 +334,13 @@ samian:loc_ds_1002130 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002130 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002130 prov:wasGeneratedBy samian:activity_loc_ds_1002130 .
 samian:activity_loc_ds_1002130 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002130 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002130 prov:endedAtTime '2023-07-11T18:08:25.602166Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002130 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002130 prov:endedAtTime '2023-07-12T10:55:54.527056Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002130 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003222 rdf:type lado:Location .
 samian:loc_ds_1003222 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003222 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003222 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003222 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003222 rdfs:label 'Hanau-Salisberg'@en.
 samian:loc_ds_1003222 dc:identifier 1003222.
@@ -361,13 +361,13 @@ samian:loc_ds_1003222 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003222 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003222 prov:wasGeneratedBy samian:activity_loc_ds_1003222 .
 samian:activity_loc_ds_1003222 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003222 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003222 prov:endedAtTime '2023-07-11T18:08:25.602166Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003222 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003222 prov:endedAtTime '2023-07-12T10:55:54.528053Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003222 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001054 rdf:type lado:Location .
 samian:loc_ds_1001054 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001054 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001054 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001054 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001054 rdfs:label 'Okarben'@en.
 samian:loc_ds_1001054 dc:identifier 1001054.
@@ -388,13 +388,13 @@ samian:loc_ds_1001054 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001054 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001054 prov:wasGeneratedBy samian:activity_loc_ds_1001054 .
 samian:activity_loc_ds_1001054 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001054 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001054 prov:endedAtTime '2023-07-11T18:08:25.602166Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001054 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001054 prov:endedAtTime '2023-07-12T10:55:54.528053Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001054 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002500 rdf:type lado:Location .
 samian:loc_ds_1002500 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002500 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002500 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002500 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002500 rdfs:label 'Heidelberg'@en.
 samian:loc_ds_1002500 dc:identifier 1002500.
@@ -415,13 +415,13 @@ samian:loc_ds_1002500 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002500 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002500 prov:wasGeneratedBy samian:activity_loc_ds_1002500 .
 samian:activity_loc_ds_1002500 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002500 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002500 prov:endedAtTime '2023-07-11T18:08:25.602166Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002500 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002500 prov:endedAtTime '2023-07-12T10:55:54.529058Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002500 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000983 rdf:type lado:Location .
 samian:loc_ds_1000983 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000983 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000983 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000983 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000983 rdfs:label 'Arnsburg'@en.
 samian:loc_ds_1000983 dc:identifier 1000983.
@@ -442,13 +442,13 @@ samian:loc_ds_1000983 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000983 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000983 prov:wasGeneratedBy samian:activity_loc_ds_1000983 .
 samian:activity_loc_ds_1000983 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000983 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000983 prov:endedAtTime '2023-07-11T18:08:25.602166Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000983 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000983 prov:endedAtTime '2023-07-12T10:55:54.529058Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000983 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001351 rdf:type lado:Location .
 samian:loc_ds_1001351 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001351 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001351 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001351 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001351 rdfs:label 'Voorburg'@en.
 samian:loc_ds_1001351 dc:identifier 1001351.
@@ -469,13 +469,13 @@ samian:loc_ds_1001351 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001351 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001351 prov:wasGeneratedBy samian:activity_loc_ds_1001351 .
 samian:activity_loc_ds_1001351 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001351 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001351 prov:endedAtTime '2023-07-11T18:08:25.603164Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001351 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001351 prov:endedAtTime '2023-07-12T10:55:54.529058Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001351 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000828 rdf:type lado:Location .
 samian:loc_ds_1000828 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000828 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000828 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000828 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000828 rdfs:label 'Wels'@en.
 samian:loc_ds_1000828 dc:identifier 1000828.
@@ -496,13 +496,13 @@ samian:loc_ds_1000828 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000828 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000828 prov:wasGeneratedBy samian:activity_loc_ds_1000828 .
 samian:activity_loc_ds_1000828 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000828 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000828 prov:endedAtTime '2023-07-11T18:08:25.603164Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000828 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000828 prov:endedAtTime '2023-07-12T10:55:54.530056Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000828 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003271 rdf:type lado:Location .
 samian:loc_ds_1003271 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003271 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003271 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003271 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003271 rdfs:label 'Bickenbach'@en.
 samian:loc_ds_1003271 dc:identifier 1003271.
@@ -523,13 +523,13 @@ samian:loc_ds_1003271 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003271 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003271 prov:wasGeneratedBy samian:activity_loc_ds_1003271 .
 samian:activity_loc_ds_1003271 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003271 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003271 prov:endedAtTime '2023-07-11T18:08:25.603164Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003271 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003271 prov:endedAtTime '2023-07-12T10:55:54.530056Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003271 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001392 rdf:type lado:Location .
 samian:loc_ds_1001392 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001392 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001392 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001392 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001392 rdfs:label 'Weissenburg'@en.
 samian:loc_ds_1001392 dc:identifier 1001392.
@@ -550,13 +550,13 @@ samian:loc_ds_1001392 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001392 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001392 prov:wasGeneratedBy samian:activity_loc_ds_1001392 .
 samian:activity_loc_ds_1001392 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001392 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001392 prov:endedAtTime '2023-07-11T18:08:25.603164Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001392 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001392 prov:endedAtTime '2023-07-12T10:55:54.530056Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001392 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003948 rdf:type lado:Location .
 samian:loc_ds_1003948 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003948 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003948 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003948 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003948 rdfs:label 'Rottweil'@en.
 samian:loc_ds_1003948 dc:identifier 1003948.
@@ -577,13 +577,13 @@ samian:loc_ds_1003948 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003948 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003948 prov:wasGeneratedBy samian:activity_loc_ds_1003948 .
 samian:activity_loc_ds_1003948 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003948 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003948 prov:endedAtTime '2023-07-11T18:08:25.603164Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003948 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003948 prov:endedAtTime '2023-07-12T10:55:54.531053Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003948 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003289 rdf:type lado:Location .
 samian:loc_ds_1003289 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003289 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003289 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003289 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003289 rdfs:label 'Heddernheim'@en.
 samian:loc_ds_1003289 dc:identifier 1003289.
@@ -604,13 +604,13 @@ samian:loc_ds_1003289 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003289 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003289 prov:wasGeneratedBy samian:activity_loc_ds_1003289 .
 samian:activity_loc_ds_1003289 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003289 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003289 prov:endedAtTime '2023-07-11T18:08:25.604164Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003289 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003289 prov:endedAtTime '2023-07-12T10:55:54.531053Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003289 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003944 rdf:type lado:Location .
 samian:loc_ds_1003944 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003944 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003944 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003944 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003944 rdfs:label 'Rossum'@en.
 samian:loc_ds_1003944 dc:identifier 1003944.
@@ -631,13 +631,13 @@ samian:loc_ds_1003944 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003944 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003944 prov:wasGeneratedBy samian:activity_loc_ds_1003944 .
 samian:activity_loc_ds_1003944 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003944 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003944 prov:endedAtTime '2023-07-11T18:08:25.604164Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003944 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003944 prov:endedAtTime '2023-07-12T10:55:54.531053Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003944 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001327 rdf:type lado:Location .
 samian:loc_ds_1001327 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001327 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001327 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001327 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001327 rdfs:label 'Günzburg'@en.
 samian:loc_ds_1001327 dc:identifier 1001327.
@@ -658,13 +658,13 @@ samian:loc_ds_1001327 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001327 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001327 prov:wasGeneratedBy samian:activity_loc_ds_1001327 .
 samian:activity_loc_ds_1001327 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001327 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001327 prov:endedAtTime '2023-07-11T18:08:25.604164Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001327 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001327 prov:endedAtTime '2023-07-12T10:55:54.532053Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001327 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000376 rdf:type lado:Location .
 samian:loc_ds_1000376 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000376 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000376 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000376 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000376 rdfs:label 'Regensburg'@en.
 samian:loc_ds_1000376 dc:identifier 1000376.
@@ -685,13 +685,13 @@ samian:loc_ds_1000376 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000376 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000376 prov:wasGeneratedBy samian:activity_loc_ds_1000376 .
 samian:activity_loc_ds_1000376 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000376 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000376 prov:endedAtTime '2023-07-11T18:08:25.604164Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000376 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000376 prov:endedAtTime '2023-07-12T10:55:54.532053Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000376 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1004142 rdf:type lado:Location .
 samian:loc_ds_1004142 rdf:type lado:DiscoverySite .
-samian:loc_ds_1004142 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1004142 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1004142 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1004142 rdfs:label 'Epfach'@en.
 samian:loc_ds_1004142 dc:identifier 1004142.
@@ -712,13 +712,13 @@ samian:loc_ds_1004142 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1004142 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1004142 prov:wasGeneratedBy samian:activity_loc_ds_1004142 .
 samian:activity_loc_ds_1004142 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1004142 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1004142 prov:endedAtTime '2023-07-11T18:08:25.604164Z'^^xsd:dateTime .
+samian:activity_loc_ds_1004142 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1004142 prov:endedAtTime '2023-07-12T10:55:54.532053Z'^^xsd:dateTime .
 samian:activity_loc_ds_1004142 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001186 rdf:type lado:Location .
 samian:loc_ds_1001186 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001186 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001186 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001186 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001186 rdfs:label 'Schleitheim'@en.
 samian:loc_ds_1001186 dc:identifier 1001186.
@@ -739,13 +739,13 @@ samian:loc_ds_1001186 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001186 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001186 prov:wasGeneratedBy samian:activity_loc_ds_1001186 .
 samian:activity_loc_ds_1001186 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001186 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001186 prov:endedAtTime '2023-07-11T18:08:25.605166Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001186 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001186 prov:endedAtTime '2023-07-12T10:55:54.533055Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001186 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002839 rdf:type lado:Location .
 samian:loc_ds_1002839 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002839 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002839 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002839 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002839 rdfs:label 'Monterberg'@en.
 samian:loc_ds_1002839 dc:identifier 1002839.
@@ -766,13 +766,13 @@ samian:loc_ds_1002839 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002839 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002839 prov:wasGeneratedBy samian:activity_loc_ds_1002839 .
 samian:activity_loc_ds_1002839 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002839 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002839 prov:endedAtTime '2023-07-11T18:08:25.605293Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002839 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002839 prov:endedAtTime '2023-07-12T10:55:54.533055Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002839 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001028 rdf:type lado:Location .
 samian:loc_ds_1001028 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001028 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001028 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001028 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001028 rdfs:label 'Gellep'@en.
 samian:loc_ds_1001028 dc:identifier 1001028.
@@ -793,13 +793,13 @@ samian:loc_ds_1001028 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001028 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001028 prov:wasGeneratedBy samian:activity_loc_ds_1001028 .
 samian:activity_loc_ds_1001028 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001028 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001028 prov:endedAtTime '2023-07-11T18:08:25.605293Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001028 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001028 prov:endedAtTime '2023-07-12T10:55:54.533055Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001028 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001030 rdf:type lado:Location .
 samian:loc_ds_1001030 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001030 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001030 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001030 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001030 rdfs:label 'Geislingen'@en.
 samian:loc_ds_1001030 dc:identifier 1001030.
@@ -820,13 +820,13 @@ samian:loc_ds_1001030 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001030 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001030 prov:wasGeneratedBy samian:activity_loc_ds_1001030 .
 samian:activity_loc_ds_1001030 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001030 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001030 prov:endedAtTime '2023-07-11T18:08:25.605293Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001030 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001030 prov:endedAtTime '2023-07-12T10:55:54.533055Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001030 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000460 rdf:type lado:Location .
 samian:loc_ds_1000460 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000460 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000460 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000460 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000460 rdfs:label 'Carnuntum'@en.
 samian:loc_ds_1000460 dc:identifier 1000460.
@@ -847,13 +847,13 @@ samian:loc_ds_1000460 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000460 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000460 prov:wasGeneratedBy samian:activity_loc_ds_1000460 .
 samian:activity_loc_ds_1000460 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000460 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000460 prov:endedAtTime '2023-07-11T18:08:25.605293Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000460 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000460 prov:endedAtTime '2023-07-12T10:55:54.534053Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000460 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001786 rdf:type lado:Location .
 samian:loc_ds_1001786 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001786 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001786 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001786 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001786 rdfs:label 'Woerden'@en.
 samian:loc_ds_1001786 dc:identifier 1001786.
@@ -874,13 +874,13 @@ samian:loc_ds_1001786 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001786 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001786 prov:wasGeneratedBy samian:activity_loc_ds_1001786 .
 samian:activity_loc_ds_1001786 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001786 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001786 prov:endedAtTime '2023-07-11T18:08:25.606168Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001786 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001786 prov:endedAtTime '2023-07-12T10:55:54.534053Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001786 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003165 rdf:type lado:Location .
 samian:loc_ds_1003165 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003165 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003165 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003165 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003165 rdfs:label 'Augsburg'@en.
 samian:loc_ds_1003165 dc:identifier 1003165.
@@ -901,13 +901,13 @@ samian:loc_ds_1003165 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003165 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003165 prov:wasGeneratedBy samian:activity_loc_ds_1003165 .
 samian:activity_loc_ds_1003165 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003165 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003165 prov:endedAtTime '2023-07-11T18:08:25.606168Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003165 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003165 prov:endedAtTime '2023-07-12T10:55:54.535053Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003165 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000489 rdf:type lado:Location .
 samian:loc_ds_1000489 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000489 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000489 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000489 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000489 rdfs:label 'Salzburg'@en.
 samian:loc_ds_1000489 dc:identifier 1000489.
@@ -928,13 +928,13 @@ samian:loc_ds_1000489 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000489 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000489 prov:wasGeneratedBy samian:activity_loc_ds_1000489 .
 samian:activity_loc_ds_1000489 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000489 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000489 prov:endedAtTime '2023-07-11T18:08:25.606168Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000489 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000489 prov:endedAtTime '2023-07-12T10:55:54.535053Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000489 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003898 rdf:type lado:Location .
 samian:loc_ds_1003898 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003898 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003898 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003898 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003898 rdfs:label 'Oberstimm'@en.
 samian:loc_ds_1003898 dc:identifier 1003898.
@@ -955,13 +955,13 @@ samian:loc_ds_1003898 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003898 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003898 prov:wasGeneratedBy samian:activity_loc_ds_1003898 .
 samian:activity_loc_ds_1003898 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003898 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003898 prov:endedAtTime '2023-07-11T18:08:25.606168Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003898 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003898 prov:endedAtTime '2023-07-12T10:55:54.535053Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003898 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002381 rdf:type lado:Location .
 samian:loc_ds_1002381 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002381 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002381 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002381 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002381 rdfs:label 'Burghöfe'@en.
 samian:loc_ds_1002381 dc:identifier 1002381.
@@ -982,13 +982,13 @@ samian:loc_ds_1002381 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002381 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002381 prov:wasGeneratedBy samian:activity_loc_ds_1002381 .
 samian:activity_loc_ds_1002381 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002381 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002381 prov:endedAtTime '2023-07-11T18:08:25.606168Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002381 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002381 prov:endedAtTime '2023-07-12T10:55:54.536052Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002381 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000372 rdf:type lado:Location .
 samian:loc_ds_1000372 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000372 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000372 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000372 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000372 rdfs:label 'Riegel'@en.
 samian:loc_ds_1000372 dc:identifier 1000372.
@@ -1009,13 +1009,13 @@ samian:loc_ds_1000372 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000372 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000372 prov:wasGeneratedBy samian:activity_loc_ds_1000372 .
 samian:activity_loc_ds_1000372 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000372 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000372 prov:endedAtTime '2023-07-11T18:08:25.607163Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000372 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000372 prov:endedAtTime '2023-07-12T10:55:54.536052Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000372 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002066 rdf:type lado:Location .
 samian:loc_ds_1002066 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002066 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002066 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002066 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002066 rdfs:label 'Groß-Gerau'@en.
 samian:loc_ds_1002066 dc:identifier 1002066.
@@ -1036,13 +1036,13 @@ samian:loc_ds_1002066 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002066 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002066 prov:wasGeneratedBy samian:activity_loc_ds_1002066 .
 samian:activity_loc_ds_1002066 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002066 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002066 prov:endedAtTime '2023-07-11T18:08:25.607163Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002066 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002066 prov:endedAtTime '2023-07-12T10:55:54.536052Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002066 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001943 rdf:type lado:Location .
 samian:loc_ds_1001943 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001943 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001943 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001943 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001943 rdfs:label 'Wiesbaden'@en.
 samian:loc_ds_1001943 dc:identifier 1001943.
@@ -1063,13 +1063,13 @@ samian:loc_ds_1001943 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001943 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001943 prov:wasGeneratedBy samian:activity_loc_ds_1001943 .
 samian:activity_loc_ds_1001943 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001943 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001943 prov:endedAtTime '2023-07-11T18:08:25.607163Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001943 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001943 prov:endedAtTime '2023-07-12T10:55:54.537051Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001943 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000671 rdf:type lado:Location .
 samian:loc_ds_1000671 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000671 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000671 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000671 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000671 rdfs:label 'Seebruck'@en.
 samian:loc_ds_1000671 dc:identifier 1000671.
@@ -1090,13 +1090,13 @@ samian:loc_ds_1000671 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000671 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000671 prov:wasGeneratedBy samian:activity_loc_ds_1000671 .
 samian:activity_loc_ds_1000671 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000671 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000671 prov:endedAtTime '2023-07-11T18:08:25.607163Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000671 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000671 prov:endedAtTime '2023-07-12T10:55:54.537051Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000671 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002748 rdf:type lado:Location .
 samian:loc_ds_1002748 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002748 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002748 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002748 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002748 rdfs:label 'Unterkirchberg'@en.
 samian:loc_ds_1002748 dc:identifier 1002748.
@@ -1117,13 +1117,13 @@ samian:loc_ds_1002748 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002748 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002748 prov:wasGeneratedBy samian:activity_loc_ds_1002748 .
 samian:activity_loc_ds_1002748 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002748 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002748 prov:endedAtTime '2023-07-11T18:08:25.607163Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002748 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002748 prov:endedAtTime '2023-07-12T10:55:54.538051Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002748 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1004152 rdf:type lado:Location .
 samian:loc_ds_1004152 rdf:type lado:DiscoverySite .
-samian:loc_ds_1004152 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1004152 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1004152 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1004152 rdfs:label 'Rheinzabern'@en.
 samian:loc_ds_1004152 dc:identifier 1004152.
@@ -1144,13 +1144,13 @@ samian:loc_ds_1004152 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1004152 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1004152 prov:wasGeneratedBy samian:activity_loc_ds_1004152 .
 samian:activity_loc_ds_1004152 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1004152 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1004152 prov:endedAtTime '2023-07-11T18:08:25.607163Z'^^xsd:dateTime .
+samian:activity_loc_ds_1004152 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1004152 prov:endedAtTime '2023-07-12T10:55:54.538051Z'^^xsd:dateTime .
 samian:activity_loc_ds_1004152 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001870 rdf:type lado:Location .
 samian:loc_ds_1001870 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001870 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001870 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001870 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001870 rdfs:label 'Speyer'@en.
 samian:loc_ds_1001870 dc:identifier 1001870.
@@ -1171,13 +1171,13 @@ samian:loc_ds_1001870 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001870 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001870 prov:wasGeneratedBy samian:activity_loc_ds_1001870 .
 samian:activity_loc_ds_1001870 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001870 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001870 prov:endedAtTime '2023-07-11T18:08:25.608232Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001870 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001870 prov:endedAtTime '2023-07-12T10:55:54.539055Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001870 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001913 rdf:type lado:Location .
 samian:loc_ds_1001913 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001913 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001913 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001913 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001913 rdfs:label 'Emerkingen'@en.
 samian:loc_ds_1001913 dc:identifier 1001913.
@@ -1198,13 +1198,13 @@ samian:loc_ds_1001913 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001913 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001913 prov:wasGeneratedBy samian:activity_loc_ds_1001913 .
 samian:activity_loc_ds_1001913 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001913 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001913 prov:endedAtTime '2023-07-11T18:08:25.608232Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001913 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001913 prov:endedAtTime '2023-07-12T10:55:54.539055Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001913 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003531 rdf:type lado:Location .
 samian:loc_ds_1003531 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003531 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003531 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003531 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003531 rdfs:label 'Nijmegen'@en.
 samian:loc_ds_1003531 dc:identifier 1003531.
@@ -1225,13 +1225,13 @@ samian:loc_ds_1003531 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003531 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003531 prov:wasGeneratedBy samian:activity_loc_ds_1003531 .
 samian:activity_loc_ds_1003531 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003531 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003531 prov:endedAtTime '2023-07-11T18:08:25.609131Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003531 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003531 prov:endedAtTime '2023-07-12T10:55:54.540053Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003531 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001087 rdf:type lado:Location .
 samian:loc_ds_1001087 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001087 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001087 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001087 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001087 rdfs:label 'Hüfingen'@en.
 samian:loc_ds_1001087 dc:identifier 1001087.
@@ -1252,13 +1252,13 @@ samian:loc_ds_1001087 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001087 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001087 prov:wasGeneratedBy samian:activity_loc_ds_1001087 .
 samian:activity_loc_ds_1001087 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001087 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001087 prov:endedAtTime '2023-07-11T18:08:25.609131Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001087 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001087 prov:endedAtTime '2023-07-12T10:55:54.540053Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001087 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003782 rdf:type lado:Location .
 samian:loc_ds_1003782 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003782 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003782 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003782 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003782 rdfs:label 'Bregenz'@en.
 samian:loc_ds_1003782 dc:identifier 1003782.
@@ -1279,13 +1279,13 @@ samian:loc_ds_1003782 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003782 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003782 prov:wasGeneratedBy samian:activity_loc_ds_1003782 .
 samian:activity_loc_ds_1003782 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003782 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003782 prov:endedAtTime '2023-07-11T18:08:25.609131Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003782 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003782 prov:endedAtTime '2023-07-12T10:55:54.540053Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003782 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001033 rdf:type lado:Location .
 samian:loc_ds_1001033 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001033 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001033 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001033 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001033 rdfs:label 'Köln'@en.
 samian:loc_ds_1001033 dc:identifier 1001033.
@@ -1306,13 +1306,13 @@ samian:loc_ds_1001033 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001033 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001033 prov:wasGeneratedBy samian:activity_loc_ds_1001033 .
 samian:activity_loc_ds_1001033 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001033 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001033 prov:endedAtTime '2023-07-11T18:08:25.609131Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001033 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001033 prov:endedAtTime '2023-07-12T10:55:54.541051Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001033 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1004136 rdf:type lado:Location .
 samian:loc_ds_1004136 rdf:type lado:DiscoverySite .
-samian:loc_ds_1004136 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1004136 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1004136 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1004136 rdfs:label 'Bonn'@en.
 samian:loc_ds_1004136 dc:identifier 1004136.
@@ -1333,13 +1333,13 @@ samian:loc_ds_1004136 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1004136 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1004136 prov:wasGeneratedBy samian:activity_loc_ds_1004136 .
 samian:activity_loc_ds_1004136 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1004136 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1004136 prov:endedAtTime '2023-07-11T18:08:25.609131Z'^^xsd:dateTime .
+samian:activity_loc_ds_1004136 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1004136 prov:endedAtTime '2023-07-12T10:55:54.541051Z'^^xsd:dateTime .
 samian:activity_loc_ds_1004136 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001531 rdf:type lado:Location .
 samian:loc_ds_1001531 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001531 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001531 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001531 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001531 rdfs:label 'Luxeuil-les-Bains'@en.
 samian:loc_ds_1001531 dc:identifier 1001531.
@@ -1360,13 +1360,13 @@ samian:loc_ds_1001531 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001531 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001531 prov:wasGeneratedBy samian:activity_loc_ds_1001531 .
 samian:activity_loc_ds_1001531 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001531 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001531 prov:endedAtTime '2023-07-11T18:08:25.610163Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001531 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001531 prov:endedAtTime '2023-07-12T10:55:54.542054Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001531 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001207 rdf:type lado:Location .
 samian:loc_ds_1001207 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001207 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001207 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001207 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001207 rdfs:label 'Rißtissen'@en.
 samian:loc_ds_1001207 dc:identifier 1001207.
@@ -1387,13 +1387,13 @@ samian:loc_ds_1001207 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001207 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001207 prov:wasGeneratedBy samian:activity_loc_ds_1001207 .
 samian:activity_loc_ds_1001207 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001207 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001207 prov:endedAtTime '2023-07-11T18:08:25.610163Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001207 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001207 prov:endedAtTime '2023-07-12T10:55:54.542054Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001207 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002542 rdf:type lado:Location .
 samian:loc_ds_1002542 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002542 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002542 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002542 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002542 rdfs:label 'Strasbourg'@en.
 samian:loc_ds_1002542 dc:identifier 1002542.
@@ -1414,13 +1414,13 @@ samian:loc_ds_1002542 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002542 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002542 prov:wasGeneratedBy samian:activity_loc_ds_1002542 .
 samian:activity_loc_ds_1002542 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002542 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002542 prov:endedAtTime '2023-07-11T18:08:25.610163Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002542 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002542 prov:endedAtTime '2023-07-12T10:55:54.543055Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002542 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1004310 rdf:type lado:Location .
 samian:loc_ds_1004310 rdf:type lado:DiscoverySite .
-samian:loc_ds_1004310 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1004310 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1004310 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1004310 rdfs:label 'Worms'@en.
 samian:loc_ds_1004310 dc:identifier 1004310.
@@ -1441,13 +1441,13 @@ samian:loc_ds_1004310 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1004310 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1004310 prov:wasGeneratedBy samian:activity_loc_ds_1004310 .
 samian:activity_loc_ds_1004310 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1004310 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1004310 prov:endedAtTime '2023-07-11T18:08:25.610163Z'^^xsd:dateTime .
+samian:activity_loc_ds_1004310 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1004310 prov:endedAtTime '2023-07-12T10:55:54.543055Z'^^xsd:dateTime .
 samian:activity_loc_ds_1004310 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002021 rdf:type lado:Location .
 samian:loc_ds_1002021 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002021 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002021 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002021 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002021 rdfs:label 'Zwammerdam'@en.
 samian:loc_ds_1002021 dc:identifier 1002021.
@@ -1468,13 +1468,13 @@ samian:loc_ds_1002021 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002021 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002021 prov:wasGeneratedBy samian:activity_loc_ds_1002021 .
 samian:activity_loc_ds_1002021 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002021 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002021 prov:endedAtTime '2023-07-11T18:08:25.610163Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002021 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002021 prov:endedAtTime '2023-07-12T10:55:54.543055Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002021 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002190 rdf:type lado:Location .
 samian:loc_ds_1002190 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002190 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002190 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002190 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002190 rdfs:label 'Valkenburg'@en.
 samian:loc_ds_1002190 dc:identifier 1002190.
@@ -1495,13 +1495,13 @@ samian:loc_ds_1002190 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002190 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002190 prov:wasGeneratedBy samian:activity_loc_ds_1002190 .
 samian:activity_loc_ds_1002190 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002190 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002190 prov:endedAtTime '2023-07-11T18:08:25.610163Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002190 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002190 prov:endedAtTime '2023-07-12T10:55:54.544053Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002190 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000457 rdf:type lado:Location .
 samian:loc_ds_1000457 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000457 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000457 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000457 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000457 rdfs:label 'Xanten'@en.
 samian:loc_ds_1000457 dc:identifier 1000457.
@@ -1522,13 +1522,13 @@ samian:loc_ds_1000457 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000457 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000457 prov:wasGeneratedBy samian:activity_loc_ds_1000457 .
 samian:activity_loc_ds_1000457 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000457 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000457 prov:endedAtTime '2023-07-11T18:08:25.611166Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000457 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000457 prov:endedAtTime '2023-07-12T10:55:54.544053Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000457 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001653 rdf:type lado:Location .
 samian:loc_ds_1001653 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001653 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001653 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001653 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001653 rdfs:label 'Vechten'@en.
 samian:loc_ds_1001653 dc:identifier 1001653.
@@ -1549,13 +1549,13 @@ samian:loc_ds_1001653 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001653 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001653 prov:wasGeneratedBy samian:activity_loc_ds_1001653 .
 samian:activity_loc_ds_1001653 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001653 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001653 prov:endedAtTime '2023-07-11T18:08:25.611166Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001653 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001653 prov:endedAtTime '2023-07-12T10:55:54.545056Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001653 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003761 rdf:type lado:Location .
 samian:loc_ds_1003761 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003761 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003761 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003761 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003761 rdfs:label 'Mainz'@en.
 samian:loc_ds_1003761 dc:identifier 1003761.
@@ -1576,13 +1576,13 @@ samian:loc_ds_1003761 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003761 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003761 prov:wasGeneratedBy samian:activity_loc_ds_1003761 .
 samian:activity_loc_ds_1003761 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003761 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003761 prov:endedAtTime '2023-07-11T18:08:25.611166Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003761 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003761 prov:endedAtTime '2023-07-12T10:55:54.545056Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003761 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003966 rdf:type lado:Location .
 samian:loc_ds_1003966 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003966 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003966 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003966 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003966 rdfs:label 'Utrecht'@en.
 samian:loc_ds_1003966 dc:identifier 1003966.
@@ -1603,13 +1603,13 @@ samian:loc_ds_1003966 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003966 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003966 prov:wasGeneratedBy samian:activity_loc_ds_1003966 .
 samian:activity_loc_ds_1003966 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003966 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003966 prov:endedAtTime '2023-07-11T18:08:25.611166Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003966 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003966 prov:endedAtTime '2023-07-12T10:55:54.545056Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003966 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000913 rdf:type lado:Location .
 samian:loc_ds_1000913 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000913 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000913 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000913 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000913 rdfs:label 'Hofheim'@en.
 samian:loc_ds_1000913 dc:identifier 1000913.
@@ -1630,13 +1630,13 @@ samian:loc_ds_1000913 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000913 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000913 prov:wasGeneratedBy samian:activity_loc_ds_1000913 .
 samian:activity_loc_ds_1000913 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000913 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000913 prov:endedAtTime '2023-07-11T18:08:25.611166Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000913 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000913 prov:endedAtTime '2023-07-12T10:55:54.546053Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000913 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001308 rdf:type lado:Location .
 samian:loc_ds_1001308 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001308 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001308 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001308 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001308 rdfs:label 'Andernach'@en.
 samian:loc_ds_1001308 dc:identifier 1001308.
@@ -1657,13 +1657,13 @@ samian:loc_ds_1001308 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001308 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001308 prov:wasGeneratedBy samian:activity_loc_ds_1001308 .
 samian:activity_loc_ds_1001308 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001308 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001308 prov:endedAtTime '2023-07-11T18:08:25.612165Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001308 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001308 prov:endedAtTime '2023-07-12T10:55:54.546053Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001308 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002698 rdf:type lado:Location .
 samian:loc_ds_1002698 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002698 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002698 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002698 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002698 rdfs:label 'Neuss'@en.
 samian:loc_ds_1002698 dc:identifier 1002698.
@@ -1684,13 +1684,13 @@ samian:loc_ds_1002698 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002698 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002698 prov:wasGeneratedBy samian:activity_loc_ds_1002698 .
 samian:activity_loc_ds_1002698 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002698 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002698 prov:endedAtTime '2023-07-11T18:08:25.612165Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002698 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002698 prov:endedAtTime '2023-07-12T10:55:54.547054Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002698 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000293 rdf:type lado:Location .
 samian:loc_ds_1000293 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000293 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000293 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000293 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000293 rdfs:label 'Moers-Asberg'@en.
 samian:loc_ds_1000293 dc:identifier 1000293.
@@ -1711,13 +1711,13 @@ samian:loc_ds_1000293 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000293 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000293 prov:wasGeneratedBy samian:activity_loc_ds_1000293 .
 samian:activity_loc_ds_1000293 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000293 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000293 prov:endedAtTime '2023-07-11T18:08:25.612165Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000293 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000293 prov:endedAtTime '2023-07-12T10:55:54.547054Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000293 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001873 rdf:type lado:Location .
 samian:loc_ds_1001873 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001873 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001873 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001873 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001873 rdfs:label 'Kempten'@en.
 samian:loc_ds_1001873 dc:identifier 1001873.
@@ -1738,13 +1738,13 @@ samian:loc_ds_1001873 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001873 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001873 prov:wasGeneratedBy samian:activity_loc_ds_1001873 .
 samian:activity_loc_ds_1001873 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001873 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001873 prov:endedAtTime '2023-07-11T18:08:25.612165Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001873 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001873 prov:endedAtTime '2023-07-12T10:55:54.547054Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001873 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002275 rdf:type lado:Location .
 samian:loc_ds_1002275 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002275 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002275 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002275 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002275 rdfs:label 'Rheingönheim'@en.
 samian:loc_ds_1002275 dc:identifier 1002275.
@@ -1765,13 +1765,13 @@ samian:loc_ds_1002275 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002275 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002275 prov:wasGeneratedBy samian:activity_loc_ds_1002275 .
 samian:activity_loc_ds_1002275 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002275 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002275 prov:endedAtTime '2023-07-11T18:08:25.612165Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002275 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002275 prov:endedAtTime '2023-07-12T10:55:54.548051Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002275 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000815 rdf:type lado:Location .
 samian:loc_ds_1000815 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000815 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000815 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000815 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000815 rdfs:label 'Aislingen'@en.
 samian:loc_ds_1000815 dc:identifier 1000815.
@@ -1792,13 +1792,13 @@ samian:loc_ds_1000815 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000815 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000815 prov:wasGeneratedBy samian:activity_loc_ds_1000815 .
 samian:activity_loc_ds_1000815 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000815 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000815 prov:endedAtTime '2023-07-11T18:08:25.613166Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000815 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000815 prov:endedAtTime '2023-07-12T10:55:54.548051Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000815 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000837 rdf:type lado:Location .
 samian:loc_ds_1000837 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000837 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000837 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000837 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000837 rdfs:label 'Ehl'@en.
 samian:loc_ds_1000837 dc:identifier 1000837.
@@ -1819,13 +1819,13 @@ samian:loc_ds_1000837 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000837 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000837 prov:wasGeneratedBy samian:activity_loc_ds_1000837 .
 samian:activity_loc_ds_1000837 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000837 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000837 prov:endedAtTime '2023-07-11T18:08:25.613445Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000837 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000837 prov:endedAtTime '2023-07-12T10:55:54.549055Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000837 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000803 rdf:type lado:Location .
 samian:loc_ds_1000803 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000803 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000803 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000803 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000803 rdfs:label 'Brumath'@en.
 samian:loc_ds_1000803 dc:identifier 1000803.
@@ -1846,13 +1846,13 @@ samian:loc_ds_1000803 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000803 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000803 prov:wasGeneratedBy samian:activity_loc_ds_1000803 .
 samian:activity_loc_ds_1000803 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000803 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000803 prov:endedAtTime '2023-07-11T18:08:25.613739Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000803 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000803 prov:endedAtTime '2023-07-12T10:55:54.549055Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000803 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001510 rdf:type lado:Location .
 samian:loc_ds_1001510 rdf:type lado:DiscoverySite .
-samian:loc_ds_1001510 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1001510 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1001510 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1001510 rdfs:label 'Bingen'@en.
 samian:loc_ds_1001510 dc:identifier 1001510.
@@ -1873,13 +1873,13 @@ samian:loc_ds_1001510 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1001510 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1001510 prov:wasGeneratedBy samian:activity_loc_ds_1001510 .
 samian:activity_loc_ds_1001510 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1001510 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1001510 prov:endedAtTime '2023-07-11T18:08:25.614130Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001510 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1001510 prov:endedAtTime '2023-07-12T10:55:54.550051Z'^^xsd:dateTime .
 samian:activity_loc_ds_1001510 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1002709 rdf:type lado:Location .
 samian:loc_ds_1002709 rdf:type lado:DiscoverySite .
-samian:loc_ds_1002709 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1002709 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1002709 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1002709 rdfs:label 'Koblenz'@en.
 samian:loc_ds_1002709 dc:identifier 1002709.
@@ -1900,13 +1900,13 @@ samian:loc_ds_1002709 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1002709 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1002709 prov:wasGeneratedBy samian:activity_loc_ds_1002709 .
 samian:activity_loc_ds_1002709 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1002709 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1002709 prov:endedAtTime '2023-07-11T18:08:25.615130Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002709 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1002709 prov:endedAtTime '2023-07-12T10:55:54.551053Z'^^xsd:dateTime .
 samian:activity_loc_ds_1002709 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1000754 rdf:type lado:Location .
 samian:loc_ds_1000754 rdf:type lado:DiscoverySite .
-samian:loc_ds_1000754 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000754 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000754 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000754 rdfs:label 'Kreuznach'@en.
 samian:loc_ds_1000754 dc:identifier 1000754.
@@ -1927,13 +1927,13 @@ samian:loc_ds_1000754 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1000754 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1000754 prov:wasGeneratedBy samian:activity_loc_ds_1000754 .
 samian:activity_loc_ds_1000754 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1000754 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1000754 prov:endedAtTime '2023-07-11T18:08:25.615130Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000754 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1000754 prov:endedAtTime '2023-07-12T10:55:54.552054Z'^^xsd:dateTime .
 samian:activity_loc_ds_1000754 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1003421 rdf:type lado:Location .
 samian:loc_ds_1003421 rdf:type lado:DiscoverySite .
-samian:loc_ds_1003421 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1003421 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1003421 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1003421 rdfs:label 'Velsen'@en.
 samian:loc_ds_1003421 dc:identifier 1003421.
@@ -1954,8 +1954,8 @@ samian:loc_ds_1003421 prov:wasAttributedTo samian:ImportPythonScript_TiGerR .
 samian:loc_ds_1003421 prov:wasDerivedFrom <http://www.wikidata.org/entity/Q90412636> .
 samian:loc_ds_1003421 prov:wasGeneratedBy samian:activity_loc_ds_1003421 .
 samian:activity_loc_ds_1003421 rdf:type <http://www.w3.org/ns/prov#Activity> .
-samian:activity_loc_ds_1003421 prov:startedAtTime '2023-07-11T18:08:25.586249Z'^^xsd:dateTime .
-samian:activity_loc_ds_1003421 prov:endedAtTime '2023-07-11T18:08:25.615130Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003421 prov:startedAtTime '2023-07-12T10:55:54.511094Z'^^xsd:dateTime .
+samian:activity_loc_ds_1003421 prov:endedAtTime '2023-07-12T10:55:54.552054Z'^^xsd:dateTime .
 samian:activity_loc_ds_1003421 prov:wasAssociatedWith samian:ImportPythonScript_TiGerR .
 
 samian:loc_ds_1001530 time:intervalBefore samian:loc_ds_1000255.
