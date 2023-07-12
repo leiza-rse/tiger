@@ -1,9 +1,9 @@
 <http://data.archaeology.link/data/samian/loc_ds_1000136>
   a lado:Location, lado:DiscoverySite, lado:ToGeR_Event ;
   lado:hasType lado:DiscoverySite ;
-  rdfs:label "London"@en ;
+  rdfs:label "Londinium"@en ;
   dc11:identifier 1000136 ;
-  lado:tiger_eventname "London"@en ;
+  lado:tiger_eventname "Londinium"@en ;
   lado:tiger_id 1000136 ;
   geosparql:hasGeometry samian:loc_ds_1000136_geom ;
   lado:tiger_cax -0.0207 ;
@@ -13,13 +13,13 @@
   dc:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
   dc:creator <https://orcid.org/0000-0002-3246-3531> ;
   dc:rightsHolder <https://orcid.org/0000-0002-3246-3531>, <https://orcid.org/0000-0002-7634-5342> ;
-  prov:wasAttributedTo samian:ImportPythonScript_TiGerR ;
+  prov:wasAttributedTo samian:ImportPythonScript_TiGeR ;
   prov:wasDerivedFrom <http://wikidata.org/entity/Q90412636> ;
-  time:intervalBefore samian:loc_ds_1000375 .
+  time:intervalBefore samian:loc_ds_1003470 .
 
 <http://data.archaeology.link/data/samian/loc_ds_1000136_geom>
   a <http://www.opengis.net/ont/sf#Point> ;
   geosparql:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-0.09184 51.51279)"^^geosparql:wktLiteral .
 
-<http://data.archaeology.link/data/samian/loc_ds_1002885>
+<http://data.archaeology.link/data/samian/loc_ds_1001570>
   time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1000136> .

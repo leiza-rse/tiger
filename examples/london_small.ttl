@@ -10,19 +10,19 @@
 @prefix samian: <http://data.archaeology.link/data/samian/> .
 @prefix time: <http://www.w3.org/2006/time#> .
 
-samian:loc_ds_1002885 rdf:type lado:ToGeR_Event .
-samian:loc_ds_1002885 rdfs:label 'Caerhûn'@en.
-samian:loc_ds_1002885 dc:identifier 1002885.
+samian:loc_ds_1001570 rdf:type lado:TiGeR_Event .
+samian:loc_ds_1001570 rdfs:label 'Camulodunum'@en.
+samian:loc_ds_1001570 dc:identifier 1001570.
 
-samian:loc_ds_1000375 rdf:type lado:ToGeR_Event .
-samian:loc_ds_1000375 rdfs:label 'Lincoln'@en.
-samian:loc_ds_1000375 dc:identifier 1000375.
+samian:loc_ds_1003470 rdf:type lado:TiGeR_Event .
+samian:loc_ds_1003470 rdfs:label 'Vindolanda'@en.
+samian:loc_ds_1003470 dc:identifier 1003470.
 
-samian:loc_ds_1000136 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000136 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000136 lado:hasType lado:DiscoverySite .
-samian:loc_ds_1000136 rdfs:label 'London'@en.
+samian:loc_ds_1000136 rdfs:label 'Londinium'@en.
 samian:loc_ds_1000136 dc:identifier 1000136.
-samian:loc_ds_1000136 lado:tiger_eventname 'London'@en.
+samian:loc_ds_1000136 lado:tiger_eventname 'Londinium'@en.
 samian:loc_ds_1000136 lado:tiger_id 1000136.
 samian:loc_ds_1000136 geosparql:hasGeometry samian:loc_ds_1000136_geom .
 samian:loc_ds_1000136_geom rdf:type sf:Point .
@@ -32,5 +32,5 @@ samian:loc_ds_1000136 lado:tiger_cay 0.1535.
 samian:loc_ds_1000136 lado:tiger_cax_norm 0.57943.
 samian:loc_ds_1000136 lado:tiger_cax_hex '#1597be' .
 
-samian:loc_ds_1002885 time:intervalBefore samian:loc_ds_1000136.
-samian:loc_ds_1000136 time:intervalBefore samian:loc_ds_1000375.
+samian:loc_ds_1001570 time:intervalBefore samian:loc_ds_1000136.
+samian:loc_ds_1000136 time:intervalBefore samian:loc_ds_1003470.
