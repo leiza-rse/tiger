@@ -10,15 +10,15 @@
 @prefix samian: <http://data.archaeology.link/data/samian/> .
 @prefix time: <http://www.w3.org/2006/time#> .
 
-samian:loc_ds_1000838 rdf:type lado:ToGeR_Event .
-samian:loc_ds_1000838 rdfs:label 'Echzell'@en.
-samian:loc_ds_1000838 dc:identifier 1000838.
+samian:loc_ds_1000346 rdf:type lado:TiGeR_Event .
+samian:loc_ds_1000346 rdfs:label 'Bad Cannstatt'@en.
+samian:loc_ds_1000346 dc:identifier 1000346.
 
-samian:loc_ds_1003439 rdf:type lado:ToGeR_Event .
-samian:loc_ds_1003439 rdfs:label 'Wien'@en.
-samian:loc_ds_1003439 dc:identifier 1003439.
+samian:loc_ds_1001327 rdf:type lado:TiGeR_Event .
+samian:loc_ds_1001327 rdfs:label 'Günzburg'@en.
+samian:loc_ds_1001327 dc:identifier 1001327.
 
-samian:loc_ds_1000737 rdf:type lado:ToGeR_Event .
+samian:loc_ds_1000737 rdf:type lado:TiGeR_Event .
 samian:loc_ds_1000737 lado:hasType lado:DiscoverySite .
 samian:loc_ds_1000737 rdfs:label 'Saalburg'@en.
 samian:loc_ds_1000737 dc:identifier 1000737 .
@@ -32,8 +32,8 @@ samian:loc_ds_1000737 lado:tiger_cay 0.0468.
 samian:loc_ds_1000737 lado:tiger_cax_norm 0.08208.
 samian:loc_ds_1000737 lado:tiger_cax_hex '#2d1b75' .
 
-samian:loc_ds_1000838 time:intervalBefore samian:loc_ds_1000737.
-samian:loc_ds_1000737 time:intervalBefore samian:loc_ds_1003439.
+samian:loc_ds_1001327 time:intervalAfter samian:loc_ds_1000737.
+samian:loc_ds_1000737 time:intervalBefore samian:loc_ds_1000346.
 
 
 
