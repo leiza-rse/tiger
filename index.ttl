@@ -2129,13 +2129,13 @@
 <http://data.archaeology.link/data/samian/loc_ds_1000136> a ns1:DiscoverySite,
         ns1:Location,
         ns1:TiGeR_Event ;
-    rdfs:label "London"@en ;
+    rdfs:label "Londinium"@en ;
     ns1:hasType ns1:DiscoverySite ;
     ns1:tiger_cax -0.0207 ;
     ns1:tiger_cax_hex "#1597be" ;
     ns1:tiger_cax_norm 0.57943 ;
     ns1:tiger_cay 0.1535 ;
-    ns1:tiger_eventname "London"@en ;
+    ns1:tiger_eventname "Londinium"@en ;
     ns1:tiger_id 1000136 ;
     dc:identifier 1000136 ;
     dcterms:creator <https://orcid.org/0000-0002-3246-3531> ;

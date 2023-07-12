@@ -256,7 +256,7 @@ var tree={
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000136_suniv0_",
         "parent": "http://archaeology.link/ontology#Location",
         "type": "geoinstance",
-        "text": "London (samian:loc_ds_1000136)",
+        "text": "Londinium (samian:loc_ds_1000136)",
         "data": {}
       },
       {
@@ -1348,7 +1348,7 @@ var tree={
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000136_suniv1_",
         "parent": "http://archaeology.link/ontology#DiscoverySite",
         "type": "geoinstance",
-        "text": "London (samian:loc_ds_1000136)",
+        "text": "Londinium (samian:loc_ds_1000136)",
         "data": {}
       },
       {
@@ -2440,7 +2440,7 @@ var tree={
         "id": "http://data.archaeology.link/data/samian/loc_ds_1000136_suniv2_",
         "parent": "http://archaeology.link/ontology#TiGeR_Event",
         "type": "geoinstance",
-        "text": "London (samian:loc_ds_1000136)",
+        "text": "Londinium (samian:loc_ds_1000136)",
         "data": {}
       },
       {

@@ -84,7 +84,7 @@ var search={
   "Lincoln": "http://data.archaeology.link/data/samian/loc_ds_1000375",
   "Little Chester": "http://data.archaeology.link/data/samian/loc_ds_1000924",
   "Location Instances Collection": "http://data.archaeology.link/data/samian/Location_collection",
-  "London": "http://data.archaeology.link/data/samian/loc_ds_1000136",
+  "Londinium": "http://data.archaeology.link/data/samian/loc_ds_1000136",
   "Loughor": "http://data.archaeology.link/data/samian/loc_ds_1001182",
   "Luxeuil-les-Bains": "http://data.archaeology.link/data/samian/loc_ds_1001531",
   "Maidstone": "http://data.archaeology.link/data/samian/loc_ds_1003148",
