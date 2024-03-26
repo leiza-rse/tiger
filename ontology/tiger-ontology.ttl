@@ -1,0 +1,18 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lado: <http://archaeology.link/ontology#> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+
+lado:ToGeR_Event a rdfs:Class.
+
+lado:tiger_eventname a rdfs:Property.
+lado:tiger_id a rdfs:Property.
+lado:tiger_cax a rdfs:Property.
+lado:tiger_cay a rdfs:Property.
+lado:tiger_cax_norm a rdfs:Property.
+lado:tiger_cax_hex a rdfs:Property.
+
+geosparql:hasGeometry a rdfs:Property.
+geosparql:asWKT a rdfs:Property.
+
+time:intervalBefore a rdfs:Property.
