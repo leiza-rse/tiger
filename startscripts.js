@@ -56,7 +56,7 @@ labelproperties={
     "http://www.w3.org/2000/01/rdf-schema#label": "DatatypeProperty"
 }
 
-var baseurl="http://data.archaeology.link/data/samian/"
+var baseurl=""
   $( function() {
     var availableTags = Object.keys(search)
     $( "#search" ).autocomplete({
@@ -73,6 +73,10 @@ function openNav() {
 
 function closeNav() {
   document.getElementById("mySidenav").style.width = "0";
+}
+
+function exportChartJS(){
+    saveTextAsFile(JSON.stringify({"xValues":xValues,"yValues":yValues}),"json")
 }
 
 function exportGeoJSON(){
@@ -559,7 +563,7 @@ function exportTGFGDF(sepchar,format){
 		resgdf+="edgedef>node1 VARCHAR,node2 VARCHAR,label VARCHAR\n"
 	}
     resgdf+=edges
-	saveTextAsFile(resgdf,format)   
+	saveTextAsFile(resgdf,format)
 }
 
 function setSVGDimensions(){
@@ -617,10 +621,10 @@ function exportGeoURI(){
     resuri=""
     for(point of centerpoints){
 		if(typeof(epsg)!=='undefined'){
-			resuri+="geo:"+point["lng"]+","+point["lat"]+";crs="+epsg+"\n"		
+			resuri+="geo:"+point["lng"]+","+point["lat"]+";crs="+epsg+"\n"
 		}else{
 			resuri+="geo:"+point["lng"]+","+point["lat"]+";crs=EPSG:4326\n"
-		}       
+		}
     }
     saveTextAsFile(resuri,"geouri")
 }
@@ -897,6 +901,62 @@ function setup3dhop(meshurl,meshformat) {
   });
 }
 
+function addRotationControls(box,geometryF,objects){
+    geometryF.close();
+
+    const rotationFolder = geometryF.addFolder("Rotation");
+    rotationFolder.add(objects.rotation, 'x', 0, Math.PI).name("X").onChange(
+    function(){
+        yourVar = this.getValue();
+        scene.traverse(function(obj){
+            if(obj.type === 'Mesh'){
+                obj.rotation.x = yourVar;
+            }});
+    });
+    rotationFolder.add(objects.rotation, 'y', 0, Math.PI).name("Y").onChange(
+    function(){
+        yourVar = this.getValue();
+        scene.traverse(function(obj){
+            if(obj.type === 'Mesh'){
+                obj.rotation.y = yourVar;
+            }});
+    });
+    rotationFolder.add(objects.rotation, 'z', 0, Math.PI).name("Z").onChange(
+    function(){
+        yourVar = this.getValue();
+        scene.traverse(function(obj){
+            if(obj.type === 'Mesh'){
+                obj.rotation.z = yourVar;
+            }});
+    });
+
+    const scaleFolder = geometryF.addFolder("Scale");
+    scaleFolder.add(objects.scale, 'x', 0, 2).name("X").onChange(
+    function(){
+        yourVar = this.getValue();
+        scene.traverse(function(obj){
+            if(obj.type === 'Mesh'){
+                obj.scale.x = yourVar;
+            }});
+    });
+    scaleFolder.add(objects.scale, 'y', 0, 2).name("Y").onChange(
+    function(){
+        yourVar = this.getValue();
+        scene.traverse(function(obj){
+            if(obj.type === 'Mesh'){
+                obj.scale.y = yourVar;
+            }});
+    });
+    scaleFolder.add(objects.scale, 'z', 0, 2).name("Z").onChange(
+    function(){
+        yourVar = this.getValue();
+        scene.traverse(function(obj){
+            if(obj.type === 'Mesh'){
+                obj.scale.z = yourVar;
+            }});
+    });
+}
+
 function start3dhop(meshurl,meshformat){
     init3dhop();
 	setup3dhop(meshurl,meshformat);
@@ -905,30 +965,8 @@ function start3dhop(meshurl,meshformat){
 }
 
 
-let camera, scene, renderer,controls;
-
-function viewGeometry(geometry) {
-  const material = new THREE.MeshPhongMaterial({
-    color: 0xffffff,
-    flatShading: true,
-    vertexColors: THREE.VertexColors,
-    wireframe: false
-  });
-  const mesh = new THREE.Mesh(geometry, material);
-  scene.add(mesh);
-}
-
-function initThreeJS(domelement,verts,meshurls) {
-    scene = new THREE.Scene();
-    minz=Number.MAX_VALUE
-    maxz=Number.MIN_VALUE
-    miny=Number.MAX_VALUE
-    maxy=Number.MIN_VALUE
-    minx=Number.MAX_VALUE
-    maxx=Number.MIN_VALUE
-	vertarray=[]
-    console.log(verts)
-    var svgShape = new THREE.Shape();
+function prepareAnnotationFromJSON(verts,annotations){
+	var svgShape = new THREE.Shape();
     first=true
     for(vert of verts){
         if(first){
@@ -959,38 +997,183 @@ function initThreeJS(domelement,verts,meshurls) {
             miny=vert["x"]
         }
     }
-    if(meshurls.length>0){
-        var loader = new THREE.PLYLoader();
-        loader.load(meshurls[0], viewGeometry);
+	var extrudedGeometry = new THREE.ExtrudeGeometry(svgShape, {depth: Math.abs(maxz-minz), bevelEnabled: false});
+    extrudedGeometry.computeBoundingBox()
+    const material = new THREE.MeshBasicMaterial( { color: 0xFFFFFF, wireframe:true } );
+    const mesh = new THREE.Mesh( extrudedGeometry, material );
+    if(minz<0){
+        mesh.position.z = minz;
     }
-    camera = new THREE.PerspectiveCamera(90,window.innerWidth / window.innerHeight, 0.1, 150 );
+	annotations.add(mesh)
+	return annotations
+}
+
+let camera, scene, renderer,controls,axesHelper,box,center,size;
+
+function fitCameraToSelection(camera, controls, selection, fitOffset = 1.2) {
+  size = new THREE.Vector3();
+  center = new THREE.Vector3();
+  box = new THREE.Box3();
+  box.makeEmpty();
+  for(const object of selection) {
+    box.expandByObject(object);
+  }
+
+  box.getSize(size);
+  box.getCenter(center );
+
+  const maxSize = Math.max(size.x, size.y, size.z);
+  const fitHeightDistance = maxSize / (2 * Math.atan(Math.PI * camera.fov / 360));
+  const fitWidthDistance = fitHeightDistance / camera.aspect;
+  const distance = fitOffset * Math.max(fitHeightDistance, fitWidthDistance);
+
+  const direction = controls.target.clone()
+    .sub(camera.position)
+    .normalize()
+    .multiplyScalar(distance);
+
+  controls.maxDistance = distance * 10;
+  controls.target.copy(center);
+
+  camera.near = distance / 100;
+  camera.far = distance * 100;
+  camera.updateProjectionMatrix();
+
+  camera.position.copy(controls.target).sub(direction);
+
+  controls.update();
+}
+
+function initThreeJS(domelement,verts,meshurls) {
+    scene = new THREE.Scene();
+    minz=Number.MAX_VALUE
+    maxz=Number.MIN_VALUE
+    miny=Number.MAX_VALUE
+    maxy=Number.MIN_VALUE
+    minx=Number.MAX_VALUE
+    maxx=Number.MIN_VALUE
+	vertarray=[]
+    annotations=new THREE.Group();
+	const objects=new THREE.Group();
+    console.log(verts)
+    var svgShape = new THREE.Shape();
+    first=true
+    height=500
+    width=480
+    annotations=prepareAnnotationFromJSON(verts,annotations)
+    const gui = new dat.GUI({autoPlace: false})
+	gui.domElement.id="gui"
+    $("#threejsnav").append($(gui.domElement))
+	const geometryFolder = gui.addFolder("Mesh");
+	geometryFolder.open();
+	const lightingFolder = geometryFolder.addFolder("Lighting");
+	const geometryF = geometryFolder.addFolder("Geometry");
+	geometryF.open();
+    renderer = new THREE.WebGLRenderer( { antialias: false } );
+	renderer.setPixelRatio( window.devicePixelRatio );
+    renderer.setSize( width, height);
+    document.getElementById(domelement).appendChild( renderer.domElement );
+    bbox=null
+    if(meshurls.length>0){
+        if(meshurls[0].includes(".ply")){
+            var loader = new THREE.PLYLoader();
+            loader.load(meshurls[0], function(object){
+                const material = new THREE.MeshPhongMaterial({
+                    color: 0xffffff,
+                    flatShading: true,
+                    vertexColors: THREE.VertexColors,
+                    wireframe: false
+                });
+                const mesh = new THREE.Mesh(object, material);
+                objects.add(mesh);
+                scene.add(objects);
+                addRotationControls(object,geometryF,objects)
+                if(objects.children.length>0){
+                    camera.lookAt( objects.children[0].position );
+                }
+                fitCameraToSelection(camera, controls, objects.children)
+            });
+        }else if(meshurls[0].includes(".obj")){
+            var loader= new THREE.OBJLoader();
+            loader.load(meshurls[0],function ( object ) {objects.add(object);scene.add(objects); addRotationControls(object,geometryF,objects);if(objects.children.length>0){camera.lookAt( objects.children[0].position );}fitCameraToSelection(camera, controls, objects.children) })
+        }else if(meshurls[0].includes(".nxs") || meshurls[0].includes(".nxz")){
+            var nexus_obj=new NexusObject(meshurls[0],function(){},renderNXS,renderer);
+            objects.add(nexus_obj)
+            scene.add(objects);
+            addRotationControls(nexus_obj,geometryF,objects)
+            if(objects.children.length>0){
+                camera.lookAt( objects.children[0].position );
+            }
+            fitCameraToSelection(camera, controls, objects.children)
+        }else if(meshurls[0].includes(".gltf")){
+            var loader = new THREE.GLTFLoader();
+            loader.load(meshurls[0], function ( gltf )
+            {
+                box = gltf.scene;
+                box.position.x = 0;
+                box.position.y = 0;
+                objects.add(box)
+                scene.add(objects);
+                addRotationControls(box,geometryF,objects)
+                if(objects.children.length>0){
+                    camera.lookAt( objects.children[0].position );
+                }
+                fitCameraToSelection(camera, controls, objects.children)
+            });
+        }
+    }
+    //camera = new THREE.PerspectiveCamera(90,window.innerWidth / window.innerHeight, 0.1, 150 );
+    camera = new THREE.PerspectiveCamera(90,width / height, 0.1, 2000 );
     scene.add(new THREE.AmbientLight(0x222222));
     var light = new THREE.DirectionalLight(0xffffff, 1);
     light.position.set(20, 20, 0);
     scene.add(light);
-    var axesHelper = new THREE.AxesHelper( Math.max(maxx, maxy, maxz)*4 );
+    lightingFolder.add(light.position, "x").min(-5).max(5).step(0.01).name("X Position")
+	lightingFolder.add(light.position, "y").min(-5).max(5).step(0.01).name("Y Position")
+	lightingFolder.add(light.position, "z").min(-5).max(5).step(0.01).name("Z Position")
+    axesHelper = new THREE.AxesHelper( Math.max(1000, 1000, 1000) );
     scene.add( axesHelper );
     console.log("Depth: "+(maxz-minz))
-    var extrudedGeometry = new THREE.ExtrudeGeometry(svgShape, {depth: maxz-minz, bevelEnabled: false});
-    extrudedGeometry.computeBoundingBox()
-    centervec=new THREE.Vector3()
-    extrudedGeometry.boundingBox.getCenter(centervec)
-    console.log(centervec)
-    const material = new THREE.MeshBasicMaterial( { color: 0xFFFFFF, wireframe:true } );
-    const mesh = new THREE.Mesh( extrudedGeometry, material );
-    scene.add( mesh );
-    renderer = new THREE.WebGLRenderer( { antialias: false } );
-	renderer.setPixelRatio( window.devicePixelRatio );
-    renderer.setSize( 480, 500 );
-    document.getElementById(domelement).appendChild( renderer.domElement );
-	controls = new THREE.OrbitControls( camera, renderer.domElement );
-    controls.target.set( centervec.x,centervec.y,centervec.z );
-    camera.position.x= centervec.x
-    camera.position.y= centervec.y
-    camera.position.z = centervec.z+10;
-    controls.maxDistance= Math.max(maxx, maxy, maxz)*5
+    scene.add( annotations );
+	centervec=new THREE.Vector3()
+    controls = new THREE.OrbitControls( camera, renderer.domElement );
+    //controls.target.set( centervec.x,centervec.y,centervec.z );
+    controls.target.set( 0,0,0 );
+    camera.position.x= 0
+    camera.position.y= 0
+    camera.position.z = 150;
+    controls.maxDistance= Math.max(1000, 1000, 1000)
     controls.update();
+    const updateCamera = () => {
+		camera.updateProjectionMatrix();
+	}
+	const cameraFolder = geometryFolder.addFolder("Camera");
+	cameraFolder.add(camera, 'fov', 1, 180).name('Zoom').onChange(updateCamera);
+    cameraFolder.add(camera.position, 'x').min(-500).max(500).step(5).name("X Position").onChange(updateCamera);
+    cameraFolder.add(camera.position, 'y').min(-500).max(500).step(5).name("Y Position").onChange(updateCamera);
+    cameraFolder.add(camera.position, 'z').min(-500).max(500).step(5).name("Z Position").onChange(updateCamera);
+    gui.add(objects, 'visible').name('Meshes')
+    gui.add(annotations, 'visible').name('Annotations')
+    gui.add(axesHelper, 'visible').name('Axis Helper')
+    gui.add({"FullScreen":toggleFullScreen2}, 'FullScreen')
+    document.addEventListener("fullscreenchange",function(){
+        if(document.fullscreenElement){
+            camera.aspect = width / height;
+            camera.updateProjectionMatrix();
+            renderer.setSize( width, height );
+        }
+    })
+    if(meshurls.length>0 && (meshurls[0].includes(".nxs") || meshurls[0].includes(".nxz"))){
+        renderNXS()
+    }
     animate()
+}
+
+function renderNXS(){
+    console.log(renderer)
+    Nexus.beginFrame(renderer.getContext());
+    renderer.render( scene, camera );
+    Nexus.endFrame(renderer.getContext());
 }
 
 function animate() {
@@ -1048,23 +1231,27 @@ function labelFromURI(uri,label){
 function formatHTMLTableForPropertyRelations(propuri,result,propicon){
     dialogcontent="<h3><img src=\""+propicon+"\" height=\"25\" width=\"25\" alt=\"Instance\"/><a href=\""+propuri.replace('/index.json','/index.html')+"\" target=\"_blank\"> "+shortenURI(propuri)+"</a></h3><table border=1 id=classrelationstable><thead><tr><th>Incoming Concept</th><th>Relation</th><th>Outgoing Concept</th></tr></thead><tbody>"
     console.log(result)
-    for(instance in result["from"]){
+    if("from" in result) {
+        for (instance in result["from"]) {
 //
-            if(result["from"][instance]=="instancecount"){
+            if (result["from"][instance] == "instancecount") {
                 continue;
             }
-            dialogcontent+="<tr><td><img src=\"https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/class.png\" height=\"25\" width=\"25\" alt=\"Class\"/><a href=\""+result["from"][instance]+"\" target=\"_blank\">"+shortenURI(result["from"][instance])+"</a></td>"
-            dialogcontent+="<td><img src=\""+propicon+"\" height=\"25\" width=\"25\" alt=\"Instance\"/><a href=\""+propuri+"\" target=\"_blank\">"+shortenURI(propuri)+"</a></td><td></td></tr>"
-       // }
+            dialogcontent += "<tr><td><img onclick=\"getClassRelationDialog($('#jstree').jstree(true).get_node('" + result["from"][instance] + "'))\" src=\"" + iconprefix + "class.png\" height=\"25\" width=\"25\" alt=\"Class\"/><a href=\"" + result["from"][instance] + "\" target=\"_blank\">" + shortenURI(result["from"][instance]) + "</a></td>"
+            dialogcontent += "<td><img src=\"" + propicon + "\" height=\"25\" width=\"25\" alt=\"Instance\"/><a href=\"" + propuri + "\" target=\"_blank\">" + shortenURI(propuri) + "</a></td><td></td></tr>"
+            // }
+        }
     }
-    for(instance in result["to"]){
-        //for(instance in result["to"][res]){
-            if(result["to"][instance]=="instancecount"){
+    if("to" in result) {
+        for (instance in result["to"]) {
+            //for(instance in result["to"][res]){
+            if (result["to"][instance] == "instancecount") {
                 continue;
             }
-            dialogcontent+="<tr><td></td><td><img src=\""+propicon+"\" height=\"25\" width=\"25\" alt=\"Class\"/><a href=\""+propuri+"\" target=\"_blank\">"+shortenURI(propuri)+"</a></td>"
-            dialogcontent+="<td><img src=\"https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/class.png\" height=\"25\" width=\"25\" alt=\"Instance\"/><a href=\""+result["to"][instance]+"\" target=\"_blank\">"+shortenURI(result["to"][instance])+"</a></td></tr>"
-       // }
+            dialogcontent += "<tr><td></td><td><img src=\"" + propicon + "\" height=\"25\" width=\"25\" alt=\"Class\"/><a href=\"" + propuri + "\" target=\"_blank\">" + shortenURI(propuri) + "</a></td>"
+            dialogcontent += "<td><img onclick=\"getClassRelationDialog($('#jstree').jstree(true).get_node('" + result["to"][instance] + "'))\" src=\"" + iconprefix + "class.png\" height=\"25\" width=\"25\" alt=\"Instance\"/><a href=\"" + result["to"][instance] + "\" target=\"_blank\">" + shortenURI(result["to"][instance]) + "</a></td></tr>"
+            // }
+        }
     }
     dialogcontent+="</tbody></table>"
     dialogcontent+="<button style=\"float:right\" id=\"closebutton\" onclick='document.getElementById(\"classrelationdialog\").close()'>Close</button>"
@@ -1072,34 +1259,34 @@ function formatHTMLTableForPropertyRelations(propuri,result,propicon){
 }
 
 function determineTableCellLogo(uri){
-    result="<td><a href=\""+uri+"\" target=\"_blank\">"
+    result="<td>"
     logourl=""
     finished=false
     if(uri in labelproperties){
-        result+="<img src=\"https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/labelproperty.png\" height=\"25\" width=\"25\" alt=\"Label Property\"/>"
-        logourl="https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/labelproperty.png"
+        result+="<img onclick=\"getPropRelationDialog('"+uri+"','"+iconprefix+"labelproperty.png')\"  src=\""+iconprefix+"labelproperty.png\" height=\"25\" width=\"25\" alt=\"Label Property\"/>"
+        logourl=iconprefix+"labelproperty.png"
         finished=true
     }
     if(!finished){
         for(ns in annotationnamespaces){
             if(uri.includes(annotationnamespaces[ns])){
-                result+="<img src=\"https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/annotationproperty.png\" height=\"25\" width=\"25\" alt=\"Annotation Property\"/>"
-                logourl="https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/annotationproperty.png"
+                result+="<img onclick=\"getPropRelationDialog('"+uri+"','"+iconprefix+"annotationproperty.png')\" src=\""+iconprefix+"annotationproperty.png\" height=\"25\" width=\"25\" alt=\"Annotation Property\"/>"
+                logourl=iconprefix+"annotationproperty.png"
                 finished=true
             }
         }
     }
     if(!finished && uri in geoproperties && geoproperties[uri]=="ObjectProperty"){
-        result+="<img src=\"https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/geoobjectproperty.png\" height=\"25\" width=\"25\" alt=\"Geo Object Property\"/>"
-        logourl="https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/geoobjectproperty.png"
+        result+="<img onclick=\"getPropRelationDialog('"+uri+"','"+iconprefix+"geoobjectproperty.png')\" src=\""+iconprefix+"geoobjectproperty.png\" height=\"25\" width=\"25\" alt=\"Geo Object Property\"/>"
+        logourl=iconprefix+"geoobjectproperty.png"
     }else if(!finished && uri in geoproperties && geoproperties[uri]=="DatatypeProperty"){
-        result+="<img src=\"https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/geodatatypeproperty.png\" height=\"25\" width=\"25\" alt=\"Geo Datatype Property\"/>"
-        logourl="https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/geodatatypeproperty.png"
+        result+="<img onclick=\"getPropRelationDialog('"+uri+"','"+iconprefix+"geodatatypeproperty.png')\" src=\""+iconprefix+"geodatatypeproperty.png\" height=\"25\" width=\"25\" alt=\"Geo Datatype Property\"/>"
+        logourl=iconprefix+"geodatatypeproperty.png"
     }else if(!finished){
-        result+="<img src=\"https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/objectproperty.png\" height=\"25\" width=\"25\" alt=\"Object Property\"/>"
-        logourl="https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/objectproperty.png"
+        result+="<img onclick=\"getPropRelationDialog('"+uri+"','"+iconprefix+"objectproperty.png')\" src=\""+iconprefix+"objectproperty.png\" height=\"25\" width=\"25\" alt=\"Object Property\"/>"
+        logourl=iconprefix+"objectproperty.png"
     }
-    result+=shortenURI(uri)+"</a></td>"
+    result+="<a href=\""+uri+"\" target=\"_blank\">"+shortenURI(uri)+"</a></td>"
     return [result,logourl]
 }
 
@@ -1109,24 +1296,28 @@ function formatHTMLTableForClassRelations(result,nodeicon,nodelabel,nodeid){
         nodelabel=nodelabel.substring(0,nodelabel.lastIndexOf("[")-1)
     }
     dialogcontent="<h3><img src=\""+nodeicon+"\" height=\"25\" width=\"25\" alt=\"Instance\"/><a href=\""+nodeid.replace('/index.json','/index.html')+"\" target=\"_blank\"> "+nodelabel+"</a></h3><table border=1 id=classrelationstable><thead><tr><th>Incoming Concept</th><th>Incoming Relation</th><th>Concept</th><th>Outgoing Relation</th><th>Outgoing Concept</th></tr></thead><tbody>"
-    for(res in result["from"]){
-        for(instance in result["from"][res]){
-            if(instance=="instancecount"){
-                continue;
+    if("from" in result) {
+        for (res in result["from"]) {
+            for (instance in result["from"][res]) {
+                if (instance == "instancecount") {
+                    continue;
+                }
+                dialogcontent += "<tr><td><img onclick=\"getClassRelationDialog($('#jstree').jstree(true).get_node('" + instance + "'))\" src=\"" + iconprefix + "class.png\" height=\"25\" width=\"25\" alt=\"Class\"/><a href=\"" + instance + "\" target=\"_blank\">" + shortenURI(instance) + "</a></td>"
+                dialogcontent += determineTableCellLogo(res)[0]
+                dialogcontent += "<td><img onclick=\"getClassRelationDialog($('#jstree').jstree(true).get_node('" + nodeid + "'))\" src=\"" + nodeicon + "\" height=\"25\" width=\"25\" alt=\"Instance\"/><a href=\"" + nodeid + "\" target=\"_blank\">" + nodelabel + "</a></td><td></td><td></td></tr>"
             }
-            dialogcontent+="<tr><td><img src=\"https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/class.png\" height=\"25\" width=\"25\" alt=\"Class\"/><a href=\""+instance+"\" target=\"_blank\">"+shortenURI(instance)+"</a></td>"
-            dialogcontent+=determineTableCellLogo(res)[0]
-            dialogcontent+="<td><img src=\""+nodeicon+"\" height=\"25\" width=\"25\" alt=\"Instance\"/><a href=\""+nodeid+"\" target=\"_blank\">"+nodelabel+"</a></td><td></td><td></td></tr>"
         }
     }
-    for(res in result["to"]){
-        for(instance in result["to"][res]){
-            if(instance=="instancecount"){
-                continue;
+    if("to" in result) {
+        for (res in result["to"]) {
+            for (instance in result["to"][res]) {
+                if (instance == "instancecount") {
+                    continue;
+                }
+                dialogcontent += "<tr><td></td><td></td><td><img onclick=\"getClassRelationDialog($('#jstree').jstree(true).get_node('" + nodeid + "'))\" src=\"" + nodeicon + "\" height=\"25\" width=\"25\" alt=\"Instance\"/><a href=\"" + nodeid + "\" target=\"_blank\">" + nodelabel + "</a></td>"
+                dialogcontent += determineTableCellLogo(res)[0]
+                dialogcontent += "<td><img onclick=\"getClassRelationDialog($('#jstree').jstree(true).get_node('" + instance + "'))\" src=\"" + iconprefix + "class.png\" height=\"25\" width=\"25\" alt=\"Class\"/><a href=\"" + instance + "\" target=\"_blank\">" + shortenURI(instance) + "</a></td></tr>"
             }
-            dialogcontent+="<tr><td></td><td></td><td><img src=\""+nodeicon+"\" height=\"25\" width=\"25\" alt=\"Instance\"/><a href=\""+nodeid+"\" target=\"_blank\">"+nodelabel+"</a></td>"
-            dialogcontent+=determineTableCellLogo(res)[0]
-            dialogcontent+="<td><img src=\"https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/class.png\" height=\"25\" width=\"25\" alt=\"Class\"/><a href=\""+instance+"\" target=\"_blank\">"+shortenURI(instance)+"</a></td></tr>"
         }
     }
     dialogcontent+="</tbody></table>"
@@ -1134,7 +1325,9 @@ function formatHTMLTableForClassRelations(result,nodeicon,nodelabel,nodeid){
     return dialogcontent
 }
 
-function formatHTMLTableForResult(result,nodeicon){
+listthreshold=5
+
+function formatHTMLTableForResult(result,nodeicon,nodetype){
     dialogcontent=""
     dialogcontent="<h3><img src=\""+nodeicon+"\" height=\"25\" width=\"25\" alt=\"Instance\"/><a href=\""+nodeid.replace('/index.json','/index.html')+"\" target=\"_blank\"> "+nodelabel+"</a></h3><table border=1 id=dataschematable><thead><tr><th>Type</th><th>Relation</th><th>Value</th></tr></thead><tbody>"
     for(res in result){
@@ -1144,11 +1337,11 @@ function formatHTMLTableForResult(result,nodeicon){
         dialogcontent+="<tr>"
         detpropicon=""
         if(res in geoproperties && geoproperties[res]=="ObjectProperty"){
-            dialogcontent+="<td><img src=\"https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/geoobjectproperty.png\" height=\"25\" width=\"25\" alt=\"Geo Object Property\"/>Geo Object Property</td>"
-            detpropicon="https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/geoobjectproperty.png"
+            dialogcontent+="<td><img src=\""+iconprefix+"geoobjectproperty.png\" height=\"25\" width=\"25\" alt=\"Geo Object Property\"/>Geo Object Property</td>"
+            detpropicon=iconprefix+"geoobjectproperty.png"
         }else if((result[res][0]+"").startsWith("http")){
-            dialogcontent+="<td><img src=\"https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/objectproperty.png\" height=\"25\" width=\"25\" alt=\"Object Property\"/>Object Property</td>"
-            detpropicon="https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/objectproperty.png"
+            dialogcontent+="<td><img src=\""+iconprefix+"objectproperty.png\" height=\"25\" width=\"25\" alt=\"Object Property\"/>Object Property</td>"
+            detpropicon=iconprefix+"objectproperty.png"
         }else{
             finished=false
             ress=determineTableCellLogo(res)
@@ -1157,19 +1350,43 @@ function formatHTMLTableForResult(result,nodeicon){
         }
         dialogcontent+="<td><a href=\""+res+"\" target=\"_blank\">"+shortenURI(res)+"</a> <a href=\"#\" onclick=\"getPropRelationDialog('"+res+"','"+detpropicon+"')\">[x]</a></td>"
         if(Object.keys(result[res]).length>1){
-            dialogcontent+="<td><ul>"
+            dialogcontent+="<td>"
+            if(result[res].length>listthreshold){
+                dialogcontent+="<details><summary>"+result[res].length+" values</summary>"
+            }
+            dialogcontent+="<ul>"
             for(resitem in result[res]){
-                if((resitem+"").startsWith("http")){
-                    dialogcontent+="<li><a href=\""+rewriteLink(resitem)+"\" target=\"_blank\">"+shortenURI(resitem)+"</a> ["+result[res][resitem]+"]</li>"
-                }else if(resitem!="instancecount"){
-                    dialogcontent+="<li>"+resitem+"</li>"
+                if(!(nodetype.includes("class"))) {
+                    if ((result[res][resitem] + "").trim().startsWith("http")) {
+                        dialogcontent += "<li><a href=\"" + rewriteLink(result[res][resitem]) + "\" target=\"_blank\">" + shortenURI(result[res][resitem]) + "</a></li>"
+                    } else if (resitem != "instancecount") {
+                        dialogcontent += "<li>" + result[res][resitem] + "</li>"
+                    }
+                }else{
+                    if ((resitem+ "").trim().startsWith("http")) {
+                        dialogcontent += "<li><a href=\"" + rewriteLink(resitem) + "\" target=\"_blank\">" + shortenURI(resitem) + "</a> [" + result[res][resitem] + "]</li>"
+                    } else if (resitem != "instancecount") {
+                        dialogcontent += "<li>" + result[res][resitem] + "</li>"
+                    }
                 }
             }
-            dialogcontent+="</ul></td>"
-        }else if((Object.keys(result[res])[0]+"").startsWith("http")){
-            dialogcontent+="<td><a href=\""+rewriteLink(Object.keys(result[res])[0]+"")+"\" target=\"_blank\">"+shortenURI(Object.keys(result[res])[0]+"")+"</a></td>"
+            dialogcontent+="</ul>"
+            if(result[res].length>listthreshold){
+                dialogcontent+="</details>"
+            }
+            dialogcontent+="</td>"
+        }else if((Object.keys(result[res])[0]+"").startsWith("http") || (result[res][Object.keys(result[res])[0]]+"").startsWith("http")){
+            if(!(nodetype.includes("class"))) {
+                dialogcontent+="<td><a href=\""+rewriteLink(result[res][Object.keys(result[res])[0]]+"")+"\" target=\"_blank\">"+shortenURI(result[res][Object.keys(result[res])[0]]+"")+"</a></td>"
+            }else{
+                dialogcontent+="<td><a href=\""+rewriteLink(Object.keys(result[res])[0]+"")+"\" target=\"_blank\">"+shortenURI(Object.keys(result[res])[0]+"")+"</a></td>"
+            }
         }else if(Object.keys(result[res])[0]!="instancecount"){
-            dialogcontent+="<td>"+Object.keys(result[res])[0]+"</td>"
+            if(!(nodetype.includes("class"))) {
+                dialogcontent += "<td>" + result[res][Object.keys(result[res])[0]] + "</td>"
+            }else{
+                dialogcontent += "<td>" + Object.keys(result[res])[0] + "</td>"
+            }
         }else{
             dialogcontent+="<td></td>"
         }
@@ -1226,13 +1443,13 @@ function getDataSchemaDialog(node){
      console.log(nodetype)
      if(nodetype=="class" || nodetype=="halfgeoclass" || nodetype=="geoclass" || node.type=="collectionclass"){
         console.log(props)
-        dialogcontent=formatHTMLTableForResult(props["to"],nodeicon)
+        dialogcontent=formatHTMLTableForResult(props["to"],nodeicon,nodetype)
         document.getElementById("dataschemadialog").innerHTML=dialogcontent
         $('#dataschematable').DataTable();
         document.getElementById("dataschemadialog").showModal();
      }else{
          $.getJSON(nodeid, function(result){
-            dialogcontent=formatHTMLTableForResult(result,nodeicon)
+            dialogcontent=formatHTMLTableForResult(result,nodeicon,nodetype)
             document.getElementById("dataschemadialog").innerHTML=dialogcontent
             $('#dataschematable').DataTable();
             document.getElementById("dataschemadialog").showModal();
@@ -1240,8 +1457,13 @@ function getDataSchemaDialog(node){
     }
 }
 
+iconprefix="https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/"
+
 function setupJSTree(){
     console.log("setupJSTree")
+	if(iconprefixx!=""){
+		iconprefix=iconprefixx
+	}
     tree["contextmenu"]={}
     tree["core"]["check_callback"]=true
     tree["sort"]=function(a, b) {
@@ -1252,6 +1474,17 @@ function setupJSTree(){
         } else {
             return (a1.icon > b1.icon) ? 1 : -1;
         }
+    }
+	tree["types"]={
+            "default": {"icon": iconprefix+"instance.png"},
+            "class": {"icon": iconprefix+"class.png"},
+            "geoclass": {"icon": iconprefix+"geoclass.png","valid_children":["class","halfgeoclass","geoclass","geoinstance"]},
+            "halfgeoclass": {"icon": iconprefix+"halfgeoclass.png"},
+            "collectionclass": {"icon": iconprefix+"collectionclass.png"},
+            "geocollection": {"icon": iconprefix+"geometrycollection.png"},
+            "featurecollection": {"icon": iconprefix+"featurecollection.png"},
+            "instance": {"icon": iconprefix+"instance.png"},
+            "geoinstance": {"icon": iconprefix+"geoinstance.png"}
     }
     tree["contextmenu"]["items"]=function (node) {
         nodetype=node.type
@@ -1264,7 +1497,7 @@ function setupJSTree(){
                 "separator_before": false,
                 "separator_after": false,
                 "label": "Lookup definition",
-                "icon": "https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/searchclass.png",
+                "icon": iconprefix+"searchclass.png",
                 "action": function (obj) {
                     newlink=normalizeNodeId(node)
                     var win = window.open(newlink, '_blank');
@@ -1275,7 +1508,7 @@ function setupJSTree(){
                 "separator_before": false,
                 "separator_after": false,
                 "label": "Copy URI to clipboard",
-                "icon": "https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/"+thelinkpart+"link.png",
+                "icon": iconprefix+thelinkpart+"link.png",
                 "action":function(obj){
                     copyText=normalizeNodeId(node)
                     navigator.clipboard.writeText(copyText);
@@ -1285,7 +1518,7 @@ function setupJSTree(){
                 "separator_before": false,
                 "separator_after": false,
                 "label": "Discover "+node.type+" relations",
-                "icon": "https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/"+thelinkpart+"link.png",
+                "icon": iconprefix+thelinkpart+"link.png",
                 "action":function(obj){
                     console.log("class relations")
                     if(node.type=="class" || node.type=="halfgeoclass" || node.type=="geoclass" || node.type=="collectionclass"){
@@ -1296,7 +1529,7 @@ function setupJSTree(){
             "loaddataschema": {
                 "separator_before": false,
                 "separator_after": false,
-                "icon":"https://cdn.jsdelivr.net/gh/i3mainz/geopubby@master/public/icons/"+node.type+"schema.png",
+                "icon": iconprefix+node.type+"schema.png",
                 "label": "Load dataschema for "+node.type,
                 "action": function (obj) {
                     console.log(node)
@@ -1332,6 +1565,26 @@ function setupJSTree(){
             $('#jstree').jstree(true).search(v,false,true);
         });
     });
+}
+
+function toggleFullScreen2(){
+    toggleFullScreen("threejs",true)
+}
+
+function toggleFullScreen(elementid,threejs=false) {
+  if (!document.fullscreenElement) {
+    document.getElementById(elementid).requestFullscreen();
+    if(threejs){
+        var elem = document.getElementById(elementid);
+        var sceneWidth = window.innerWidth;
+        var sceneHeight = elem.offsetHeight;
+        camera.aspect = sceneWidth / sceneHeight;
+        camera.updateProjectionMatrix();
+        renderer.setSize( sceneWidth, sceneHeight );
+    }
+  } else if (document.exitFullscreen) {
+    document.exitFullscreen();
+  }
 }
 
 function restyleLayer(propertyName,geojsonLayer) {
@@ -1442,13 +1695,13 @@ function fetchLayersFromList(thelist){
 	fcolls=[]
 	for(url in thelist){
 		$.ajax({
-			url:thelist[url], 
+			url:thelist[url],
 			dataType : 'json',
 			async : false,
-			success : function(data) { 
+			success : function(data) {
 				fcolls.push(data)
 			}
-		});	
+		});
 	}
 	return fcolls
 }

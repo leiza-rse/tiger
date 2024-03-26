@@ -1,8 +1,12 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
-<http://data.archaeology.link/data/samian/Point_collection> a geo:GeometryCollection ;
-    rdfs:label "Point Instances Collection" ;
+<http://data.archaeology.link/data/samian/Point_collection> a geo:GeometryCollection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Point Instances Collection"@en ;
+    void:inDataset <http://data.archaeology.link/data/samian/samian_dataset> ;
     rdfs:member <http://data.archaeology.link/data/samian/loc_ds_1000080_geom>,
         <http://data.archaeology.link/data/samian/loc_ds_1000088_geom>,
         <http://data.archaeology.link/data/samian/loc_ds_1000136_geom>,

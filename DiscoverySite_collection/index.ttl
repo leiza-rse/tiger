@@ -1,8 +1,12 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
-<http://data.archaeology.link/data/samian/DiscoverySite_collection> a geo:FeatureCollection ;
-    rdfs:label "DiscoverySite Instances Collection" ;
+<http://data.archaeology.link/data/samian/DiscoverySite_collection> a geo:FeatureCollection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "DiscoverySite Instances Collection"@en ;
+    void:inDataset <http://data.archaeology.link/data/samian/samian_dataset> ;
     rdfs:member <http://data.archaeology.link/data/samian/loc_ds_1000080>,
         <http://data.archaeology.link/data/samian/loc_ds_1000088>,
         <http://data.archaeology.link/data/samian/loc_ds_1000136>,

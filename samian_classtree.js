@@ -3351,6 +3351,11 @@ var tree={
             "http://purl.org/dc/terms/rightsHolder": {
               "instancecount": 2
             },
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1
+            },
             "http://www.opengis.net/ont/geosparql#hasGeometry": {
               "instancecount": 1,
               "http://www.opengis.net/ont/sf#Point": 1
@@ -3391,7 +3396,7 @@ var tree={
             }
           }
         },
-        "instancecount": 21
+        "instancecount": 22
       },
       {
         "id": "http://data.archaeology.link/data/samian/loc_ds_1001570_geom",
@@ -4485,6 +4490,11 @@ var tree={
         "text": "Point (sf:Point) [155]",
         "data": {
           "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1
+            },
             "http://www.opengis.net/ont/geosparql#asWKT": {
               "instancecount": 1
             },
@@ -4505,7 +4515,7 @@ var tree={
             }
           }
         },
-        "instancecount": 2
+        "instancecount": 3
       },
       {
         "id": "http://data.archaeology.link/data/samian/activity_loc_ds_1001570",
@@ -5599,6 +5609,11 @@ var tree={
         "text": "Activity (prov:Activity) [155]",
         "data": {
           "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1
+            },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
             },
@@ -5625,7 +5640,7 @@ var tree={
             }
           }
         },
-        "instancecount": 4
+        "instancecount": 5
       },
       {
         "id": "http://data.archaeology.link/data/samian/Location_collection",
@@ -5655,6 +5670,11 @@ var tree={
         "text": "FeatureCollection (gsp:FeatureCollection) [3]",
         "data": {
           "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1
+            },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
             },
@@ -5670,7 +5690,7 @@ var tree={
           },
           "from": {}
         },
-        "instancecount": 158
+        "instancecount": 159
       },
       {
         "id": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",
@@ -5693,6 +5713,11 @@ var tree={
         "text": "GeometryCollection (gsp:GeometryCollection) [1]",
         "data": {
           "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1
+            },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
             },
@@ -5706,7 +5731,7 @@ var tree={
           },
           "from": {}
         },
-        "instancecount": 158
+        "instancecount": 159
       },
       {
         "id": "http://data.archaeology.link/data/samian/Activity_collection",
@@ -5722,6 +5747,11 @@ var tree={
         "text": "Collection (skos:Collection) [1]",
         "data": {
           "to": {
+            "http://rdfs.org/ns/void#inDataset": {
+              "instancecount": 1,
+              "http://www.w3.org/ns/adms#Asset": 1,
+              "http://rdfs.org/ns/void#Dataset": 1
+            },
             "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": {
               "instancecount": 1
             },
@@ -5735,8 +5765,47 @@ var tree={
           },
           "from": {}
         },
-        "instancecount": 157
+        "instancecount": 159
       }
     ]
+  },
+  "@context": {
+    "@version": 1.1,
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "ct": "http://purl.org/vocab/classtree#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "icon": "foaf:image",
+    "id": "@id",
+    "parent": "rdfs:subClassOf",
+    "halfgeoclass": "ct:HalfGeoClass",
+    "geoclass": {
+      "@type": "ct:icontype",
+      "@id": "ct:GeoClass"
+    },
+    "collectionclass": {
+      "@type": "ct:icontype",
+      "@id": "ct:CollectionClass"
+    },
+    "featurecollectionclass": {
+      "@type": "ct:icontype",
+      "@id": "ct:FeatureCollectionClass"
+    },
+    "class": "owl:Class",
+    "instance": "owl:NamedIndividual",
+    "geoinstance": {
+      "@type": "ct:Icontype",
+      "@id": "ct:GeoNamedIndividual"
+    },
+    "text": "rdfs:label",
+    "type": "ct:icontype",
+    "types": "ct:icontypes",
+    "core": {
+      "@type": "ct:TreeConfig",
+      "@id": "@nest"
+    },
+    "data": {
+      "@id": "ct:treeitem",
+      "@type": "ct:TreeItem"
+    }
   }
 }

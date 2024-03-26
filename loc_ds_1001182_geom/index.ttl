@@ -1,5 +1,9 @@
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix void: <http://rdfs.org/ns/void#> .
 
-<http://data.archaeology.link/data/samian/loc_ds_1001182_geom> a <http://www.opengis.net/ont/sf#Point> ;
+<http://data.archaeology.link/data/samian/loc_ds_1001182_geom> a <http://www.opengis.net/ont/sf#Point>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    void:inDataset <http://data.archaeology.link/data/samian/samian_dataset> ;
     geo:asWKT "<http://www.opengis.net/def/crs/EPSG/0/4326> POINT(-4.05 51.666671)"^^geo:wktLiteral .
 
