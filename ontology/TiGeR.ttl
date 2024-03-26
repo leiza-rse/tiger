@@ -126,7 +126,7 @@ time:intervalBefore rdf:type owl:ObjectProperty ;
 :tiger_cax_hex rdf:type owl:DatatypeProperty ;
                rdfs:domain :TiGeR_Event ;
                rdfs:range xsd:string ;
-               rdfs:comment "x-value of the CA hex value (double)."@en ;
+               rdfs:comment "x-value of the CA hex value (string)."@en ;
                rdfs:isDefinedBy <http://leiza-rse.github.io/tiger/vocab/> ;
                rdfs:label "ca x hex"@en ;
                vs:term_status "stable"@en .
