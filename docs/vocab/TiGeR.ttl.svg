@@ -1,0 +1,1109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with WebVOWL (version 1.1.7), http://vowl.visualdataweb.org -->
+
+<svg
+   class="vowlGraph"
+   width="722.01562"
+   height="768.31866"
+   version="1.1"
+   id="svg382"
+   sodipodi:docname="TiGeR.ttl.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:export-filename="TiGeR.ttl.png"
+   inkscape:export-xdpi="265.92221"
+   inkscape:export-ydpi="265.92221"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs386" />
+  <sodipodi:namedview
+     id="namedview384"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.80528847"
+     inkscape:cx="350.18507"
+     inkscape:cy="370.05373"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg382" />
+  <g
+     style="opacity:1"
+     transform="matrix(0.98257779,0,0,0.98257779,-283.71985,-119.92931)"
+     id="g380">
+    <g
+       class="linkContainer"
+       id="g76">
+      <defs
+         id="defs2" />
+      <defs
+         id="defs34">
+        <marker
+           id="marker0"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M 0,0 -12,8 V -8 L 0,0"
+             class="filled"
+             style="stroke:#000000;stroke-width:2;stroke-dasharray:100"
+             id="path4" />
+        </marker>
+        <marker
+           id="marker4"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M 0,0 -12,8 V -8 L 0,0"
+             class="filled"
+             style="stroke:#000000;stroke-width:2;stroke-dasharray:100"
+             id="path7" />
+        </marker>
+        <marker
+           id="marker11"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M 0,0 -12,8 V -8 L 0,0"
+             class="filled"
+             style="stroke:#000000;stroke-width:2;stroke-dasharray:100"
+             id="path10" />
+        </marker>
+        <marker
+           id="marker13"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M 0,0 -12,8 V -8 L 0,0"
+             class="white"
+             style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-dasharray:100"
+             id="path13" />
+        </marker>
+        <marker
+           id="marker14"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M 0,0 -12,8 V -8 L 0,0"
+             class="white"
+             style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-dasharray:100"
+             id="path16" />
+        </marker>
+        <marker
+           id="marker16"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M 0,0 -12,8 V -8 L 0,0"
+             class="filled"
+             style="stroke:#000000;stroke-width:2;stroke-dasharray:100"
+             id="path19" />
+        </marker>
+        <marker
+           id="marker17"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M 0,0 -12,8 V -8 L 0,0"
+             class="filled"
+             style="stroke:#000000;stroke-width:2;stroke-dasharray:100"
+             id="path22" />
+        </marker>
+        <marker
+           id="marker18"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M 0,0 -12,8 V -8 L 0,0"
+             class="filled"
+             style="stroke:#000000;stroke-width:2;stroke-dasharray:100"
+             id="path25" />
+        </marker>
+        <marker
+           id="marker19"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M 0,0 -12,8 V -8 L 0,0"
+             class="filled"
+             style="stroke:#000000;stroke-width:2;stroke-dasharray:100"
+             id="path28" />
+        </marker>
+        <marker
+           id="marker20"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M 0,0 -12,8 V -8 L 0,0"
+             class="filled"
+             style="stroke:#000000;stroke-width:2;stroke-dasharray:100"
+             id="path31" />
+        </marker>
+      </defs>
+      <g
+         class="link"
+         marker-end="url(#marker0)"
+         id="g38">
+        <path
+           class="link-path node1 node2 normal"
+           d="m 740.51022,439.36593 q 46.17319,64.7503 57.71649,80.93788 11.5433,16.18757 57.71649,80.93788"
+           style="fill:none;stroke:#000000;stroke-width:2"
+           id="path36" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker4)"
+         id="g42">
+        <path
+           class="link-path node1 node5 normal"
+           d="m 717.72958,347.30155 q 10.98671,-81.3019 13.73339,-101.62738 2.74668,-20.32548 13.73339,-101.62738"
+           style="fill:none;stroke:#000000;stroke-width:2"
+           id="path40" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker11)"
+         id="g46">
+        <path
+           class="link-path node1 node12 normal"
+           d="m 747.83422,362.67333 q 57.89434,-55.1268 72.36793,-68.90849 14.47359,-13.7817 72.36793,-68.90849"
+           style="fill:none;stroke:#000000;stroke-width:2"
+           id="path44" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker13)"
+         id="g50">
+        <path
+           class="link-path node1 node6 dotted"
+           d="M 660.37144,390.92221 Q 579.73658,379.87911 559.57786,377.11834 539.41915,374.35756 458.78429,363.31447"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:3"
+           id="path48" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker14)"
+         id="g54">
+        <path
+           class="link-path node6 node7 dotted"
+           d="m 396.38644,405.99406 q -17.90657,74.82688 -22.38321,93.5336 -4.47664,18.70672 -22.38321,93.5336"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:3"
+           id="path52" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker16)"
+         id="g58">
+        <path
+           class="link-path node3 node15 normal"
+           d="m 666.6877,737.55566 q 44.30728,57.85919 55.3841,72.32399 11.07682,14.46479 55.3841,72.32399"
+           style="fill:none;stroke:#000000;stroke-width:2"
+           id="path56" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker17)"
+         id="g62">
+        <path
+           class="link-path node1 node8 normal"
+           d="M 681.35855,356.26916 Q 635.82336,292.18808 624.43956,276.16781 613.05577,260.14754 567.52058,196.06646"
+           style="fill:none;stroke:#000000;stroke-width:2"
+           id="path60" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker18)"
+         id="g66">
+        <path
+           class="link-path node1 node9 normal"
+           d="m 760.9802,388.20097 q 68.18149,-13.12592 85.22686,-16.4074 17.04537,-3.28148 85.22686,-16.4074"
+           style="fill:none;stroke:#000000;stroke-width:2"
+           id="path64" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker19)"
+         id="g70">
+        <path
+           class="link-path node1 node3 normal"
+           d="m 698.46609,447.3033 q -20.14081,80.11997 -25.17601,100.14996 -5.03521,20.03 -25.17602,100.14997"
+           style="fill:none;stroke:#000000;stroke-width:2"
+           id="path68" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker20)"
+         id="g74">
+        <path
+           class="link-path node1 node10 normal"
+           d="m 758.82702,415.27719 q 81.84361,29.77316 102.30451,37.21645 20.4609,7.44329 102.30451,37.21645"
+           style="fill:none;stroke:#000000;stroke-width:2"
+           id="path72" />
+      </g>
+    </g>
+    <g
+       class="cardinalityContainer"
+       id="g78" />
+    <g
+       class="labelContainer"
+       id="g190">
+      <g
+         class="labelGroup"
+         transform="translate(374.00323,499.52766)"
+         id="g89">
+        <g
+           class="label"
+           id="14">
+          <rect
+             class="subclass property object,anonymous"
+             x="-41"
+             y="-14"
+             width="82"
+             height="28"
+             style="fill:#ffffff"
+             id="rect82">
+            <title
+               id="title80">Subclass of</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="font-size:12px;font-family:Helvetica, Arial, sans-serif;fill:#000000"
+             y="-6.6097488"
+             id="text86"><tspan
+               class="text"
+               x="0"
+               dy="12"
+               style="font-size:12px;font-family:Helvetica, Arial, sans-serif"
+               id="tspan84">Subclass of</tspan></text>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(559.57786,377.11834)"
+         id="g100">
+        <g
+           class="label"
+           id="13">
+          <rect
+             class="subclass property object,anonymous"
+             x="-41"
+             y="-14"
+             width="82"
+             height="28"
+             style="fill:#ffffff"
+             id="rect93">
+            <title
+               id="title91">Subclass of</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="font-size:12px;font-family:Helvetica, Arial, sans-serif;fill:#000000"
+             y="-6.6097488"
+             id="text97"><tspan
+               class="text"
+               x="0"
+               dy="12"
+               style="font-size:12px;font-family:Helvetica, Arial, sans-serif"
+               id="tspan95">Subclass of</tspan></text>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(798.22671,520.30381)"
+         id="g111">
+        <g
+           class="label"
+           id="0">
+          <rect
+             class="datatypeproperty property datatype"
+             x="-21"
+             y="-14"
+             width="42"
+             height="28"
+             style="fill:#3366cc"
+             id="rect104">
+            <title
+               id="title102">ca y</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="font-size:12px;font-family:Helvetica, Arial, sans-serif;fill:#ffffff"
+             y="-6.6097488"
+             id="text108"><tspan
+               class="text"
+               x="0"
+               dy="12"
+               style="font-size:12px;font-family:Helvetica, Arial, sans-serif"
+               id="tspan106">ca y</tspan></text>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(731.46297,245.67417)"
+         id="g122">
+        <g
+           class="label"
+           id="4">
+          <rect
+             class="datatypeproperty property datatype"
+             x="-21"
+             y="-14"
+             width="42"
+             height="28"
+             style="fill:#3366cc"
+             id="rect115">
+            <title
+               id="title113">ca x</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="font-size:12px;font-family:Helvetica, Arial, sans-serif;fill:#ffffff"
+             y="-6.6097488"
+             id="text119"><tspan
+               class="text"
+               x="0"
+               dy="12"
+               style="font-size:12px;font-family:Helvetica, Arial, sans-serif"
+               id="tspan117">ca x</tspan></text>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(820.20215,293.76484)"
+         id="g133">
+        <g
+           class="label"
+           id="11">
+          <rect
+             class="datatypeproperty property datatype"
+             x="-32.5"
+             y="-14"
+             width="65"
+             height="28"
+             style="fill:#3366cc"
+             id="rect126">
+            <title
+               id="title124">ca x hex</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="font-size:12px;font-family:Helvetica, Arial, sans-serif;fill:#ffffff"
+             y="-6.6097488"
+             id="text130"><tspan
+               class="text"
+               x="0"
+               dy="12"
+               style="font-size:12px;font-family:Helvetica, Arial, sans-serif"
+               id="tspan128">ca x hex</tspan></text>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(722.0718,809.87965)"
+         id="g144">
+        <g
+           class="label"
+           id="16">
+          <rect
+             class="datatypeproperty property datatype"
+             x="-29.5"
+             y="-14"
+             width="59"
+             height="28"
+             style="fill:#3366cc"
+             id="rect137">
+            <title
+               id="title135">asWKT</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="font-size:12px;font-family:Helvetica, Arial, sans-serif;fill:#ffffff"
+             y="-6.6097488"
+             id="text141"><tspan
+               class="text"
+               x="0"
+               dy="12"
+               style="font-size:12px;font-family:Helvetica, Arial, sans-serif"
+               id="tspan139">asWKT</tspan></text>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(624.43956,276.16781)"
+         id="g155">
+        <g
+           class="label"
+           id="17">
+          <rect
+             class="datatypeproperty property datatype"
+             x="-41.5"
+             y="-14"
+             width="83"
+             height="28"
+             style="fill:#3366cc"
+             id="rect148">
+            <title
+               id="title146">event name</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="font-size:12px;font-family:Helvetica, Arial, sans-serif;fill:#ffffff"
+             y="-6.6097488"
+             id="text152"><tspan
+               class="text"
+               x="0"
+               dy="12"
+               style="font-size:12px;font-family:Helvetica, Arial, sans-serif"
+               id="tspan150">event name</tspan></text>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(846.20706,371.79357)"
+         id="g166">
+        <g
+           class="label"
+           id="18">
+          <rect
+             class="datatypeproperty property datatype"
+             x="-52"
+             y="-14"
+             width="104"
+             height="28"
+             style="fill:#3366cc"
+             id="rect159">
+            <title
+               id="title157">ca x normalized</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="font-size:12px;font-family:Helvetica, Arial, sans-serif;fill:#ffffff"
+             y="-6.6097488"
+             id="text163"><tspan
+               class="text"
+               x="0"
+               dy="12"
+               style="font-size:12px;font-family:Helvetica, Arial, sans-serif"
+               id="tspan161">ca x normalized</tspan></text>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(673.29008,547.45326)"
+         id="g177">
+        <g
+           class="label"
+           id="19">
+          <rect
+             class="objectproperty property object"
+             x="-46"
+             y="-14"
+             width="92"
+             height="28"
+             style="fill:#3366cc"
+             id="rect170">
+            <title
+               id="title168">hasGeometry</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="font-size:12px;font-family:Helvetica, Arial, sans-serif;fill:#ffffff"
+             y="-6.6097488"
+             id="text174"><tspan
+               class="text"
+               x="0"
+               dy="12"
+               style="font-size:12px;font-family:Helvetica, Arial, sans-serif"
+               id="tspan172">hasGeometry</tspan></text>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(861.13153,452.49364)"
+         id="g188">
+        <g
+           class="label"
+           id="20">
+          <rect
+             class="objectproperty property object"
+             x="-48"
+             y="-14"
+             width="96"
+             height="28"
+             style="fill:#3366cc"
+             id="rect181">
+            <title
+               id="title179">interval before</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="font-size:12px;font-family:Helvetica, Arial, sans-serif;fill:#ffffff"
+             y="-6.6097488"
+             id="text185"><tspan
+               class="text"
+               x="0"
+               dy="12"
+               style="font-size:12px;font-family:Helvetica, Arial, sans-serif"
+               id="tspan183">interval before</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       class="nodeContainer"
+       id="g299">
+      <g
+         class="node"
+         id="3"
+         transform="translate(635.68037,697.06436)">
+        <circle
+           class="class"
+           r="50"
+           style="fill:#3366cc;stroke:#000000;stroke-width:2"
+           id="circle194"
+           cx="0"
+           cy="0">
+          <title
+             id="title192">Feature</title>
+        </circle>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="font-size:12px;font-family:Helvetica, Arial, sans-serif;fill:#ffffff"
+           y="-11.609749"
+           id="text200"><tspan
+             class="text"
+             x="0"
+             dy="12"
+             style="font-size:12px;font-family:Helvetica, Arial, sans-serif"
+             id="tspan196">Feature</tspan><tspan
+             class="text subtext"
+             x="0"
+             dy="10"
+             style="font-size:9px;font-family:Helvetica, Arial, sans-serif"
+             id="tspan198">(external)</tspan></text>
+      </g>
+      <g
+         class="node"
+         id="6"
+         transform="translate(408.25594,356.39451)">
+        <circle
+           class="class"
+           r="50"
+           style="fill:#3366cc;stroke:#000000;stroke-width:2"
+           id="circle205"
+           cx="0"
+           cy="0">
+          <title
+             id="title203">Time interval</title>
+        </circle>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="font-size:12px;font-family:Helvetica, Arial, sans-serif;fill:#ffffff"
+           y="-11.609749"
+           id="text211"><tspan
+             class="text"
+             x="0"
+             dy="12"
+             style="font-size:12px;font-family:Helvetica, Arial, sans-serif"
+             id="tspan207">Time interval</tspan><tspan
+             class="text subtext"
+             x="0"
+             dy="10"
+             style="font-size:9px;font-family:Helvetica, Arial, sans-serif"
+             id="tspan209">(external)</tspan></text>
+      </g>
+      <g
+         class="node"
+         id="2"
+         transform="translate(863.65476,612.05588)">
+        <rect
+           class="class datatype"
+           x="-28"
+           y="-10"
+           width="56"
+           height="20"
+           style="fill:#ffcc33;stroke:#000000;stroke-width:2"
+           id="rect216">
+          <title
+             id="title214">double</title>
+        </rect>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="font-size:12px;font-family:Helvetica, Arial, sans-serif;fill:#000000"
+           y="-6.6097488"
+           id="text220"><tspan
+             class="text"
+             x="0"
+             dy="12"
+             style="font-size:12px;font-family:Helvetica, Arial, sans-serif"
+             id="tspan218">double</tspan></text>
+      </g>
+      <g
+         class="node"
+         id="5"
+         transform="translate(746.68162,133.05579)">
+        <rect
+           class="class datatype"
+           x="-28"
+           y="-10"
+           width="56"
+           height="20"
+           style="fill:#ffcc33;stroke:#000000;stroke-width:2"
+           id="rect225">
+          <title
+             id="title223">double</title>
+        </rect>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="font-size:12px;font-family:Helvetica, Arial, sans-serif;fill:#000000"
+           y="-6.6097488"
+           id="text229"><tspan
+             class="text"
+             x="0"
+             dy="12"
+             style="font-size:12px;font-family:Helvetica, Arial, sans-serif"
+             id="tspan227">double</tspan></text>
+      </g>
+      <g
+         class="node"
+         id="8"
+         transform="translate(559.83547,185.2513)">
+        <rect
+           class="class datatype"
+           x="-24.5"
+           y="-10"
+           width="49"
+           height="20"
+           style="fill:#ffcc33;stroke:#000000;stroke-width:2"
+           id="rect234">
+          <title
+             id="title232">string</title>
+        </rect>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="font-size:12px;font-family:Helvetica, Arial, sans-serif;fill:#000000"
+           y="-6.6097488"
+           id="text238"><tspan
+             class="text"
+             x="0"
+             dy="12"
+             style="font-size:12px;font-family:Helvetica, Arial, sans-serif"
+             id="tspan236">string</tspan></text>
+      </g>
+      <g
+         class="node"
+         id="9"
+         transform="translate(960.41589,349.80672)">
+        <rect
+           class="class datatype"
+           x="-28"
+           y="-10"
+           width="56"
+           height="20"
+           style="fill:#ffcc33;stroke:#000000;stroke-width:2"
+           id="rect243">
+          <title
+             id="title241">double</title>
+        </rect>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="font-size:12px;font-family:Helvetica, Arial, sans-serif;fill:#000000"
+           y="-6.6097488"
+           id="text247"><tspan
+             class="text"
+             x="0"
+             dy="12"
+             style="font-size:12px;font-family:Helvetica, Arial, sans-serif"
+             id="tspan245">double</tspan></text>
+      </g>
+      <g
+         class="node"
+         id="10"
+         transform="translate(992.56828,500.30785)">
+        <circle
+           class="class white dashed"
+           r="30"
+           style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-dasharray:8"
+           id="circle252"
+           cx="0"
+           cy="0">
+          <title
+             id="title250">Thing</title>
+        </circle>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="font-size:12px;font-family:Helvetica, Arial, sans-serif;fill:#000000"
+           y="-6.6097488"
+           id="text256"><tspan
+             class="text"
+             x="0"
+             dy="12"
+             style="font-size:12px;font-family:Helvetica, Arial, sans-serif"
+             id="tspan254">Thing</tspan></text>
+      </g>
+      <g
+         class="node"
+         id="12"
+         transform="translate(903.79631,214.16676)">
+        <rect
+           class="class datatype"
+           x="-24.5"
+           y="-10"
+           width="49"
+           height="20"
+           style="fill:#ffcc33;stroke:#000000;stroke-width:2"
+           id="rect261">
+          <title
+             id="title259">string</title>
+        </rect>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="font-size:12px;font-family:Helvetica, Arial, sans-serif;fill:#000000"
+           y="-6.6097488"
+           id="text265"><tspan
+             class="text"
+             x="0"
+             dy="12"
+             style="font-size:12px;font-family:Helvetica, Arial, sans-serif"
+             id="tspan263">string</tspan></text>
+      </g>
+      <g
+         class="node"
+         id="15"
+         transform="translate(785.72167,892.99758)">
+        <rect
+           class="class datatype"
+           x="-60"
+           y="-10"
+           width="120"
+           height="20"
+           style="fill:#ffcc33;stroke:#000000;stroke-width:2"
+           id="rect270">
+          <title
+             id="title268">Well-known Text Literal</title>
+        </rect>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="font-size:12px;font-family:Helvetica, Arial, sans-serif;fill:#000000"
+           y="-6.6097488"
+           id="text274"><tspan
+             class="text"
+             x="0"
+             dy="12"
+             style="font-size:12px;font-family:Helvetica, Arial, sans-serif"
+             id="tspan272">Well-known Text Li...</tspan></text>
+      </g>
+      <g
+         class="node"
+         id="1"
+         transform="translate(710.89979,397.84217)">
+        <circle
+           class="class"
+           r="50"
+           style="fill:#3366cc;stroke:#000000;stroke-width:2"
+           id="circle279"
+           cx="0"
+           cy="0">
+          <title
+             id="title277">TiGeR Event</title>
+        </circle>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="font-size:12px;font-family:Helvetica, Arial, sans-serif;fill:#ffffff"
+           y="-11.609749"
+           id="text285"><tspan
+             class="text"
+             x="0"
+             dy="12"
+             style="font-size:12px;font-family:Helvetica, Arial, sans-serif"
+             id="tspan281">TiGeR Event</tspan><tspan
+             class="text subtext"
+             x="0"
+             dy="10"
+             style="font-size:9px;font-family:Helvetica, Arial, sans-serif"
+             id="tspan283">(external)</tspan></text>
+      </g>
+      <g
+         class="node"
+         id="7"
+         transform="translate(339.75053,642.66081)">
+        <circle
+           class="class"
+           r="50"
+           style="fill:#3366cc;stroke:#000000;stroke-width:2"
+           id="circle290"
+           cx="0"
+           cy="0">
+          <title
+             id="title288">Temporal entity</title>
+        </circle>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="font-size:12px;font-family:Helvetica, Arial, sans-serif;fill:#ffffff"
+           y="-11.609749"
+           id="text296"><tspan
+             class="text"
+             x="0"
+             dy="12"
+             style="font-size:12px;font-family:Helvetica, Arial, sans-serif"
+             id="tspan292">Temporal entity</tspan><tspan
+             class="text subtext"
+             x="0"
+             dy="10"
+             style="font-size:9px;font-family:Helvetica, Arial, sans-serif"
+             id="tspan294">(external)</tspan></text>
+      </g>
+    </g>
+    <g
+       class="linkContainer hidden-in-export"
+       style="display:none"
+       id="g317">
+      <g
+         id="g303">
+        <line
+           class="classNodeDragPath hidden"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="0"
+           style="stroke:#000000;stroke-width:2"
+           id="line301" />
+      </g>
+      <g
+         id="g307">
+        <line
+           class="classNodeDragPath hidden"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="0"
+           style="stroke:#000000;stroke-width:2"
+           id="line305" />
+      </g>
+      <g
+         id="g311">
+        <line
+           class="classNodeDragPath hidden"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="0"
+           style="stroke:#000000;stroke-width:2"
+           id="line309" />
+      </g>
+      <g
+         id="g315">
+        <line
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="0"
+           class="hidden"
+           style="stroke:#000000;stroke-width:2"
+           id="line313" />
+      </g>
+    </g>
+    <g
+       class="editContainer hidden-in-export"
+       style="display:none"
+       id="g344">
+      <g
+         class="node hidden-in-export"
+         id="10001"
+         style="display:none">
+        <g
+           id="g323">
+          <path
+             d="M 20,40 C 0,15 0,-15 20,-40 L -40,0 Z"
+             class="classDraggerNode hidden"
+             style="fill:none;stroke:#000000;stroke-width:2"
+             id="path319" />
+          <circle
+             r="40"
+             cx="0"
+             cy="0"
+             class="superHiddenElement superOpacityElement hidden"
+             id="circle321" />
+        </g>
+      </g>
+      <g
+         class="node hidden-in-export"
+         id="10002"
+         style="display:none">
+        <g
+           id="g330">
+          <path
+             d="M 61,40 C 41,15 41,-15 61,-40 L 1,0 Z"
+             class="classDraggerNode hidden"
+             style="fill:none;stroke:#000000;stroke-width:2"
+             id="path326" />
+          <circle
+             r="40"
+             cx="0"
+             cy="0"
+             class="superHiddenElement superOpacityElement hidden"
+             id="circle328" />
+        </g>
+      </g>
+      <g
+         class="node hidden-in-export"
+         id="g339"
+         style="display:none">
+        <g
+           id="g337">
+          <path
+             d="M 10,40 C -10,15 -10,-15 10,-40 -8.8233455,-13.641384 -36.711107,-5.1228436 -50,0 -36.696429,4.9079017 -8.6403157,13.745728 10,40 Z"
+             class="classDraggerNode hidden"
+             style="fill:none;stroke:#000000;stroke-width:2"
+             id="path333" />
+          <circle
+             r="40"
+             cx="0"
+             cy="0"
+             class="superHiddenElement superOpacityElement hidden"
+             id="circle335" />
+        </g>
+      </g>
+      <g
+         class="node hidden-in-export"
+         id="10003"
+         style="display:none">
+        <g
+           class="hidden"
+           id="g341" />
+      </g>
+    </g>
+    <g
+       class="editContainer hidden-in-export"
+       style="display:none"
+       id="g378">
+      <g
+         class="hidden-in-export hidden addDataPropertyElement"
+         style="display:none"
+         id="g360">
+        <circle
+           r="12"
+           cx="0"
+           cy="0"
+           id="circle348">
+          <title
+             id="title346">Add Datatype Property</title>
+        </circle>
+        <line
+           x1="-8"
+           y1="0"
+           x2="8"
+           y2="0"
+           style="stroke:#000000;stroke-width:2"
+           id="line352">
+          <title
+             id="title350">Add Datatype Property</title>
+        </line>
+        <line
+           x1="0"
+           y1="-8"
+           x2="0"
+           y2="8"
+           style="stroke:#000000;stroke-width:2"
+           id="line356">
+          <title
+             id="title354">Add Datatype Property</title>
+        </line>
+        <circle
+           r="15"
+           cx="-7"
+           cy="7"
+           class="superHiddenElement superOpacityElement"
+           id="circle358" />
+      </g>
+      <g
+         class="hidden-in-export hidden deleteParentElement"
+         style="display:none"
+         id="g376">
+        <circle
+           r="12"
+           cx="0"
+           cy="0"
+           id="circle364">
+          <title
+             id="title362">Delete This Node</title>
+        </circle>
+        <line
+           x1="-5"
+           y1="-5"
+           x2="5"
+           y2="5"
+           style="stroke:#000000;stroke-width:2"
+           id="line368">
+          <title
+             id="title366">Delete This Node</title>
+        </line>
+        <line
+           x1="5"
+           y1="-5"
+           x2="-5"
+           y2="5"
+           style="stroke:#000000;stroke-width:2"
+           id="line372">
+          <title
+             id="title370">Delete This Node</title>
+        </line>
+        <circle
+           r="15"
+           cx="7"
+           cy="-7"
+           class="superHiddenElement superOpacityElement"
+           id="circle374" />
+      </g>
+    </g>
+  </g>
+</svg>
