@@ -1,0 +1,177 @@
+@prefix : <http://archaeology.link/ontology#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix vs: <http://www.w3.org/2003/06/sw-vocab-status/ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wot: <http://xmlns.com/wot/0.1/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix tiger: <http://archaeology.link/ontology#> .
+@base <http://archaeology.link/ontology#> .
+
+<http://archaeology.link/ontology#> rdf:type owl:Ontology ;
+                                     dc:created "2023-07-23" ;
+                                     dc:creator "Florian Thiery (Leibniz-Zentrum für Archäologie)" ;
+                                     dc:description "The TiGeR Vocabulary"@en ;
+                                     dc:licence "http://creativecommons.org/licenses/by/4.0/" ;
+                                     dc:title "The TiGeR Vocabulary"@en ;
+                                     rdfs:isDefinedBy <http://leiza-rse.github.io/tiger/vocab/> ;
+                                     owl:versionInfo "Stegosaurus Edition"@en .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://purl.org/dc/elements/1.1/created
+dc:created rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/elements/1.1/creator
+dc:creator rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/elements/1.1/description
+dc:description rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/elements/1.1/licence
+dc:licence rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/elements/1.1/title
+dc:title rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/2003/06/sw-vocab-status/ns#term_status
+vs:term_status rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Datatypes
+#################################################################
+
+###  http://www.opengis.net/ont/geosparql#wktLiteral
+<http://www.opengis.net/ont/geosparql#wktLiteral> rdf:type rdfs:Datatype ;
+                                                  dc:description "A Well-known Text serialization of a geometry object."@en ;
+                                                  rdfs:label "Well-known Text Literal"@en .
+
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.opengis.net/ont/geosparql#hasGeometry
+<http://www.opengis.net/ont/geosparql#hasGeometry> rdf:type owl:ObjectProperty ;
+                                                   rdfs:domain :TiGeR_Event ;
+                                                   rdfs:range <http://www.opengis.net/ont/geosparql#Feature> ;
+                                                   dc:description "A spatial representation for a given feature."@en ;
+                                                   rdfs:label "hasGeometry"@en .
+
+
+###  http://www.w3.org/2006/time#intervalBefore
+time:intervalBefore rdf:type owl:ObjectProperty ;
+                    rdfs:domain :TiGeR_Event ;
+                    rdfs:range owl:Thing ;
+                    rdfs:comment "If a proper interval T1 is intervalBefore another proper interval T2, then the end of T1 is before the beginning of T2."@en ;
+                    rdfs:label "interval before"@en .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://archaeology.link/ontology#cax
+:cax rdf:type owl:DatatypeProperty ;
+     rdfs:domain :TiGeR_Event ;
+     rdfs:range xsd:double ;
+     rdfs:comment "x-value of the CA (double)."@en ;
+     rdfs:isDefinedBy <http://leiza-rse.github.io/tiger/vocab/> ;
+     rdfs:label "ca x"@en ;
+     vs:term_status "stable" .
+
+
+###  http://archaeology.link/ontology#cax_norm
+:cax_norm rdf:type owl:DatatypeProperty ;
+          rdfs:domain :TiGeR_Event ;
+          rdfs:range xsd:double ;
+          rdfs:comment "x-value of the CA normalized (double)."@en ;
+          rdfs:isDefinedBy <http://leiza-rse.github.io/tiger/vocab/> ;
+          rdfs:label "ca x normalized"@en ;
+          vs:term_status "stable" .
+
+
+###  http://archaeology.link/ontology#cay
+:cay rdf:type owl:DatatypeProperty ;
+     rdfs:domain :TiGeR_Event ;
+     rdfs:range xsd:double ;
+     rdfs:comment "y-value of the CA (double)."@en ;
+     rdfs:isDefinedBy <http://leiza-rse.github.io/tiger/vocab/> ;
+     rdfs:label "ca y"@en ;
+     vs:term_status "stable" .
+
+
+###  http://archaeology.link/ontology#teventname
+:teventname rdf:type owl:DatatypeProperty ;
+            rdfs:domain :TiGeR_Event ;
+            rdfs:range xsd:string ;
+            rdfs:comment "Name of the event (string)."@en ;
+            rdfs:isDefinedBy <http://leiza-rse.github.io/tiger/vocab/> ;
+            rdfs:label "event name"@en ;
+            vs:term_status "stable" .
+
+
+###  http://archaeology.link/ontology#tiger_cax_hex
+:tiger_cax_hex rdf:type owl:DatatypeProperty ;
+               rdfs:domain :TiGeR_Event ;
+               rdfs:range xsd:string ;
+               rdfs:comment "x-value of the CA hex value (double)."@en ;
+               rdfs:isDefinedBy <http://leiza-rse.github.io/tiger/vocab/> ;
+               rdfs:label "ca x hex"@en ;
+               vs:term_status "stable"@en .
+
+
+###  http://www.opengis.net/ont/geosparql#asWKT
+<http://www.opengis.net/ont/geosparql#asWKT> rdf:type owl:DatatypeProperty ;
+                                             rdfs:domain <http://www.opengis.net/ont/geosparql#Feature> ;
+                                             rdfs:range <http://www.opengis.net/ont/geosparql#wktLiteral> ;
+                                             dc:description "The WKT serialization of a geometry"@en ;
+                                             rdfs:label "asWKT"@en .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://archaeology.link/ontology#TiGeR_Event
+:TiGeR_Event rdf:type owl:Class ;
+             rdfs:subClassOf time:Interval ;
+             rdfs:comment "A temporal interval or instant."@en ;
+             rdfs:isDefinedBy <http://leiza-rse.github.io/tiger/vocab/> ;
+             rdfs:label "TiGeR Event"@en ;
+             vs:term_status "stable" .
+
+
+###  http://www.opengis.net/ont/geosparql#Feature
+<http://www.opengis.net/ont/geosparql#Feature> rdf:type owl:Class ;
+                                               rdfs:subClassOf owl:Thing ;
+                                               dc:description "This class represents the top-level feature type. This class is equivalent to GFI_Feature defined in ISO 19156:2011, and it is superclass of all feature types."@en ;
+                                               rdfs:label "Feature"@en .
+
+
+###  http://www.w3.org/2006/time#Interval
+time:Interval rdf:type owl:Class ;
+              rdfs:subClassOf time:TemporalEntity ;
+              rdfs:comment "A temporal entity with an extent or duration"@en ;
+              rdfs:label "Time interval"@en .
+
+
+###  http://www.w3.org/2006/time#TemporalEntity
+time:TemporalEntity rdf:type owl:Class ;
+                    rdfs:subClassOf owl:Thing ;
+                    rdfs:comment "A temporal interval or instant"@en ;
+                    rdfs:label "Temporal entity"@en .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
