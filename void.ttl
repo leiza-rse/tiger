@@ -283,7 +283,7 @@
 
 <http://data.archaeology.link/data/samian/samian_dataset_dist_ttl> a adms:AssetDistribution ;
     rdfs:label "samian_dataset TTL Distribution"@en ;
-    dcat:downloadURL "https://leiza-rse.github.io/tiger/index.ttl"^^xsd:anyURI ;
+    dcat:downloadURL "https://leiza-rse.github.io/tiger//index.ttl"^^xsd:anyURI ;
     dcat:mediaType <http://www.w3.org/ns/formats/Turtle> .
 
 <http://data.archaeology.link/data/samian/samian_dataset_endedAtTime> a void:Dataset ;
@@ -603,7 +603,7 @@ prov: a voaf:Vocabulary ;
     vext:languages 1 ;
     vext:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2024-03-26T16:50:00"^^xsd:dateTime ;
+    dcterms:modified "2024-04-25T07:09:03"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
@@ -622,7 +622,7 @@ prov: a voaf:Vocabulary ;
         <http://data.archaeology.link/data/samian/samian_dataset_SpatialObjectCollection>,
         <http://data.archaeology.link/data/samian/samian_dataset_TiGeR_Event> ;
     void:classes 9 ;
-    void:dataDump <https://leiza-rse.github.io/tiger/index.ttl> ;
+    void:dataDump <https://leiza-rse.github.io/tiger//index.ttl> ;
     void:distinctObjects 1562 ;
     void:distinctSubjects 473 ;
     void:entities 471 ;
@@ -691,7 +691,7 @@ prov: a voaf:Vocabulary ;
         "Person"@en,
         "Q121810372"@en,
         "Time"@en ;
-    dcat:landingPage <https://leiza-rse.github.io/tiger> ;
-    foaf:homepage <https://leiza-rse.github.io/tiger> ;
-    foaf:page <https://leiza-rse.github.io/tiger/index.html> .
+    dcat:landingPage <https://leiza-rse.github.io/tiger/> ;
+    foaf:homepage <https://leiza-rse.github.io/tiger/> ;
+    foaf:page <https://leiza-rse.github.io/tiger//index.html> .
 
