@@ -14,12 +14,12 @@ authors:
   - name: TiGeR - Time Geospatial RDF
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.TBD
+    value: 10.5281/zenodo.11064282
     description: >-
       This is the collection of archived snapshots of all
       versions
   - type: doi
-    value: 10.5281/zenodo.TBD
+    value: 10.5281/zenodo.11064284
     description: This is the archived snapshot of version 1.0
 repository-code: 'https://github.com/leiza-rse/tiger'
 abstract: TiGeR - Time Geospatial RDF
@@ -28,9 +28,9 @@ keywords:
   - Allen Interval Algebra
   - Relative Chronology
 license: MIT
-version: 1
+version: 1.0
 date-released: '2023-07-07'
-doi: 10.5281/zenodo.TBD
+doi: 10.5281/zenodo.11064282
 contact:
   - affiliation: 'LEIZA, Mainz Germany'
     email: florian.thiery@leiza.de
