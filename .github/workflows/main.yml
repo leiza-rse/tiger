@@ -18,15 +18,18 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     uses: sparqlunicorn/sparqlunicornGoesGIS-ontdoc/.github/workflows/udoc.yml@main
     with: 
+        version: v017
         rdffilepath: rdf/CA2MapBritanniaGermania.ttl
-        docpath: docs
+        docpath: docs/
         prefixns: http://data.archaeology.link/data/samian/
         prefixnsshort: samian
         indexpages: true
+        metadatatable: true
         createcollections: true
+        createVOWL: true
         preferredlang: en
         ghpages: true
-        metadatatable: true
-        createnonNSPages: true
         logourl: https://raw.githubusercontent.com/archaeolink-lod/unicorn-ontdoc-template-nmt/main/icons/al_circle_icon.png
-        ogcapifeatures: true
+        templatedir: https://github.com/archaeolink/unicorn-ontdoc-template-archaeolink-ftawm/archive/refs/tags/v1.0.zip
+        ogcapifeatures: false
+        datasettitle: TiGeR Example
