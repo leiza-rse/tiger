@@ -31,357 +31,357 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.archaeology.link/data/samian/adms_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/adms# in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
-
-<http://data.archaeology.link/data/samian/brick_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary https://brickschema.org/schema/Brick# in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
-
-<http://data.archaeology.link/data/samian/csvw_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/csvw# in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
-
-<http://data.archaeology.link/data/samian/dc_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://purl.org/dc/elements/1.1/ in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
-
-<http://data.archaeology.link/data/samian/dcam_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://purl.org/dc/dcam/ in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
-
-<http://data.archaeology.link/data/samian/dcat_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/dcat# in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
-
-<http://data.archaeology.link/data/samian/dcmitype_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://purl.org/dc/dcmitype/ in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
-
-<http://data.archaeology.link/data/samian/dcterms_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://purl.org/dc/terms/ in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
-
-<http://data.archaeology.link/data/samian/doap_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://usefulinc.com/ns/doap# in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
-
-<http://data.archaeology.link/data/samian/foaf_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://xmlns.com/foaf/0.1/ in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
-
-<http://data.archaeology.link/data/samian/geo_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://www.opengis.net/ont/geosparql# in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> ;
-    voaf:occurrences 8 .
-
-<http://data.archaeology.link/data/samian/odrl_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/odrl/2/ in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
-
-<http://data.archaeology.link/data/samian/org_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/org# in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
-
-<http://data.archaeology.link/data/samian/owl_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://www.w3.org/2002/07/owl# in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
-
-<http://data.archaeology.link/data/samian/prof_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/dx/prof/ in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
-
-<http://data.archaeology.link/data/samian/prov_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/prov# in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> ;
-    voaf:occurrences 310 .
-
-<http://data.archaeology.link/data/samian/qb_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://purl.org/linked-data/cube# in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
-
-<http://data.archaeology.link/data/samian/rdf_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://www.w3.org/1999/02/22-rdf-syntax-ns# in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
-
-<http://data.archaeology.link/data/samian/rdfs_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://www.w3.org/2000/01/rdf-schema# in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
-
-<http://data.archaeology.link/data/samian/samian_dataset_archaeology.link_ontology_> a void:Linkset ;
-    rdfs:label "Linkset: samian_dataset - lado:"@en ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_archaeology.link_ontology_> a void:Linkset ;
+    rdfs:label "Linkset: TiGeR_Example - lado:"@en ;
     void:linkPredicate <http://archaeology.link/ontology#hasType>,
         rdf:type ;
     void:objectsTarget <http://archaeology.link/ontology#> ;
-    void:subjectsTarget <http://data.archaeology.link/data/samian/samian_dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/samian/TiGeR_Example> ;
     void:triples 155,
         465 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_creativecommons.org_licenses_by_4.0_> a void:Linkset ;
-    rdfs:label "Linkset: samian_dataset - 4.0"@en ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_creativecommons.org_licenses_by_4.0_> a void:Linkset ;
+    rdfs:label "Linkset: TiGeR_Example - 4.0"@en ;
     void:linkPredicate dcterms:license ;
     void:objectsTarget <https://creativecommons.org/licenses/by/4.0/> ;
-    void:subjectsTarget <http://data.archaeology.link/data/samian/samian_dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/samian/TiGeR_Example> ;
     void:triples 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_orcid.org_> a void:Linkset ;
-    rdfs:label "Linkset: samian_dataset - orcid.org"@en ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_orcid.org_> a void:Linkset ;
+    rdfs:label "Linkset: TiGeR_Example - orcid.org"@en ;
     void:linkPredicate dcterms:creator,
         dcterms:rightsHolder ;
     void:objectsTarget <https://orcid.org/> ;
-    void:subjectsTarget <http://data.archaeology.link/data/samian/samian_dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/samian/TiGeR_Example> ;
     void:triples 155,
         310 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_www.opengis.net_ont_geosparql_> a void:Linkset ;
-    rdfs:label "Linkset: samian_dataset - The GeoSPARQL Ontology (gsp:)"@en ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_www.opengis.net_ont_geosparql_> a void:Linkset ;
+    rdfs:label "Linkset: TiGeR_Example - The GeoSPARQL Ontology (gsp:)"@en ;
     void:linkPredicate rdf:type ;
     void:objectsTarget geo: ;
-    void:subjectsTarget <http://data.archaeology.link/data/samian/samian_dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/samian/TiGeR_Example> ;
     void:triples 4 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_www.opengis.net_ont_sf_> a void:Linkset ;
-    rdfs:label "Linkset: samian_dataset - Simple Features Vocabulary (sf:)"@en ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_www.opengis.net_ont_sf_> a void:Linkset ;
+    rdfs:label "Linkset: TiGeR_Example - Simple Features Vocabulary (sf:)"@en ;
     void:linkPredicate rdf:type ;
     void:objectsTarget <http://www.opengis.net/ont/sf#> ;
-    void:subjectsTarget <http://data.archaeology.link/data/samian/samian_dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/samian/TiGeR_Example> ;
     void:triples 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_www.w3.org_2004_02_skos_core_> a void:Linkset ;
-    rdfs:label "Linkset: samian_dataset - skos:"@en ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_www.w3.org_2004_02_skos_core_> a void:Linkset ;
+    rdfs:label "Linkset: TiGeR_Example - skos:"@en ;
     void:linkPredicate rdf:type ;
     void:objectsTarget skos: ;
-    void:subjectsTarget <http://data.archaeology.link/data/samian/samian_dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/samian/TiGeR_Example> ;
     void:triples 1 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_www.w3.org_ns_prov_> a void:Linkset ;
-    rdfs:label "Linkset: samian_dataset - W3C Provenance Ontology (prov:)"@en ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_www.w3.org_ns_prov_> a void:Linkset ;
+    rdfs:label "Linkset: TiGeR_Example - W3C Provenance Ontology (prov:)"@en ;
     void:linkPredicate rdf:type ;
     void:objectsTarget prov: ;
-    void:subjectsTarget <http://data.archaeology.link/data/samian/samian_dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/samian/TiGeR_Example> ;
     void:triples 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_www.wikidata.org_entity_> a void:Linkset ;
-    rdfs:label "Linkset: samian_dataset - Wikidata Entities (wde:)"@en ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_www.wikidata.org_entity_> a void:Linkset ;
+    rdfs:label "Linkset: TiGeR_Example - Wikidata Entities (wde:)"@en ;
     void:linkPredicate prov:wasDerivedFrom ;
     void:objectsTarget <http://www.wikidata.org/entity/> ;
-    void:subjectsTarget <http://data.archaeology.link/data/samian/samian_dataset> ;
+    void:subjectsTarget <http://data.archaeology.link/data/samian/TiGeR_Example> ;
     void:triples 155 .
 
-<http://data.archaeology.link/data/samian/schema_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary https://schema.org/ in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
+<http://data.archaeology.link/data/samian/adms_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/adms# in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
 
-<http://data.archaeology.link/data/samian/sh_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/shacl# in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
+<http://data.archaeology.link/data/samian/brick_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary https://brickschema.org/schema/Brick# in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
 
-<http://data.archaeology.link/data/samian/skos_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://www.w3.org/2004/02/skos/core# in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> ;
+<http://data.archaeology.link/data/samian/csvw_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/csvw# in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
+
+<http://data.archaeology.link/data/samian/dc_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/dc/elements/1.1/ in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
+
+<http://data.archaeology.link/data/samian/dcam_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/dc/dcam/ in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
+
+<http://data.archaeology.link/data/samian/dcat_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/dcat# in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
+
+<http://data.archaeology.link/data/samian/dcmitype_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/dc/dcmitype/ in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
+
+<http://data.archaeology.link/data/samian/dcterms_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/dc/terms/ in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
+
+<http://data.archaeology.link/data/samian/doap_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://usefulinc.com/ns/doap# in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
+
+<http://data.archaeology.link/data/samian/foaf_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://xmlns.com/foaf/0.1/ in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
+
+<http://data.archaeology.link/data/samian/geo_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.opengis.net/ont/geosparql# in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> ;
+    voaf:occurrences 8 .
+
+<http://data.archaeology.link/data/samian/odrl_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/odrl/2/ in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
+
+<http://data.archaeology.link/data/samian/org_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/org# in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
+
+<http://data.archaeology.link/data/samian/owl_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2002/07/owl# in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
+
+<http://data.archaeology.link/data/samian/prof_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/dx/prof/ in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
+
+<http://data.archaeology.link/data/samian/prov_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/prov# in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> ;
+    voaf:occurrences 310 .
+
+<http://data.archaeology.link/data/samian/qb_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/linked-data/cube# in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
+
+<http://data.archaeology.link/data/samian/rdf_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/1999/02/22-rdf-syntax-ns# in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
+
+<http://data.archaeology.link/data/samian/rdfs_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2000/01/rdf-schema# in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
+
+<http://data.archaeology.link/data/samian/schema_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary https://schema.org/ in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
+
+<http://data.archaeology.link/data/samian/sh_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/shacl# in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
+
+<http://data.archaeology.link/data/samian/skos_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2004/02/skos/core# in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> ;
     voaf:occurrences 2 .
 
-<http://data.archaeology.link/data/samian/sosa_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/sosa/ in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
+<http://data.archaeology.link/data/samian/sosa_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/sosa/ in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
 
-<http://data.archaeology.link/data/samian/ssn_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/ssn/ in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
+<http://data.archaeology.link/data/samian/ssn_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/ssn/ in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
 
-<http://data.archaeology.link/data/samian/time_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://www.w3.org/2006/time# in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
+<http://data.archaeology.link/data/samian/time_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2006/time# in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
 
-<http://data.archaeology.link/data/samian/vann_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://purl.org/vocab/vann/ in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
+<http://data.archaeology.link/data/samian/vann_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/vocab/vann/ in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
 
-<http://data.archaeology.link/data/samian/vext_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://ldf.fi/void-ext# in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
+<http://data.archaeology.link/data/samian/vext_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://ldf.fi/void-ext# in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
 
-<http://data.archaeology.link/data/samian/voaf_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://purl.org/vocommons/voaf# in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
+<http://data.archaeology.link/data/samian/voaf_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/vocommons/voaf# in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
 
-<http://data.archaeology.link/data/samian/void_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://rdfs.org/ns/void# in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
+<http://data.archaeology.link/data/samian/void_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://rdfs.org/ns/void# in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
 
-<http://data.archaeology.link/data/samian/wgs_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary https://www.w3.org/2003/01/geo/wgs84_pos# in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
+<http://data.archaeology.link/data/samian/wgs_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary https://www.w3.org/2003/01/geo/wgs84_pos# in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
 
-<http://data.archaeology.link/data/samian/xml_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://www.w3.org/XML/1998/namespace in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
+<http://data.archaeology.link/data/samian/xml_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/XML/1998/namespace in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
 
-<http://data.archaeology.link/data/samian/xsd_samian_dataset_occ> a voaf:DatasetOccurrence ;
-    rdfs:label "Occurrences of vocabulary http://www.w3.org/2001/XMLSchema# in samian_dataset" ;
-    voaf:inDataset <http://data.archaeology.link/data/samian/samian_dataset> .
+<http://data.archaeology.link/data/samian/xsd_TiGeR_Example_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2001/XMLSchema# in TiGeR_Example" ;
+    voaf:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
 
 <https://github.com/leiza-rse/tiger> a adms:AssetRepository ;
-    rdfs:label "Repository for samian_dataset"@en ;
+    rdfs:label "Repository for TiGeR_Example"@en ;
     dcat:accessURL "https://github.com/leiza-rse/tiger"^^xsd:anyURI ;
-    dcat:dataset <http://data.archaeology.link/data/samian/samian_dataset> .
+    dcat:dataset <http://data.archaeology.link/data/samian/TiGeR_Example> .
 
-<http://data.archaeology.link/data/samian/samian_dataset_Activity> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_Activity> a void:Dataset ;
     rdfs:label "Class Partition: Activity"@en ;
     void:class prov:Activity ;
     void:entities 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_Collection> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_Collection> a void:Dataset ;
     rdfs:label "Class Partition: Collection"@en ;
     void:class skos:Collection ;
     void:entities 1 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_DiscoverySite> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_DiscoverySite> a void:Dataset ;
     rdfs:label "Class Partition: DiscoverySite"@en ;
     void:class <http://archaeology.link/ontology#DiscoverySite> ;
     void:entities 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_FeatureCollection> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_FeatureCollection> a void:Dataset ;
     rdfs:label "Class Partition: FeatureCollection"@en ;
     void:class geo:FeatureCollection ;
     void:entities 3 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_GeometryCollection> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_GeometryCollection> a void:Dataset ;
     rdfs:label "Class Partition: GeometryCollection"@en ;
     void:class geo:GeometryCollection ;
     void:entities 1 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_Location> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_Location> a void:Dataset ;
     rdfs:label "Class Partition: Location"@en ;
     void:class <http://archaeology.link/ontology#Location> ;
     void:entities 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_Point> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_Point> a void:Dataset ;
     rdfs:label "Class Partition: Point"@en ;
     void:class <http://www.opengis.net/ont/sf#Point> ;
     void:entities 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_SpatialObjectCollection> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_SpatialObjectCollection> a void:Dataset ;
     rdfs:label "Class Partition: SpatialObjectCollection"@en ;
     void:class geo:SpatialObjectCollection .
 
-<http://data.archaeology.link/data/samian/samian_dataset_TiGeR_Event> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_TiGeR_Event> a void:Dataset ;
     rdfs:label "Class Partition: TiGeR_Event"@en ;
     void:class <http://archaeology.link/ontology#TiGeR_Event> ;
     void:entities 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_asWKT> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_asWKT> a void:Dataset ;
     rdfs:label "Property Partition: asWKT"@en ;
     void:property geo:asWKT ;
     void:triples 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_creator> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_creator> a void:Dataset ;
     rdfs:label "Property Partition: creator"@en ;
     void:property dcterms:creator ;
     void:triples 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_dist_ttl> a adms:AssetDistribution ;
-    rdfs:label "samian_dataset TTL Distribution"@en ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_dist_ttl> a adms:AssetDistribution ;
+    rdfs:label "TiGeR_Example TTL Distribution"@en ;
     dcat:downloadURL "https://leiza-rse.github.io/tiger//index.ttl"^^xsd:anyURI ;
     dcat:mediaType <http://www.w3.org/ns/formats/Turtle> .
 
-<http://data.archaeology.link/data/samian/samian_dataset_endedAtTime> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_endedAtTime> a void:Dataset ;
     rdfs:label "Property Partition: endedAtTime"@en ;
     void:property prov:endedAtTime ;
     void:triples 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_hasGeometry> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_hasGeometry> a void:Dataset ;
     rdfs:label "Property Partition: hasGeometry"@en ;
     void:property geo:hasGeometry ;
     void:triples 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_hasType> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_hasType> a void:Dataset ;
     rdfs:label "Property Partition: hasType"@en ;
     void:property <http://archaeology.link/ontology#hasType> ;
     void:triples 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_identifier> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_identifier> a void:Dataset ;
     rdfs:label "Property Partition: identifier"@en ;
     void:property dc:identifier ;
     void:triples 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_intervalBefore> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_intervalBefore> a void:Dataset ;
     rdfs:label "Property Partition: intervalBefore"@en ;
     void:property time:intervalBefore ;
     void:triples 153 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_label> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_label> a void:Dataset ;
     rdfs:label "Property Partition: label"@en ;
     void:property rdfs:label ;
     void:triples 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_license> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_license> a void:Dataset ;
     rdfs:label "Property Partition: license"@en ;
     void:property dcterms:license ;
     void:triples 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_rightsHolder> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_rightsHolder> a void:Dataset ;
     rdfs:label "Property Partition: rightsHolder"@en ;
     void:property dcterms:rightsHolder ;
     void:triples 310 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_startedAtTime> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_startedAtTime> a void:Dataset ;
     rdfs:label "Property Partition: startedAtTime"@en ;
     void:property prov:startedAtTime ;
     void:triples 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_tiger_cax> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_tiger_cax> a void:Dataset ;
     rdfs:label "Property Partition: tiger_cax"@en ;
     void:property <http://archaeology.link/ontology#tiger_cax> ;
     void:triples 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_tiger_cax_hex> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_tiger_cax_hex> a void:Dataset ;
     rdfs:label "Property Partition: tiger_cax_hex"@en ;
     void:property <http://archaeology.link/ontology#tiger_cax_hex> ;
     void:triples 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_tiger_cax_norm> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_tiger_cax_norm> a void:Dataset ;
     rdfs:label "Property Partition: tiger_cax_norm"@en ;
     void:property <http://archaeology.link/ontology#tiger_cax_norm> ;
     void:triples 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_tiger_cay> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_tiger_cay> a void:Dataset ;
     rdfs:label "Property Partition: tiger_cay"@en ;
     void:property <http://archaeology.link/ontology#tiger_cay> ;
     void:triples 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_tiger_eventname> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_tiger_eventname> a void:Dataset ;
     rdfs:label "Property Partition: tiger_eventname"@en ;
     void:property <http://archaeology.link/ontology#tiger_eventname> ;
     void:triples 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_tiger_id> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_tiger_id> a void:Dataset ;
     rdfs:label "Property Partition: tiger_id"@en ;
     void:property <http://archaeology.link/ontology#tiger_id> ;
     void:triples 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_type> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_type> a void:Dataset ;
     rdfs:label "Property Partition: type"@en ;
     void:property rdf:type ;
     void:triples 775 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_wasAssociatedWith> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_wasAssociatedWith> a void:Dataset ;
     rdfs:label "Property Partition: wasAssociatedWith"@en ;
     void:property prov:wasAssociatedWith ;
     void:triples 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_wasAttributedTo> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_wasAttributedTo> a void:Dataset ;
     rdfs:label "Property Partition: wasAttributedTo"@en ;
     void:property prov:wasAttributedTo ;
     void:triples 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_wasDerivedFrom> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_wasDerivedFrom> a void:Dataset ;
     rdfs:label "Property Partition: wasDerivedFrom"@en ;
     void:property prov:wasDerivedFrom ;
     void:triples 155 .
 
-<http://data.archaeology.link/data/samian/samian_dataset_wasGeneratedBy> a void:Dataset ;
+<http://data.archaeology.link/data/samian/TiGeR_Example_wasGeneratedBy> a void:Dataset ;
     rdfs:label "Property Partition: wasGeneratedBy"@en ;
     void:property prov:wasGeneratedBy ;
     void:triples 155 .
@@ -396,151 +396,151 @@ vext: a voaf:Vocabulary ;
     rdfs:label "vext Vocabulary"@en ;
     vann:preferredNamespacePrefix "vext"^^xsd:string ;
     vann:preferredNamespaceUri "http://ldf.fi/void-ext#"^^xsd:anyURI ;
-    voaf:usageInDataset vext:_samian_dataset_occ .
+    voaf:usageInDataset vext:_TiGeR_Example_occ .
 
 dcam: a voaf:Vocabulary ;
     rdfs:label "dcam Vocabulary"@en ;
     vann:preferredNamespacePrefix "dcam"^^xsd:string ;
     vann:preferredNamespaceUri "http://purl.org/dc/dcam/"^^xsd:anyURI ;
-    voaf:usageInDataset dcam:_samian_dataset_occ .
+    voaf:usageInDataset dcam:_TiGeR_Example_occ .
 
 dcmitype: a voaf:Vocabulary ;
     rdfs:label "dcmitype Vocabulary"@en ;
     vann:preferredNamespacePrefix "dcmitype"^^xsd:string ;
     vann:preferredNamespaceUri "http://purl.org/dc/dcmitype/"^^xsd:anyURI ;
-    voaf:usageInDataset dcmitype:_samian_dataset_occ .
+    voaf:usageInDataset dcmitype:_TiGeR_Example_occ .
 
 dc: a voaf:Vocabulary ;
     rdfs:label "dc Vocabulary"@en ;
     vann:preferredNamespacePrefix "dc"^^xsd:string ;
     vann:preferredNamespaceUri "http://purl.org/dc/elements/1.1/"^^xsd:anyURI ;
-    voaf:usageInDataset dc:_samian_dataset_occ .
+    voaf:usageInDataset dc:_TiGeR_Example_occ .
 
 dcterms: a voaf:Vocabulary ;
     rdfs:label "dcterms Vocabulary"@en ;
     vann:preferredNamespacePrefix "dcterms"^^xsd:string ;
     vann:preferredNamespaceUri "http://purl.org/dc/terms/"^^xsd:anyURI ;
-    voaf:usageInDataset dcterms:_samian_dataset_occ .
+    voaf:usageInDataset dcterms:_TiGeR_Example_occ .
 
 qb: a voaf:Vocabulary ;
     rdfs:label "qb Vocabulary"@en ;
     vann:preferredNamespacePrefix "qb"^^xsd:string ;
     vann:preferredNamespaceUri "http://purl.org/linked-data/cube#"^^xsd:anyURI ;
-    voaf:usageInDataset qb:_samian_dataset_occ .
+    voaf:usageInDataset qb:_TiGeR_Example_occ .
 
 vann: a voaf:Vocabulary ;
     rdfs:label "vann Vocabulary"@en ;
     vann:preferredNamespacePrefix "vann"^^xsd:string ;
     vann:preferredNamespaceUri "http://purl.org/vocab/vann/"^^xsd:anyURI ;
-    voaf:usageInDataset vann:_samian_dataset_occ .
+    voaf:usageInDataset vann:_TiGeR_Example_occ .
 
 voaf: a voaf:Vocabulary ;
     rdfs:label "voaf Vocabulary"@en ;
     vann:preferredNamespacePrefix "voaf"^^xsd:string ;
     vann:preferredNamespaceUri "http://purl.org/vocommons/voaf#"^^xsd:anyURI ;
-    voaf:usageInDataset voaf:_samian_dataset_occ .
+    voaf:usageInDataset voaf:_TiGeR_Example_occ .
 
 void: a voaf:Vocabulary ;
     rdfs:label "Vocabulary of Interlinked Datasets (VoID)"@en ;
     vann:preferredNamespacePrefix "void"^^xsd:string ;
     vann:preferredNamespaceUri "http://rdfs.org/ns/void#"^^xsd:anyURI ;
-    voaf:usageInDataset void:_samian_dataset_occ .
+    voaf:usageInDataset void:_TiGeR_Example_occ .
 
 doap: a voaf:Vocabulary ;
     rdfs:label "doap Vocabulary"@en ;
     vann:preferredNamespacePrefix "doap"^^xsd:string ;
     vann:preferredNamespaceUri "http://usefulinc.com/ns/doap#"^^xsd:anyURI ;
-    voaf:usageInDataset doap:_samian_dataset_occ .
+    voaf:usageInDataset doap:_TiGeR_Example_occ .
 
 rdf: a voaf:Vocabulary ;
     rdfs:label "The RDF Concepts Vocabulary (RDF)"@en ;
     vann:preferredNamespacePrefix "rdf"^^xsd:string ;
     vann:preferredNamespaceUri "http://www.w3.org/1999/02/22-rdf-syntax-ns#"^^xsd:anyURI ;
-    voaf:usageInDataset rdf:_samian_dataset_occ .
+    voaf:usageInDataset rdf:_TiGeR_Example_occ .
 
 rdfs: a voaf:Vocabulary ;
     rdfs:label "The RDF Schema vocabulary (RDFS)"@en ;
     vann:preferredNamespacePrefix "rdfs"^^xsd:string ;
     vann:preferredNamespaceUri "http://www.w3.org/2000/01/rdf-schema#"^^xsd:anyURI ;
-    voaf:usageInDataset rdfs:_samian_dataset_occ .
+    voaf:usageInDataset rdfs:_TiGeR_Example_occ .
 
 xsd: a voaf:Vocabulary ;
     rdfs:label "XML Schema"@en ;
     vann:preferredNamespacePrefix "xsd"^^xsd:string ;
     vann:preferredNamespaceUri "http://www.w3.org/2001/XMLSchema#"^^xsd:anyURI ;
-    voaf:usageInDataset xsd:_samian_dataset_occ .
+    voaf:usageInDataset xsd:_TiGeR_Example_occ .
 
 owl: a voaf:Vocabulary ;
     rdfs:label "Web Ontology Language 2 Vocabulary"@en ;
     vann:preferredNamespacePrefix "owl"^^xsd:string ;
     vann:preferredNamespaceUri "http://www.w3.org/2002/07/owl#"^^xsd:anyURI ;
-    voaf:usageInDataset owl:_samian_dataset_occ .
+    voaf:usageInDataset owl:_TiGeR_Example_occ .
 
 time: a voaf:Vocabulary ;
     rdfs:label "time Vocabulary"@en ;
     vann:preferredNamespacePrefix "time"^^xsd:string ;
     vann:preferredNamespaceUri "http://www.w3.org/2006/time#"^^xsd:anyURI ;
-    voaf:usageInDataset time:_samian_dataset_occ .
+    voaf:usageInDataset time:_TiGeR_Example_occ .
 
 xml: a voaf:Vocabulary ;
     rdfs:label "xml Vocabulary"@en ;
     vann:preferredNamespacePrefix "xml"^^xsd:string ;
     vann:preferredNamespaceUri "http://www.w3.org/XML/1998/namespace"^^xsd:anyURI ;
-    voaf:usageInDataset xml:_samian_dataset_occ .
+    voaf:usageInDataset xml:_TiGeR_Example_occ .
 
 adms: a voaf:Vocabulary ;
     rdfs:label "adms Vocabulary"@en ;
     vann:preferredNamespacePrefix "adms"^^xsd:string ;
     vann:preferredNamespaceUri "http://www.w3.org/ns/adms#"^^xsd:anyURI ;
-    voaf:usageInDataset adms:_samian_dataset_occ .
+    voaf:usageInDataset adms:_TiGeR_Example_occ .
 
 csvw: a voaf:Vocabulary ;
     rdfs:label "csvw Vocabulary"@en ;
     vann:preferredNamespacePrefix "csvw"^^xsd:string ;
     vann:preferredNamespaceUri "http://www.w3.org/ns/csvw#"^^xsd:anyURI ;
-    voaf:usageInDataset csvw:_samian_dataset_occ .
+    voaf:usageInDataset csvw:_TiGeR_Example_occ .
 
 dcat: a voaf:Vocabulary ;
     rdfs:label "DCAT Vocabulary"@en ;
     vann:preferredNamespacePrefix "dcat"^^xsd:string ;
     vann:preferredNamespaceUri "http://www.w3.org/ns/dcat#"^^xsd:anyURI ;
-    voaf:usageInDataset dcat:_samian_dataset_occ .
+    voaf:usageInDataset dcat:_TiGeR_Example_occ .
 
 prof: a voaf:Vocabulary ;
     rdfs:label "prof Vocabulary"@en ;
     vann:preferredNamespacePrefix "prof"^^xsd:string ;
     vann:preferredNamespaceUri "http://www.w3.org/ns/dx/prof/"^^xsd:anyURI ;
-    voaf:usageInDataset prof:_samian_dataset_occ .
+    voaf:usageInDataset prof:_TiGeR_Example_occ .
 
 odrl: a voaf:Vocabulary ;
     rdfs:label "odrl Vocabulary"@en ;
     vann:preferredNamespacePrefix "odrl"^^xsd:string ;
     vann:preferredNamespaceUri "http://www.w3.org/ns/odrl/2/"^^xsd:anyURI ;
-    voaf:usageInDataset odrl:_samian_dataset_occ .
+    voaf:usageInDataset odrl:_TiGeR_Example_occ .
 
 org: a voaf:Vocabulary ;
     rdfs:label "org Vocabulary"@en ;
     vann:preferredNamespacePrefix "org"^^xsd:string ;
     vann:preferredNamespaceUri "http://www.w3.org/ns/org#"^^xsd:anyURI ;
-    voaf:usageInDataset org:_samian_dataset_occ .
+    voaf:usageInDataset org:_TiGeR_Example_occ .
 
 sh: a voaf:Vocabulary ;
     rdfs:label "Shapes Constraint Language (SHACL)"@en ;
     vann:preferredNamespacePrefix "sh"^^xsd:string ;
     vann:preferredNamespaceUri "http://www.w3.org/ns/shacl#"^^xsd:anyURI ;
-    voaf:usageInDataset sh:_samian_dataset_occ .
+    voaf:usageInDataset sh:_TiGeR_Example_occ .
 
 sosa: a voaf:Vocabulary ;
     rdfs:label "Sensor, Observation, Sample, and Actuator (SOSA) Ontology"@en ;
     vann:preferredNamespacePrefix "sosa"^^xsd:string ;
     vann:preferredNamespaceUri "http://www.w3.org/ns/sosa/"^^xsd:anyURI ;
-    voaf:usageInDataset sosa:_samian_dataset_occ .
+    voaf:usageInDataset sosa:_TiGeR_Example_occ .
 
 ssn: a voaf:Vocabulary ;
     rdfs:label "ssn Vocabulary"@en ;
     vann:preferredNamespacePrefix "ssn"^^xsd:string ;
     vann:preferredNamespaceUri "http://www.w3.org/ns/ssn/"^^xsd:anyURI ;
-    voaf:usageInDataset ssn:_samian_dataset_occ .
+    voaf:usageInDataset ssn:_TiGeR_Example_occ .
 
 <http://www.wikidata.org/entity/Q121810372> rdfs:label "geospatial data"@en .
 
@@ -548,7 +548,7 @@ foaf: a voaf:Vocabulary ;
     rdfs:label "Friend Of A Friend Ontology"@en ;
     vann:preferredNamespacePrefix "foaf"^^xsd:string ;
     vann:preferredNamespaceUri "http://xmlns.com/foaf/0.1/"^^xsd:anyURI ;
-    voaf:usageInDataset foaf:_samian_dataset_occ .
+    voaf:usageInDataset foaf:_TiGeR_Example_occ .
 
 foaf:Person rdfs:label "Person"@en .
 
@@ -556,41 +556,41 @@ brick: a voaf:Vocabulary ;
     rdfs:label "brick Vocabulary"@en ;
     vann:preferredNamespacePrefix "brick"^^xsd:string ;
     vann:preferredNamespaceUri "https://brickschema.org/schema/Brick#"^^xsd:anyURI ;
-    voaf:usageInDataset brick:_samian_dataset_occ .
+    voaf:usageInDataset brick:_TiGeR_Example_occ .
 
 schema: a voaf:Vocabulary ;
     rdfs:label "schema Vocabulary"@en ;
     vann:preferredNamespacePrefix "schema"^^xsd:string ;
     vann:preferredNamespaceUri "https://schema.org/"^^xsd:anyURI ;
-    voaf:usageInDataset schema:_samian_dataset_occ .
+    voaf:usageInDataset schema:_TiGeR_Example_occ .
 
 wgs: a voaf:Vocabulary ;
     rdfs:label "wgs Vocabulary"@en ;
     vann:preferredNamespacePrefix "wgs"^^xsd:string ;
     vann:preferredNamespaceUri "https://www.w3.org/2003/01/geo/wgs84_pos#"^^xsd:anyURI ;
-    voaf:usageInDataset wgs:_samian_dataset_occ .
+    voaf:usageInDataset wgs:_TiGeR_Example_occ .
 
 geo: a voaf:Vocabulary ;
     rdfs:label "The GeoSPARQL Ontology"@en ;
     vann:preferredNamespacePrefix "geo"^^xsd:string ;
     vann:preferredNamespaceUri "http://www.opengis.net/ont/geosparql#"^^xsd:anyURI ;
-    voaf:usageInDataset geo:_samian_dataset_occ .
+    voaf:usageInDataset geo:_TiGeR_Example_occ .
 
 skos: a voaf:Vocabulary ;
     rdfs:label "skos Vocabulary"@en ;
     vann:preferredNamespacePrefix "skos"^^xsd:string ;
     vann:preferredNamespaceUri "http://www.w3.org/2004/02/skos/core#"^^xsd:anyURI ;
-    voaf:usageInDataset skos:_samian_dataset_occ .
+    voaf:usageInDataset skos:_TiGeR_Example_occ .
 
 prov: a voaf:Vocabulary ;
     rdfs:label "W3C Provenance Ontology"@en ;
     vann:preferredNamespacePrefix "prov"^^xsd:string ;
     vann:preferredNamespaceUri "http://www.w3.org/ns/prov#"^^xsd:anyURI ;
-    voaf:usageInDataset prov:_samian_dataset_occ .
+    voaf:usageInDataset prov:_TiGeR_Example_occ .
 
-<http://data.archaeology.link/data/samian/samian_dataset> a void:Dataset,
+<http://data.archaeology.link/data/samian/TiGeR_Example> a void:Dataset,
         adms:Asset ;
-    rdfs:label "samian_dataset"@en ;
+    rdfs:label "TiGeR_Example"@en ;
     vext:averageLiteralLength 17 ;
     vext:averageObjectIRILength 50 ;
     vext:averagePropertyIRILength 41 ;
@@ -603,24 +603,24 @@ prov: a voaf:Vocabulary ;
     vext:languages 1 ;
     vext:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2024-04-25T07:22:47"^^xsd:dateTime ;
+    dcterms:modified "2024-04-30T11:34:25"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
         <http://www.wikidata.org/entity/Q121810372>,
         foaf:Person ;
-    dcterms:title "samian_dataset"@en ;
+    dcterms:title "TiGeR_Example"@en ;
     vann:preferredNamespacePrefix "samian"^^xsd:string ;
     vann:preferredNamespaceUri "http://data.archaeology.link/data/samian/"^^xsd:anyURI ;
-    void:classPartition <http://data.archaeology.link/data/samian/samian_dataset_Activity>,
-        <http://data.archaeology.link/data/samian/samian_dataset_Collection>,
-        <http://data.archaeology.link/data/samian/samian_dataset_DiscoverySite>,
-        <http://data.archaeology.link/data/samian/samian_dataset_FeatureCollection>,
-        <http://data.archaeology.link/data/samian/samian_dataset_GeometryCollection>,
-        <http://data.archaeology.link/data/samian/samian_dataset_Location>,
-        <http://data.archaeology.link/data/samian/samian_dataset_Point>,
-        <http://data.archaeology.link/data/samian/samian_dataset_SpatialObjectCollection>,
-        <http://data.archaeology.link/data/samian/samian_dataset_TiGeR_Event> ;
+    void:classPartition <http://data.archaeology.link/data/samian/TiGeR_Example_Activity>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_Collection>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_DiscoverySite>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_FeatureCollection>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_GeometryCollection>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_Location>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_Point>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_SpatialObjectCollection>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_TiGeR_Event> ;
     void:classes 9 ;
     void:dataDump <https://leiza-rse.github.io/tiger//index.ttl> ;
     void:distinctObjects 1562 ;
@@ -629,28 +629,28 @@ prov: a voaf:Vocabulary ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
     void:properties 22 ;
-    void:propertyPartition <http://data.archaeology.link/data/samian/samian_dataset_asWKT>,
-        <http://data.archaeology.link/data/samian/samian_dataset_creator>,
-        <http://data.archaeology.link/data/samian/samian_dataset_endedAtTime>,
-        <http://data.archaeology.link/data/samian/samian_dataset_hasGeometry>,
-        <http://data.archaeology.link/data/samian/samian_dataset_hasType>,
-        <http://data.archaeology.link/data/samian/samian_dataset_identifier>,
-        <http://data.archaeology.link/data/samian/samian_dataset_intervalBefore>,
-        <http://data.archaeology.link/data/samian/samian_dataset_label>,
-        <http://data.archaeology.link/data/samian/samian_dataset_license>,
-        <http://data.archaeology.link/data/samian/samian_dataset_rightsHolder>,
-        <http://data.archaeology.link/data/samian/samian_dataset_startedAtTime>,
-        <http://data.archaeology.link/data/samian/samian_dataset_tiger_cax>,
-        <http://data.archaeology.link/data/samian/samian_dataset_tiger_cax_hex>,
-        <http://data.archaeology.link/data/samian/samian_dataset_tiger_cax_norm>,
-        <http://data.archaeology.link/data/samian/samian_dataset_tiger_cay>,
-        <http://data.archaeology.link/data/samian/samian_dataset_tiger_eventname>,
-        <http://data.archaeology.link/data/samian/samian_dataset_tiger_id>,
-        <http://data.archaeology.link/data/samian/samian_dataset_type>,
-        <http://data.archaeology.link/data/samian/samian_dataset_wasAssociatedWith>,
-        <http://data.archaeology.link/data/samian/samian_dataset_wasAttributedTo>,
-        <http://data.archaeology.link/data/samian/samian_dataset_wasDerivedFrom>,
-        <http://data.archaeology.link/data/samian/samian_dataset_wasGeneratedBy> ;
+    void:propertyPartition <http://data.archaeology.link/data/samian/TiGeR_Example_asWKT>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_creator>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_endedAtTime>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_hasGeometry>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_hasType>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_identifier>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_intervalBefore>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_label>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_license>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_rightsHolder>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_startedAtTime>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_tiger_cax>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_tiger_cax_hex>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_tiger_cax_norm>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_tiger_cay>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_tiger_eventname>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_tiger_id>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_type>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_wasAssociatedWith>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_wasAttributedTo>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_wasDerivedFrom>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_wasGeneratedBy> ;
     void:triples 5441 ;
     void:uriSpace "http://data.archaeology.link/data/samian/"^^xsd:string ;
     void:vocabulary vext:,
@@ -685,7 +685,7 @@ prov: a voaf:Vocabulary ;
         brick:,
         schema:,
         wgs: ;
-    dcat:distribution <http://data.archaeology.link/data/samian/samian_dataset_dist_ttl> ;
+    dcat:distribution <http://data.archaeology.link/data/samian/TiGeR_Example_dist_ttl> ;
     dcat:keyword "Location"@en,
         "OGC GeoSPARQL"@en,
         "Person"@en,

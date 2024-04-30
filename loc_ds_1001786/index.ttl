@@ -26,7 +26,7 @@
     dcterms:license <https://creativecommons.org/licenses/by/4.0/deed.de> ;
     dcterms:rightsHolder <https://orcid.org/0000-0002-3246-3531>,
         <https://orcid.org/0000-0002-7634-5342> ;
-    void:inDataset <http://data.archaeology.link/data/samian/samian_dataset> ;
+    void:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> ;
     geo:hasGeometry <http://data.archaeology.link/data/samian/loc_ds_1001786_geom> ;
     time:intervalBefore <http://data.archaeology.link/data/samian/loc_ds_1003165> ;
     prov:wasAttributedTo <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> ;

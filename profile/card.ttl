@@ -6,7 +6,4 @@
     foaf:primaryTopic <https://leiza-rse.github.io/tiger//profile/card#> .
 
 <https://leiza-rse.github.io/tiger//profile/card#> a foaf:Person ;
-    ns2:storage <https://leiza-rse.github.io/tiger/samian_dataset> ;
-    ns1:privateTypeIndex <https://leiza-rse.github.io/tiger//settings/privateTypeIndex.ttl> ;
-    ns1:publicTypeIndex <https://leiza-rse.github.io/tiger//settings/publicTypeIndex.ttl> .
-
+    ns2:storage 

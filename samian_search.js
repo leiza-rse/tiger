@@ -45,7 +45,6 @@ var search={
   "Cirencester": "http://data.archaeology.link/data/samian/loc_ds_1001764",
   "Colchester": "http://data.archaeology.link/data/samian/loc_ds_1000080",
   "Corbridge": "http://data.archaeology.link/data/samian/loc_ds_1003419",
-  "DiscoverySite": "http://data.archaeology.link/data/samian/nonns_DiscoverySite.html",
   "DiscoverySite Instances Collection": "http://data.archaeology.link/data/samian/DiscoverySite_collection",
   "Doncaster": "http://data.archaeology.link/data/samian/loc_ds_1002803",
   "Dorchester, Dorset": "http://data.archaeology.link/data/samian/loc_ds_1001821",

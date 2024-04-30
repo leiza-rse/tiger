@@ -1,0 +1,140 @@
+@prefix brick: <https://brickschema.org/schema/Brick#> .
+@prefix csvw: <http://www.w3.org/ns/csvw#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcam: <http://purl.org/dc/dcam/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://ldf.fi/void-ext#> .
+@prefix odrl: <http://www.w3.org/ns/odrl/2/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prof: <http://www.w3.org/ns/dx/prof/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix qb: <http://purl.org/linked-data/cube#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix ssn: <http://www.w3.org/ns/ssn/> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wgs: <https://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/samian/TiGeR_Example> a void:Dataset,
+        <http://www.w3.org/ns/adms#Asset>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "TiGeR_Example"@en ;
+    ns1:averageLiteralLength 17 ;
+    ns1:averageObjectIRILength 50 ;
+    ns1:averagePropertyIRILength 41 ;
+    ns1:averageSubjectIRILength 59 ;
+    ns1:datatypes 4 ;
+    ns1:distinctBlankNodes 0 ;
+    ns1:distinctIRIReferences 2057 ;
+    ns1:distinctLiterals 1094 ;
+    ns1:distinctRDFNodes 3151 ;
+    ns1:languages 1 ;
+    ns1:propertyClasses 0 ;
+    dc:language <http://www.lexvo.org/page/iso639-1/en> ;
+    dcterms:modified "2024-04-30T11:34:25"^^xsd:dateTime ;
+    dcterms:subject <http://dbpedia.org/resource/Location>,
+        <http://dbpedia.org/resource/OGC_GeoSPARQL>,
+        <http://dbpedia.org/resource/Time>,
+        <http://www.wikidata.org/entity/Q121810372>,
+        foaf:Person ;
+    dcterms:title "TiGeR_Example"@en ;
+    vann:preferredNamespacePrefix "samian"^^xsd:string ;
+    vann:preferredNamespaceUri "http://data.archaeology.link/data/samian/"^^xsd:anyURI ;
+    void:classPartition <http://data.archaeology.link/data/samian/TiGeR_Example_Activity>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_Collection>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_DiscoverySite>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_FeatureCollection>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_GeometryCollection>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_Location>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_Point>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_SpatialObjectCollection>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_TiGeR_Event> ;
+    void:classes 9 ;
+    void:dataDump <https://leiza-rse.github.io/tiger//index.ttl> ;
+    void:distinctObjects 1562 ;
+    void:distinctSubjects 473 ;
+    void:entities 471 ;
+    void:feature <http://www.w3.org/ns/formats/RDFa>,
+        <http://www.w3.org/ns/formats/Turtle> ;
+    void:properties 22 ;
+    void:propertyPartition <http://data.archaeology.link/data/samian/TiGeR_Example_asWKT>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_creator>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_endedAtTime>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_hasGeometry>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_hasType>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_identifier>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_intervalBefore>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_label>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_license>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_rightsHolder>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_startedAtTime>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_tiger_cax>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_tiger_cax_hex>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_tiger_cax_norm>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_tiger_cay>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_tiger_eventname>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_tiger_id>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_type>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_wasAssociatedWith>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_wasAttributedTo>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_wasDerivedFrom>,
+        <http://data.archaeology.link/data/samian/TiGeR_Example_wasGeneratedBy> ;
+    void:triples 5441 ;
+    void:uriSpace "http://data.archaeology.link/data/samian/"^^xsd:string ;
+    void:vocabulary ns1:,
+        dcam:,
+        dcmitype:,
+        dc:,
+        dcterms:,
+        qb:,
+        vann:,
+        <http://purl.org/vocommons/voaf#>,
+        void:,
+        doap:,
+        geo:,
+        rdf:,
+        rdfs:,
+        xsd:,
+        owl:,
+        skos:,
+        time:,
+        xml:,
+        <http://www.w3.org/ns/adms#>,
+        csvw:,
+        dcat:,
+        prof:,
+        odrl:,
+        org:,
+        prov:,
+        sh:,
+        sosa:,
+        ssn:,
+        foaf:,
+        brick:,
+        schema:,
+        wgs: ;
+    dcat:distribution <http://data.archaeology.link/data/samian/TiGeR_Example_dist_ttl> ;
+    dcat:keyword "Location"@en,
+        "OGC GeoSPARQL"@en,
+        "Person"@en,
+        "Q121810372"@en,
+        "Time"@en ;
+    dcat:landingPage <https://leiza-rse.github.io/tiger/> ;
+    foaf:homepage <https://leiza-rse.github.io/tiger/> ;
+    foaf:page <https://leiza-rse.github.io/tiger//index.html> .
+

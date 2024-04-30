@@ -5,7 +5,7 @@
 <http://data.archaeology.link/data/samian/activity_loc_ds_1000651> a <http://www.w3.org/ns/ldp#Resource>,
         prov:Activity,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
-    void:inDataset <http://data.archaeology.link/data/samian/samian_dataset> ;
+    void:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> ;
     prov:endedAtTime "2023-07-11T18:08:21.449736+00:00"^^xsd:dateTime ;
     prov:startedAtTime "2023-07-11T18:08:21.419527+00:00"^^xsd:dateTime ;
     prov:wasAssociatedWith <http://data.archaeology.link/data/samian/ImportPythonScript_TiGerR> .

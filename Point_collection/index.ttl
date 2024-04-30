@@ -6,7 +6,7 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Point Instances Collection"@en ;
-    void:inDataset <http://data.archaeology.link/data/samian/samian_dataset> ;
+    void:inDataset <http://data.archaeology.link/data/samian/TiGeR_Example> ;
     rdfs:member <http://data.archaeology.link/data/samian/loc_ds_1000080_geom>,
         <http://data.archaeology.link/data/samian/loc_ds_1000088_geom>,
         <http://data.archaeology.link/data/samian/loc_ds_1000136_geom>,
